@@ -1,0 +1,681 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "shelfmark": "GCR 173/9a-2",
+    "grocerist_id": "document__1",
+    "shop_owner": [
+      {
+        "id": 28,
+        "value": "Bakkal Hasan Beşe"
+      }
+    ],
+    "district": [],
+    "neighbourhood": [
+      {
+        "id": 6,
+        "value": "Şehsuvar"
+      }
+    ],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 2,
+        "value": "Peanut"
+      },
+      {
+        "id": 3,
+        "value": "Almond"
+      },
+      {
+        "id": 17,
+        "value": "Raisins (Beylerce)"
+      },
+      {
+        "id": 18,
+        "value": "Raisins (Razaki)"
+      },
+      {
+        "id": 21,
+        "value": "Figs"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "shelfmark": "GCR177/ 36a-1",
+    "grocerist_id": "document__2",
+    "shop_owner": [
+      {
+        "id": 9,
+        "value": "Bakkal Tanaş"
+      }
+    ],
+    "district": [],
+    "neighbourhood": [
+      {
+        "id": 29,
+        "value": "Yeniköy"
+      }
+    ],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 21,
+        "value": "Figs"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "shelfmark": "GCR 189/ 5b-3,4",
+    "grocerist_id": "document__3",
+    "shop_owner": [
+      {
+        "id": 30,
+        "value": "Bakkal Mustafa Beşe"
+      }
+    ],
+    "district": [],
+    "neighbourhood": [
+      {
+        "id": 21,
+        "value": "Kale-i Boğazköy"
+      }
+    ],
+    "goods": []
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "shelfmark": "GCR 196/ 21a-1",
+    "grocerist_id": "document__4",
+    "shop_owner": [
+      {
+        "id": 29,
+        "value": "Bakkal Yorgi"
+      }
+    ],
+    "district": [],
+    "neighbourhood": [
+      {
+        "id": 31,
+        "value": "Camii Kebir"
+      }
+    ],
+    "goods": []
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "shelfmark": "GCR 196/23a-1",
+    "grocerist_id": "document__5",
+    "shop_owner": [
+      {
+        "id": 16,
+        "value": "Bakkal Pai"
+      }
+    ],
+    "district": [],
+    "neighbourhood": [
+      {
+        "id": 8,
+        "value": "Mehmed Paşa Camii Şerifi karyesi "
+      }
+    ],
+    "goods": []
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "shelfmark": "GCR212/ 29b-1",
+    "grocerist_id": "document__6",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "shelfmark": "GCR 212/34a-2",
+    "grocerist_id": "document__7",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "shelfmark": "GCR 212/ 74a-1",
+    "grocerist_id": "document__8",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "shelfmark": "GCR 217/ 59b-2, 60",
+    "grocerist_id": "document__9",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "shelfmark": "GCR 222/ 45b-2",
+    "grocerist_id": "document__10",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "shelfmark": "GCR 226/ 27b-2",
+    "grocerist_id": "document__11",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "shelfmark": "GCR 237/ 16b-1",
+    "grocerist_id": "document__12",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "shelfmark": "GCR 237/ 27b-2, 28",
+    "grocerist_id": "document__13",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "shelfmark": "GCR 237/ 39a-1",
+    "grocerist_id": "document__14",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "shelfmark": "GCR 237/ 62a-2",
+    "grocerist_id": "document__15",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "shelfmark": "GCR 241/ 3b-1",
+    "grocerist_id": "document__16",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "shelfmark": "GCR 241/ 18a-1",
+    "grocerist_id": "document__17",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "shelfmark": "GCR 249/ 9a-2",
+    "grocerist_id": "document__18",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "shelfmark": "GCR 249/ 79b-2",
+    "grocerist_id": "document__19",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "shelfmark": "GCR 254/3a-1",
+    "grocerist_id": "document__20",
+    "shop_owner": [],
+    "district": [
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "shelfmark": "GCR 254/ 59b-2",
+    "grocerist_id": "document__21",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "shelfmark": "GCR 254/ 64b-1",
+    "grocerist_id": "document__22",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "shelfmark": "GCR 254/ 76a-1",
+    "grocerist_id": "document__23",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "shelfmark": "GCR 275/8a-1",
+    "grocerist_id": "document__24",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "shelfmark": "GCR 275/8a-1",
+    "grocerist_id": "document__25",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "shelfmark": "GCR 275/8a-1",
+    "grocerist_id": "document__26",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "shelfmark": "GCR 275/ 37b-4",
+    "grocerist_id": "document__27",
+    "shop_owner": [
+      {
+        "id": 27,
+        "value": "Bakkal Aslan"
+      }
+    ],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "shelfmark": "GCR 275/ 45a-3",
+    "grocerist_id": "document__28",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "shelfmark": "GCR 275/ 45a-3",
+    "grocerist_id": "document__29",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "shelfmark": "GCR 275/ 45a-3",
+    "grocerist_id": "document__30",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "shelfmark": "GCR 275/ 76a-1",
+    "grocerist_id": "document__31",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "shelfmark": "GCR 276/ 9a-1",
+    "grocerist_id": "document__32",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "shelfmark": "GCR 289/ 6a-2",
+    "grocerist_id": "document__33",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "shelfmark": "GCR 290/ 73a-2",
+    "grocerist_id": "document__34",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "shelfmark": "GCR 304/ 22a-3",
+    "grocerist_id": "document__35",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "shelfmark": "GCR 315/ 30a-1",
+    "grocerist_id": "document__36",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "shelfmark": "GCR 332/ 48b-1",
+    "grocerist_id": "document__37",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "shelfmark": "GCR 342/ 60b-1",
+    "grocerist_id": "document__38",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "shelfmark": "GCR 352/ 6b-1",
+    "grocerist_id": "document__39",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "shelfmark": "GCR 355/ 47a-3",
+    "grocerist_id": "document__40",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "shelfmark": "GCR 361/ 58a-2",
+    "grocerist_id": "document__41",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "shelfmark": "GCR 366/ 62b-1",
+    "grocerist_id": "document__42",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "shelfmark": "GCR 394/ 59a-1",
+    "grocerist_id": "document__43",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "shelfmark": "GCR 399/ 56b-1",
+    "grocerist_id": "document__44",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "shelfmark": "GCR 400/ 55b-1",
+    "grocerist_id": "document__45",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "shelfmark": "GCR 405/ 37a-1",
+    "grocerist_id": "document__46",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "shelfmark": "GCR 406/ 27a-1",
+    "grocerist_id": "document__47",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "shelfmark": "GCR 433/ 21b-3",
+    "grocerist_id": "document__48",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "shelfmark": "GCR 433/ 74a-2",
+    "grocerist_id": "document__49",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "shelfmark": "GCR 441/ 41b-2",
+    "grocerist_id": "document__50",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "shelfmark": "GCR 441/ 55a-3",
+    "grocerist_id": "document__51",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "shelfmark": "GCR 472/ 33a-1",
+    "grocerist_id": "document__52",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "shelfmark": "GCR 496/ 35a-3",
+    "grocerist_id": "document__53",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "shelfmark": "GCR 504/ 86b-2",
+    "grocerist_id": "document__54",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "shelfmark": "GCR 507/ 20a-2",
+    "grocerist_id": "document__55",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "shelfmark": "GCR 528/ 83a-2",
+    "grocerist_id": "document__56",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "shelfmark": "",
+    "grocerist_id": "document__57",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "shelfmark": "",
+    "grocerist_id": "document__58",
+    "shop_owner": [],
+    "district": [],
+    "neighbourhood": [],
+    "goods": []
+  }
+}

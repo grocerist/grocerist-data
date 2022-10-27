@@ -1,0 +1,304 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Hazelnut",
+    "gorcerist_id": "goods__1",
+    "has_category": {
+      "id": 6683,
+      "value": "Nuts",
+      "color": "dark-green"
+    },
+    "documents": [
+      {
+        "id": 1,
+        "value": "GCR 173/9a-2"
+      },
+      {
+        "id": 2,
+        "value": "GCR177/ 36a-1"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Peanut",
+    "gorcerist_id": "goods__2",
+    "has_category": {
+      "id": 6683,
+      "value": "Nuts",
+      "color": "dark-green"
+    },
+    "documents": [
+      {
+        "id": 1,
+        "value": "GCR 173/9a-2"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Almond",
+    "gorcerist_id": "goods__3",
+    "has_category": {
+      "id": 6683,
+      "value": "Nuts",
+      "color": "dark-green"
+    },
+    "documents": [
+      {
+        "id": 1,
+        "value": "GCR 173/9a-2"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Walnut",
+    "gorcerist_id": "goods__4",
+    "has_category": {
+      "id": 6683,
+      "value": "Nuts",
+      "color": "dark-green"
+    },
+    "documents": []
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Olive Oil",
+    "gorcerist_id": "goods__5",
+    "has_category": {
+      "id": 6684,
+      "value": "Cooking Oils",
+      "color": "dark-gray"
+    },
+    "documents": []
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Ghee",
+    "gorcerist_id": "goods__6",
+    "has_category": {
+      "id": 6684,
+      "value": "Cooking Oils",
+      "color": "dark-gray"
+    },
+    "documents": []
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Don",
+    "gorcerist_id": "goods__7",
+    "has_category": {
+      "id": 6684,
+      "value": "Cooking Oils",
+      "color": "dark-gray"
+    },
+    "documents": []
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "Other Cooking Oil",
+    "gorcerist_id": "goods__8",
+    "has_category": {
+      "id": 6684,
+      "value": "Cooking Oils",
+      "color": "dark-gray"
+    },
+    "documents": []
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "Kaşkaval",
+    "gorcerist_id": "goods__9",
+    "has_category": {
+      "id": 6686,
+      "value": "Cheese",
+      "color": "dark-orange"
+    },
+    "documents": []
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Tulum",
+    "gorcerist_id": "goods__10",
+    "has_category": {
+      "id": 6686,
+      "value": "Cheese",
+      "color": "dark-orange"
+    },
+    "documents": []
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Other Cheese",
+    "gorcerist_id": "goods__11",
+    "has_category": {
+      "id": 6686,
+      "value": "Cheese",
+      "color": "dark-orange"
+    },
+    "documents": []
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "Pea",
+    "gorcerist_id": "goods__12",
+    "has_category": {
+      "id": 6685,
+      "value": "Legumes ans Grains",
+      "color": "blue"
+    },
+    "documents": []
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "name": "Chickpea",
+    "gorcerist_id": "goods__13",
+    "has_category": {
+      "id": 6685,
+      "value": "Legumes ans Grains",
+      "color": "blue"
+    },
+    "documents": []
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "name": "Lentil",
+    "gorcerist_id": "goods__14",
+    "has_category": {
+      "id": 6685,
+      "value": "Legumes ans Grains",
+      "color": "blue"
+    },
+    "documents": []
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "name": "Rice",
+    "gorcerist_id": "goods__15",
+    "has_category": {
+      "id": 6685,
+      "value": "Legumes ans Grains",
+      "color": "blue"
+    },
+    "documents": []
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "name": "Other Legumes and Grains",
+    "gorcerist_id": "goods__16",
+    "has_category": {
+      "id": 6685,
+      "value": "Legumes ans Grains",
+      "color": "blue"
+    },
+    "documents": []
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "name": "Raisins (Beylerce)",
+    "gorcerist_id": "goods__17",
+    "has_category": {
+      "id": 6689,
+      "value": "Dried Fruits",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 1,
+        "value": "GCR 173/9a-2"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Raisins (Razaki)",
+    "gorcerist_id": "goods__18",
+    "has_category": {
+      "id": 6689,
+      "value": "Dried Fruits",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 1,
+        "value": "GCR 173/9a-2"
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "Raisins (Kızıl)",
+    "gorcerist_id": "goods__19",
+    "has_category": {
+      "id": 6689,
+      "value": "Dried Fruits",
+      "color": "dark-blue"
+    },
+    "documents": []
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "name": "Raisins (Siyah)",
+    "gorcerist_id": "goods__20",
+    "has_category": {
+      "id": 6689,
+      "value": "Dried Fruits",
+      "color": "dark-blue"
+    },
+    "documents": []
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "name": "Figs",
+    "gorcerist_id": "goods__21",
+    "has_category": {
+      "id": 6689,
+      "value": "Dried Fruits",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 1,
+        "value": "GCR 173/9a-2"
+      },
+      {
+        "id": 2,
+        "value": "GCR177/ 36a-1"
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "name": "Other dried fruits (harnup)",
+    "gorcerist_id": "goods__22",
+    "has_category": {
+      "id": 6689,
+      "value": "Dried Fruits",
+      "color": "dark-blue"
+    },
+    "documents": []
+  }
+}

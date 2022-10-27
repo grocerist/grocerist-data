@@ -1,0 +1,123 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Azapkapısı Harici",
+    "grocerist_id": "district__1",
+    "geonames_id": "",
+    "wikidata_id": "https://www.wikidata.org/wiki/Q6089897",
+    "documents": [],
+    "neighbourhood": []
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Beşiktaş",
+    "grocerist_id": "district__2",
+    "geonames_id": "https://www.geonames.org/750733/besiktas.html",
+    "wikidata_id": "",
+    "documents": [],
+    "neighbourhood": [
+      {
+        "id": 23,
+        "value": "Arnavutköy"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Fındıklı",
+    "grocerist_id": "district__3",
+    "geonames_id": "https://www.geonames.org/747087/findikli.html",
+    "wikidata_id": "",
+    "documents": [],
+    "neighbourhood": []
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Galata",
+    "grocerist_id": "district__4",
+    "geonames_id": "https://www.geonames.org/747059/galata.html",
+    "wikidata_id": "",
+    "documents": [],
+    "neighbourhood": []
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Galata Harici",
+    "grocerist_id": "district__5",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "documents": [
+      {
+        "id": 27,
+        "value": "GCR 275/ 37b-4"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 5,
+        "value": "Beyoğlu"
+      },
+      {
+        "id": 26,
+        "value": "Balık pazarı"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Kasımpaşa",
+    "grocerist_id": "district__6",
+    "geonames_id": "https://www.geonames.org/743886/kasimpasa.html",
+    "wikidata_id": "",
+    "documents": [
+      {
+        "id": 20,
+        "value": "GCR 254/3a-1"
+      }
+    ],
+    "neighbourhood": []
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Tophane",
+    "grocerist_id": "district__7",
+    "geonames_id": "https://www.geonames.org/738702/tophane.html",
+    "wikidata_id": "",
+    "documents": [],
+    "neighbourhood": []
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "İstinye",
+    "grocerist_id": "district__8",
+    "geonames_id": "https://www.geonames.org/745039/istinye.html",
+    "wikidata_id": "",
+    "documents": [],
+    "neighbourhood": [
+      {
+        "id": 1,
+        "value": "Zekeriyaköy"
+      },
+      {
+        "id": 28,
+        "value": ".. Bağçesi kurbü"
+      },
+      {
+        "id": 29,
+        "value": "Yeniköy"
+      },
+      {
+        "id": 33,
+        "value": " Aya Nikoli"
+      }
+    ]
+  }
+}
