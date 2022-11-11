@@ -4,7 +4,7 @@
     "order": "1.00000000000000000000",
     "name": "Zekeriyaköy",
     "grocerist_id": "neighbourhood__1",
-    "district": [
+    "district_eighteenth_century": [
       {
         "id": 8,
         "value": "İstinye"
@@ -13,47 +13,51 @@
     "geonames_id": "https://www.geonames.org/737081/zekeriya.html",
     "latitude": "41.19806",
     "longitute": "29.03028",
-    "documents": []
+    "documents": [],
+    "district_nineteenth_century": []
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "name": "Tatavla",
     "grocerist_id": "neighbourhood__2",
-    "district": [],
+    "district_eighteenth_century": [],
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": []
+    "documents": [],
+    "district_nineteenth_century": []
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "name": "Kara Mustafa Paşa",
     "grocerist_id": "neighbourhood__3",
-    "district": [],
+    "district_eighteenth_century": [],
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": []
+    "documents": [],
+    "district_nineteenth_century": []
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
     "name": "Sarıyer",
     "grocerist_id": "neighbourhood__4",
-    "district": [],
+    "district_eighteenth_century": [],
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": []
+    "documents": [],
+    "district_nineteenth_century": []
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
     "name": "Beyoğlu",
     "grocerist_id": "neighbourhood__5",
-    "district": [
+    "district_eighteenth_century": [
       {
         "id": 5,
         "value": "Galata Harici"
@@ -62,14 +66,15 @@
     "geonames_id": "https://www.geonames.org/750640/beyoglu.html",
     "latitude": "41.03694",
     "longitute": "28.97750",
-    "documents": []
+    "documents": [],
+    "district_nineteenth_century": []
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
     "name": "Şehsuvar",
     "grocerist_id": "neighbourhood__6",
-    "district": [],
+    "district_eighteenth_century": [],
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
@@ -78,25 +83,27 @@
         "id": 1,
         "value": "GCR 173/9a-2"
       }
-    ]
+    ],
+    "district_nineteenth_century": []
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
     "name": "Hüseyin Ağa",
     "grocerist_id": "neighbourhood__7",
-    "district": [],
+    "district_eighteenth_century": [],
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": []
+    "documents": [],
+    "district_nineteenth_century": []
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
     "name": "Mehmed Paşa Camii Şerifi karyesi ",
     "grocerist_id": "neighbourhood__8",
-    "district": [],
+    "district_eighteenth_century": [],
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
@@ -105,211 +112,15 @@
         "id": 5,
         "value": "GCR 196/23a-1"
       }
-    ]
+    ],
+    "district_nineteenth_century": []
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
     "name": "Hasan Ağa ",
     "grocerist_id": "neighbourhood__9",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "10": {
-    "id": 10,
-    "order": "10.00000000000000000000",
-    "name": "Rumeli Hisarı",
-    "grocerist_id": "neighbourhood__10",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "11": {
-    "id": 11,
-    "order": "11.00000000000000000000",
-    "name": "Eğrikapı",
-    "grocerist_id": "neighbourhood__11",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "12": {
-    "id": 12,
-    "order": "12.00000000000000000000",
-    "name": "Elhac Hasan",
-    "grocerist_id": "neighbourhood__12",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "13": {
-    "id": 13,
-    "order": "13.00000000000000000000",
-    "name": "Kadı Mehmed Efendi",
-    "grocerist_id": "neighbourhood__13",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "14": {
-    "id": 14,
-    "order": "14.00000000000000000000",
-    "name": "Tophane",
-    "grocerist_id": "neighbourhood__14",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "15": {
-    "id": 15,
-    "order": "15.00000000000000000000",
-    "name": "Sultan Bayezıd ",
-    "grocerist_id": "neighbourhood__15",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "16": {
-    "id": 16,
-    "order": "16.00000000000000000000",
-    "name": "Galata mevlevihanesi kurbü",
-    "grocerist_id": "neighbourhood__16",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "17": {
-    "id": 17,
-    "order": "17.00000000000000000000",
-    "name": "Sinan Paşa-i Kebir",
-    "grocerist_id": "neighbourhood__17",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "18": {
-    "id": 18,
-    "order": "18.00000000000000000000",
-    "name": "Elhac Hüsrev",
-    "grocerist_id": "neighbourhood__18",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "19": {
-    "id": 19,
-    "order": "19.00000000000000000000",
-    "name": "Karaköy",
-    "grocerist_id": "neighbourhood__19",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "20": {
-    "id": 20,
-    "order": "20.00000000000000000000",
-    "name": "Karabaş Mustafa Ağa",
-    "grocerist_id": "neighbourhood__20",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "21": {
-    "id": 21,
-    "order": "21.00000000000000000000",
-    "name": "Kale-i Boğazköy",
-    "grocerist_id": "neighbourhood__21",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": [
-      {
-        "id": 3,
-        "value": "GCR 189/ 5b-3,4"
-      }
-    ]
-  },
-  "22": {
-    "id": 22,
-    "order": "22.00000000000000000000",
-    "name": "Mustafa Paşa ",
-    "grocerist_id": "neighbourhood__22",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "23": {
-    "id": 23,
-    "order": "23.00000000000000000000",
-    "name": "Arnavutköy",
-    "grocerist_id": "neighbourhood__23",
-    "district": [
-      {
-        "id": 2,
-        "value": "Beşiktaş"
-      }
-    ],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "24": {
-    "id": 24,
-    "order": "24.00000000000000000000",
-    "name": "Kalafatçıbaşı",
-    "grocerist_id": "neighbourhood__24",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "25": {
-    "id": 25,
-    "order": "25.00000000000000000000",
-    "name": "İbrahim Efendi",
-    "grocerist_id": "neighbourhood__25",
-    "district": [],
-    "geonames_id": "",
-    "latitude": null,
-    "longitute": null,
-    "documents": []
-  },
-  "26": {
-    "id": 26,
-    "order": "26.00000000000000000000",
-    "name": "Balık pazarı",
-    "grocerist_id": "neighbourhood__26",
-    "district": [
+    "district_eighteenth_century": [
       {
         "id": 5,
         "value": "Galata Harici"
@@ -318,25 +129,251 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": []
+    "documents": [
+      {
+        "id": 6,
+        "value": "GCR212/ 29b-1"
+      }
+    ],
+    "district_nineteenth_century": []
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Rumeli Hisarı",
+    "grocerist_id": "neighbourhood__10",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Eğrikapı",
+    "grocerist_id": "neighbourhood__11",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "Elhac Hasan",
+    "grocerist_id": "neighbourhood__12",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "name": "Kadı Mehmed Efendi",
+    "grocerist_id": "neighbourhood__13",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "name": "Tophane",
+    "grocerist_id": "neighbourhood__14",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "name": "Sultan Bayezıd ",
+    "grocerist_id": "neighbourhood__15",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "name": "Galata mevlevihanesi kurbü",
+    "grocerist_id": "neighbourhood__16",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "name": "Sinan Paşa-i Kebir",
+    "grocerist_id": "neighbourhood__17",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Elhac Hüsrev",
+    "grocerist_id": "neighbourhood__18",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "Karaköy",
+    "grocerist_id": "neighbourhood__19",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "name": "Karabaş Mustafa Ağa",
+    "grocerist_id": "neighbourhood__20",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "name": "Kale-i Boğazköy",
+    "grocerist_id": "neighbourhood__21",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 3,
+        "value": "GCR 189/ 5b-3,4"
+      }
+    ],
+    "district_nineteenth_century": []
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "name": "Mustafa Paşa ",
+    "grocerist_id": "neighbourhood__22",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "name": "Arnavutköy",
+    "grocerist_id": "neighbourhood__23",
+    "district_eighteenth_century": [
+      {
+        "id": 2,
+        "value": "Beşiktaş"
+      }
+    ],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "name": "Kalafatçıbaşı",
+    "grocerist_id": "neighbourhood__24",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "name": "İbrahim Efendi",
+    "grocerist_id": "neighbourhood__25",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "name": "Balık pazarı",
+    "grocerist_id": "neighbourhood__26",
+    "district_eighteenth_century": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
   },
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
     "name": "Emekyemez",
     "grocerist_id": "neighbourhood__27",
-    "district": [],
+    "district_eighteenth_century": [],
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": []
+    "documents": [],
+    "district_nineteenth_century": []
   },
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
     "name": ".. Bağçesi kurbü",
     "grocerist_id": "neighbourhood__28",
-    "district": [
+    "district_eighteenth_century": [
       {
         "id": 8,
         "value": "İstinye"
@@ -345,14 +382,15 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": []
+    "documents": [],
+    "district_nineteenth_century": []
   },
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
     "name": "Yeniköy",
     "grocerist_id": "neighbourhood__29",
-    "district": [
+    "district_eighteenth_century": [
       {
         "id": 8,
         "value": "İstinye"
@@ -366,25 +404,27 @@
         "id": 2,
         "value": "GCR177/ 36a-1"
       }
-    ]
+    ],
+    "district_nineteenth_century": []
   },
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
     "name": "Karaköy kapısı harici",
     "grocerist_id": "neighbourhood__30",
-    "district": [],
+    "district_eighteenth_century": [],
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": []
+    "documents": [],
+    "district_nineteenth_century": []
   },
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
     "name": "Camii Kebir",
     "grocerist_id": "neighbourhood__31",
-    "district": [],
+    "district_eighteenth_century": [],
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
@@ -393,25 +433,27 @@
         "id": 4,
         "value": "GCR 196/ 21a-1"
       }
-    ]
+    ],
+    "district_nineteenth_century": []
   },
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
     "name": "Hüseyin Ağa ",
     "grocerist_id": "neighbourhood__32",
-    "district": [],
+    "district_eighteenth_century": [],
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": []
+    "documents": [],
+    "district_nineteenth_century": []
   },
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
     "name": " Aya Nikoli",
     "grocerist_id": "neighbourhood__33",
-    "district": [
+    "district_eighteenth_century": [
       {
         "id": 8,
         "value": "İstinye"
@@ -420,6 +462,31 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": []
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "name": "",
+    "grocerist_id": "neighbourhood__34",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "name": "",
+    "grocerist_id": "neighbourhood__35",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
   }
 }

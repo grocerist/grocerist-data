@@ -7,7 +7,9 @@
     "geonames_id": "",
     "wikidata_id": "https://www.wikidata.org/wiki/Q6089897",
     "documents": [],
-    "neighbourhood": []
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": null
   },
   "2": {
     "id": 2,
@@ -22,7 +24,9 @@
         "id": 23,
         "value": "Arnavutköy"
       }
-    ]
+    ],
+    "neighbourhoods": [],
+    "comments": null
   },
   "3": {
     "id": 3,
@@ -32,7 +36,9 @@
     "geonames_id": "https://www.geonames.org/747087/findikli.html",
     "wikidata_id": "",
     "documents": [],
-    "neighbourhood": []
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": null
   },
   "4": {
     "id": 4,
@@ -42,7 +48,9 @@
     "geonames_id": "https://www.geonames.org/747059/galata.html",
     "wikidata_id": "",
     "documents": [],
-    "neighbourhood": []
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": null
   },
   "5": {
     "id": 5,
@@ -63,10 +71,16 @@
         "value": "Beyoğlu"
       },
       {
+        "id": 9,
+        "value": "Hasan Ağa "
+      },
+      {
         "id": 26,
         "value": "Balık pazarı"
       }
-    ]
+    ],
+    "neighbourhoods": [],
+    "comments": null
   },
   "6": {
     "id": 6,
@@ -81,7 +95,9 @@
         "value": "GCR 254/3a-1"
       }
     ],
-    "neighbourhood": []
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": null
   },
   "7": {
     "id": 7,
@@ -91,7 +107,9 @@
     "geonames_id": "https://www.geonames.org/738702/tophane.html",
     "wikidata_id": "",
     "documents": [],
-    "neighbourhood": []
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": null
   },
   "8": {
     "id": 8,
@@ -118,6 +136,20 @@
         "id": 33,
         "value": " Aya Nikoli"
       }
-    ]
+    ],
+    "neighbourhoods": [],
+    "comments": null
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "Yeniköy",
+    "grocerist_id": "district__9",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "documents": [],
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": "Former neighbourhood became a district in the 19th century."
   }
 }

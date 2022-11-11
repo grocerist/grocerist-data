@@ -9,7 +9,8 @@
       "value": "muslim",
       "color": "green"
     },
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "2": {
     "id": 2,
@@ -21,7 +22,8 @@
       "value": "muslim",
       "color": "green"
     },
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "3": {
     "id": 3,
@@ -29,15 +31,21 @@
     "name": "?",
     "grocerist_id": "person__3",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
     "name": "Elhac Osman",
     "grocerist_id": "person__4",
-    "religion": null,
-    "documents": []
+    "religion": {
+      "id": 6681,
+      "value": "muslim",
+      "color": "green"
+    },
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "5": {
     "id": 5,
@@ -45,7 +53,8 @@
     "name": "Bakkal Dimitri",
     "grocerist_id": "person__5",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "6": {
     "id": 6,
@@ -53,7 +62,8 @@
     "name": "Bakkal Ahmed Beşe",
     "grocerist_id": "person__6",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "7": {
     "id": 7,
@@ -61,7 +71,8 @@
     "name": "Bakkal Yorgaki",
     "grocerist_id": "person__7",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "8": {
     "id": 8,
@@ -69,7 +80,8 @@
     "name": "Bakkal Astati",
     "grocerist_id": "person__8",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "9": {
     "id": 9,
@@ -78,7 +90,7 @@
     "grocerist_id": "person__9",
     "religion": {
       "id": 6682,
-      "value": "not muslim",
+      "value": "non muslim",
       "color": "gray"
     },
     "documents": [
@@ -86,7 +98,8 @@
         "id": 2,
         "value": "GCR177/ 36a-1"
       }
-    ]
+    ],
+    "documents - mentioned_persons": []
   },
   "10": {
     "id": 10,
@@ -94,7 +107,8 @@
     "name": "Bakkal Yani",
     "grocerist_id": "person__10",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "11": {
     "id": 11,
@@ -102,7 +116,8 @@
     "name": "Bakkal Mustafa",
     "grocerist_id": "person__11",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "12": {
     "id": 12,
@@ -110,7 +125,8 @@
     "name": "Bakkal Trandofil",
     "grocerist_id": "person__12",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "13": {
     "id": 13,
@@ -118,7 +134,8 @@
     "name": "Bakkal Nikola",
     "grocerist_id": "person__13",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "14": {
     "id": 14,
@@ -126,7 +143,8 @@
     "name": "Bakkal Todori",
     "grocerist_id": "person__14",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "15": {
     "id": 15,
@@ -134,7 +152,8 @@
     "name": "Bakkal Kipro",
     "grocerist_id": "person__15",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "16": {
     "id": 16,
@@ -147,7 +166,8 @@
         "id": 5,
         "value": "GCR 196/23a-1"
       }
-    ]
+    ],
+    "documents - mentioned_persons": []
   },
   "17": {
     "id": 17,
@@ -155,7 +175,8 @@
     "name": "Bakkal Simal?",
     "grocerist_id": "person__17",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "18": {
     "id": 18,
@@ -163,7 +184,8 @@
     "name": "Bakkal Hristo",
     "grocerist_id": "person__18",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "19": {
     "id": 19,
@@ -171,7 +193,8 @@
     "name": "Bakkal Maraşko",
     "grocerist_id": "person__19",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "20": {
     "id": 20,
@@ -179,7 +202,8 @@
     "name": "Bakkal Artin",
     "grocerist_id": "person__20",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "21": {
     "id": 21,
@@ -187,7 +211,8 @@
     "name": "Bakkal Ali Beşe",
     "grocerist_id": "person__21",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "22": {
     "id": 22,
@@ -195,7 +220,8 @@
     "name": "Bakkal Hasan",
     "grocerist_id": "person__22",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "23": {
     "id": 23,
@@ -203,7 +229,8 @@
     "name": "Mustafa Beşe",
     "grocerist_id": "person__23",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "24": {
     "id": 24,
@@ -211,7 +238,8 @@
     "name": "Bakkal Elhac Osman",
     "grocerist_id": "person__24",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "25": {
     "id": 25,
@@ -219,7 +247,8 @@
     "name": "Bakkal Panayot",
     "grocerist_id": "person__25",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "26": {
     "id": 26,
@@ -227,7 +256,8 @@
     "name": "Bakkal Maryo",
     "grocerist_id": "person__26",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "27": {
     "id": 27,
@@ -240,7 +270,8 @@
         "id": 27,
         "value": "GCR 275/ 37b-4"
       }
-    ]
+    ],
+    "documents - mentioned_persons": []
   },
   "28": {
     "id": 28,
@@ -253,7 +284,8 @@
         "id": 1,
         "value": "GCR 173/9a-2"
       }
-    ]
+    ],
+    "documents - mentioned_persons": []
   },
   "29": {
     "id": 29,
@@ -266,7 +298,8 @@
         "id": 4,
         "value": "GCR 196/ 21a-1"
       }
-    ]
+    ],
+    "documents - mentioned_persons": []
   },
   "30": {
     "id": 30,
@@ -279,7 +312,8 @@
         "id": 3,
         "value": "GCR 189/ 5b-3,4"
       }
-    ]
+    ],
+    "documents - mentioned_persons": []
   },
   "31": {
     "id": 31,
@@ -287,7 +321,8 @@
     "name": "Bakkal Astavor",
     "grocerist_id": "person__31",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "32": {
     "id": 32,
@@ -295,7 +330,8 @@
     "name": "Bakkal Mehmed Beşe",
     "grocerist_id": "person__32",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   },
   "33": {
     "id": 33,
@@ -303,6 +339,7 @@
     "name": "",
     "grocerist_id": "person__33",
     "religion": null,
-    "documents": []
+    "documents": [],
+    "documents - mentioned_persons": []
   }
 }
