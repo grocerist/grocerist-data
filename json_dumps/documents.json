@@ -2,7 +2,7 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "shelfmark": "GCR 173/9a-2",
+    "shelfmark": "İSTM.ŞSC.14.d.173 / 9b-2",
     "grocerist_id": "document__1",
     "shop_owner": [
       {
@@ -10,39 +10,19 @@
         "value": "Bakkal Hasan Beşe"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 10,
+        "value": "Galata Dahili"
+      }
+    ],
     "neighbourhood": [
       {
         "id": 6,
         "value": "Şehsuvar"
       }
     ],
-    "goods": [
-      {
-        "id": 1,
-        "value": "Hazelnut"
-      },
-      {
-        "id": 2,
-        "value": "Peanut"
-      },
-      {
-        "id": 3,
-        "value": "Almond"
-      },
-      {
-        "id": 17,
-        "value": "Raisins (Beylerce)"
-      },
-      {
-        "id": 18,
-        "value": "Raisins (Razaki)"
-      },
-      {
-        "id": 21,
-        "value": "Figs"
-      }
-    ],
+    "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -51,7 +31,7 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "shelfmark": "GCR177/ 36a-1",
+    "shelfmark": "İSTM.ŞSC.14.d.177 / 34b-1",
     "grocerist_id": "document__2",
     "shop_owner": [
       {
@@ -59,23 +39,19 @@
         "value": "Bakkal Tanaş"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
     "neighbourhood": [
       {
         "id": 29,
         "value": "Yeniköy"
       }
     ],
-    "goods": [
-      {
-        "id": 1,
-        "value": "Hazelnut"
-      },
-      {
-        "id": 21,
-        "value": "Figs"
-      }
-    ],
+    "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -108,7 +84,7 @@
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "shelfmark": "GCR 196/ 21a-1",
+    "shelfmark": "İSTM.ŞSC.14.d.196 / 19b-1",
     "grocerist_id": "document__4",
     "shop_owner": [
       {
@@ -116,7 +92,12 @@
         "value": "Bakkal Yorgi"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
     "neighbourhood": [
       {
         "id": 31,
@@ -132,7 +113,7 @@
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "shelfmark": "GCR 196/23a-1",
+    "shelfmark": "İSTM.ŞSC.14.d.196 / 21b-1",
     "grocerist_id": "document__5",
     "shop_owner": [
       {
@@ -140,11 +121,20 @@
         "value": "Bakkal Pai"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 1,
+        "value": "Azapkapısı Harici"
+      }
+    ],
     "neighbourhood": [
       {
         "id": 8,
         "value": "Mehmed Paşa Camii Şerifi karyesi "
+      },
+      {
+        "id": 9,
+        "value": "Hasan Ağa "
       }
     ],
     "goods": [],
@@ -156,10 +146,15 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "shelfmark": "GCR212/ 29b-1",
+    "shelfmark": "İSTM.ŞSC.14.d.212/ 29a-1",
     "grocerist_id": "document__6",
     "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
     "neighbourhood": [
       {
         "id": 9,
@@ -175,11 +170,21 @@
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "shelfmark": "GCR 212/34a-2",
+    "shelfmark": "İSTM.ŞSC.14.d.212/ 34b-2",
     "grocerist_id": "document__7",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 15,
+        "value": "Sultan Bayezıd "
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -189,10 +194,15 @@
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "shelfmark": "GCR 212/ 74a-1",
+    "shelfmark": "İSTM.ŞSC.14.d.212/ 74b-1",
     "grocerist_id": "document__8",
     "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 7,
+        "value": "Tophane"
+      }
+    ],
     "neighbourhood": [],
     "goods": [],
     "longtitude": null,
@@ -203,11 +213,21 @@
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "shelfmark": "GCR 217/ 59b-2, 60",
+    "shelfmark": "İSTM.ŞSC.14.d.217 / 59a-2, 60",
     "grocerist_id": "document__9",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
+    "district": [
+      {
+        "id": 11,
+        "value": "Kurşunlu Mahzen Kapısı dahili"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 22,
+        "value": "Mustafa Paşa "
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -217,11 +237,21 @@
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "shelfmark": "GCR 222/ 45b-2",
+    "shelfmark": "İSTM.ŞSC.14.d.222 / 45a-2",
     "grocerist_id": "document__10",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 15,
+        "value": "Sultan Bayezıd "
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -231,10 +261,15 @@
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "shelfmark": "GCR 226/ 27b-2",
+    "shelfmark": "İSTM.ŞSC.14.d.226 / 27a-2, 28",
     "grocerist_id": "document__11",
     "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
     "neighbourhood": [],
     "goods": [],
     "longtitude": null,
@@ -245,11 +280,21 @@
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "shelfmark": "GCR 237/ 16b-1",
+    "shelfmark": "İSTM.ŞSC.14.d.237 / 16b-1",
     "grocerist_id": "document__12",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 15,
+        "value": "Sultan Bayezıd "
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -259,11 +304,21 @@
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "shelfmark": "GCR 237/ 27b-2, 28",
+    "shelfmark": "İSTM.ŞSC.14.d.237 / 27a-2, 28",
     "grocerist_id": "document__13",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 7,
+        "value": "Hüseyin Ağa"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -273,11 +328,21 @@
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "shelfmark": "GCR 237/ 39a-1",
+    "shelfmark": "İSTM.ŞSC.14.d.237 / 39b-1",
     "grocerist_id": "document__14",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 5,
+        "value": "Beyoğlu"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -287,11 +352,21 @@
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "shelfmark": "GCR 237/ 62a-2",
+    "shelfmark": "İSTM.ŞSC.14.d.237 / 62b-2",
     "grocerist_id": "document__15",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 10,
+        "value": "Rumeli Hisarı"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -301,11 +376,21 @@
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
-    "shelfmark": "GCR 241/ 3b-1",
+    "shelfmark": "İSTM.ŞSC.14.d.241 / 3a-1",
     "grocerist_id": "document__16",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
+    "district": [
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 12,
+        "value": "Elhac Hasan"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -329,11 +414,21 @@
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "shelfmark": "GCR 249/ 9a-2",
+    "shelfmark": "İSTM.ŞSC.14.d.249 / 9a-2",
     "grocerist_id": "document__18",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
+    "district": [
+      {
+        "id": 10,
+        "value": "Galata Dahili"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 27,
+        "value": "Emekyemez"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -357,7 +452,7 @@
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
-    "shelfmark": "GCR 254/3a-1",
+    "shelfmark": "İSTM.ŞSC.14.d.254 / 3b-1",
     "grocerist_id": "document__20",
     "shop_owner": [],
     "district": [
@@ -390,11 +485,21 @@
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
-    "shelfmark": "GCR 254/ 64b-1",
+    "shelfmark": "İSTM.ŞSC.14.d.254 / 64a-1",
     "grocerist_id": "document__22",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 19,
+        "value": "Karaköy"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -418,11 +523,21 @@
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
-    "shelfmark": "GCR 275/8a-1",
+    "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1",
     "grocerist_id": "document__24",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 16,
+        "value": "Galata mevlevihanesi kurbü"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -432,42 +547,9 @@
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
-    "shelfmark": "GCR 275/8a-1",
+    "shelfmark": "İSTM.ŞSC.14.d.275 / 37a-4",
     "grocerist_id": "document__25",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
-    "goods": [],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": null
-  },
-  "26": {
-    "id": 26,
-    "order": "26.00000000000000000000",
-    "shelfmark": "GCR 275/8a-1",
-    "grocerist_id": "document__26",
-    "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
-    "goods": [],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": null
-  },
-  "27": {
-    "id": 27,
-    "order": "27.00000000000000000000",
-    "shelfmark": "GCR 275/ 37b-4",
-    "grocerist_id": "document__27",
-    "shop_owner": [
-      {
-        "id": 27,
-        "value": "Bakkal Aslan"
-      }
-    ],
     "district": [
       {
         "id": 5,
@@ -481,13 +563,61 @@
     "mentioned_persons": [],
     "year_of_creation": null
   },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "shelfmark": "İSTM.ŞSC.14.d.275 / 45b-3",
+    "grocerist_id": "document__26",
+    "shop_owner": [],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation": null
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "shelfmark": "İSTM.ŞSC.14.d.275 / 76b-1",
+    "grocerist_id": "document__27",
+    "shop_owner": [
+      {
+        "id": 27,
+        "value": "Bakkal Aslan"
+      }
+    ],
+    "district": [
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "neighbourhood": [],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation": null
+  },
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
-    "shelfmark": "GCR 275/ 45a-3",
+    "shelfmark": "İSTM.ŞSC.14.d.276 / 9b-1",
     "grocerist_id": "document__28",
     "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
     "neighbourhood": [],
     "goods": [],
     "longtitude": null,
@@ -498,7 +628,7 @@
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "shelfmark": "GCR 275/ 45a-3",
+    "shelfmark": "İSTM.ŞSC.14.d.289 / 6b-2",
     "grocerist_id": "document__29",
     "shop_owner": [],
     "district": [],
@@ -512,10 +642,15 @@
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
-    "shelfmark": "GCR 275/ 45a-3",
+    "shelfmark": "İSTM.ŞSC.14.d.290 / 73b-2",
     "grocerist_id": "document__30",
     "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
     "neighbourhood": [],
     "goods": [],
     "longtitude": null,
@@ -526,10 +661,15 @@
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
-    "shelfmark": "GCR 275/ 76a-1",
+    "shelfmark": "İSTM.ŞSC.14.d.304 / 22b-3",
     "grocerist_id": "document__31",
     "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
     "neighbourhood": [],
     "goods": [],
     "longtitude": null,
@@ -540,7 +680,7 @@
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
-    "shelfmark": "GCR 276/ 9a-1",
+    "shelfmark": "GCR 315/ 30a-1",
     "grocerist_id": "document__32",
     "shop_owner": [],
     "district": [],
@@ -554,7 +694,7 @@
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
-    "shelfmark": "GCR 289/ 6a-2",
+    "shelfmark": "GCR 332/ 48b-1",
     "grocerist_id": "document__33",
     "shop_owner": [],
     "district": [],
@@ -568,7 +708,7 @@
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
-    "shelfmark": "GCR 290/ 73a-2",
+    "shelfmark": "GCR 342/ 60b-1",
     "grocerist_id": "document__34",
     "shop_owner": [],
     "district": [],
@@ -582,7 +722,7 @@
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "shelfmark": "GCR 304/ 22a-3",
+    "shelfmark": "GCR 352/ 6b-1",
     "grocerist_id": "document__35",
     "shop_owner": [],
     "district": [],
@@ -596,10 +736,15 @@
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
-    "shelfmark": "GCR 315/ 30a-1",
+    "shelfmark": "İSTM.ŞSC.14.d.355 / 47a-3",
     "grocerist_id": "document__36",
     "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
     "neighbourhood": [],
     "goods": [],
     "longtitude": null,
@@ -610,7 +755,7 @@
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
-    "shelfmark": "GCR 332/ 48b-1",
+    "shelfmark": "GCR 361/ 58a-2",
     "grocerist_id": "document__37",
     "shop_owner": [],
     "district": [],
@@ -624,10 +769,15 @@
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
-    "shelfmark": "GCR 342/ 60b-1",
+    "shelfmark": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
     "grocerist_id": "document__38",
     "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
     "neighbourhood": [],
     "goods": [],
     "longtitude": null,
@@ -638,7 +788,7 @@
   "39": {
     "id": 39,
     "order": "39.00000000000000000000",
-    "shelfmark": "GCR 352/ 6b-1",
+    "shelfmark": "GCR 394/ 59a-1",
     "grocerist_id": "document__39",
     "shop_owner": [],
     "district": [],
@@ -652,10 +802,15 @@
   "40": {
     "id": 40,
     "order": "40.00000000000000000000",
-    "shelfmark": "GCR 355/ 47a-3",
+    "shelfmark": "İSTM.ŞSC.14.d.399 / 56a-1",
     "grocerist_id": "document__40",
     "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
     "neighbourhood": [],
     "goods": [],
     "longtitude": null,
@@ -666,10 +821,15 @@
   "41": {
     "id": 41,
     "order": "41.00000000000000000000",
-    "shelfmark": "GCR 361/ 58a-2",
+    "shelfmark": "İSTM.ŞSC.14.d.400 / 55a-1",
     "grocerist_id": "document__41",
     "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 2,
+        "value": "Beşiktaş"
+      }
+    ],
     "neighbourhood": [],
     "goods": [],
     "longtitude": null,
@@ -680,7 +840,7 @@
   "42": {
     "id": 42,
     "order": "42.00000000000000000000",
-    "shelfmark": "GCR 366/ 62b-1",
+    "shelfmark": "GCR 405/ 37a-1",
     "grocerist_id": "document__42",
     "shop_owner": [],
     "district": [],
@@ -694,7 +854,7 @@
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
-    "shelfmark": "GCR 394/ 59a-1",
+    "shelfmark": "GCR 406/ 27a-1",
     "grocerist_id": "document__43",
     "shop_owner": [],
     "district": [],
@@ -708,7 +868,7 @@
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
-    "shelfmark": "GCR 399/ 56b-1",
+    "shelfmark": "GCR 433/ 21b-3",
     "grocerist_id": "document__44",
     "shop_owner": [],
     "district": [],
@@ -722,10 +882,15 @@
   "45": {
     "id": 45,
     "order": "45.00000000000000000000",
-    "shelfmark": "GCR 400/ 55b-1",
+    "shelfmark": "İSTM.ŞSC.14.d.433 / 74b-2",
     "grocerist_id": "document__45",
     "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 3,
+        "value": "Fındıklı"
+      }
+    ],
     "neighbourhood": [],
     "goods": [],
     "longtitude": null,
@@ -736,7 +901,7 @@
   "46": {
     "id": 46,
     "order": "46.00000000000000000000",
-    "shelfmark": "GCR 405/ 37a-1",
+    "shelfmark": "GCR 441/ 41b-2",
     "grocerist_id": "document__46",
     "shop_owner": [],
     "district": [],
@@ -750,10 +915,15 @@
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
-    "shelfmark": "GCR 406/ 27a-1",
+    "shelfmark": "İSTM.ŞSC.14.d.441 / 55b-3",
     "grocerist_id": "document__47",
     "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
     "neighbourhood": [],
     "goods": [],
     "longtitude": null,
@@ -764,7 +934,7 @@
   "48": {
     "id": 48,
     "order": "48.00000000000000000000",
-    "shelfmark": "GCR 433/ 21b-3",
+    "shelfmark": "GCR 472/ 33a-1",
     "grocerist_id": "document__48",
     "shop_owner": [],
     "district": [],
@@ -778,7 +948,7 @@
   "49": {
     "id": 49,
     "order": "49.00000000000000000000",
-    "shelfmark": "GCR 433/ 74a-2",
+    "shelfmark": "GCR 496/ 35a-3",
     "grocerist_id": "document__49",
     "shop_owner": [],
     "district": [],
@@ -792,7 +962,7 @@
   "50": {
     "id": 50,
     "order": "50.00000000000000000000",
-    "shelfmark": "GCR 441/ 41b-2",
+    "shelfmark": "GCR 504/ 86b-2",
     "grocerist_id": "document__50",
     "shop_owner": [],
     "district": [],
@@ -806,7 +976,7 @@
   "51": {
     "id": 51,
     "order": "51.00000000000000000000",
-    "shelfmark": "GCR 441/ 55a-3",
+    "shelfmark": "GCR 507/ 20a-2",
     "grocerist_id": "document__51",
     "shop_owner": [],
     "district": [],
@@ -820,94 +990,15 @@
   "52": {
     "id": 52,
     "order": "52.00000000000000000000",
-    "shelfmark": "GCR 472/ 33a-1",
+    "shelfmark": "İSTM.ŞSC.14.d.528 / 83a-2",
     "grocerist_id": "document__52",
     "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
-    "goods": [],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": null
-  },
-  "53": {
-    "id": 53,
-    "order": "53.00000000000000000000",
-    "shelfmark": "GCR 496/ 35a-3",
-    "grocerist_id": "document__53",
-    "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
-    "goods": [],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": null
-  },
-  "54": {
-    "id": 54,
-    "order": "54.00000000000000000000",
-    "shelfmark": "GCR 504/ 86b-2",
-    "grocerist_id": "document__54",
-    "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
-    "goods": [],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": null
-  },
-  "55": {
-    "id": 55,
-    "order": "55.00000000000000000000",
-    "shelfmark": "GCR 507/ 20a-2",
-    "grocerist_id": "document__55",
-    "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
-    "goods": [],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": null
-  },
-  "56": {
-    "id": 56,
-    "order": "56.00000000000000000000",
-    "shelfmark": "GCR 528/ 83a-2",
-    "grocerist_id": "document__56",
-    "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
-    "goods": [],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": null
-  },
-  "57": {
-    "id": 57,
-    "order": "57.00000000000000000000",
-    "shelfmark": "",
-    "grocerist_id": "document__57",
-    "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
-    "goods": [],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": null
-  },
-  "58": {
-    "id": 58,
-    "order": "58.00000000000000000000",
-    "shelfmark": "",
-    "grocerist_id": "document__58",
-    "shop_owner": [],
-    "district": [],
+    "district": [
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
     "neighbourhood": [],
     "goods": [],
     "longtitude": null,

@@ -6,7 +6,12 @@
     "grocerist_id": "district__1",
     "geonames_id": "",
     "wikidata_id": "https://www.wikidata.org/wiki/Q6089897",
-    "documents": [],
+    "documents": [
+      {
+        "id": 5,
+        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
+      }
+    ],
     "neighbourhood": [],
     "neighbourhoods": [],
     "comments": null
@@ -18,7 +23,12 @@
     "grocerist_id": "district__2",
     "geonames_id": "https://www.geonames.org/750733/besiktas.html",
     "wikidata_id": "",
-    "documents": [],
+    "documents": [
+      {
+        "id": 41,
+        "value": "İSTM.ŞSC.14.d.400 / 55a-1"
+      }
+    ],
     "neighbourhood": [
       {
         "id": 23,
@@ -35,7 +45,12 @@
     "grocerist_id": "district__3",
     "geonames_id": "https://www.geonames.org/747087/findikli.html",
     "wikidata_id": "",
-    "documents": [],
+    "documents": [
+      {
+        "id": 45,
+        "value": "İSTM.ŞSC.14.d.433 / 74b-2"
+      }
+    ],
     "neighbourhood": [],
     "neighbourhoods": [],
     "comments": null
@@ -47,7 +62,44 @@
     "grocerist_id": "district__4",
     "geonames_id": "https://www.geonames.org/747059/galata.html",
     "wikidata_id": "",
-    "documents": [],
+    "documents": [
+      {
+        "id": 7,
+        "value": "İSTM.ŞSC.14.d.212/ 34b-2"
+      },
+      {
+        "id": 10,
+        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
+      },
+      {
+        "id": 12,
+        "value": "İSTM.ŞSC.14.d.237 / 16b-1"
+      },
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2"
+      },
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1"
+      },
+      {
+        "id": 26,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3"
+      },
+      {
+        "id": 30,
+        "value": "İSTM.ŞSC.14.d.290 / 73b-2"
+      },
+      {
+        "id": 31,
+        "value": "İSTM.ŞSC.14.d.304 / 22b-3"
+      },
+      {
+        "id": 36,
+        "value": "İSTM.ŞSC.14.d.355 / 47a-3"
+      }
+    ],
     "neighbourhood": [],
     "neighbourhoods": [],
     "comments": null
@@ -61,8 +113,24 @@
     "wikidata_id": "",
     "documents": [
       {
-        "id": 27,
-        "value": "GCR 275/ 37b-4"
+        "id": 6,
+        "value": "İSTM.ŞSC.14.d.212/ 29a-1"
+      },
+      {
+        "id": 13,
+        "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
+      },
+      {
+        "id": 14,
+        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
+      },
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1"
+      },
+      {
+        "id": 25,
+        "value": "İSTM.ŞSC.14.d.275 / 37a-4"
       }
     ],
     "neighbourhood": [
@@ -91,8 +159,24 @@
     "wikidata_id": "",
     "documents": [
       {
+        "id": 4,
+        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
+      },
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      },
+      {
         "id": 20,
-        "value": "GCR 254/3a-1"
+        "value": "İSTM.ŞSC.14.d.254 / 3b-1"
+      },
+      {
+        "id": 27,
+        "value": "İSTM.ŞSC.14.d.275 / 76b-1"
+      },
+      {
+        "id": 47,
+        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
       }
     ],
     "neighbourhood": [],
@@ -106,7 +190,12 @@
     "grocerist_id": "district__7",
     "geonames_id": "https://www.geonames.org/738702/tophane.html",
     "wikidata_id": "",
-    "documents": [],
+    "documents": [
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      }
+    ],
     "neighbourhood": [],
     "neighbourhoods": [],
     "comments": null
@@ -118,7 +207,32 @@
     "grocerist_id": "district__8",
     "geonames_id": "https://www.geonames.org/745039/istinye.html",
     "wikidata_id": "",
-    "documents": [],
+    "documents": [
+      {
+        "id": 2,
+        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
+      },
+      {
+        "id": 11,
+        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
+      },
+      {
+        "id": 28,
+        "value": "İSTM.ŞSC.14.d.276 / 9b-1"
+      },
+      {
+        "id": 38,
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
+      },
+      {
+        "id": 40,
+        "value": "İSTM.ŞSC.14.d.399 / 56a-1"
+      },
+      {
+        "id": 52,
+        "value": "İSTM.ŞSC.14.d.528 / 83a-2"
+      }
+    ],
     "neighbourhood": [
       {
         "id": 1,
@@ -151,5 +265,55 @@
     "neighbourhood": [],
     "neighbourhoods": [],
     "comments": "Former neighbourhood became a district in the 19th century."
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Galata Dahili",
+    "grocerist_id": "district__10",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "documents": [
+      {
+        "id": 1,
+        "value": "İSTM.ŞSC.14.d.173 / 9b-2"
+      },
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9a-2"
+      }
+    ],
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": ""
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Kurşunlu Mahzen Kapısı dahili",
+    "grocerist_id": "district__11",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "documents": [
+      {
+        "id": 9,
+        "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60"
+      }
+    ],
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": ""
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "name": "Karaköy Kapısı harici",
+    "grocerist_id": "district__14",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "documents": [],
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": ""
   }
 }

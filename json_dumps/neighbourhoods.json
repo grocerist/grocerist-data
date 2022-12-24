@@ -66,7 +66,12 @@
     "geonames_id": "https://www.geonames.org/750640/beyoglu.html",
     "latitude": "41.03694",
     "longitute": "28.97750",
-    "documents": [],
+    "documents": [
+      {
+        "id": 14,
+        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "6": {
@@ -81,7 +86,7 @@
     "documents": [
       {
         "id": 1,
-        "value": "GCR 173/9a-2"
+        "value": "İSTM.ŞSC.14.d.173 / 9b-2"
       }
     ],
     "district_nineteenth_century": []
@@ -95,7 +100,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 13,
+        "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "8": {
@@ -110,7 +120,7 @@
     "documents": [
       {
         "id": 5,
-        "value": "GCR 196/23a-1"
+        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
       }
     ],
     "district_nineteenth_century": []
@@ -131,8 +141,12 @@
     "longitute": null,
     "documents": [
       {
+        "id": 5,
+        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
+      },
+      {
         "id": 6,
-        "value": "GCR212/ 29b-1"
+        "value": "İSTM.ŞSC.14.d.212/ 29a-1"
       }
     ],
     "district_nineteenth_century": []
@@ -146,7 +160,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "11": {
@@ -170,7 +189,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "13": {
@@ -206,7 +230,20 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 7,
+        "value": "İSTM.ŞSC.14.d.212/ 34b-2"
+      },
+      {
+        "id": 10,
+        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
+      },
+      {
+        "id": 12,
+        "value": "İSTM.ŞSC.14.d.237 / 16b-1"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "16": {
@@ -218,7 +255,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "17": {
@@ -254,7 +296,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "20": {
@@ -295,7 +342,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 9,
+        "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "23": {
@@ -365,7 +417,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9a-2"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "28": {
@@ -402,7 +459,7 @@
     "documents": [
       {
         "id": 2,
-        "value": "GCR177/ 36a-1"
+        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
       }
     ],
     "district_nineteenth_century": []
@@ -431,7 +488,7 @@
     "documents": [
       {
         "id": 4,
-        "value": "GCR 196/ 21a-1"
+        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
       }
     ],
     "district_nineteenth_century": []
