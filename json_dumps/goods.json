@@ -4,11 +4,13 @@
     "order": "1.00000000000000000000",
     "name": "Hazelnut",
     "gorcerist_id": "goods__1",
-    "has_category": {
-      "id": 6683,
-      "value": "Nuts",
-      "color": "dark-green"
-    },
+    "has_category": [
+      {
+        "id": 6683,
+        "value": "Nuts",
+        "color": "dark-green"
+      }
+    ],
     "documents": [],
     "turkish_names": "Fındık",
     "spelling_variations": null
@@ -18,11 +20,13 @@
     "order": "2.00000000000000000000",
     "name": "Peanut",
     "gorcerist_id": "goods__2",
-    "has_category": {
-      "id": 6683,
-      "value": "Nuts",
-      "color": "dark-green"
-    },
+    "has_category": [
+      {
+        "id": 6683,
+        "value": "Nuts",
+        "color": "dark-green"
+      }
+    ],
     "documents": [],
     "turkish_names": "Fıstık",
     "spelling_variations": null
@@ -32,11 +36,13 @@
     "order": "3.00000000000000000000",
     "name": "Almond",
     "gorcerist_id": "goods__3",
-    "has_category": {
-      "id": 6683,
-      "value": "Nuts",
-      "color": "dark-green"
-    },
+    "has_category": [
+      {
+        "id": 6683,
+        "value": "Nuts",
+        "color": "dark-green"
+      }
+    ],
     "documents": [],
     "turkish_names": "Badem",
     "spelling_variations": "Badām"
@@ -46,11 +52,13 @@
     "order": "4.00000000000000000000",
     "name": "Walnut",
     "gorcerist_id": "goods__4",
-    "has_category": {
-      "id": 6683,
-      "value": "Nuts",
-      "color": "dark-green"
-    },
+    "has_category": [
+      {
+        "id": 6683,
+        "value": "Nuts",
+        "color": "dark-green"
+      }
+    ],
     "documents": [],
     "turkish_names": "Ceviz",
     "spelling_variations": null
@@ -60,11 +68,13 @@
     "order": "5.00000000000000000000",
     "name": "Olive Oil",
     "gorcerist_id": "goods__5",
-    "has_category": {
-      "id": 6684,
-      "value": "Cooking Oils",
-      "color": "dark-gray"
-    },
+    "has_category": [
+      {
+        "id": 6684,
+        "value": "Cooking Oils",
+        "color": "dark-gray"
+      }
+    ],
     "documents": [],
     "turkish_names": "Revgan-ı zeyt",
     "spelling_variations": "Zeyt yağı"
@@ -72,13 +82,20 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "name": "Ghee",
+    "name": "Ghee, Clarified Butter",
     "gorcerist_id": "goods__6",
-    "has_category": {
-      "id": 6684,
-      "value": "Cooking Oils",
-      "color": "dark-gray"
-    },
+    "has_category": [
+      {
+        "id": 6757,
+        "value": "Dairy",
+        "color": "light-red"
+      },
+      {
+        "id": 6684,
+        "value": "Cooking Oils",
+        "color": "dark-gray"
+      }
+    ],
     "documents": [],
     "turkish_names": "Revgan-ı sade",
     "spelling_variations": "Sadeyağ"
@@ -88,39 +105,34 @@
     "order": "7.00000000000000000000",
     "name": "Don",
     "gorcerist_id": "goods__7",
-    "has_category": {
-      "id": 6684,
-      "value": "Cooking Oils",
-      "color": "dark-gray"
-    },
+    "has_category": [
+      {
+        "id": 6684,
+        "value": "Cooking Oils",
+        "color": "dark-gray"
+      }
+    ],
     "documents": [],
     "turkish_names": "Don yağı",
     "spelling_variations": "Ton yağı, Doñ yağı"
-  },
-  "8": {
-    "id": 8,
-    "order": "8.00000000000000000000",
-    "name": "Other Cooking Oil",
-    "gorcerist_id": "goods__8",
-    "has_category": {
-      "id": 6684,
-      "value": "Cooking Oils",
-      "color": "dark-gray"
-    },
-    "documents": [],
-    "turkish_names": null,
-    "spelling_variations": null
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
     "name": "Kaşkaval",
     "gorcerist_id": "goods__9",
-    "has_category": {
-      "id": 6686,
-      "value": "Cheese",
-      "color": "dark-orange"
-    },
+    "has_category": [
+      {
+        "id": 6757,
+        "value": "Dairy",
+        "color": "light-red"
+      },
+      {
+        "id": 6686,
+        "value": "Cheese Assortment",
+        "color": "dark-orange"
+      }
+    ],
     "documents": [],
     "turkish_names": "Kaşkaval",
     "spelling_variations": null
@@ -130,11 +142,18 @@
     "order": "10.00000000000000000000",
     "name": "Tulum",
     "gorcerist_id": "goods__10",
-    "has_category": {
-      "id": 6686,
-      "value": "Cheese",
-      "color": "dark-orange"
-    },
+    "has_category": [
+      {
+        "id": 6757,
+        "value": "Dairy",
+        "color": "light-red"
+      },
+      {
+        "id": 6686,
+        "value": "Cheese Assortment",
+        "color": "dark-orange"
+      }
+    ],
     "documents": [],
     "turkish_names": "Tulum",
     "spelling_variations": null
@@ -144,11 +163,18 @@
     "order": "11.00000000000000000000",
     "name": "Other Cheese",
     "gorcerist_id": "goods__11",
-    "has_category": {
-      "id": 6686,
-      "value": "Cheese",
-      "color": "dark-orange"
-    },
+    "has_category": [
+      {
+        "id": 6757,
+        "value": "Dairy",
+        "color": "light-red"
+      },
+      {
+        "id": 6686,
+        "value": "Cheese Assortment",
+        "color": "dark-orange"
+      }
+    ],
     "documents": [],
     "turkish_names": null,
     "spelling_variations": null
@@ -158,25 +184,39 @@
     "order": "12.00000000000000000000",
     "name": "Pea",
     "gorcerist_id": "goods__12",
-    "has_category": {
-      "id": 6685,
-      "value": "Legumes and Grains",
-      "color": "blue"
-    },
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6685,
+        "value": "Legumes",
+        "color": "blue"
+      }
+    ],
     "documents": [],
-    "turkish_names": null,
-    "spelling_variations": null
+    "turkish_names": "Börülce",
+    "spelling_variations": "Bölürce"
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
     "name": "Chickpea",
     "gorcerist_id": "goods__13",
-    "has_category": {
-      "id": 6685,
-      "value": "Legumes and Grains",
-      "color": "blue"
-    },
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6685,
+        "value": "Legumes",
+        "color": "blue"
+      }
+    ],
     "documents": [],
     "turkish_names": "Nohud",
     "spelling_variations": null
@@ -186,11 +226,18 @@
     "order": "14.00000000000000000000",
     "name": "Lentil",
     "gorcerist_id": "goods__14",
-    "has_category": {
-      "id": 6685,
-      "value": "Legumes and Grains",
-      "color": "blue"
-    },
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6685,
+        "value": "Legumes",
+        "color": "blue"
+      }
+    ],
     "documents": [],
     "turkish_names": "Mercimek",
     "spelling_variations": null
@@ -200,39 +247,44 @@
     "order": "15.00000000000000000000",
     "name": "Rice",
     "gorcerist_id": "goods__15",
-    "has_category": {
-      "id": 6685,
-      "value": "Legumes and Grains",
-      "color": "blue"
-    },
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6767,
+        "value": "Grains",
+        "color": "dark-orange"
+      }
+    ],
     "documents": [],
     "turkish_names": "Pirinç",
-    "spelling_variations": null
-  },
-  "16": {
-    "id": 16,
-    "order": "16.00000000000000000000",
-    "name": "Other Legumes and Grains",
-    "gorcerist_id": "goods__16",
-    "has_category": {
-      "id": 6685,
-      "value": "Legumes and Grains",
-      "color": "blue"
-    },
-    "documents": [],
-    "turkish_names": null,
     "spelling_variations": null
   },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
-    "name": "Raisins (Beylerce)",
+    "name": "Beylerce",
     "gorcerist_id": "goods__17",
-    "has_category": {
-      "id": 6689,
-      "value": "Dried Fruits",
-      "color": "dark-blue"
-    },
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6752,
+        "value": "Raisin Assortment",
+        "color": "dark-red"
+      }
+    ],
     "documents": [],
     "turkish_names": "Beylerce üzüm",
     "spelling_variations": null
@@ -240,13 +292,25 @@
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "name": "Raisins (Razaki)",
+    "name": "Razaki",
     "gorcerist_id": "goods__18",
-    "has_category": {
-      "id": 6689,
-      "value": "Dried Fruits",
-      "color": "dark-blue"
-    },
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6752,
+        "value": "Raisin Assortment",
+        "color": "dark-red"
+      }
+    ],
     "documents": [],
     "turkish_names": "Razaki üzüm",
     "spelling_variations": null
@@ -254,13 +318,25 @@
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "name": "Raisins (Kızıl)",
+    "name": "Kızıl",
     "gorcerist_id": "goods__19",
-    "has_category": {
-      "id": 6689,
-      "value": "Dried Fruits",
-      "color": "dark-blue"
-    },
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6752,
+        "value": "Raisin Assortment",
+        "color": "dark-red"
+      }
+    ],
     "documents": [],
     "turkish_names": "Kızıl üzüm",
     "spelling_variations": null
@@ -268,27 +344,51 @@
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
-    "name": "Raisins (Siyah)",
+    "name": "Siyah",
     "gorcerist_id": "goods__20",
-    "has_category": {
-      "id": 6689,
-      "value": "Dried Fruits",
-      "color": "dark-blue"
-    },
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6752,
+        "value": "Raisin Assortment",
+        "color": "dark-red"
+      }
+    ],
     "documents": [],
     "turkish_names": "Siyah üzüm",
-    "spelling_variations": null
+    "spelling_variations": "İzmir siyahı"
   },
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
     "name": "Figs",
     "gorcerist_id": "goods__21",
-    "has_category": {
-      "id": 6689,
-      "value": "Dried Fruits",
-      "color": "dark-blue"
-    },
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6753,
+        "value": "Fig Assortment",
+        "color": "dark-gray"
+      }
+    ],
     "documents": [],
     "turkish_names": "İncir",
     "spelling_variations": null
@@ -296,23 +396,41 @@
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
-    "name": "Other dried fruits (harnup)",
+    "name": "Harnup",
     "gorcerist_id": "goods__22",
-    "has_category": {
-      "id": 6689,
-      "value": "Dried Fruits",
-      "color": "dark-blue"
-    },
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [],
     "turkish_names": null,
-    "spelling_variations": null
+    "spelling_variations": "Keçi boynuzu"
   },
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
     "name": "Pekmez",
     "gorcerist_id": "goods__23",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6766,
+        "value": "Condiments",
+        "color": "red"
+      },
+      {
+        "id": 6755,
+        "value": "Molasses Assortment",
+        "color": "blue"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -322,7 +440,13 @@
     "order": "24.00000000000000000000",
     "name": "Nardenk",
     "gorcerist_id": "goods__24",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -332,17 +456,34 @@
     "order": "25.00000000000000000000",
     "name": "Asel",
     "gorcerist_id": "goods__25",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6766,
+        "value": "Condiments",
+        "color": "red"
+      },
+      {
+        "id": 6747,
+        "value": "Honey Assortment",
+        "color": "light-gray"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
-    "spelling_variations": ""
+    "spelling_variations": "Bal"
   },
   "26": {
     "id": 26,
     "order": "26.00000000000000000000",
     "name": "Dolama Yağı",
     "gorcerist_id": "goods__26",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6684,
+        "value": "Cooking Oils",
+        "color": "dark-gray"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -352,7 +493,13 @@
     "order": "27.00000000000000000000",
     "name": "Nişasta",
     "gorcerist_id": "goods__27",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6759,
+        "value": "Baking Goods",
+        "color": "light-orange"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -362,7 +509,13 @@
     "order": "28.00000000000000000000",
     "name": "Sirke",
     "gorcerist_id": "goods__28",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -372,7 +525,18 @@
     "order": "29.00000000000000000000",
     "name": "Soğan",
     "gorcerist_id": "goods__29",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6760,
+        "value": "Vegetables",
+        "color": "green"
+      },
+      {
+        "id": 6762,
+        "value": "Produce",
+        "color": "light-orange"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -382,7 +546,13 @@
     "order": "30.00000000000000000000",
     "name": "Tuz",
     "gorcerist_id": "goods__30",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -392,7 +562,18 @@
     "order": "31.00000000000000000000",
     "name": "Sarımsak",
     "gorcerist_id": "goods__31",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6760,
+        "value": "Vegetables",
+        "color": "green"
+      },
+      {
+        "id": 6762,
+        "value": "Produce",
+        "color": "light-orange"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -402,7 +583,13 @@
     "order": "32.00000000000000000000",
     "name": "Karadeniz mısırı",
     "gorcerist_id": "goods__32",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -412,7 +599,13 @@
     "order": "33.00000000000000000000",
     "name": "Kefe tuzu",
     "gorcerist_id": "goods__33",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -422,7 +615,13 @@
     "order": "34.00000000000000000000",
     "name": "Zeytun",
     "gorcerist_id": "goods__34",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6749,
+        "value": "Olive Assortment",
+        "color": "light-gray"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -432,7 +631,13 @@
     "order": "35.00000000000000000000",
     "name": "Duhan",
     "gorcerist_id": "goods__35",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -442,7 +647,18 @@
     "order": "36.00000000000000000000",
     "name": "Şa‘riye",
     "gorcerist_id": "goods__36",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6767,
+        "value": "Grains",
+        "color": "dark-orange"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
@@ -452,7 +668,1923 @@
     "order": "37.00000000000000000000",
     "name": "Balık turşusu",
     "gorcerist_id": "goods__37",
-    "has_category": null,
+    "has_category": [
+      {
+        "id": 6687,
+        "value": "Pickle",
+        "color": "light-orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "name": "Havyar",
+    "gorcerist_id": "goods__38",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "name": "Sade balık",
+    "gorcerist_id": "goods__39",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "name": "Lahana Turşusu",
+    "gorcerist_id": "goods__40",
+    "has_category": [
+      {
+        "id": 6687,
+        "value": "Pickle",
+        "color": "light-orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "name": "Daru",
+    "gorcerist_id": "goods__41",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": "Darı"
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "name": "Eflak tuzu",
+    "gorcerist_id": "goods__42",
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "name": "Hurda tuz",
+    "gorcerist_id": "goods__43",
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "name": "Buğday",
+    "gorcerist_id": "goods__44",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "name": "Bulgur",
+    "gorcerist_id": "goods__45",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6767,
+        "value": "Grains",
+        "color": "dark-orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "name": "Şa‘īr",
+    "gorcerist_id": "goods__46",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6767,
+        "value": "Grains",
+        "color": "dark-orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": "Arpa"
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "name": "Uskumru balığu turşusu",
+    "gorcerist_id": "goods__47",
+    "has_category": [
+      {
+        "id": 6687,
+        "value": "Pickle",
+        "color": "light-orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "name": "Kuru üzüm",
+    "gorcerist_id": "goods__48",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6752,
+        "value": "Raisin Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "name": "Sucuk",
+    "gorcerist_id": "goods__49",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6758,
+        "value": "Deli",
+        "color": "light-green"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "name": "Semuk",
+    "gorcerist_id": "goods__50",
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "name": "Ihlamur",
+    "gorcerist_id": "goods__51",
+    "has_category": [
+      {
+        "id": 6763,
+        "value": "Beverages",
+        "color": "gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "name": "Turşu balığı",
+    "gorcerist_id": "goods__52",
+    "has_category": [
+      {
+        "id": 6687,
+        "value": "Pickle",
+        "color": "light-orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "name": "Un",
+    "gorcerist_id": "goods__53",
+    "has_category": [
+      {
+        "id": 6759,
+        "value": "Baking Goods",
+        "color": "light-orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "name": "Kuşadası  balı",
+    "gorcerist_id": "goods__54",
+    "has_category": [
+      {
+        "id": 6766,
+        "value": "Condiments",
+        "color": "red"
+      },
+      {
+        "id": 6747,
+        "value": "Honey Assortment",
+        "color": "light-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "name": "Bezir yağı",
+    "gorcerist_id": "goods__55",
+    "has_category": [
+      {
+        "id": 6684,
+        "value": "Cooking Oils",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "name": "Balık salamurası",
+    "gorcerist_id": "goods__56",
+    "has_category": [
+      {
+        "id": 6687,
+        "value": "Pickle",
+        "color": "light-orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "name": "Basdırma",
+    "gorcerist_id": "goods__57",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6758,
+        "value": "Deli",
+        "color": "light-green"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": "bastırma"
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "name": "Kuş üzümü",
+    "gorcerist_id": "goods__58",
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "name": "Yumurta",
+    "gorcerist_id": "goods__59",
+    "has_category": [
+      {
+        "id": 6757,
+        "value": "Dairy",
+        "color": "light-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "name": "Taze peynir",
+    "gorcerist_id": "goods__60",
+    "has_category": [
+      {
+        "id": 6757,
+        "value": "Dairy",
+        "color": "light-red"
+      },
+      {
+        "id": 6686,
+        "value": "Cheese Assortment",
+        "color": "dark-orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "name": "Trilye zeytunu",
+    "gorcerist_id": "goods__61",
+    "has_category": [
+      {
+        "id": 6749,
+        "value": "Olive Assortment",
+        "color": "light-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "name": "Kenevir tohumu",
+    "gorcerist_id": "goods__62",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "name": "Sesame Oil",
+    "gorcerist_id": "goods__63",
+    "has_category": [
+      {
+        "id": 6684,
+        "value": "Cooking Oils",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "Revgan-ı şir",
+    "spelling_variations": "Şirugan"
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "name": "Döğülmüş tuz",
+    "gorcerist_id": "goods__64",
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "name": "Küfter",
+    "gorcerist_id": "goods__65",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "name": "Lakerda balığı",
+    "gorcerist_id": "goods__66",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "name": "Biber",
+    "gorcerist_id": "goods__67",
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": "Büber"
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "name": "Lüle",
+    "gorcerist_id": "goods__68",
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "name": "Elma",
+    "gorcerist_id": "goods__69",
+    "has_category": [
+      {
+        "id": 6762,
+        "value": "Produce",
+        "color": "light-orange"
+      },
+      {
+        "id": 6756,
+        "value": "Fresh Fruits",
+        "color": "orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "name": "Enar",
+    "gorcerist_id": "goods__70",
+    "has_category": [
+      {
+        "id": 6762,
+        "value": "Produce",
+        "color": "light-orange"
+      },
+      {
+        "id": 6756,
+        "value": "Fresh Fruits",
+        "color": "orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "name": "Sardalya balığı",
+    "gorcerist_id": "goods__71",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "name": "Uskumru balığı",
+    "gorcerist_id": "goods__72",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "name": "Kolyarudya balığı",
+    "gorcerist_id": "goods__73",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "name": "Mersin balığı",
+    "gorcerist_id": "goods__74",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "name": "Çiroz balığı",
+    "gorcerist_id": "goods__75",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "name": "Çütre balığı",
+    "gorcerist_id": "goods__76",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "name": "Girit pekmezi",
+    "gorcerist_id": "goods__77",
+    "has_category": [
+      {
+        "id": 6766,
+        "value": "Condiments",
+        "color": "red"
+      },
+      {
+        "id": 6755,
+        "value": "Molasses Assortment",
+        "color": "blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "name": "Büber turşusu",
+    "gorcerist_id": "goods__78",
+    "has_category": [
+      {
+        "id": 6687,
+        "value": "Pickle",
+        "color": "light-orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "name": "Karamürsel zeytunu",
+    "gorcerist_id": "goods__79",
+    "has_category": [
+      {
+        "id": 6749,
+        "value": "Olive Assortment",
+        "color": "light-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "name": "Morina balığı",
+    "gorcerist_id": "goods__80",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "name": "Terkoz balığı",
+    "gorcerist_id": "goods__81",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "name": "Sardalya balığı",
+    "gorcerist_id": "goods__82",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "name": "Odun pekmezi",
+    "gorcerist_id": "goods__83",
+    "has_category": [
+      {
+        "id": 6766,
+        "value": "Condiments",
+        "color": "red"
+      },
+      {
+        "id": 6755,
+        "value": "Molasses Assortment",
+        "color": "blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "name": "Salamura peynir",
+    "gorcerist_id": "goods__84",
+    "has_category": [
+      {
+        "id": 6757,
+        "value": "Dairy",
+        "color": "light-red"
+      },
+      {
+        "id": 6686,
+        "value": "Cheese Assortment",
+        "color": "dark-orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "85": {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "name": "Kuş üzümü",
+    "gorcerist_id": "goods__85",
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "name": "Peksimet",
+    "gorcerist_id": "goods__86",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "name": "Kaba soğan",
+    "gorcerist_id": "goods__87",
+    "has_category": [
+      {
+        "id": 6760,
+        "value": "Vegetables",
+        "color": "green"
+      },
+      {
+        "id": 6762,
+        "value": "Produce",
+        "color": "light-orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "name": "Arpacık soğanı",
+    "gorcerist_id": "goods__88",
+    "has_category": [
+      {
+        "id": 6760,
+        "value": "Vegetables",
+        "color": "green"
+      },
+      {
+        "id": 6762,
+        "value": "Produce",
+        "color": "light-orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "name": "Çorlu peyniri",
+    "gorcerist_id": "goods__89",
+    "has_category": [
+      {
+        "id": 6757,
+        "value": "Dairy",
+        "color": "light-red"
+      },
+      {
+        "id": 6686,
+        "value": "Cheese Assortment",
+        "color": "dark-orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "name": "Gemlik zeytini",
+    "gorcerist_id": "goods__90",
+    "has_category": [
+      {
+        "id": 6749,
+        "value": "Olive Assortment",
+        "color": "light-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "91": {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "name": "Akdeniz balı",
+    "gorcerist_id": "goods__91",
+    "has_category": [
+      {
+        "id": 6766,
+        "value": "Condiments",
+        "color": "red"
+      },
+      {
+        "id": 6747,
+        "value": "Honey Assortment",
+        "color": "light-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "92": {
+    "id": 92,
+    "order": "92.00000000000000000000",
+    "name": "Kabuklu acıbadem",
+    "gorcerist_id": "goods__92",
+    "has_category": [
+      {
+        "id": 6683,
+        "value": "Nuts",
+        "color": "dark-green"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "93": {
+    "id": 93,
+    "order": "93.00000000000000000000",
+    "name": "Gömeç balı",
+    "gorcerist_id": "goods__93",
+    "has_category": [
+      {
+        "id": 6766,
+        "value": "Condiments",
+        "color": "red"
+      },
+      {
+        "id": 6747,
+        "value": "Honey Assortment",
+        "color": "light-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "94": {
+    "id": 94,
+    "order": "94.00000000000000000000",
+    "name": "Kızılcık kurusu",
+    "gorcerist_id": "goods__94",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "95": {
+    "id": 95,
+    "order": "95.00000000000000000000",
+    "name": "Çörek otu",
+    "gorcerist_id": "goods__95",
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "96": {
+    "id": 96,
+    "order": "96.00000000000000000000",
+    "name": "Pestil",
+    "gorcerist_id": "goods__96",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "97": {
+    "id": 97,
+    "order": "97.00000000000000000000",
+    "name": "Kiraz kurusu",
+    "gorcerist_id": "goods__97",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "98": {
+    "id": 98,
+    "order": "98.00000000000000000000",
+    "name": "Sarıca incir",
+    "gorcerist_id": "goods__98",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6753,
+        "value": "Fig Assortment",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "99": {
+    "id": 99,
+    "order": "99.00000000000000000000",
+    "name": "Limon",
+    "gorcerist_id": "goods__99",
+    "has_category": [
+      {
+        "id": 6762,
+        "value": "Produce",
+        "color": "light-orange"
+      },
+      {
+        "id": 6756,
+        "value": "Fresh Fruits",
+        "color": "orange"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "100": {
+    "id": 100,
+    "order": "100.00000000000000000000",
+    "name": "Fındık içi",
+    "gorcerist_id": "goods__100",
+    "has_category": [
+      {
+        "id": 6683,
+        "value": "Nuts",
+        "color": "dark-green"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "101": {
+    "id": 101,
+    "order": "101.00000000000000000000",
+    "name": "Fasülye",
+    "gorcerist_id": "goods__101",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6685,
+        "value": "Legumes",
+        "color": "blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "102": {
+    "id": 102,
+    "order": "102.00000000000000000000",
+    "name": "Tuzlu balık",
+    "gorcerist_id": "goods__102",
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "108": {
+    "id": 108,
+    "order": "108.00000000000000000000",
+    "name": "Sabun",
+    "gorcerist_id": "goods__108",
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      },
+      {
+        "id": 6754,
+        "value": "Soap Assortment",
+        "color": "green"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "112": {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "name": "Mum",
+    "gorcerist_id": "goods__112",
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "113": {
+    "id": 113,
+    "order": "113.00000000000000000000",
+    "name": "Çarçube kağıdı",
+    "gorcerist_id": "goods__113",
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "114": {
+    "id": 114,
+    "order": "114.00000000000000000000",
+    "name": "Fuçı",
+    "gorcerist_id": "goods__114",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "115": {
+    "id": 115,
+    "order": "115.00000000000000000000",
+    "name": "Zenbil",
+    "gorcerist_id": "goods__115",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "116": {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "name": "Taba",
+    "gorcerist_id": "goods__116",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "117": {
+    "id": 117,
+    "order": "117.00000000000000000000",
+    "name": "Kaput",
+    "gorcerist_id": "goods__117",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "118": {
+    "id": 118,
+    "order": "118.00000000000000000000",
+    "name": "Gerdel",
+    "gorcerist_id": "goods__118",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "119": {
+    "id": 119,
+    "order": "119.00000000000000000000",
+    "name": "Çuval",
+    "gorcerist_id": "goods__119",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "120": {
+    "id": 120,
+    "order": "120.00000000000000000000",
+    "name": "Kantar",
+    "gorcerist_id": "goods__120",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "121": {
+    "id": 121,
+    "order": "121.00000000000000000000",
+    "name": "Desti",
+    "gorcerist_id": "goods__121",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "122": {
+    "id": 122,
+    "order": "122.00000000000000000000",
+    "name": "Bardak",
+    "gorcerist_id": "goods__122",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "123": {
+    "id": 123,
+    "order": "123.00000000000000000000",
+    "name": "Hadde",
+    "gorcerist_id": "goods__123",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "124": {
+    "id": 124,
+    "order": "124.00000000000000000000",
+    "name": "Terazi",
+    "gorcerist_id": "goods__124",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "125": {
+    "id": 125,
+    "order": "125.00000000000000000000",
+    "name": "Dirhem",
+    "gorcerist_id": "goods__125",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "128": {
+    "id": 128,
+    "order": "128.00000000000000000000",
+    "name": "Tabla",
+    "gorcerist_id": "goods__128",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "129": {
+    "id": 129,
+    "order": "129.00000000000000000000",
+    "name": "Çömlek",
+    "gorcerist_id": "goods__129",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "130": {
+    "id": 130,
+    "order": "130.00000000000000000000",
+    "name": "Kavanoz",
+    "gorcerist_id": "goods__130",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "131": {
+    "id": 131,
+    "order": "131.00000000000000000000",
+    "name": "Kantar",
+    "gorcerist_id": "goods__131",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "132": {
+    "id": 132,
+    "order": "132.00000000000000000000",
+    "name": "Mizan",
+    "gorcerist_id": "goods__132",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "133": {
+    "id": 133,
+    "order": "133.00000000000000000000",
+    "name": "Tekne",
+    "gorcerist_id": "goods__133",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "134": {
+    "id": 134,
+    "order": "134.00000000000000000000",
+    "name": "Kova",
+    "gorcerist_id": "goods__134",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "135": {
+    "id": 135,
+    "order": "135.00000000000000000000",
+    "name": "Küp",
+    "gorcerist_id": "goods__135",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "136": {
+    "id": 136,
+    "order": "136.00000000000000000000",
+    "name": "Potna",
+    "gorcerist_id": "goods__136",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "137": {
+    "id": 137,
+    "order": "137.00000000000000000000",
+    "name": "Sac ayağı",
+    "gorcerist_id": "goods__137",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "139": {
+    "id": 139,
+    "order": "139.00000000000000000000",
+    "name": "Sepet",
+    "gorcerist_id": "goods__139",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "140": {
+    "id": 140,
+    "order": "140.00000000000000000000",
+    "name": "Bıçak",
+    "gorcerist_id": "goods__140",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "141": {
+    "id": 141,
+    "order": "141.00000000000000000000",
+    "name": "Kutu",
+    "gorcerist_id": "goods__141",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "142": {
+    "id": 142,
+    "order": "142.00000000000000000000",
+    "name": "Eflak aseli",
+    "gorcerist_id": "goods__142",
+    "has_category": [
+      {
+        "id": 6766,
+        "value": "Condiments",
+        "color": "red"
+      },
+      {
+        "id": 6747,
+        "value": "Honey Assortment",
+        "color": "light-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "143": {
+    "id": 143,
+    "order": "143.00000000000000000000",
+    "name": "Seklem",
+    "gorcerist_id": "goods__143",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "144": {
+    "id": 144,
+    "order": "144.00000000000000000000",
+    "name": "Piştahta",
+    "gorcerist_id": "goods__144",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "145": {
+    "id": 145,
+    "order": "145.00000000000000000000",
+    "name": "Akçe kesesi",
+    "gorcerist_id": "goods__145",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Appurtenances",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "146": {
+    "id": 146,
+    "order": "146.00000000000000000000",
+    "name": "Hatab",
+    "gorcerist_id": "goods__146",
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "147": {
+    "id": 147,
+    "order": "147.00000000000000000000",
+    "name": "Kömür",
+    "gorcerist_id": "goods__147",
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "148": {
+    "id": 148,
+    "order": "148.00000000000000000000",
+    "name": "Girit sabunu",
+    "gorcerist_id": "goods__148",
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      },
+      {
+        "id": 6754,
+        "value": "Soap Assortment",
+        "color": "green"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "149": {
+    "id": 149,
+    "order": "149.00000000000000000000",
+    "name": "Odun pekmezi",
+    "gorcerist_id": "goods__149",
+    "has_category": [
+      {
+        "id": 6766,
+        "value": "Condiments",
+        "color": "red"
+      },
+      {
+        "id": 6755,
+        "value": "Molasses Assortment",
+        "color": "blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "150": {
+    "id": 150,
+    "order": "150.00000000000000000000",
+    "name": "Çıra",
+    "gorcerist_id": "goods__150",
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "151": {
+    "id": 151,
+    "order": "151.00000000000000000000",
+    "name": "Sicim",
+    "gorcerist_id": "goods__151",
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "152": {
+    "id": 152,
+    "order": "152.00000000000000000000",
+    "name": "Şamadıra",
+    "gorcerist_id": "goods__152",
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "155": {
+    "id": 155,
+    "order": "154.00000000000000000000",
+    "name": "Bakla",
+    "gorcerist_id": "goods__155",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6685,
+        "value": "Legumes",
+        "color": "blue"
+      }
+    ],
     "documents": [],
     "turkish_names": "",
     "spelling_variations": ""
