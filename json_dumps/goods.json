@@ -10,7 +10,7 @@
       "color": "dark-green"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "Fındık",
     "spelling_variations": null
   },
   "2": {
@@ -24,7 +24,7 @@
       "color": "dark-green"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "Fıstık",
     "spelling_variations": null
   },
   "3": {
@@ -38,8 +38,8 @@
       "color": "dark-green"
     },
     "documents": [],
-    "turkish_names": null,
-    "spelling_variations": null
+    "turkish_names": "Badem",
+    "spelling_variations": "Badām"
   },
   "4": {
     "id": 4,
@@ -52,7 +52,7 @@
       "color": "dark-green"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "Ceviz",
     "spelling_variations": null
   },
   "5": {
@@ -66,8 +66,8 @@
       "color": "dark-gray"
     },
     "documents": [],
-    "turkish_names": null,
-    "spelling_variations": null
+    "turkish_names": "Revgan-ı zeyt",
+    "spelling_variations": "Zeyt yağı"
   },
   "6": {
     "id": 6,
@@ -80,8 +80,8 @@
       "color": "dark-gray"
     },
     "documents": [],
-    "turkish_names": null,
-    "spelling_variations": null
+    "turkish_names": "Revgan-ı sade",
+    "spelling_variations": "Sadeyağ"
   },
   "7": {
     "id": 7,
@@ -94,8 +94,8 @@
       "color": "dark-gray"
     },
     "documents": [],
-    "turkish_names": null,
-    "spelling_variations": null
+    "turkish_names": "Don yağı",
+    "spelling_variations": "Ton yağı, Doñ yağı"
   },
   "8": {
     "id": 8,
@@ -122,7 +122,7 @@
       "color": "dark-orange"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "Kaşkaval",
     "spelling_variations": null
   },
   "10": {
@@ -136,7 +136,7 @@
       "color": "dark-orange"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "Tulum",
     "spelling_variations": null
   },
   "11": {
@@ -178,7 +178,7 @@
       "color": "blue"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "Nohud",
     "spelling_variations": null
   },
   "14": {
@@ -192,7 +192,7 @@
       "color": "blue"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "Mercimek",
     "spelling_variations": null
   },
   "15": {
@@ -206,7 +206,7 @@
       "color": "blue"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "Pirinç",
     "spelling_variations": null
   },
   "16": {
@@ -234,7 +234,7 @@
       "color": "dark-blue"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "Beylerce üzüm",
     "spelling_variations": null
   },
   "18": {
@@ -248,7 +248,7 @@
       "color": "dark-blue"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "Razaki üzüm",
     "spelling_variations": null
   },
   "19": {
@@ -262,7 +262,7 @@
       "color": "dark-blue"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "Kızıl üzüm",
     "spelling_variations": null
   },
   "20": {
@@ -276,7 +276,7 @@
       "color": "dark-blue"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "Siyah üzüm",
     "spelling_variations": null
   },
   "21": {
@@ -290,7 +290,7 @@
       "color": "dark-blue"
     },
     "documents": [],
-    "turkish_names": null,
+    "turkish_names": "İncir",
     "spelling_variations": null
   },
   "22": {
@@ -306,5 +306,155 @@
     "documents": [],
     "turkish_names": null,
     "spelling_variations": null
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "name": "Pekmez",
+    "gorcerist_id": "goods__23",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "name": "Nardenk",
+    "gorcerist_id": "goods__24",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "name": "Asel",
+    "gorcerist_id": "goods__25",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "name": "Dolama Yağı",
+    "gorcerist_id": "goods__26",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "name": "Nişasta",
+    "gorcerist_id": "goods__27",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "name": "Sirke",
+    "gorcerist_id": "goods__28",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "name": "Soğan",
+    "gorcerist_id": "goods__29",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "name": "Tuz",
+    "gorcerist_id": "goods__30",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "name": "Sarımsak",
+    "gorcerist_id": "goods__31",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "name": "Karadeniz mısırı",
+    "gorcerist_id": "goods__32",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "name": "Kefe tuzu",
+    "gorcerist_id": "goods__33",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "name": "Zeytun",
+    "gorcerist_id": "goods__34",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "name": "Duhan",
+    "gorcerist_id": "goods__35",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "name": "Şa‘riye",
+    "gorcerist_id": "goods__36",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "name": "Balık turşusu",
+    "gorcerist_id": "goods__37",
+    "has_category": null,
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations": ""
   }
 }

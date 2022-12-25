@@ -6,7 +6,7 @@
     "grocerist_id": "document__1",
     "shop_owner": [
       {
-        "id": 28,
+        "id": 1,
         "value": "Bakkal Hasan Beşe"
       }
     ],
@@ -26,19 +26,15 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.177 / 34b-1",
     "grocerist_id": "document__2",
-    "shop_owner": [
-      {
-        "id": 9,
-        "value": "Bakkal Tanaş"
-      }
-    ],
+    "shop_owner": [],
     "district": [
       {
         "id": 8,
@@ -55,19 +51,15 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "shelfmark": "GCR 189/ 5b-3,4",
     "grocerist_id": "document__3",
-    "shop_owner": [
-      {
-        "id": 30,
-        "value": "Bakkal Mustafa Beşe"
-      }
-    ],
+    "shop_owner": [],
     "district": [],
     "neighbourhood": [
       {
@@ -79,7 +71,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "4": {
     "id": 4,
@@ -88,8 +81,8 @@
     "grocerist_id": "document__4",
     "shop_owner": [
       {
-        "id": 29,
-        "value": "Bakkal Yorgi"
+        "id": 4,
+        "value": "Yorgi veled-i Dimitri"
       }
     ],
     "district": [
@@ -108,7 +101,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "5": {
     "id": 5,
@@ -117,8 +111,8 @@
     "grocerist_id": "document__5",
     "shop_owner": [
       {
-        "id": 16,
-        "value": "Bakkal Pai"
+        "id": 5,
+        "value": "Yani"
       }
     ],
     "district": [
@@ -131,24 +125,26 @@
       {
         "id": 8,
         "value": "Mehmed Paşa Camii Şerifi karyesi "
-      },
-      {
-        "id": 9,
-        "value": "Hasan Ağa "
       }
     ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.212/ 29a-1",
     "grocerist_id": "document__6",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 6,
+        "value": "Bakkal Yorgi"
+      }
+    ],
     "district": [
       {
         "id": 5,
@@ -165,14 +161,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.212/ 34b-2",
     "grocerist_id": "document__7",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 7,
+        "value": "Bakkal Dimitri veled-i Yorgi"
+      }
+    ],
     "district": [
       {
         "id": 4,
@@ -189,14 +191,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.212/ 74b-1",
     "grocerist_id": "document__8",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 8,
+        "value": "Dimo veled-i Lanbo"
+      }
+    ],
     "district": [
       {
         "id": 7,
@@ -208,14 +216,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.217 / 59a-2, 60",
     "grocerist_id": "document__9",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 9,
+        "value": "Mustafa Beşe b. Abdullah"
+      }
+    ],
     "district": [
       {
         "id": 11,
@@ -232,14 +246,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.222 / 45a-2",
     "grocerist_id": "document__10",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 10,
+        "value": "Yorgi veled-i Dimitri"
+      }
+    ],
     "district": [
       {
         "id": 4,
@@ -256,14 +276,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.226 / 27a-2, 28",
     "grocerist_id": "document__11",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 11,
+        "value": "Yorgi veled-i Hristo"
+      }
+    ],
     "district": [
       {
         "id": 8,
@@ -275,14 +301,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": ""
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.237 / 16b-1",
     "grocerist_id": "document__12",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 12,
+        "value": "Bakkal Dimitri veled-i Hristo"
+      }
+    ],
     "district": [
       {
         "id": 4,
@@ -299,14 +331,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.237 / 27a-2, 28",
     "grocerist_id": "document__13",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 13,
+        "value": "Bakkāl Hristodaki veled-i Polhoron"
+      }
+    ],
     "district": [
       {
         "id": 5,
@@ -323,14 +361,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.237 / 39b-1",
     "grocerist_id": "document__14",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 14,
+        "value": "Bakkal Kiro veled-i Yani"
+      }
+    ],
     "district": [
       {
         "id": 5,
@@ -347,14 +391,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.237 / 62b-2",
     "grocerist_id": "document__15",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 15,
+        "value": "Hristo? veled-i Yorgi"
+      }
+    ],
     "district": [
       {
         "id": 4,
@@ -371,14 +421,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.241 / 3a-1",
     "grocerist_id": "document__16",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 16,
+        "value": "Bakkal Ali Beşe b. Mehmed"
+      }
+    ],
     "district": [
       {
         "id": 6,
@@ -395,7 +451,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "17": {
     "id": 17,
@@ -409,14 +466,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.249 / 9a-2",
     "grocerist_id": "document__18",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 17,
+        "value": "Elhac Osman b. İbrahim"
+      }
+    ],
     "district": [
       {
         "id": 10,
@@ -433,7 +496,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "19": {
     "id": 19,
@@ -447,26 +511,38 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.254 / 3b-1",
     "grocerist_id": "document__20",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 20,
+        "value": "Bakkal Yanaki veled-i Yani"
+      }
+    ],
     "district": [
       {
         "id": 6,
         "value": "Kasımpaşa"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 41,
+        "value": "Tersane-i Amire"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "21": {
     "id": 21,
@@ -480,14 +556,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.254 / 64a-1",
     "grocerist_id": "document__22",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 22,
+        "value": "Pereşkova"
+      }
+    ],
     "district": [
       {
         "id": 4,
@@ -504,7 +586,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "23": {
     "id": 23,
@@ -518,14 +601,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1",
     "grocerist_id": "document__24",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 24,
+        "value": "Yani veled-i Panayot"
+      }
+    ],
     "district": [
       {
         "id": 5,
@@ -542,14 +631,20 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.275 / 37a-4",
     "grocerist_id": "document__25",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 25,
+        "value": "Bakkal Aslan veled-i Bedros"
+      }
+    ],
     "district": [
       {
         "id": 5,
@@ -561,26 +656,38 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "26": {
     "id": 26,
     "order": "26.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.275 / 45b-3",
     "grocerist_id": "document__26",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 26,
+        "value": "Bakkal Astavor"
+      }
+    ],
     "district": [
       {
         "id": 4,
         "value": "Galata"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 30,
+        "value": "Karaköy kapısı harici"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "27": {
     "id": 27,
@@ -590,7 +697,7 @@
     "shop_owner": [
       {
         "id": 27,
-        "value": "Bakkal Aslan"
+        "value": "Bakkal Nikola"
       }
     ],
     "district": [
@@ -599,83 +706,142 @@
         "value": "Kasımpaşa"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 37,
+        "value": "Yeldeğirmeni"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.276 / 9b-1",
     "grocerist_id": "document__28",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 28,
+        "value": "Bakkal Molla Hasan b. Abddullah"
+      }
+    ],
     "district": [
       {
         "id": 8,
         "value": "İstinye"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 38,
+        "value": "Bey Bağçesi"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.289 / 6b-2",
     "grocerist_id": "document__29",
-    "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
+    "shop_owner": [
+      {
+        "id": 29,
+        "value": "Nikola"
+      }
+    ],
+    "district": [
+      {
+        "id": 15,
+        "value": "Karaköy"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 39,
+        "value": "Sandıkçılarbaşı"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.290 / 73b-2",
     "grocerist_id": "document__30",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 30,
+        "value": "Bakkal Mustafa b. Abdullah"
+      }
+    ],
     "district": [
       {
         "id": 4,
         "value": "Galata"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 31,
+        "value": "Camii Kebir"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.304 / 22b-3",
     "grocerist_id": "document__31",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 31,
+        "value": "Kosta ve Dimitri veled-i Nikola"
+      }
+    ],
     "district": [
       {
         "id": 4,
         "value": "Galata"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 3,
+        "value": "Kara Mustafa Paşa"
+      },
+      {
+        "id": 39,
+        "value": "Sandıkçılarbaşı"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "32": {
     "id": 32,
@@ -689,7 +855,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "33": {
     "id": 33,
@@ -703,7 +870,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "34": {
     "id": 34,
@@ -717,7 +885,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "35": {
     "id": 35,
@@ -731,26 +900,38 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.355 / 47a-3",
     "grocerist_id": "document__36",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 36,
+        "value": "Bakkal Ahmed Beşe b. Hasan"
+      }
+    ],
     "district": [
       {
         "id": 4,
         "value": "Galata"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 3,
+        "value": "Kara Mustafa Paşa"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "37": {
     "id": 37,
@@ -764,26 +945,38 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
     "grocerist_id": "document__38",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 38,
+        "value": "Bakkal Yani veled-i Tanaş"
+      }
+    ],
     "district": [
       {
         "id": 8,
         "value": "İstinye"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 29,
+        "value": "Yeniköy"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "39": {
     "id": 39,
@@ -797,7 +990,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "40": {
     "id": 40,
@@ -811,19 +1005,30 @@
         "value": "İstinye"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 29,
+        "value": "Yeniköy"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": "Zekeriya"
   },
   "41": {
     "id": 41,
     "order": "41.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.400 / 55a-1",
     "grocerist_id": "document__41",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 41,
+        "value": "Bakkal Astati veled-i Yani"
+      }
+    ],
     "district": [
       {
         "id": 2,
@@ -835,7 +1040,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": "Arnavud"
   },
   "42": {
     "id": 42,
@@ -849,7 +1055,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "43": {
     "id": 43,
@@ -863,7 +1070,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "44": {
     "id": 44,
@@ -877,26 +1085,38 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "45": {
     "id": 45,
     "order": "45.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.433 / 74b-2",
     "grocerist_id": "document__45",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 45,
+        "value": "Bakkal Mehmed Beşe b. Salih"
+      }
+    ],
     "district": [
       {
         "id": 3,
         "value": "Fındıklı"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 40,
+        "value": "Molla Çelebi"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "46": {
     "id": 46,
@@ -910,26 +1130,38 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.441 / 55b-3",
     "grocerist_id": "document__47",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 47,
+        "value": "Yenişehirli Dimitri"
+      }
+    ],
     "district": [
       {
         "id": 6,
         "value": "Kasımpaşa"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 13,
+        "value": "Kadı Mehmed Efendi"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "48": {
     "id": 48,
@@ -943,7 +1175,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "49": {
     "id": 49,
@@ -957,7 +1190,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "50": {
     "id": 50,
@@ -971,7 +1205,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "51": {
     "id": 51,
@@ -985,25 +1220,41 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   },
   "52": {
     "id": 52,
     "order": "52.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.528 / 83a-2",
     "grocerist_id": "document__52",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 52,
+        "value": "Bakkal Yorgi veled-i Kirispo"
+      }
+    ],
     "district": [
       {
         "id": 8,
         "value": "İstinye"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 4,
+        "value": "Sarıyer"
+      },
+      {
+        "id": 42,
+        "value": "Yeni mahalle"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": null
+    "year_of_creation": null,
+    "karye": null
   }
 }

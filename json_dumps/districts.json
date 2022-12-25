@@ -1,63 +1,7 @@
 {
-  "1": {
-    "id": 1,
-    "order": "1.00000000000000000000",
-    "name": "Azapkapısı Harici",
-    "grocerist_id": "district__1",
-    "geonames_id": "",
-    "wikidata_id": "https://www.wikidata.org/wiki/Q6089897",
-    "documents": [
-      {
-        "id": 5,
-        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
-      }
-    ],
-    "neighbourhood": [],
-    "neighbourhoods": [],
-    "comments": null
-  },
-  "2": {
-    "id": 2,
-    "order": "2.00000000000000000000",
-    "name": "Beşiktaş",
-    "grocerist_id": "district__2",
-    "geonames_id": "https://www.geonames.org/750733/besiktas.html",
-    "wikidata_id": "",
-    "documents": [
-      {
-        "id": 41,
-        "value": "İSTM.ŞSC.14.d.400 / 55a-1"
-      }
-    ],
-    "neighbourhood": [
-      {
-        "id": 23,
-        "value": "Arnavutköy"
-      }
-    ],
-    "neighbourhoods": [],
-    "comments": null
-  },
-  "3": {
-    "id": 3,
-    "order": "3.00000000000000000000",
-    "name": "Fındıklı",
-    "grocerist_id": "district__3",
-    "geonames_id": "https://www.geonames.org/747087/findikli.html",
-    "wikidata_id": "",
-    "documents": [
-      {
-        "id": 45,
-        "value": "İSTM.ŞSC.14.d.433 / 74b-2"
-      }
-    ],
-    "neighbourhood": [],
-    "neighbourhoods": [],
-    "comments": null
-  },
   "4": {
     "id": 4,
-    "order": "4.00000000000000000000",
+    "order": "0.99999999999999999988",
     "name": "Galata",
     "grocerist_id": "district__4",
     "geonames_id": "https://www.geonames.org/747059/galata.html",
@@ -104,9 +48,30 @@
     "neighbourhoods": [],
     "comments": null
   },
+  "10": {
+    "id": 10,
+    "order": "0.99999999999999999989",
+    "name": "Galata Dahili",
+    "grocerist_id": "district__10",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "documents": [
+      {
+        "id": 1,
+        "value": "İSTM.ŞSC.14.d.173 / 9b-2"
+      },
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9a-2"
+      }
+    ],
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": ""
+  },
   "5": {
     "id": 5,
-    "order": "5.00000000000000000000",
+    "order": "0.99999999999999999990",
     "name": "Galata Harici",
     "grocerist_id": "district__5",
     "geonames_id": "",
@@ -152,7 +117,7 @@
   },
   "6": {
     "id": 6,
-    "order": "6.00000000000000000000",
+    "order": "0.99999999999999999991",
     "name": "Kasımpaşa",
     "grocerist_id": "district__6",
     "geonames_id": "https://www.geonames.org/743886/kasimpasa.html",
@@ -185,7 +150,7 @@
   },
   "7": {
     "id": 7,
-    "order": "7.00000000000000000000",
+    "order": "0.99999999999999999992",
     "name": "Tophane",
     "grocerist_id": "district__7",
     "geonames_id": "https://www.geonames.org/738702/tophane.html",
@@ -200,9 +165,65 @@
     "neighbourhoods": [],
     "comments": null
   },
+  "2": {
+    "id": 2,
+    "order": "0.99999999999999999993",
+    "name": "Beşiktaş",
+    "grocerist_id": "district__2",
+    "geonames_id": "https://www.geonames.org/750733/besiktas.html",
+    "wikidata_id": "",
+    "documents": [
+      {
+        "id": 41,
+        "value": "İSTM.ŞSC.14.d.400 / 55a-1"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 23,
+        "value": "Arnavutköy"
+      }
+    ],
+    "neighbourhoods": [],
+    "comments": null
+  },
+  "3": {
+    "id": 3,
+    "order": "0.99999999999999999995",
+    "name": "Fındıklı",
+    "grocerist_id": "district__3",
+    "geonames_id": "https://www.geonames.org/747087/findikli.html",
+    "wikidata_id": "",
+    "documents": [
+      {
+        "id": 45,
+        "value": "İSTM.ŞSC.14.d.433 / 74b-2"
+      }
+    ],
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": null
+  },
+  "15": {
+    "id": 15,
+    "order": "0.99999999999999999996",
+    "name": "Karaköy",
+    "grocerist_id": "district__15",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "documents": [
+      {
+        "id": 29,
+        "value": "İSTM.ŞSC.14.d.289 / 6b-2"
+      }
+    ],
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": ""
+  },
   "8": {
     "id": 8,
-    "order": "8.00000000000000000000",
+    "order": "0.99999999999999999997",
     "name": "İstinye",
     "grocerist_id": "district__8",
     "geonames_id": "https://www.geonames.org/745039/istinye.html",
@@ -256,7 +277,7 @@
   },
   "9": {
     "id": 9,
-    "order": "9.00000000000000000000",
+    "order": "0.99999999999999999999",
     "name": "Yeniköy",
     "grocerist_id": "district__9",
     "geonames_id": "",
@@ -266,26 +287,22 @@
     "neighbourhoods": [],
     "comments": "Former neighbourhood became a district in the 19th century."
   },
-  "10": {
-    "id": 10,
-    "order": "10.00000000000000000000",
-    "name": "Galata Dahili",
-    "grocerist_id": "district__10",
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Azapkapısı Harici",
+    "grocerist_id": "district__1",
     "geonames_id": "",
-    "wikidata_id": "",
+    "wikidata_id": "https://www.wikidata.org/wiki/Q6089897",
     "documents": [
       {
-        "id": 1,
-        "value": "İSTM.ŞSC.14.d.173 / 9b-2"
-      },
-      {
-        "id": 18,
-        "value": "İSTM.ŞSC.14.d.249 / 9a-2"
+        "id": 5,
+        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
       }
     ],
     "neighbourhood": [],
     "neighbourhoods": [],
-    "comments": ""
+    "comments": null
   },
   "11": {
     "id": 11,
