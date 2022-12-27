@@ -22,7 +22,116 @@
         "value": "Şehsuvar"
       }
     ],
-    "goods": [],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 2,
+        "value": "Pistachio"
+      },
+      {
+        "id": 3,
+        "value": "Almond"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 9,
+        "value": "Kaşkaval"
+      },
+      {
+        "id": 10,
+        "value": "Tulum"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 17,
+        "value": "Beylerce"
+      },
+      {
+        "id": 19,
+        "value": "Kızıl"
+      },
+      {
+        "id": 21,
+        "value": "Figs"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 24,
+        "value": "Nardenk"
+      },
+      {
+        "id": 25,
+        "value": "Honey"
+      },
+      {
+        "id": 26,
+        "value": "Dolama Yağı"
+      },
+      {
+        "id": 27,
+        "value": "Starch"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 30,
+        "value": "Salt"
+      },
+      {
+        "id": 31,
+        "value": "Garlic"
+      },
+      {
+        "id": 32,
+        "value": "Karadeniz mısırı"
+      },
+      {
+        "id": 33,
+        "value": "Kefe salt"
+      },
+      {
+        "id": 108,
+        "value": "Soap"
+      },
+      {
+        "id": 112,
+        "value": "Candle"
+      },
+      {
+        "id": 113,
+        "value": "Çarçube kağıdı"
+      },
+      {
+        "id": 155,
+        "value": "Broad bean"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
