@@ -103,7 +103,7 @@
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "name": "Don",
+    "name": "Tallow",
     "gorcerist_id": "goods__7",
     "has_category": [
       {
@@ -177,7 +177,7 @@
     ],
     "documents": [],
     "turkish_names": "Börülce",
-    "spelling_variations": "Bölürce"
+    "spelling_variations": "Böğrülce, Bölürce"
   },
   "13": {
     "id": 13,
@@ -629,7 +629,7 @@
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
-    "name": "Şa‘riye",
+    "name": "Vermicelli",
     "gorcerist_id": "goods__36",
     "has_category": [
       {
@@ -644,7 +644,7 @@
       }
     ],
     "documents": [],
-    "turkish_names": "",
+    "turkish_names": "Şa‘riye",
     "spelling_variations": ""
   },
   "37": {
@@ -902,8 +902,8 @@
       }
     ],
     "documents": [],
-    "turkish_names": "Semuk",
-    "spelling_variations": ""
+    "turkish_names": "Sumak",
+    "spelling_variations": "Semuk"
   },
   "51": {
     "id": 51,
@@ -1267,8 +1267,8 @@
       }
     ],
     "documents": [],
-    "turkish_names": "Enar",
-    "spelling_variations": ""
+    "turkish_names": "Nar",
+    "spelling_variations": "Enar"
   },
   "71": {
     "id": 71,
@@ -1430,8 +1430,8 @@
       }
     ],
     "documents": [],
-    "turkish_names": "Büber turşusu",
-    "spelling_variations": ""
+    "turkish_names": "Biber turşusu",
+    "spelling_variations": "Büber turşusu"
   },
   "79": {
     "id": 79,
@@ -1736,7 +1736,7 @@
       }
     ],
     "documents": [],
-    "turkish_names": "",
+    "turkish_names": "Çörek otu",
     "spelling_variations": ""
   },
   "96": {
@@ -1821,22 +1821,6 @@
     ],
     "documents": [],
     "turkish_names": "Limon",
-    "spelling_variations": ""
-  },
-  "100": {
-    "id": 100,
-    "order": "100.00000000000000000000",
-    "name": "Fındık içi",
-    "gorcerist_id": "goods__100",
-    "has_category": [
-      {
-        "id": 6683,
-        "value": "Oil Seeds",
-        "color": "dark-green"
-      }
-    ],
-    "documents": [],
-    "turkish_names": "",
     "spelling_variations": ""
   },
   "101": {
@@ -2113,7 +2097,7 @@
   "128": {
     "id": 128,
     "order": "128.00000000000000000000",
-    "name": "Tabla",
+    "name": "Flat tray",
     "gorcerist_id": "goods__128",
     "has_category": [
       {
@@ -2123,7 +2107,7 @@
       }
     ],
     "documents": [],
-    "turkish_names": "",
+    "turkish_names": "Tabla",
     "spelling_variations": ""
   },
   "129": {
