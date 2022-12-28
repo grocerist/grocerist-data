@@ -273,7 +273,11 @@
     "documents": [
       {
         "id": 24,
-        "value": "İSTM.ŞSC.14.d.275 / 8b-1"
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)"
+      },
+      {
+        "id": 59,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)"
       }
     ],
     "district_nineteenth_century": []
@@ -680,6 +684,23 @@
       {
         "id": 52,
         "value": "İSTM.ŞSC.14.d.528 / 83a-2"
+      }
+    ],
+    "district_nineteenth_century": []
+  },
+  "43": {
+    "id": 43,
+    "order": "42.00000000000000000000",
+    "name": "Dörtyolağzı",
+    "grocerist_id": "neighbourhood__43",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 60,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
       }
     ],
     "district_nineteenth_century": []
