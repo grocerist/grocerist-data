@@ -1209,7 +1209,7 @@
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.14.d.237 / 16b-1",
+    "shelfmark": "İSTM.ŞSC.14.d.237 / 16a-1",
     "grocerist_id": "document__12",
     "shop_owner": [
       {
@@ -1229,7 +1229,44 @@
         "value": "Sultan Bayezıd "
       }
     ],
-    "goods": [],
+    "goods": [
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 30,
+        "value": "Salt"
+      },
+      {
+        "id": 31,
+        "value": "Garlic"
+      },
+      {
+        "id": 61,
+        "value": "Trilye olives"
+      },
+      {
+        "id": 112,
+        "value": "Candle"
+      },
+      {
+        "id": 130,
+        "value": "Jar"
+      },
+      {
+        "id": 168,
+        "value": "Yağ tulumu"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -1750,7 +1787,7 @@
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.14.d.249 / 9a-2",
+    "shelfmark": "İSTM.ŞSC.14.d.249 / 9b-2",
     "grocerist_id": "document__18",
     "shop_owner": [
       {
@@ -1770,7 +1807,56 @@
         "value": "Emekyemez"
       }
     ],
-    "goods": [],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 21,
+        "value": "Figs"
+      },
+      {
+        "id": 25,
+        "value": "Honey"
+      },
+      {
+        "id": 35,
+        "value": "Tobacco"
+      },
+      {
+        "id": 134,
+        "value": "Bucket"
+      },
+      {
+        "id": 135,
+        "value": "Pot"
+      },
+      {
+        "id": 160,
+        "value": "Üzüm"
+      },
+      {
+        "id": 166,
+        "value": "Cheese"
+      },
+      {
+        "id": 169,
+        "value": "Kav"
+      },
+      {
+        "id": 170,
+        "value": "Water melon"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -3226,7 +3312,7 @@
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.14.d.355 / 47a-3",
+    "shelfmark": "İSTM.ŞSC.14.d.355 / 47b-3",
     "grocerist_id": "document__36",
     "shop_owner": [
       {
@@ -3246,7 +3332,92 @@
         "value": "Kara Mustafa Paşa"
       }
     ],
-    "goods": [],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 9,
+        "value": "Kaşkaval"
+      },
+      {
+        "id": 12,
+        "value": "Pea"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 20,
+        "value": "Siyah"
+      },
+      {
+        "id": 21,
+        "value": "Figs"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 27,
+        "value": "Starch"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 34,
+        "value": "Olive"
+      },
+      {
+        "id": 36,
+        "value": "Vermicelli"
+      },
+      {
+        "id": 45,
+        "value": "Bulgur"
+      },
+      {
+        "id": 53,
+        "value": "Flour"
+      },
+      {
+        "id": 91,
+        "value": "Akdeniz honey"
+      },
+      {
+        "id": 108,
+        "value": "Soap"
+      },
+      {
+        "id": 158,
+        "value": "Candle wax"
+      },
+      {
+        "id": 171,
+        "value": "Pestil"
+      },
+      {
+        "id": 172,
+        "value": "İzmir soap"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -4329,21 +4500,6 @@
         "value": "Kolyoz balığı"
       }
     ],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": null,
-    "karye": ""
-  },
-  "63": {
-    "id": 63,
-    "order": "58.00000000000000000000",
-    "shelfmark": "",
-    "grocerist_id": "document__63",
-    "shop_owner": [],
-    "district": [],
-    "neighbourhood": [],
-    "goods": [],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
