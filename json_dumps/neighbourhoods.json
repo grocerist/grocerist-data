@@ -25,7 +25,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 49,
+        "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "3": {
@@ -118,6 +123,10 @@
       {
         "id": 13,
         "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
+      },
+      {
+        "id": 50,
+        "value": "İSTM.ŞSC.14.d. 504/ 86a-2"
       }
     ],
     "district_nineteenth_century": []
@@ -187,7 +196,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 35,
+        "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "12": {
@@ -291,7 +305,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 23,
+        "value": "İSTM.ŞSC.14.d.254 / 76b-1"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "18": {
@@ -303,7 +322,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 34,
+        "value": "İSTM.ŞSC.14.d. 342/ 60a-1"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "19": {
@@ -340,7 +364,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 17,
+        "value": "İSTM.ŞSC.14.d. 241/ 18b-1"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "21": {
@@ -355,7 +384,7 @@
     "documents": [
       {
         "id": 3,
-        "value": "GCR 189/ 5b-3,4"
+        "value": "İSTM.ŞSC.14.d. 189 / 5a-3, 6"
       }
     ],
     "district_nineteenth_century": []
@@ -403,7 +432,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 43,
+        "value": "İSTM.ŞSC.14.d. 406/ 27b-1"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "25": {
@@ -432,7 +466,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 42,
+        "value": "/ İSTM.ŞSC.14.d. 405/ 37b-1"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "27": {
@@ -489,12 +528,24 @@
         "value": "İSTM.ŞSC.14.d.177 / 34b-1"
       },
       {
+        "id": 35,
+        "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
+      },
+      {
         "id": 38,
         "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
+        "id": 39,
+        "value": "İSTM.ŞSC.14.d. 394/ 59b-1"
+      },
+      {
         "id": 40,
         "value": "İSTM.ŞSC.14.d.399 / 56a-1"
+      },
+      {
+        "id": 48,
+        "value": "İSTM.ŞSC.14.d. 472 / 33b-1"
       }
     ],
     "district_nineteenth_century": []
@@ -533,6 +584,10 @@
       {
         "id": 30,
         "value": "İSTM.ŞSC.14.d.290 / 73b-2"
+      },
+      {
+        "id": 46,
+        "value": "İSTM.ŞSC.14.d. 441/ 41a-2"
       }
     ],
     "district_nineteenth_century": []
@@ -563,7 +618,12 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 44,
+        "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
+      }
+    ],
     "district_nineteenth_century": []
   },
   "34": {
@@ -709,6 +769,40 @@
       {
         "id": 60,
         "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
+      }
+    ],
+    "district_nineteenth_century": []
+  },
+  "44": {
+    "id": 44,
+    "order": "43.00000000000000000000",
+    "name": "İbrahim Efendi",
+    "grocerist_id": "neighbourhood__44",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 19,
+        "value": "İSTM.ŞSC.14.d. 249/ 79a-2"
+      }
+    ],
+    "district_nineteenth_century": []
+  },
+  "46": {
+    "id": 46,
+    "order": "44.00000000000000000000",
+    "name": "Rumeli kazası",
+    "grocerist_id": "neighbourhood__46",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 11,
+        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
       }
     ],
     "district_nineteenth_century": []

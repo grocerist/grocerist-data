@@ -20,23 +20,37 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "Bakkal Filibi",
+    "name": "Bakkal Filibi v. Yorgi",
     "grocerist_id": "person__2",
     "religion": {
       "id": 6705,
       "value": "orthodox",
       "color": "dark-blue"
     },
-    "documents": [],
+    "documents": [
+      {
+        "id": 2,
+        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Mustafa Beşe b. Osman",
     "grocerist_id": "person__3",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6681,
+      "value": "muslim",
+      "color": "green"
+    },
+    "documents": [
+      {
+        "id": 3,
+        "value": "İSTM.ŞSC.14.d. 189 / 5a-3, 6"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "4": {
@@ -303,10 +317,15 @@
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "name": "",
+    "name": "İstavor v. Yako",
     "grocerist_id": "person__19",
     "religion": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 19,
+        "value": "İSTM.ŞSC.14.d. 249/ 79a-2"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "20": {
@@ -330,10 +349,19 @@
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Nikola v. Dimitri",
     "grocerist_id": "person__21",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6705,
+      "value": "orthodox",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 21,
+        "value": "İSTM.ŞSC.14.d.254 / 59a-2"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "22": {
@@ -357,10 +385,19 @@
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Todori v. Dimitri",
     "grocerist_id": "person__23",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6705,
+      "value": "orthodox",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 23,
+        "value": "İSTM.ŞSC.14.d.254 / 76b-1"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "24": {
@@ -526,37 +563,65 @@
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
-    "name": "",
+    "name": "Dimitri v. Todori",
     "grocerist_id": "person__32",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6705,
+      "value": "orthodox",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 32,
+        "value": "İSTM.ŞSC.14.d. 315/ 30b-1"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
-    "name": "",
+    "name": "Yorgaki v. Manol",
     "grocerist_id": "person__33",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6705,
+      "value": "orthodox",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 33,
+        "value": "İSTM.ŞSC.14.d. 332/ 48a-1"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Hasan Beşe b. Ali",
     "grocerist_id": "person__34",
     "religion": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 34,
+        "value": "İSTM.ŞSC.14.d. 342/ 60a-1"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Simal",
     "grocerist_id": "person__35",
     "religion": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 35,
+        "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "36": {
@@ -580,10 +645,19 @@
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Todori",
     "grocerist_id": "person__37",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6705,
+      "value": "orthodox",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 37,
+        "value": "İSTM.ŞSC.14.d. 361/ 58b-2"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "38": {
@@ -643,28 +717,55 @@
   "42": {
     "id": 42,
     "order": "42.00000000000000000000",
-    "name": "",
+    "name": "Panayot v. Petro",
     "grocerist_id": "person__42",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6705,
+      "value": "orthodox",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 42,
+        "value": "/ İSTM.ŞSC.14.d. 405/ 37b-1"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Yani v. Andon",
     "grocerist_id": "person__43",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6705,
+      "value": "orthodox",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 43,
+        "value": "İSTM.ŞSC.14.d. 406/ 27b-1"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Tanaş v. Hristo",
     "grocerist_id": "person__44",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6705,
+      "value": "orthodox",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 44,
+        "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "45": {
@@ -688,10 +789,19 @@
   "46": {
     "id": 46,
     "order": "47.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Mustafa b. Ali",
     "grocerist_id": "person__46",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6681,
+      "value": "muslim",
+      "color": "green"
+    },
+    "documents": [
+      {
+        "id": 46,
+        "value": "İSTM.ŞSC.14.d. 441/ 41a-2"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "47": {
@@ -715,37 +825,69 @@
   "48": {
     "id": 48,
     "order": "49.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Elhac Osman",
     "grocerist_id": "person__48",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6681,
+      "value": "muslim",
+      "color": "green"
+    },
+    "documents": [
+      {
+        "id": 48,
+        "value": "İSTM.ŞSC.14.d. 472 / 33b-1"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "49": {
     "id": 49,
     "order": "50.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Trandofil",
     "grocerist_id": "person__49",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6705,
+      "value": "orthodox",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 49,
+        "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "50": {
     "id": 50,
     "order": "51.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Artin",
     "grocerist_id": "person__50",
     "religion": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 50,
+        "value": "İSTM.ŞSC.14.d. 504/ 86a-2"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "51": {
     "id": 51,
     "order": "52.00000000000000000000",
-    "name": "",
+    "name": "Tanaş",
     "grocerist_id": "person__51",
-    "religion": null,
-    "documents": [],
+    "religion": {
+      "id": 6705,
+      "value": "orthodox",
+      "color": "dark-blue"
+    },
+    "documents": [
+      {
+        "id": 51,
+        "value": "İSTM.ŞSC.14.d. 507/20b-2"
+      }
+    ],
     "documents - mentioned_persons": []
   },
   "52": {
