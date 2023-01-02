@@ -6,6 +6,9 @@
     "grocerist_id": "district__4",
     "geonames_id": "https://www.geonames.org/747059/galata.html",
     "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": null,
     "documents": [
       {
         "id": 7,
@@ -107,10 +110,7 @@
         "id": 62,
         "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
       }
-    ],
-    "neighbourhood": [],
-    "neighbourhoods": [],
-    "comments": null
+    ]
   },
   "10": {
     "id": 10,
@@ -119,6 +119,9 @@
     "grocerist_id": "district__10",
     "geonames_id": "",
     "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": "",
     "documents": [
       {
         "id": 1,
@@ -128,10 +131,7 @@
         "id": 18,
         "value": "İSTM.ŞSC.14.d.249 / 9b-2"
       }
-    ],
-    "neighbourhood": [],
-    "neighbourhoods": [],
-    "comments": ""
+    ]
   },
   "5": {
     "id": 5,
@@ -140,6 +140,22 @@
     "grocerist_id": "district__5",
     "geonames_id": "",
     "wikidata_id": "",
+    "neighbourhood": [
+      {
+        "id": 5,
+        "value": "Beyoğlu"
+      },
+      {
+        "id": 9,
+        "value": "Hasan Ağa "
+      },
+      {
+        "id": 26,
+        "value": "Balık pazarı"
+      }
+    ],
+    "neighbourhoods": [],
+    "comments": null,
     "documents": [
       {
         "id": 6,
@@ -185,23 +201,7 @@
         "id": 60,
         "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
       }
-    ],
-    "neighbourhood": [
-      {
-        "id": 5,
-        "value": "Beyoğlu"
-      },
-      {
-        "id": 9,
-        "value": "Hasan Ağa "
-      },
-      {
-        "id": 26,
-        "value": "Balık pazarı"
-      }
-    ],
-    "neighbourhoods": [],
-    "comments": null
+    ]
   },
   "6": {
     "id": 6,
@@ -210,6 +210,9 @@
     "grocerist_id": "district__6",
     "geonames_id": "https://www.geonames.org/743886/kasimpasa.html",
     "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": null,
     "documents": [
       {
         "id": 4,
@@ -243,10 +246,7 @@
         "id": 49,
         "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
       }
-    ],
-    "neighbourhood": [],
-    "neighbourhoods": [],
-    "comments": null
+    ]
   },
   "7": {
     "id": 7,
@@ -255,6 +255,9 @@
     "grocerist_id": "district__7",
     "geonames_id": "https://www.geonames.org/738702/tophane.html",
     "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": null,
     "documents": [
       {
         "id": 8,
@@ -264,10 +267,7 @@
         "id": 17,
         "value": "İSTM.ŞSC.14.d. 241/ 18b-1"
       }
-    ],
-    "neighbourhood": [],
-    "neighbourhoods": [],
-    "comments": null
+    ]
   },
   "2": {
     "id": 2,
@@ -276,6 +276,14 @@
     "grocerist_id": "district__2",
     "geonames_id": "https://www.geonames.org/750733/besiktas.html",
     "wikidata_id": "",
+    "neighbourhood": [
+      {
+        "id": 23,
+        "value": "Arnavutköy"
+      }
+    ],
+    "neighbourhoods": [],
+    "comments": null,
     "documents": [
       {
         "id": 23,
@@ -297,15 +305,7 @@
         "id": 51,
         "value": "İSTM.ŞSC.14.d. 507/20b-2"
       }
-    ],
-    "neighbourhood": [
-      {
-        "id": 23,
-        "value": "Arnavutköy"
-      }
-    ],
-    "neighbourhoods": [],
-    "comments": null
+    ]
   },
   "3": {
     "id": 3,
@@ -314,6 +314,9 @@
     "grocerist_id": "district__3",
     "geonames_id": "https://www.geonames.org/747087/findikli.html",
     "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": null,
     "documents": [
       {
         "id": 19,
@@ -323,10 +326,7 @@
         "id": 45,
         "value": "İSTM.ŞSC.14.d.433 / 74b-2"
       }
-    ],
-    "neighbourhood": [],
-    "neighbourhoods": [],
-    "comments": null
+    ]
   },
   "15": {
     "id": 15,
@@ -335,15 +335,15 @@
     "grocerist_id": "district__15",
     "geonames_id": "",
     "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": "",
     "documents": [
       {
         "id": 29,
         "value": "İSTM.ŞSC.14.d.289 / 6b-2"
       }
-    ],
-    "neighbourhood": [],
-    "neighbourhoods": [],
-    "comments": ""
+    ]
   },
   "8": {
     "id": 8,
@@ -352,6 +352,26 @@
     "grocerist_id": "district__8",
     "geonames_id": "https://www.geonames.org/745039/istinye.html",
     "wikidata_id": "",
+    "neighbourhood": [
+      {
+        "id": 1,
+        "value": "Zekeriyaköy"
+      },
+      {
+        "id": 28,
+        "value": ".. Bağçesi kurbü"
+      },
+      {
+        "id": 29,
+        "value": "Yeniköy"
+      },
+      {
+        "id": 33,
+        "value": " Aya Nikoli"
+      }
+    ],
+    "neighbourhoods": [],
+    "comments": null,
     "documents": [
       {
         "id": 2,
@@ -393,27 +413,7 @@
         "id": 52,
         "value": "İSTM.ŞSC.14.d.528 / 83a-2"
       }
-    ],
-    "neighbourhood": [
-      {
-        "id": 1,
-        "value": "Zekeriyaköy"
-      },
-      {
-        "id": 28,
-        "value": ".. Bağçesi kurbü"
-      },
-      {
-        "id": 29,
-        "value": "Yeniköy"
-      },
-      {
-        "id": 33,
-        "value": " Aya Nikoli"
-      }
-    ],
-    "neighbourhoods": [],
-    "comments": null
+    ]
   },
   "9": {
     "id": 9,
@@ -422,10 +422,10 @@
     "grocerist_id": "district__9",
     "geonames_id": "",
     "wikidata_id": "",
-    "documents": [],
     "neighbourhood": [],
     "neighbourhoods": [],
-    "comments": "Former neighbourhood became a district in the 19th century."
+    "comments": "Former neighbourhood became a district in the 19th century.",
+    "documents": []
   },
   "1": {
     "id": 1,
@@ -434,15 +434,15 @@
     "grocerist_id": "district__1",
     "geonames_id": "",
     "wikidata_id": "https://www.wikidata.org/wiki/Q6089897",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": null,
     "documents": [
       {
         "id": 5,
         "value": "İSTM.ŞSC.14.d.196 / 21b-1"
       }
-    ],
-    "neighbourhood": [],
-    "neighbourhoods": [],
-    "comments": null
+    ]
   },
   "11": {
     "id": 11,
@@ -451,15 +451,15 @@
     "grocerist_id": "district__11",
     "geonames_id": "",
     "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": "",
     "documents": [
       {
         "id": 9,
         "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60"
       }
-    ],
-    "neighbourhood": [],
-    "neighbourhoods": [],
-    "comments": ""
+    ]
   },
   "14": {
     "id": 14,
@@ -468,9 +468,159 @@
     "grocerist_id": "district__14",
     "geonames_id": "",
     "wikidata_id": "",
-    "documents": [],
     "neighbourhood": [],
     "neighbourhoods": [],
-    "comments": ""
+    "comments": "",
+    "documents": []
+  },
+  "16": {
+    "id": 16,
+    "order": "15.00000000000000000000",
+    "name": "Üsküdar",
+    "grocerist_id": "district__16",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": "",
+    "documents": [
+      {
+        "id": 64,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
+      },
+      {
+        "id": 65,
+        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 66,
+        "value": "İSTM.ŞSC.06.d. 339 / 94b-1"
+      },
+      {
+        "id": 67,
+        "value": "İSTM.ŞSC.06.d.359 / 26a-1"
+      },
+      {
+        "id": 68,
+        "value": "İSTM.ŞSC.06.d. 359 / 27a-1"
+      },
+      {
+        "id": 69,
+        "value": "İSTM.ŞSC.06.d. 381 / 32b-3"
+      },
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 74,
+        "value": "İSTM.ŞSC.06.d. 442 / 20a-2"
+      },
+      {
+        "id": 75,
+        "value": "İSTM.ŞSC.06.d. 443 / 11a-1"
+      },
+      {
+        "id": 76,
+        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+      },
+      {
+        "id": 77,
+        "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
+      },
+      {
+        "id": 78,
+        "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
+      },
+      {
+        "id": 79,
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2"
+      },
+      {
+        "id": 80,
+        "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
+      },
+      {
+        "id": 81,
+        "value": "İSTM.ŞSC.06.d. 494 / 81a-1"
+      },
+      {
+        "id": 82,
+        "value": "İSTM.ŞSC.06.d. 495 / 25a-1"
+      },
+      {
+        "id": 83,
+        "value": "İSTM.ŞSC.06.d.495 / 68a-2"
+      },
+      {
+        "id": 84,
+        "value": "İSTM.ŞSC.06.d. 501 / 22b-3"
+      },
+      {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
+      },
+      {
+        "id": 86,
+        "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
+      },
+      {
+        "id": 87,
+        "value": "İSTM.ŞSC.06.d. 548 / 43a-2"
+      },
+      {
+        "id": 88,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+      },
+      {
+        "id": 89,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
+      },
+      {
+        "id": 90,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "order": "16.00000000000000000000",
+    "name": "Valide-i Cedid Camii",
+    "grocerist_id": "district__17",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": "",
+    "documents": [
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "order": "17.00000000000000000000",
+    "name": "Yeni",
+    "grocerist_id": "district__18",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": "",
+    "documents": []
   }
 }
