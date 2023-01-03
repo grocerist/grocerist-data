@@ -138,9 +138,21 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": "Wife: Aişe bt. Hasan\nSon: Mehmed",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "son",
+        "color": "light-gray"
+      }
+    ],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "2": {
     "id": 2,
@@ -285,9 +297,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": "No heirs\nBeytülmal emini Süleyman Ağa b. Selim",
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "3": {
     "id": 3,
@@ -315,9 +328,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "4": {
     "id": 4,
@@ -494,9 +508,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": "No heirs\nBeytülmal emini Yusuf Ağa",
-    "year_of_creation": "H. 1115 M. 1703-1704",
-    "karye": null
+    "mentioned_persons": [],
+    "year_of_creation": "1115",
+    "karye": null,
+    "miladi": "1703-1704"
   },
   "5": {
     "id": 5,
@@ -629,9 +644,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1115 M. 1703-1704",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "6": {
     "id": 6,
@@ -716,9 +732,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1123 M. 1711-1712",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "7": {
     "id": 7,
@@ -795,9 +812,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1123 M. 1711-1712",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "8": {
     "id": 8,
@@ -941,9 +959,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H 1124 M.1712-1713",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "9": {
     "id": 9,
@@ -988,9 +1007,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1125 M. 1713-1714",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "10": {
     "id": 10,
@@ -1079,9 +1099,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1125 M. 1713-1714",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "11": {
     "id": 11,
@@ -1226,9 +1247,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1126 M. 1714-1715",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "12": {
     "id": 12,
@@ -1293,9 +1315,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1128 M. 1715-1716",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "13": {
     "id": 13,
@@ -1408,9 +1431,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "14": {
     "id": 14,
@@ -1547,9 +1571,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1129 M. 1716-1717",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "15": {
     "id": 15,
@@ -1694,9 +1719,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1129 M. 1716-1717",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "16": {
     "id": 16,
@@ -1789,9 +1815,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H.1130 M. 1717-1718",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "17": {
     "id": 17,
@@ -1814,9 +1841,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "18": {
     "id": 18,
@@ -1893,9 +1921,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1144 M. 1731-1732",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "19": {
     "id": 19,
@@ -1923,9 +1952,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "0",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "20": {
     "id": 20,
@@ -1982,9 +2012,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1133 M 1720-1721",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "21": {
     "id": 21,
@@ -2007,13 +2038,14 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "0",
     "karye": {
       "id": 6775,
       "value": "Karye-i Cedid",
       "color": "dark-gray"
-    }
+    },
+    "miladi": null
   },
   "22": {
     "id": 22,
@@ -2150,9 +2182,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1135 M. 1722-1723",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "23": {
     "id": 23,
@@ -2184,9 +2217,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "24": {
     "id": 24,
@@ -2323,9 +2357,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1141 M. 1728-1729",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "25": {
     "id": 25,
@@ -2509,9 +2544,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1142 M. 1729-1730",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "26": {
     "id": 26,
@@ -2632,9 +2668,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1142 M. 1729-1730",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "27": {
     "id": 27,
@@ -2775,9 +2812,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1145 M. 1732-1733",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "28": {
     "id": 28,
@@ -2914,9 +2952,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1144 M. 1731-1732",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "29": {
     "id": 29,
@@ -3069,9 +3108,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "30": {
     "id": 30,
@@ -3172,9 +3212,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "31": {
     "id": 31,
@@ -3339,9 +3380,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1152 M. 1739-1740",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "32": {
     "id": 32,
@@ -3364,9 +3406,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "33": {
     "id": 33,
@@ -3389,13 +3432,14 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
     "karye": {
       "id": 6773,
       "value": "Arnavud",
       "color": "light-gray"
-    }
+    },
+    "miladi": null
   },
   "34": {
     "id": 34,
@@ -3423,9 +3467,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "35": {
     "id": 35,
@@ -3457,9 +3502,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "36": {
     "id": 36,
@@ -3572,9 +3618,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "37": {
     "id": 37,
@@ -3597,13 +3644,14 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
     "karye": {
       "id": 6773,
       "value": "Arnavud",
       "color": "light-gray"
-    }
+    },
+    "miladi": null
   },
   "38": {
     "id": 38,
@@ -3740,9 +3788,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1186 M. 1772-1773",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "39": {
     "id": 39,
@@ -3765,9 +3814,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "40": {
     "id": 40,
@@ -3799,13 +3849,14 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H: 1183 M. 1769-1770",
     "karye": {
       "id": 6774,
       "value": "Zekeriya",
       "color": "green"
-    }
+    },
+    "miladi": null
   },
   "41": {
     "id": 41,
@@ -3905,13 +3956,14 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1142 M. 1729-1730",
     "karye": {
       "id": 6773,
       "value": "Arnavud",
       "color": "light-gray"
-    }
+    },
+    "miladi": null
   },
   "42": {
     "id": 42,
@@ -3939,9 +3991,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "43": {
     "id": 43,
@@ -3969,9 +4022,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "44": {
     "id": 44,
@@ -3999,9 +4053,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "45": {
     "id": 45,
@@ -4090,9 +4145,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1191 M. 1777-1778",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "46": {
     "id": 46,
@@ -4120,9 +4176,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "H. 1192 M. 1778-1779",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "47": {
     "id": 47,
@@ -4227,9 +4284,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "48": {
     "id": 48,
@@ -4257,9 +4315,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "49": {
     "id": 49,
@@ -4287,9 +4346,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "50": {
     "id": 50,
@@ -4317,9 +4377,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "51": {
     "id": 51,
@@ -4346,13 +4407,14 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
     "karye": {
       "id": 6773,
       "value": "Arnavud",
       "color": "light-gray"
-    }
+    },
+    "miladi": null
   },
   "52": {
     "id": 52,
@@ -4445,9 +4507,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "59": {
     "id": 59,
@@ -4532,9 +4595,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "60": {
     "id": 60,
@@ -4643,9 +4707,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "61": {
     "id": 61,
@@ -4766,9 +4831,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "62": {
     "id": 62,
@@ -4833,9 +4899,10 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "64": {
     "id": 64,
@@ -4863,9 +4930,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "65": {
     "id": 65,
@@ -4888,13 +4956,14 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
     "karye": {
       "id": 6786,
       "value": "Bit Pazarı",
       "color": "green"
-    }
+    },
+    "miladi": null
   },
   "66": {
     "id": 66,
@@ -4917,9 +4986,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "67": {
     "id": 67,
@@ -4942,9 +5012,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "68": {
     "id": 68,
@@ -4967,13 +5038,14 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
     "karye": {
       "id": 6777,
       "value": "Kuzguncuk",
       "color": "red"
-    }
+    },
+    "miladi": null
   },
   "69": {
     "id": 69,
@@ -4996,13 +5068,14 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
     "karye": {
       "id": 6778,
       "value": "Kadı",
       "color": "dark-blue"
-    }
+    },
+    "miladi": null
   },
   "70": {
     "id": 70,
@@ -5030,13 +5103,14 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
     "karye": {
       "id": 6779,
       "value": "Eski Hamam",
       "color": "orange"
-    }
+    },
+    "miladi": null
   },
   "71": {
     "id": 71,
@@ -5058,9 +5132,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "72": {
     "id": 72,
@@ -5088,9 +5163,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "73": {
     "id": 73,
@@ -5118,9 +5194,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "74": {
     "id": 74,
@@ -5148,9 +5225,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "75": {
     "id": 75,
@@ -5173,9 +5251,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "76": {
     "id": 76,
@@ -5203,9 +5282,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "77": {
     "id": 77,
@@ -5237,9 +5317,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "78": {
     "id": 78,
@@ -5262,13 +5343,14 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
     "karye": {
       "id": 6780,
       "value": "Hünkar",
       "color": "dark-red"
-    }
+    },
+    "miladi": null
   },
   "79": {
     "id": 79,
@@ -5291,13 +5373,14 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
     "karye": {
       "id": 6777,
       "value": "Kuzguncuk",
       "color": "red"
-    }
+    },
+    "miladi": null
   },
   "80": {
     "id": 80,
@@ -5320,9 +5403,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "81": {
     "id": 81,
@@ -5350,9 +5434,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "82": {
     "id": 82,
@@ -5380,9 +5465,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "83": {
     "id": 83,
@@ -5410,9 +5496,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "84": {
     "id": 84,
@@ -5435,13 +5522,14 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
     "karye": {
       "id": 6780,
       "value": "Hünkar",
       "color": "dark-red"
-    }
+    },
+    "miladi": null
   },
   "85": {
     "id": 85,
@@ -5473,9 +5561,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "86": {
     "id": 86,
@@ -5503,9 +5592,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "87": {
     "id": 87,
@@ -5533,9 +5623,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "88": {
     "id": 88,
@@ -5563,9 +5654,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "89": {
     "id": 89,
@@ -5583,9 +5675,10 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   },
   "90": {
     "id": 90,
@@ -5608,8 +5701,9 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": null,
+    "mentioned_persons": [],
     "year_of_creation": "",
-    "karye": null
+    "karye": null,
+    "miladi": null
   }
 }
