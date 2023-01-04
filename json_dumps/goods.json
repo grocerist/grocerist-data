@@ -587,7 +587,7 @@
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "name": "Kaşkaval",
+    "name": "Kashkaval",
     "gorcerist_id": "goods__9",
     "has_category": [
       {
@@ -1678,7 +1678,7 @@
     ],
     "turkish_names": "",
     "spelling_variations and synonyms": "",
-    "Notes": null
+    "Notes": "a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)"
   },
   "25": {
     "id": 25,
@@ -2917,7 +2917,7 @@
       }
     ],
     "turkish_names": "",
-    "spelling_variations and synonyms": "",
+    "spelling_variations and synonyms": "Wheat grains prepeared like rice or like pearl-barly (redhouse p. 463)",
     "Notes": null
   },
   "46": {
@@ -3718,6 +3718,11 @@
         "id": 6750,
         "value": "Non-foods",
         "color": "light-blue"
+      },
+      {
+        "id": 6794,
+        "value": "Durable Goods",
+        "color": "dark-red"
       }
     ],
     "documents": [

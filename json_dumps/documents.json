@@ -45,7 +45,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -141,18 +141,18 @@
     "mentioned_persons": [
       {
         "id": 6787,
-        "value": "wife",
+        "value": "Wife",
         "color": "dark-orange"
       },
       {
         "id": 6788,
-        "value": "son",
+        "value": "Son",
         "color": "light-gray"
       }
     ],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "2": {
     "id": 2,
@@ -166,6 +166,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 8,
         "value": "İstinye"
@@ -192,7 +196,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -297,10 +301,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "3": {
     "id": 3,
@@ -314,6 +324,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 8,
         "value": "İstinye"
@@ -329,9 +343,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "4": {
     "id": 4,
@@ -345,6 +359,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 6,
         "value": "Kasımpaşa"
@@ -379,7 +397,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 12,
@@ -508,10 +526,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "1115",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "1115",
     "karye": null,
-    "miladi": "1703-1704"
+    "year_of_creation/Miladi": "1703-1704"
   },
   "5": {
     "id": 5,
@@ -525,6 +549,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 1,
         "value": "Azapkapısı Harici"
@@ -555,7 +583,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -644,10 +672,26 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1115 M. 1703-1704",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
+    "year_of_creation/Hicri": "1115",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1703-1704"
   },
   "6": {
     "id": 6,
@@ -732,10 +776,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1123 M. 1711-1712",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "1123",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1711-1712"
   },
   "7": {
     "id": 7,
@@ -775,7 +825,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -812,10 +862,21 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1123 M. 1711-1712",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6795,
+        "value": "Fetus",
+        "color": "red"
+      }
+    ],
+    "year_of_creation/Hicri": "1123",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1711-1712"
   },
   "8": {
     "id": 8,
@@ -829,6 +890,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 7,
         "value": "Tophane"
@@ -854,7 +919,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 12,
@@ -959,10 +1024,26 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H 1124 M.1712-1713",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
+    "year_of_creation/Hicri": "1124",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1712-1713"
   },
   "9": {
     "id": 9,
@@ -976,6 +1057,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 11,
         "value": "Kurşunlu Mahzen Kapısı dahili"
@@ -1007,10 +1092,26 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1125 M. 1713-1714",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6795,
+        "value": "Fetus",
+        "color": "red"
+      }
+    ],
+    "year_of_creation/Hicri": "1125",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1713-1714"
   },
   "10": {
     "id": 10,
@@ -1099,10 +1200,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1125 M. 1713-1714",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "1125",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1713-1714"
   },
   "11": {
     "id": 11,
@@ -1146,7 +1253,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -1247,10 +1354,26 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1126 M. 1714-1715",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6791,
+        "value": "Father",
+        "color": "light-red"
+      }
+    ],
+    "year_of_creation/Hicri": "1126",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1714-1715"
   },
   "12": {
     "id": 12,
@@ -1315,10 +1438,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1128 M. 1715-1716",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      }
+    ],
+    "year_of_creation/Hicri": "1128",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1715-1716"
   },
   "13": {
     "id": 13,
@@ -1358,7 +1487,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 12,
@@ -1431,10 +1560,26 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6790,
+        "value": "Mother",
+        "color": "gray"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      }
+    ],
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "14": {
     "id": 14,
@@ -1470,7 +1615,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -1571,10 +1716,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1129 M. 1716-1717",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "1129",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1716-1717"
   },
   "15": {
     "id": 15,
@@ -1614,7 +1765,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -1719,10 +1870,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1129 M. 1716-1717",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "1129",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1716-1717"
   },
   "16": {
     "id": 16,
@@ -1736,6 +1893,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 6,
         "value": "Kasımpaşa"
@@ -1754,7 +1915,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -1815,10 +1976,26 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H.1130 M. 1717-1718",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6796,
+        "value": "Brother",
+        "color": "dark-green"
+      }
+    ],
+    "year_of_creation/Hicri": "1130",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1717-1718"
   },
   "17": {
     "id": 17,
@@ -1827,6 +2004,10 @@
     "grocerist_id": "document__17",
     "shop_owner": [],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 7,
         "value": "Tophane"
@@ -1842,9 +2023,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "18": {
     "id": 18,
@@ -1921,10 +2102,31 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1144 M. 1731-1732",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6790,
+        "value": "Mother",
+        "color": "gray"
+      }
+    ],
+    "year_of_creation/Hicri": "1144",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1731-1732"
   },
   "19": {
     "id": 19,
@@ -1938,6 +2140,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 3,
         "value": "Fındıklı"
@@ -1953,9 +2159,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "0",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "20": {
     "id": 20,
@@ -1969,6 +2175,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 6,
         "value": "Kasımpaşa"
@@ -2012,10 +2222,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1133 M 1720-1721",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "1133",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1720-1721"
   },
   "21": {
     "id": 21,
@@ -2039,13 +2255,13 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "0",
+    "year_of_creation/Hicri": "",
     "karye": {
       "id": 6775,
       "value": "Karye-i Cedid",
       "color": "dark-gray"
     },
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "22": {
     "id": 22,
@@ -2093,7 +2309,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 12,
@@ -2182,10 +2398,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1135 M. 1722-1723",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "1135",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1722-1723"
   },
   "23": {
     "id": 23,
@@ -2218,9 +2440,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "24": {
     "id": 24,
@@ -2357,10 +2579,26 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1141 M. 1728-1729",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
+    "year_of_creation/Hicri": "1141",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1728-1729"
   },
   "25": {
     "id": 25,
@@ -2399,7 +2637,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -2544,10 +2782,26 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1142 M. 1729-1730",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6790,
+        "value": "Mother",
+        "color": "gray"
+      }
+    ],
+    "year_of_creation/Hicri": "1142",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1729-1730"
   },
   "26": {
     "id": 26,
@@ -2591,7 +2845,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -2668,10 +2922,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1142 M. 1729-1730",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "1142",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1729-1730"
   },
   "27": {
     "id": 27,
@@ -2723,7 +2983,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -2812,10 +3072,26 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1145 M. 1732-1733",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
+    "year_of_creation/Hicri": "1145",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1732-1733"
   },
   "28": {
     "id": 28,
@@ -2952,10 +3228,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1144 M. 1731-1732",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "1144",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1731-1732"
   },
   "29": {
     "id": 29,
@@ -3108,10 +3390,31 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "30": {
     "id": 30,
@@ -3212,10 +3515,21 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      }
+    ],
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "31": {
     "id": 31,
@@ -3267,7 +3581,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -3380,10 +3694,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1152 M. 1739-1740",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "1152",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1739-1740"
   },
   "32": {
     "id": 32,
@@ -3407,9 +3727,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "33": {
     "id": 33,
@@ -3424,6 +3744,10 @@
     ],
     "district": [
       {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
         "id": 2,
         "value": "Beşiktaş"
       }
@@ -3433,13 +3757,13 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": {
       "id": 6773,
       "value": "Arnavud",
       "color": "light-gray"
     },
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "34": {
     "id": 34,
@@ -3453,6 +3777,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 6,
         "value": "Kasımpaşa"
@@ -3468,9 +3796,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "35": {
     "id": 35,
@@ -3484,6 +3812,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 8,
         "value": "İstinye"
@@ -3503,9 +3835,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "36": {
     "id": 36,
@@ -3545,7 +3877,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 12,
@@ -3618,10 +3950,26 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6797,
+        "value": "Sister",
+        "color": "orange"
+      }
+    ],
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "37": {
     "id": 37,
@@ -3636,6 +3984,10 @@
     ],
     "district": [
       {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
         "id": 2,
         "value": "Beşiktaş"
       }
@@ -3645,13 +3997,13 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": {
       "id": 6773,
       "value": "Arnavud",
       "color": "light-gray"
     },
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "38": {
     "id": 38,
@@ -3789,9 +4141,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "H. 1186 M. 1772-1773",
+    "year_of_creation/Hicri": "1186",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1772-1773"
   },
   "39": {
     "id": 39,
@@ -3800,6 +4152,10 @@
     "grocerist_id": "document__39",
     "shop_owner": [],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 8,
         "value": "İstinye"
@@ -3815,9 +4171,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "40": {
     "id": 40,
@@ -3849,14 +4205,30 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H: 1183 M. 1769-1770",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
+    "year_of_creation/Hicri": "1183",
     "karye": {
       "id": 6774,
       "value": "Zekeriya",
       "color": "green"
     },
-    "miladi": null
+    "year_of_creation/Miladi": "1769-1770"
   },
   "41": {
     "id": 41,
@@ -3891,7 +4263,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 10,
@@ -3956,14 +4328,30 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "H. 1142 M. 1729-1730",
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
+    "year_of_creation/Hicri": "1142",
     "karye": {
       "id": 6773,
       "value": "Arnavud",
       "color": "light-gray"
     },
-    "miladi": null
+    "year_of_creation/Miladi": "1729-1730"
   },
   "42": {
     "id": 42,
@@ -3992,9 +4380,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "43": {
     "id": 43,
@@ -4023,9 +4411,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "44": {
     "id": 44,
@@ -4039,6 +4427,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 8,
         "value": "İstinye"
@@ -4054,9 +4446,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "45": {
     "id": 45,
@@ -4146,9 +4538,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "H. 1191 M. 1777-1778",
+    "year_of_creation/Hicri": "1191",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1777-1778"
   },
   "46": {
     "id": 46,
@@ -4177,9 +4569,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "H. 1192 M. 1778-1779",
+    "year_of_creation/Hicri": "1192",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": "1778-1779"
   },
   "47": {
     "id": 47,
@@ -4284,10 +4676,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "48": {
     "id": 48,
@@ -4301,6 +4699,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 6,
         "value": "Kasımpaşa"
@@ -4316,9 +4718,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "49": {
     "id": 49,
@@ -4332,6 +4734,10 @@
       }
     ],
     "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 6,
         "value": "Kasımpaşa"
@@ -4347,9 +4753,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "50": {
     "id": 50,
@@ -4378,9 +4784,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "51": {
     "id": 51,
@@ -4408,13 +4814,13 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": {
       "id": 6773,
       "value": "Arnavud",
       "color": "light-gray"
     },
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "52": {
     "id": 52,
@@ -4507,10 +4913,16 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation": "",
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "59": {
     "id": 59,
@@ -4546,7 +4958,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 12,
@@ -4596,9 +5008,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "60": {
     "id": 60,
@@ -4638,7 +5050,7 @@
       },
       {
         "id": 9,
-        "value": "Kaşkaval"
+        "value": "Kashkaval"
       },
       {
         "id": 13,
@@ -4708,9 +5120,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "61": {
     "id": 61,
@@ -4832,9 +5244,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "62": {
     "id": 62,
@@ -4900,9 +5312,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "64": {
     "id": 64,
@@ -4931,9 +5343,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "65": {
     "id": 65,
@@ -4957,13 +5369,13 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": {
       "id": 6786,
       "value": "Bit Pazarı",
       "color": "green"
     },
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "66": {
     "id": 66,
@@ -4987,9 +5399,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "67": {
     "id": 67,
@@ -5013,9 +5425,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "68": {
     "id": 68,
@@ -5039,13 +5451,13 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": {
       "id": 6777,
       "value": "Kuzguncuk",
       "color": "red"
     },
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "69": {
     "id": 69,
@@ -5069,13 +5481,13 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": {
       "id": 6778,
       "value": "Kadı",
       "color": "dark-blue"
     },
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "70": {
     "id": 70,
@@ -5104,13 +5516,13 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": {
       "id": 6779,
       "value": "Eski Hamam",
       "color": "orange"
     },
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "71": {
     "id": 71,
@@ -5133,9 +5545,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "72": {
     "id": 72,
@@ -5164,9 +5576,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "73": {
     "id": 73,
@@ -5195,9 +5607,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "74": {
     "id": 74,
@@ -5226,9 +5638,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "75": {
     "id": 75,
@@ -5252,9 +5664,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "76": {
     "id": 76,
@@ -5283,9 +5695,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "77": {
     "id": 77,
@@ -5318,9 +5730,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "78": {
     "id": 78,
@@ -5344,13 +5756,13 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": {
       "id": 6780,
       "value": "Hünkar",
       "color": "dark-red"
     },
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "79": {
     "id": 79,
@@ -5374,13 +5786,13 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": {
       "id": 6777,
       "value": "Kuzguncuk",
       "color": "red"
     },
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "80": {
     "id": 80,
@@ -5404,9 +5816,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "81": {
     "id": 81,
@@ -5435,9 +5847,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "82": {
     "id": 82,
@@ -5466,9 +5878,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "83": {
     "id": 83,
@@ -5497,9 +5909,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "84": {
     "id": 84,
@@ -5523,13 +5935,13 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": {
       "id": 6780,
       "value": "Hünkar",
       "color": "dark-red"
     },
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "85": {
     "id": 85,
@@ -5562,9 +5974,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "86": {
     "id": 86,
@@ -5593,9 +6005,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "87": {
     "id": 87,
@@ -5624,9 +6036,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "88": {
     "id": 88,
@@ -5655,9 +6067,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "89": {
     "id": 89,
@@ -5676,9 +6088,9 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   },
   "90": {
     "id": 90,
@@ -5702,8 +6114,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation": "",
+    "year_of_creation/Hicri": "",
     "karye": null,
-    "miladi": null
+    "year_of_creation/Miladi": null
   }
 }
