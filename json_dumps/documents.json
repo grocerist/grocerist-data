@@ -6227,7 +6227,148 @@
         "value": "Köprübaşı"
       }
     ],
-    "goods": [],
+    "goods": [
+      {
+        "id": 2,
+        "value": "Pistachio"
+      },
+      {
+        "id": 3,
+        "value": "Almond"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 9,
+        "value": "Kashkaval"
+      },
+      {
+        "id": 10,
+        "value": "Tulum"
+      },
+      {
+        "id": 12,
+        "value": "Pea"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 14,
+        "value": "Lentil"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 24,
+        "value": "Nardenk"
+      },
+      {
+        "id": 25,
+        "value": "Honey"
+      },
+      {
+        "id": 27,
+        "value": "Starch"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 30,
+        "value": "Salt"
+      },
+      {
+        "id": 33,
+        "value": "Kefe salt"
+      },
+      {
+        "id": 34,
+        "value": "Olive"
+      },
+      {
+        "id": 36,
+        "value": "Vermicelli"
+      },
+      {
+        "id": 38,
+        "value": "Caviar"
+      },
+      {
+        "id": 46,
+        "value": "Barley"
+      },
+      {
+        "id": 59,
+        "value": "Egg"
+      },
+      {
+        "id": 64,
+        "value": "Smashed salt"
+      },
+      {
+        "id": 74,
+        "value": "Mersin balığı"
+      },
+      {
+        "id": 78,
+        "value": "Pickled peppers"
+      },
+      {
+        "id": 99,
+        "value": "Lemon"
+      },
+      {
+        "id": 119,
+        "value": "Sack"
+      },
+      {
+        "id": 130,
+        "value": "Jar"
+      },
+      {
+        "id": 146,
+        "value": "Wood"
+      },
+      {
+        "id": 155,
+        "value": "Broad bean"
+      },
+      {
+        "id": 158,
+        "value": "Candle wax"
+      },
+      {
+        "id": 174,
+        "value": "Turşu yaprağı"
+      },
+      {
+        "id": 199,
+        "value": "Trablus soap"
+      },
+      {
+        "id": 200,
+        "value": "Paper"
+      },
+      {
+        "id": 201,
+        "value": "Radish"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -6253,7 +6394,96 @@
       }
     ],
     "neighbourhood": [],
-    "goods": [],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 2,
+        "value": "Pistachio"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 10,
+        "value": "Tulum"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 21,
+        "value": "Figs"
+      },
+      {
+        "id": 24,
+        "value": "Nardenk"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 30,
+        "value": "Salt"
+      },
+      {
+        "id": 44,
+        "value": "Wheat"
+      },
+      {
+        "id": 45,
+        "value": "Bulgur"
+      },
+      {
+        "id": 46,
+        "value": "Barley"
+      },
+      {
+        "id": 51,
+        "value": "Linden"
+      },
+      {
+        "id": 53,
+        "value": "Flour"
+      },
+      {
+        "id": 67,
+        "value": "Pepper"
+      },
+      {
+        "id": 101,
+        "value": "Bean"
+      },
+      {
+        "id": 122,
+        "value": "Mug"
+      },
+      {
+        "id": 129,
+        "value": "Çömlek"
+      },
+      {
+        "id": 158,
+        "value": "Candle wax"
+      },
+      {
+        "id": 160,
+        "value": "Üzüm"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -6313,7 +6543,116 @@
       }
     ],
     "neighbourhood": [],
-    "goods": [],
+    "goods": [
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 9,
+        "value": "Kashkaval"
+      },
+      {
+        "id": 10,
+        "value": "Tulum"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 14,
+        "value": "Lentil"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 17,
+        "value": "Beylerce"
+      },
+      {
+        "id": 18,
+        "value": "Razaki"
+      },
+      {
+        "id": 20,
+        "value": "Siyah"
+      },
+      {
+        "id": 22,
+        "value": "Carob"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 24,
+        "value": "Nardenk"
+      },
+      {
+        "id": 25,
+        "value": "Honey"
+      },
+      {
+        "id": 27,
+        "value": "Starch"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 30,
+        "value": "Salt"
+      },
+      {
+        "id": 34,
+        "value": "Olive"
+      },
+      {
+        "id": 36,
+        "value": "Vermicelli"
+      },
+      {
+        "id": 40,
+        "value": "Pickled cabbage"
+      },
+      {
+        "id": 45,
+        "value": "Bulgur"
+      },
+      {
+        "id": 64,
+        "value": "Smashed salt"
+      },
+      {
+        "id": 88,
+        "value": "Pearl onion"
+      },
+      {
+        "id": 115,
+        "value": "Zenbil"
+      },
+      {
+        "id": 130,
+        "value": "Jar"
+      },
+      {
+        "id": 147,
+        "value": "Coal"
+      },
+      {
+        "id": 189,
+        "value": "Tarhana"
+      },
+      {
+        "id": 202,
+        "value": "Lob fig"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -6432,7 +6771,72 @@
       }
     ],
     "neighbourhood": [],
-    "goods": [],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 4,
+        "value": "Walnut"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 18,
+        "value": "Razaki"
+      },
+      {
+        "id": 20,
+        "value": "Siyah"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 24,
+        "value": "Nardenk"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 31,
+        "value": "Garlic"
+      },
+      {
+        "id": 45,
+        "value": "Bulgur"
+      },
+      {
+        "id": 64,
+        "value": "Smashed salt"
+      },
+      {
+        "id": 175,
+        "value": "Chestnut"
+      },
+      {
+        "id": 204,
+        "value": "Broom"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -6471,7 +6875,164 @@
         "value": "Kasım Ağa Çeşmesi kurbü"
       }
     ],
-    "goods": [],
+    "goods": [
+      {
+        "id": 2,
+        "value": "Pistachio"
+      },
+      {
+        "id": 3,
+        "value": "Almond"
+      },
+      {
+        "id": 4,
+        "value": "Walnut"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 9,
+        "value": "Kashkaval"
+      },
+      {
+        "id": 10,
+        "value": "Tulum"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 14,
+        "value": "Lentil"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 18,
+        "value": "Razaki"
+      },
+      {
+        "id": 20,
+        "value": "Siyah"
+      },
+      {
+        "id": 21,
+        "value": "Figs"
+      },
+      {
+        "id": 22,
+        "value": "Carob"
+      },
+      {
+        "id": 24,
+        "value": "Nardenk"
+      },
+      {
+        "id": 25,
+        "value": "Honey"
+      },
+      {
+        "id": 27,
+        "value": "Starch"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 30,
+        "value": "Salt"
+      },
+      {
+        "id": 33,
+        "value": "Kefe salt"
+      },
+      {
+        "id": 34,
+        "value": "Olive"
+      },
+      {
+        "id": 36,
+        "value": "Vermicelli"
+      },
+      {
+        "id": 37,
+        "value": "Pickled fish"
+      },
+      {
+        "id": 42,
+        "value": "Eflak salt"
+      },
+      {
+        "id": 46,
+        "value": "Barley"
+      },
+      {
+        "id": 53,
+        "value": "Flour"
+      },
+      {
+        "id": 58,
+        "value": "Currant"
+      },
+      {
+        "id": 96,
+        "value": "Pestil"
+      },
+      {
+        "id": 101,
+        "value": "Bean"
+      },
+      {
+        "id": 112,
+        "value": "Candle"
+      },
+      {
+        "id": 122,
+        "value": "Mug"
+      },
+      {
+        "id": 129,
+        "value": "Çömlek"
+      },
+      {
+        "id": 146,
+        "value": "Wood"
+      },
+      {
+        "id": 151,
+        "value": "String"
+      },
+      {
+        "id": 158,
+        "value": "Candle wax"
+      },
+      {
+        "id": 174,
+        "value": "Turşu yaprağı"
+      },
+      {
+        "id": 204,
+        "value": "Broom"
+      },
+      {
+        "id": 207,
+        "value": "Zeyt yağı bardağı"
+      },
+      {
+        "id": 214,
+        "value": "Nardenk destisi"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -6502,7 +7063,72 @@
         "value": "Hüseyin Ağa"
       }
     ],
-    "goods": [],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 25,
+        "value": "Honey"
+      },
+      {
+        "id": 27,
+        "value": "Starch"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 34,
+        "value": "Olive"
+      },
+      {
+        "id": 36,
+        "value": "Vermicelli"
+      },
+      {
+        "id": 42,
+        "value": "Eflak salt"
+      },
+      {
+        "id": 45,
+        "value": "Bulgur"
+      },
+      {
+        "id": 108,
+        "value": "Soap"
+      },
+      {
+        "id": 142,
+        "value": "Eflak honey"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -7063,7 +7689,7 @@
       },
       {
         "id": 177,
-        "value": "Leblebi"
+        "value": "Roasted chickpea"
       },
       {
         "id": 178,
