@@ -7190,7 +7190,12 @@
         "value": "Kefere"
       }
     ],
-    "goods": [],
+    "goods": [
+      {
+        "id": 41,
+        "value": "Daru"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
