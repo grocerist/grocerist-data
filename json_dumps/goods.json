@@ -8803,5 +8803,27 @@
     "turkish_names": "",
     "spelling_variations and synonyms": "",
     "Notes": ""
+  },
+  "216": {
+    "id": 216,
+    "order": "211.00000000000000000000",
+    "name": "Meydan süpürgesi",
+    "gorcerist_id": "goods__216",
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      },
+      {
+        "id": 6798,
+        "value": "Broom Assortment",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
   }
 }
