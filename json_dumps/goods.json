@@ -7511,7 +7511,7 @@
   "164": {
     "id": 164,
     "order": "161.00000000000000000000",
-    "name": "Girit olives",
+    "name": "Createn olives",
     "gorcerist_id": "goods__164",
     "has_category": [
       {
@@ -8551,6 +8551,11 @@
         "id": 6750,
         "value": "Non-foods",
         "color": "light-blue"
+      },
+      {
+        "id": 6798,
+        "value": "Broom Assortment",
+        "color": "dark-gray"
       }
     ],
     "documents": [
@@ -8770,6 +8775,11 @@
         "id": 6751,
         "value": "Utensils",
         "color": "dark-blue"
+      },
+      {
+        "id": 6794,
+        "value": "Durable Goods",
+        "color": "dark-red"
       }
     ],
     "documents": [
@@ -8792,6 +8802,11 @@
         "id": 6751,
         "value": "Utensils",
         "color": "dark-blue"
+      },
+      {
+        "id": 6794,
+        "value": "Durable Goods",
+        "color": "dark-red"
       }
     ],
     "documents": [
