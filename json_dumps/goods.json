@@ -3846,6 +3846,10 @@
       {
         "id": 89,
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
       }
     ],
     "turkish_names": "",
@@ -4105,6 +4109,10 @@
       {
         "id": 78,
         "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
       }
     ],
     "turkish_names": "Ihlamur",
@@ -4191,6 +4199,10 @@
       {
         "id": 90,
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
       }
     ],
     "turkish_names": "Un, Dakik",
@@ -6325,6 +6337,10 @@
       {
         "id": 91,
         "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
       }
     ],
     "turkish_names": "Desti",
@@ -6707,6 +6723,10 @@
       {
         "id": 91,
         "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
       }
     ],
     "turkish_names": "Kavanoz",
@@ -7218,6 +7238,10 @@
       {
         "id": 85,
         "value": "İSTM.ŞSC.06.d.505 / 83a-3"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
       }
     ],
     "turkish_names": "Sicim",
@@ -8837,6 +8861,50 @@
       }
     ],
     "documents": [],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "217": {
+    "id": 217,
+    "order": "212.00000000000000000000",
+    "name": "Urgan",
+    "gorcerist_id": "goods__217",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "218": {
+    "id": 218,
+    "order": "213.00000000000000000000",
+    "name": "Torba",
+    "gorcerist_id": "goods__218",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
+      }
+    ],
     "turkish_names": "",
     "spelling_variations and synonyms": "",
     "Notes": ""

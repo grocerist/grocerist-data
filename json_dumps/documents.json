@@ -7819,7 +7819,40 @@
       }
     ],
     "neighbourhood": [],
-    "goods": [],
+    "goods": [
+      {
+        "id": 45,
+        "value": "Bulgur"
+      },
+      {
+        "id": 51,
+        "value": "Linden"
+      },
+      {
+        "id": 53,
+        "value": "Flour"
+      },
+      {
+        "id": 121,
+        "value": "Jug"
+      },
+      {
+        "id": 130,
+        "value": "Jar"
+      },
+      {
+        "id": 151,
+        "value": "String"
+      },
+      {
+        "id": 217,
+        "value": "Urgan"
+      },
+      {
+        "id": 218,
+        "value": "Torba"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -7874,27 +7907,6 @@
     "order": "92.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 196 / 15a-2",
     "grocerist_id": "document__98",
-    "shop_owner": [],
-    "district": [
-      {
-        "id": 19,
-        "value": "Eyüp"
-      }
-    ],
-    "neighbourhood": [],
-    "goods": [],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation/Hicri": "",
-    "karye": null,
-    "year_of_creation/Miladi": ""
-  },
-  "99": {
-    "id": 99,
-    "order": "93.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.15.d. 204 / 48a-2",
-    "grocerist_id": "document__99",
     "shop_owner": [],
     "district": [
       {
