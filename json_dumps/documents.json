@@ -7821,8 +7821,28 @@
     "neighbourhood": [],
     "goods": [
       {
+        "id": 14,
+        "value": "Lentil"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 30,
+        "value": "Salt"
+      },
+      {
+        "id": 41,
+        "value": "Daru"
+      },
+      {
         "id": 45,
         "value": "Bulgur"
+      },
+      {
+        "id": 46,
+        "value": "Barley"
       },
       {
         "id": 51,
@@ -7833,16 +7853,68 @@
         "value": "Flour"
       },
       {
+        "id": 114,
+        "value": "Barrel"
+      },
+      {
+        "id": 115,
+        "value": "Zenbil"
+      },
+      {
+        "id": 120,
+        "value": "Steelyard"
+      },
+      {
         "id": 121,
         "value": "Jug"
+      },
+      {
+        "id": 128,
+        "value": "Flat tray"
       },
       {
         "id": 130,
         "value": "Jar"
       },
       {
+        "id": 134,
+        "value": "Bucket"
+      },
+      {
+        "id": 135,
+        "value": "Pot"
+      },
+      {
+        "id": 136,
+        "value": "Potna"
+      },
+      {
+        "id": 139,
+        "value": "Basket"
+      },
+      {
+        "id": 140,
+        "value": "Knife"
+      },
+      {
+        "id": 144,
+        "value": "Piştahta"
+      },
+      {
         "id": 151,
         "value": "String"
+      },
+      {
+        "id": 167,
+        "value": "Havan"
+      },
+      {
+        "id": 204,
+        "value": "Broom"
+      },
+      {
+        "id": 212,
+        "value": "Zeyt yağı küpü"
       },
       {
         "id": 217,
@@ -7851,6 +7923,18 @@
       {
         "id": 218,
         "value": "Torba"
+      },
+      {
+        "id": 219,
+        "value": "Katran"
+      },
+      {
+        "id": 220,
+        "value": "Yağ badyesi"
+      },
+      {
+        "id": 221,
+        "value": "Şinik"
       }
     ],
     "longtitude": null,
@@ -7873,7 +7957,12 @@
       }
     ],
     "neighbourhood": [],
-    "goods": [],
+    "goods": [
+      {
+        "id": 44,
+        "value": "Wheat"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -7894,7 +7983,124 @@
       }
     ],
     "neighbourhood": [],
-    "goods": [],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 4,
+        "value": "Walnut"
+      },
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 12,
+        "value": "Pea"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 24,
+        "value": "Nardenk"
+      },
+      {
+        "id": 27,
+        "value": "Starch"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 31,
+        "value": "Garlic"
+      },
+      {
+        "id": 33,
+        "value": "Kefe salt"
+      },
+      {
+        "id": 41,
+        "value": "Daru"
+      },
+      {
+        "id": 42,
+        "value": "Eflak salt"
+      },
+      {
+        "id": 44,
+        "value": "Wheat"
+      },
+      {
+        "id": 45,
+        "value": "Bulgur"
+      },
+      {
+        "id": 46,
+        "value": "Barley"
+      },
+      {
+        "id": 53,
+        "value": "Flour"
+      },
+      {
+        "id": 57,
+        "value": "Pastrami"
+      },
+      {
+        "id": 68,
+        "value": "Pipe"
+      },
+      {
+        "id": 102,
+        "value": "Tuzlu balık"
+      },
+      {
+        "id": 121,
+        "value": "Jug"
+      },
+      {
+        "id": 122,
+        "value": "Mug"
+      },
+      {
+        "id": 151,
+        "value": "String"
+      },
+      {
+        "id": 207,
+        "value": "Zeyt yağı bardağı"
+      },
+      {
+        "id": 223,
+        "value": "Güğüm"
+      },
+      {
+        "id": 224,
+        "value": "Keyl"
+      },
+      {
+        "id": 225,
+        "value": "Kahve kutusu"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -7936,7 +8142,36 @@
       }
     ],
     "neighbourhood": [],
-    "goods": [],
+    "goods": [
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 41,
+        "value": "Daru"
+      },
+      {
+        "id": 114,
+        "value": "Barrel"
+      },
+      {
+        "id": 226,
+        "value": "Arak"
+      },
+      {
+        "id": 227,
+        "value": "Ham sirke"
+      },
+      {
+        "id": 228,
+        "value": "Dikel"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -7978,7 +8213,72 @@
       }
     ],
     "neighbourhood": [],
-    "goods": [],
+    "goods": [
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 12,
+        "value": "Pea"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 46,
+        "value": "Barley"
+      },
+      {
+        "id": 49,
+        "value": "Sausage"
+      },
+      {
+        "id": 57,
+        "value": "Pastrami"
+      },
+      {
+        "id": 114,
+        "value": "Barrel"
+      },
+      {
+        "id": 120,
+        "value": "Steelyard"
+      },
+      {
+        "id": 137,
+        "value": "Trivet"
+      },
+      {
+        "id": 146,
+        "value": "Wood"
+      },
+      {
+        "id": 155,
+        "value": "Broad bean"
+      },
+      {
+        "id": 226,
+        "value": "Arak"
+      },
+      {
+        "id": 227,
+        "value": "Ham sirke"
+      },
+      {
+        "id": 229,
+        "value": "Tabak"
+      },
+      {
+        "id": 230,
+        "value": "saman"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -8020,7 +8320,112 @@
       }
     ],
     "neighbourhood": [],
-    "goods": [],
+    "goods": [
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 9,
+        "value": "Kashkaval"
+      },
+      {
+        "id": 14,
+        "value": "Lentil"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 24,
+        "value": "Nardenk"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 31,
+        "value": "Garlic"
+      },
+      {
+        "id": 33,
+        "value": "Kefe salt"
+      },
+      {
+        "id": 34,
+        "value": "Olive"
+      },
+      {
+        "id": 41,
+        "value": "Daru"
+      },
+      {
+        "id": 43,
+        "value": "Scrap salt"
+      },
+      {
+        "id": 64,
+        "value": "Smashed salt"
+      },
+      {
+        "id": 101,
+        "value": "Bean"
+      },
+      {
+        "id": 115,
+        "value": "Zenbil"
+      },
+      {
+        "id": 122,
+        "value": "Mug"
+      },
+      {
+        "id": 129,
+        "value": "Çömlek"
+      },
+      {
+        "id": 130,
+        "value": "Jar"
+      },
+      {
+        "id": 146,
+        "value": "Wood"
+      },
+      {
+        "id": 147,
+        "value": "Coal"
+      },
+      {
+        "id": 217,
+        "value": "Urgan"
+      },
+      {
+        "id": 219,
+        "value": "Katran"
+      },
+      {
+        "id": 231,
+        "value": "Revgan-ı çerviş"
+      },
+      {
+        "id": 232,
+        "value": "Kaşık"
+      },
+      {
+        "id": 233,
+        "value": "Çakmak"
+      },
+      {
+        "id": 234,
+        "value": "Çanak"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -8062,7 +8467,140 @@
       }
     ],
     "neighbourhood": [],
-    "goods": [],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 4,
+        "value": "Walnut"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 18,
+        "value": "Razaki"
+      },
+      {
+        "id": 20,
+        "value": "Siyah"
+      },
+      {
+        "id": 21,
+        "value": "Figs"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 30,
+        "value": "Salt"
+      },
+      {
+        "id": 34,
+        "value": "Olive"
+      },
+      {
+        "id": 35,
+        "value": "Tobacco"
+      },
+      {
+        "id": 46,
+        "value": "Barley"
+      },
+      {
+        "id": 67,
+        "value": "Pepper"
+      },
+      {
+        "id": 68,
+        "value": "Pipe"
+      },
+      {
+        "id": 99,
+        "value": "Lemon"
+      },
+      {
+        "id": 108,
+        "value": "Soap"
+      },
+      {
+        "id": 112,
+        "value": "Candle"
+      },
+      {
+        "id": 113,
+        "value": "Çarçube kağıdı"
+      },
+      {
+        "id": 115,
+        "value": "Zenbil"
+      },
+      {
+        "id": 120,
+        "value": "Steelyard"
+      },
+      {
+        "id": 125,
+        "value": "Dirhem"
+      },
+      {
+        "id": 158,
+        "value": "Candle wax"
+      },
+      {
+        "id": 175,
+        "value": "Chestnut"
+      },
+      {
+        "id": 235,
+        "value": "Tahin helvası"
+      },
+      {
+        "id": 236,
+        "value": "Mudurnu peyniri"
+      },
+      {
+        "id": 237,
+        "value": "Yazı kağıdı"
+      },
+      {
+        "id": 239,
+        "value": "Kahve"
+      },
+      {
+        "id": 240,
+        "value": "Enfiye"
+      },
+      {
+        "id": 241,
+        "value": "Kahve terazisi"
+      },
+      {
+        "id": 242,
+        "value": "Duhan kavanozu"
+      },
+      {
+        "id": 243,
+        "value": "Sandık"
+      },
+      {
+        "id": 244,
+        "value": "Hasır iplik"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
@@ -8083,7 +8621,56 @@
       }
     ],
     "neighbourhood": [],
-    "goods": [],
+    "goods": [
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 10,
+        "value": "Tulum"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 49,
+        "value": "Sausage"
+      },
+      {
+        "id": 119,
+        "value": "Sack"
+      },
+      {
+        "id": 143,
+        "value": "Seklem"
+      },
+      {
+        "id": 227,
+        "value": "Ham sirke"
+      },
+      {
+        "id": 230,
+        "value": "saman"
+      },
+      {
+        "id": 231,
+        "value": "Revgan-ı çerviş"
+      },
+      {
+        "id": 245,
+        "value": "Yapağı"
+      },
+      {
+        "id": 246,
+        "value": "Yatağan bıçağı"
+      },
+      {
+        "id": 247,
+        "value": "Balık"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
