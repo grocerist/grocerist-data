@@ -1117,5 +1117,27 @@
       }
     ],
     "district_nineteenth_century": []
+  },
+  "64": {
+    "id": 64,
+    "order": "62.00000000000000000000",
+    "name": "Debbağlar",
+    "grocerist_id": "neighbourhood__64",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
+      }
+    ],
+    "district_nineteenth_century": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ]
   }
 }

@@ -1716,5 +1716,81 @@
         "value": "İSTM.ŞSC.15.d. 134/ 95a-1"
       }
     ]
+  },
+  "92": {
+    "id": 92,
+    "order": "90.00000000000000000000",
+    "name": "Bakkal Yani v. [ ]",
+    "grocerist_id": "person__92",
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      }
+    ],
+    "documents": [
+      {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
+      }
+    ]
+  },
+  "93": {
+    "id": 93,
+    "order": "91.00000000000000000000",
+    "name": "Bakkal Kristo",
+    "grocerist_id": "person__93",
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      }
+    ],
+    "documents": [
+      {
+        "id": 110,
+        "value": "İSTM.ŞSC.06.d. 574/51b-1"
+      }
+    ]
+  },
+  "94": {
+    "id": 94,
+    "order": "92.00000000000000000000",
+    "name": "Yani v. Yorgi",
+    "grocerist_id": "person__94",
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      }
+    ],
+    "documents": [
+      {
+        "id": 111,
+        "value": "İSTM.ŞSC.06.d. 577/43b-1"
+      }
+    ]
+  },
+  "95": {
+    "id": 95,
+    "order": "93.00000000000000000000",
+    "name": "Karli v. Serafim",
+    "grocerist_id": "person__95",
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      }
+    ],
+    "documents": [
+      {
+        "id": 112,
+        "value": "İSTM.ŞSC.06.d. 578/53b-1"
+      }
+    ]
   }
 }
