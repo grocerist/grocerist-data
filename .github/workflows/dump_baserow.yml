@@ -2,7 +2,7 @@ name: Dump Entities from Baserow
 
 on:
   schedule:
-  - cron: "33 */12 * * *"
+  - cron: "23 23 * * *"
   workflow_dispatch:
 
 jobs:
