@@ -4,55 +4,136 @@
     "order": "1.00000000000000000000",
     "Name": "Zekeriya",
     "Notes": "",
-    "Active": false
+    "Active": false,
+    "documents": [
+      {
+        "id": 40,
+        "value": "İSTM.ŞSC.14.d.399 / 56a-1"
+      }
+    ]
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "Name": "Arnavud",
     "Notes": "",
-    "Active": false
+    "Active": false,
+    "documents": [
+      {
+        "id": 33,
+        "value": "İSTM.ŞSC.14.d. 332/ 48a-1"
+      },
+      {
+        "id": 37,
+        "value": "İSTM.ŞSC.14.d. 361/ 58b-2"
+      },
+      {
+        "id": 41,
+        "value": "İSTM.ŞSC.14.d.400 / 55a-1"
+      },
+      {
+        "id": 51,
+        "value": "İSTM.ŞSC.14.d. 507/20b-2"
+      }
+    ]
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "Name": "Karye-i Cedid",
     "Notes": "",
-    "Active": false
+    "Active": false,
+    "documents": [
+      {
+        "id": 21,
+        "value": "İSTM.ŞSC.14.d.254 / 59a-2"
+      }
+    ]
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
     "Name": "Kuzguncuk",
     "Notes": "",
-    "Active": false
+    "Active": false,
+    "documents": [
+      {
+        "id": 68,
+        "value": "İSTM.ŞSC.06.d. 359 / 27a-1"
+      },
+      {
+        "id": 79,
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2"
+      }
+    ]
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
     "Name": "Kadı",
     "Notes": "",
-    "Active": false
+    "Active": false,
+    "documents": [
+      {
+        "id": 69,
+        "value": "İSTM.ŞSC.06.d. 381 / 32b-3"
+      }
+    ]
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
     "Name": "Eski hamam",
     "Notes": "",
-    "Active": false
+    "Active": false,
+    "documents": [
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      }
+    ]
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
     "Name": "Hünkar",
     "Notes": "",
-    "Active": false
+    "Active": false,
+    "documents": [
+      {
+        "id": 78,
+        "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
+      },
+      {
+        "id": 84,
+        "value": "İSTM.ŞSC.06.d. 501 / 22b-3"
+      }
+    ]
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
     "Name": "Nerdübanlı",
     "Notes": "",
-    "Active": false
+    "Active": false,
+    "documents": [
+      {
+        "id": 110,
+        "value": "İSTM.ŞSC.06.d. 574/51b-1"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "Name": "Bit Pazarı",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 65,
+        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      }
+    ]
   }
 }

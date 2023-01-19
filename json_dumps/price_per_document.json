@@ -1,0 +1,38 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "grocerist_id": "price__1",
+    "document": [
+      {
+        "id": 1,
+        "value": "İSTM.ŞSC.14.d.173 / 9b-2"
+      }
+    ],
+    "good": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      }
+    ],
+    "price": "25.00",
+    "unit": {
+      "id": 9882,
+      "value": "kilo",
+      "color": "light-orange"
+    },
+    "currency": null,
+    "amount_of_units": "5.0"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "grocerist_id": "price__2",
+    "document": [],
+    "good": [],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": "5.5"
+  }
+}
