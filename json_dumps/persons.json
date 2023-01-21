@@ -21,7 +21,7 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "Bakkal Filibi v. Yorgi",
+    "name": "Bakkal Filibi veled-i Yorgi",
     "grocerist_id": "person__2",
     "religion": [
       {
@@ -88,7 +88,7 @@
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "name": "Yani",
+    "name": "Yani veled-i Yorgi",
     "grocerist_id": "person__5",
     "religion": [
       {
@@ -323,7 +323,7 @@
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "name": "Hristo? veled-i Yorgi",
+    "name": "Hristo veled-i Yorgi",
     "grocerist_id": "person__15",
     "religion": [
       {
@@ -393,7 +393,7 @@
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "name": "İstavor v. Yako",
+    "name": "İstavor veled-i Yako",
     "grocerist_id": "person__19",
     "religion": [],
     "documents": [
@@ -750,7 +750,13 @@
     "order": "34.00000000000000000000",
     "name": "Bakkal Hasan Beşe b. Ali",
     "grocerist_id": "person__34",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6681,
+        "value": "Muslim",
+        "color": "green"
+      }
+    ],
     "documents": [
       {
         "id": 34,
@@ -817,7 +823,7 @@
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
-    "name": "Bakkal Yani veled-i Tanaş",
+    "name": "Bakkal Bafi veled-i Tanaş",
     "grocerist_id": "person__38",
     "religion": [
       {
@@ -898,7 +904,7 @@
     "documents": [
       {
         "id": 42,
-        "value": "/ İSTM.ŞSC.14.d. 405/ 37b-1"
+        "value": "İSTM.ŞSC.14.d. 405/ 37b-1"
       }
     ]
   },
@@ -991,7 +997,7 @@
   "47": {
     "id": 47,
     "order": "48.00000000000000000000",
-    "name": "Yenişehirli Dimitri",
+    "name": "Yenişehirli Dimitri veled-i Nikola",
     "grocerist_id": "person__47",
     "religion": [
       {
@@ -1095,7 +1101,7 @@
   "52": {
     "id": 52,
     "order": "53.00000000000000000000",
-    "name": "Bakkal Yorgi veled-i Kirispo",
+    "name": "Bakkal Yorgi veled-i Kirikor",
     "grocerist_id": "person__52",
     "religion": [
       {
@@ -1790,6 +1796,19 @@
       {
         "id": 112,
         "value": "İSTM.ŞSC.06.d. 578/53b-1"
+      }
+    ]
+  },
+  "96": {
+    "id": 96,
+    "order": "94.00000000000000000000",
+    "name": "Bakkal Rizo veled-i Aleksan",
+    "grocerist_id": "person__96",
+    "religion": [],
+    "documents": [
+      {
+        "id": 65,
+        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
       }
     ]
   }

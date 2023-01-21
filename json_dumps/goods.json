@@ -114,6 +114,14 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 78,
         "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
       },
@@ -359,6 +367,10 @@
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
       },
       {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 84,
         "value": "İSTM.ŞSC.06.d. 501 / 22b-3"
       },
@@ -538,6 +550,18 @@
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 77,
         "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
       },
@@ -579,7 +603,7 @@
       }
     ],
     "turkish_names": "Revgan-ı zeyt",
-    "spelling_variations and synonyms": "Zeyt yağı",
+    "spelling_variations and synonyms": "Zeyt yağı, revgan-ı zeyd",
     "Notes": null
   },
   "6": {
@@ -717,6 +741,18 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 75,
         "value": "İSTM.ŞSC.06.d. 443 / 11a-1"
       },
@@ -823,6 +859,11 @@
         "id": 6686,
         "value": "Cheese Assortment",
         "color": "dark-orange"
+      },
+      {
+        "id": 6784,
+        "value": "Kaşkaval Assortment",
+        "color": "light-green"
       }
     ],
     "documents": [
@@ -915,6 +956,10 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 75,
         "value": "İSTM.ŞSC.06.d. 443 / 11a-1"
       },
@@ -946,7 +991,7 @@
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "name": "Tulum",
+    "name": "Tulum peyniri",
     "gorcerist_id": "goods__10",
     "has_category": [
       {
@@ -1032,6 +1077,10 @@
       {
         "id": 67,
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 75,
@@ -1181,6 +1230,10 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 77,
         "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
       },
@@ -1316,6 +1369,14 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 77,
         "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
       },
@@ -1445,6 +1506,14 @@
       {
         "id": 67,
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
+      },
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 77,
@@ -1634,6 +1703,14 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 75,
         "value": "İSTM.ŞSC.06.d. 443 / 11a-1"
       },
@@ -1767,6 +1844,14 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 80,
         "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
       },
@@ -1826,6 +1911,14 @@
       {
         "id": 65,
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 80,
@@ -1982,10 +2075,6 @@
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
       },
       {
-        "id": 90,
-        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
-      },
-      {
         "id": 91,
         "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
       },
@@ -2081,6 +2170,10 @@
       {
         "id": 65,
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 78,
@@ -2246,6 +2339,18 @@
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 77,
         "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
       },
@@ -2378,6 +2483,14 @@
       {
         "id": 67,
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
+      },
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 77,
@@ -2514,6 +2627,14 @@
       {
         "id": 65,
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 75,
@@ -2694,6 +2815,14 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 77,
         "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
       },
@@ -2870,6 +2999,14 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 77,
         "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
       },
@@ -3033,6 +3170,14 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 75,
         "value": "İSTM.ŞSC.06.d. 443 / 11a-1"
       },
@@ -3174,6 +3319,10 @@
       {
         "id": 67,
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 77,
@@ -3722,6 +3871,14 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 77,
         "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
       },
@@ -3744,10 +3901,6 @@
       {
         "id": 90,
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
-      },
-      {
-        "id": 91,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
       },
       {
         "id": 112,
@@ -3863,6 +4016,10 @@
         "value": "İSTM.ŞSC.14.d.177 / 34b-1"
       },
       {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 80,
         "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
       }
@@ -3928,6 +4085,10 @@
       {
         "id": 64,
         "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 85,
@@ -4109,6 +4270,14 @@
         "value": "İSTM.ŞSC.14.d.289 / 6b-2"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 78,
         "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
       },
@@ -4170,6 +4339,10 @@
       {
         "id": 67,
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 78,
@@ -4273,6 +4446,10 @@
       {
         "id": 85,
         "value": "İSTM.ŞSC.06.d.505 / 83a-3"
+      },
+      {
+        "id": 88,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
       },
       {
         "id": 95,
@@ -4412,6 +4589,18 @@
       {
         "id": 65,
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 90,
@@ -4559,6 +4748,10 @@
       {
         "id": 36,
         "value": "İSTM.ŞSC.14.d.355 / 47b-3"
+      },
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
       },
       {
         "id": 78,
@@ -4735,6 +4928,10 @@
         "value": "İSTM.ŞSC.14.d.433 / 74b-2"
       },
       {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 90,
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
       },
@@ -4905,8 +5102,16 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
         "id": 89,
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
+      },
+      {
+        "id": 90,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
       }
     ],
     "turkish_names": "Trilye zeytūnu",
@@ -5047,6 +5252,10 @@
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
         "id": 77,
         "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
       },
@@ -5096,6 +5305,10 @@
       {
         "id": 65,
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 89,
@@ -5172,6 +5385,10 @@
         "value": "İSTM.ŞSC.14.d.528 / 83b-2"
       },
       {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 78,
         "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
       },
@@ -5209,6 +5426,10 @@
       {
         "id": 52,
         "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
       },
       {
         "id": 97,
@@ -5654,6 +5875,11 @@
         "id": 6686,
         "value": "Cheese Assortment",
         "color": "dark-orange"
+      },
+      {
+        "id": 6785,
+        "value": "Brine",
+        "color": "light-red"
       }
     ],
     "documents": [
@@ -5919,6 +6145,10 @@
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
         "id": 90,
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
       }
@@ -5983,6 +6213,10 @@
       {
         "id": 30,
         "value": "İSTM.ŞSC.14.d.290 / 73b-2"
+      },
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
       }
     ],
     "turkish_names": "Çörek otu",
@@ -6014,6 +6248,10 @@
       {
         "id": 36,
         "value": "İSTM.ŞSC.14.d.355 / 47b-3"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 85,
@@ -6326,6 +6564,10 @@
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       },
       {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
         "id": 86,
         "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
       },
@@ -6548,6 +6790,14 @@
         "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)"
       },
       {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
         "id": 76,
         "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
       },
@@ -6619,6 +6869,10 @@
         "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
         "id": 80,
         "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
       },
@@ -6681,6 +6935,10 @@
       {
         "id": 16,
         "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
       },
       {
         "id": 77,
@@ -6759,6 +7017,18 @@
       {
         "id": 41,
         "value": "İSTM.ŞSC.14.d.400 / 55a-1"
+      },
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
       },
       {
         "id": 76,
@@ -6985,6 +7255,18 @@
         "value": "İSTM.ŞSC.14.d.528 / 83b-2"
       },
       {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
         "id": 76,
         "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
       }
@@ -7055,6 +7337,10 @@
         "value": "İSTM.ŞSC.14.d.528 / 83b-2"
       },
       {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
         "id": 76,
         "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
       },
@@ -7107,6 +7393,10 @@
       {
         "id": 41,
         "value": "İSTM.ŞSC.14.d.400 / 55a-1"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
       },
       {
         "id": 95,
@@ -7319,6 +7609,10 @@
       {
         "id": 8,
         "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
       }
     ],
     "turkish_names": "Tekne",
@@ -7353,6 +7647,10 @@
       {
         "id": 62,
         "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
       },
       {
         "id": 95,
@@ -7391,6 +7689,14 @@
       {
         "id": 62,
         "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
       },
       {
         "id": 95,
@@ -7507,6 +7813,10 @@
       {
         "id": 11,
         "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
       },
       {
         "id": 95,
@@ -7689,6 +7999,10 @@
       {
         "id": 65,
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
         "id": 77,
@@ -7968,6 +8282,10 @@
       {
         "id": 64,
         "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
+      },
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
       },
       {
         "id": 77,
@@ -8303,6 +8621,10 @@
       {
         "id": 18,
         "value": "İSTM.ŞSC.14.d.249 / 9b-2"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       }
     ],
     "turkish_names": "Karpuz",
@@ -8330,6 +8652,10 @@
       {
         "id": 36,
         "value": "İSTM.ŞSC.14.d.355 / 47b-3"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       }
     ],
     "turkish_names": "İzmir sabunu",
@@ -8424,6 +8750,10 @@
       }
     ],
     "documents": [
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
       {
         "id": 84,
         "value": "İSTM.ŞSC.06.d. 501 / 22b-3"
@@ -8666,6 +8996,10 @@
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
       },
       {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 89,
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
       },
@@ -8708,6 +9042,10 @@
       {
         "id": 89,
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
+      },
+      {
+        "id": 90,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
       }
     ],
     "turkish_names": "İğde",
@@ -8789,11 +9127,6 @@
     "gorcerist_id": "goods__188",
     "has_category": [
       {
-        "id": 6794,
-        "value": "Durable Goods",
-        "color": "dark-red"
-      },
-      {
         "id": 6750,
         "value": "Non-foods",
         "color": "light-blue"
@@ -8874,16 +9207,30 @@
   "191": {
     "id": 191,
     "order": "188.00000000000000000000",
-    "name": "Edremit siyahı",
+    "name": "Edremit siyahı üzüm",
     "gorcerist_id": "goods__191",
     "has_category": [
       {
-        "id": 6758,
-        "value": "Deli",
-        "color": "light-green"
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6752,
+        "value": "Raisin Assortment",
+        "color": "dark-red"
       }
     ],
     "documents": [
+      {
+        "id": 65,
+        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
       {
         "id": 89,
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
@@ -8911,6 +9258,10 @@
       }
     ],
     "documents": [
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
       {
         "id": 90,
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
@@ -8944,6 +9295,10 @@
     ],
     "documents": [
       {
+        "id": 65,
+        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
         "id": 90,
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
       }
@@ -8968,6 +9323,10 @@
       {
         "id": 67,
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
+      },
+      {
+        "id": 107,
+        "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
       }
     ],
     "turkish_names": "",
@@ -8991,7 +9350,12 @@
         "color": "dark-orange"
       }
     ],
-    "documents": [],
+    "documents": [
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      }
+    ],
     "turkish_names": "",
     "spelling_variations and synonyms": "",
     "Notes": null
@@ -9025,7 +9389,12 @@
         "color": "dark-blue"
       }
     ],
-    "documents": [],
+    "documents": [
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      }
+    ],
     "turkish_names": "Yağ ölçeği",
     "spelling_variations and synonyms": "",
     "Notes": null
@@ -9264,6 +9633,10 @@
       {
         "id": 65,
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
       },
       {
         "id": 89,
@@ -9713,7 +10086,13 @@
     "order": "221.00000000000000000000",
     "name": "Ham sirke",
     "gorcerist_id": "goods__227",
-    "has_category": [],
+    "has_category": [
+      {
+        "id": 6763,
+        "value": "Beverages",
+        "color": "gray"
+      }
+    ],
     "documents": [
       {
         "id": 100,
@@ -9779,7 +10158,7 @@
   "230": {
     "id": 230,
     "order": "224.00000000000000000000",
-    "name": "saman",
+    "name": "Saman",
     "gorcerist_id": "goods__230",
     "has_category": [
       {
@@ -9816,6 +10195,10 @@
     ],
     "documents": [
       {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
         "id": 104,
         "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
       },
@@ -9845,6 +10228,10 @@
       }
     ],
     "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
       {
         "id": 104,
         "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
@@ -9889,6 +10276,18 @@
       }
     ],
     "documents": [
+      {
+        "id": 47,
+        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+      },
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
       {
         "id": 104,
         "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
@@ -9968,8 +10367,18 @@
     "order": "232.00000000000000000000",
     "name": "Kahve",
     "gorcerist_id": "goods__239",
-    "has_category": [],
+    "has_category": [
+      {
+        "id": 6763,
+        "value": "Beverages",
+        "color": "gray"
+      }
+    ],
     "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
       {
         "id": 106,
         "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
@@ -9984,7 +10393,13 @@
     "order": "233.00000000000000000000",
     "name": "Enfiye",
     "gorcerist_id": "goods__240",
-    "has_category": [],
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
     "documents": [
       {
         "id": 106,
@@ -10000,7 +10415,13 @@
     "order": "234.00000000000000000000",
     "name": "Kahve terazisi",
     "gorcerist_id": "goods__241",
-    "has_category": [],
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 106,
@@ -10016,7 +10437,13 @@
     "order": "235.00000000000000000000",
     "name": "Duhan kavanozu",
     "gorcerist_id": "goods__242",
-    "has_category": [],
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 106,
@@ -10032,8 +10459,18 @@
     "order": "236.00000000000000000000",
     "name": "Sandık",
     "gorcerist_id": "goods__243",
-    "has_category": [],
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
       {
         "id": 106,
         "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
@@ -10048,27 +10485,17 @@
     "order": "237.00000000000000000000",
     "name": "Hasır iplik",
     "gorcerist_id": "goods__244",
-    "has_category": [],
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
     "documents": [
       {
         "id": 106,
         "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
-      }
-    ],
-    "turkish_names": "",
-    "spelling_variations and synonyms": "",
-    "Notes": ""
-  },
-  "245": {
-    "id": 245,
-    "order": "238.00000000000000000000",
-    "name": "Yapağı",
-    "gorcerist_id": "goods__245",
-    "has_category": [],
-    "documents": [
-      {
-        "id": 107,
-        "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
       }
     ],
     "turkish_names": "",
@@ -10080,7 +10507,13 @@
     "order": "239.00000000000000000000",
     "name": "Yatağan bıçağı",
     "gorcerist_id": "goods__246",
-    "has_category": [],
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 107,
@@ -10096,7 +10529,18 @@
     "order": "240.00000000000000000000",
     "name": "Balık",
     "gorcerist_id": "goods__247",
-    "has_category": [],
+    "has_category": [
+      {
+        "id": 6765,
+        "value": "Animal Food",
+        "color": "orange"
+      },
+      {
+        "id": 6746,
+        "value": "Fish Assortment",
+        "color": "dark-red"
+      }
+    ],
     "documents": [
       {
         "id": 107,
@@ -10295,11 +10739,6 @@
     "gorcerist_id": "goods__255",
     "has_category": [
       {
-        "id": 9879,
-        "value": "Rice Assortment",
-        "color": "orange"
-      },
-      {
         "id": 6764,
         "value": "Dried Goods",
         "color": "dark-green"
@@ -10308,6 +10747,11 @@
         "id": 6767,
         "value": "Grains",
         "color": "dark-orange"
+      },
+      {
+        "id": 9879,
+        "value": "Rice Assortment",
+        "color": "orange"
       }
     ],
     "documents": [
@@ -10421,8 +10865,23 @@
     "order": "252.00000000000000000000",
     "name": "Leh tuzu",
     "gorcerist_id": "goods__259",
-    "has_category": [],
-    "documents": [],
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [
+      {
+        "id": 65,
+        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 90,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
+      }
+    ],
     "turkish_names": "",
     "spelling_variations and synonyms": "",
     "Notes": ""
@@ -10432,8 +10891,35 @@
     "order": "253.00000000000000000000",
     "name": "Demet odunu",
     "gorcerist_id": "goods__260",
-    "has_category": [],
-    "documents": [],
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 64,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
+      },
+      {
+        "id": 65,
+        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 67,
+        "value": "İSTM.ŞSC.06.d.359 / 26a-1"
+      },
+      {
+        "id": 89,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
+      },
+      {
+        "id": 90,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
+      }
+    ],
     "turkish_names": "",
     "spelling_variations and synonyms": "",
     "Notes": ""
@@ -10443,8 +10929,33 @@
     "order": "254.00000000000000000000",
     "name": "Leh kaşkavalı",
     "gorcerist_id": "goods__261",
-    "has_category": [],
-    "documents": [],
+    "has_category": [
+      {
+        "id": 6757,
+        "value": "Dairy",
+        "color": "light-red"
+      },
+      {
+        "id": 6686,
+        "value": "Cheese Assortment",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6784,
+        "value": "Kaşkaval Assortment",
+        "color": "light-green"
+      }
+    ],
+    "documents": [
+      {
+        "id": 65,
+        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 90,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
+      }
+    ],
     "turkish_names": "",
     "spelling_variations and synonyms": "",
     "Notes": ""
@@ -10454,30 +10965,19 @@
     "order": "255.00000000000000000000",
     "name": "Revgan-ı Leh",
     "gorcerist_id": "goods__262",
-    "has_category": [],
-    "documents": [],
-    "turkish_names": "",
-    "spelling_variations and synonyms": "",
-    "Notes": ""
-  },
-  "263": {
-    "id": 263,
-    "order": "256.00000000000000000000",
-    "name": "",
-    "gorcerist_id": "goods__263",
-    "has_category": [],
-    "documents": [],
-    "turkish_names": "",
-    "spelling_variations and synonyms": "",
-    "Notes": ""
-  },
-  "264": {
-    "id": 264,
-    "order": "257.00000000000000000000",
-    "name": "",
-    "gorcerist_id": "goods__264",
-    "has_category": [],
-    "documents": [],
+    "has_category": [
+      {
+        "id": 6684,
+        "value": "Cooking Oils",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [
+      {
+        "id": 89,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
+      }
+    ],
     "turkish_names": "",
     "spelling_variations and synonyms": "",
     "Notes": ""
@@ -10487,8 +10987,1283 @@
     "order": "258.00000000000000000000",
     "name": "Döğülmüş Leh tuzu",
     "gorcerist_id": "goods__265",
-    "has_category": [],
-    "documents": [],
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
+    "documents": [
+      {
+        "id": 90,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "267": {
+    "id": 267,
+    "order": "260.00000000000000000000",
+    "name": "Alaca bakla",
+    "gorcerist_id": "goods__267",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      }
+    ],
+    "documents": [
+      {
+        "id": 88,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "268": {
+    "id": 268,
+    "order": "261.00000000000000000000",
+    "name": "Çürük zeytun",
+    "gorcerist_id": "goods__268",
+    "has_category": [
+      {
+        "id": 6749,
+        "value": "Olive Assortment",
+        "color": "light-gray"
+      }
+    ],
+    "documents": [
+      {
+        "id": 88,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "269": {
+    "id": 269,
+    "order": "262.00000000000000000000",
+    "name": "Çalgı revgan-ı sade",
+    "gorcerist_id": "goods__269",
+    "has_category": [
+      {
+        "id": 6757,
+        "value": "Dairy",
+        "color": "light-red"
+      }
+    ],
+    "documents": [
+      {
+        "id": 88,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "270": {
+    "id": 270,
+    "order": "263.00000000000000000000",
+    "name": "Torba yoğurt",
+    "gorcerist_id": "goods__270",
+    "has_category": [
+      {
+        "id": 6757,
+        "value": "Dairy",
+        "color": "light-red"
+      }
+    ],
+    "documents": [
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "272": {
+    "id": 272,
+    "order": "265.00000000000000000000",
+    "name": "Turşu yaprağı",
+    "gorcerist_id": "goods__272",
+    "has_category": [
+      {
+        "id": 6687,
+        "value": "Pickle",
+        "color": "light-orange"
+      }
+    ],
+    "documents": [
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "275": {
+    "id": 275,
+    "order": "268.00000000000000000000",
+    "name": "İzmir siyahı üzüm",
+    "gorcerist_id": "goods__275",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6752,
+        "value": "Raisin Assortment",
+        "color": "dark-red"
+      }
+    ],
+    "documents": [
+      {
+        "id": 65,
+        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
+        "id": 90,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "276": {
+    "id": 276,
+    "order": "269.00000000000000000000",
+    "name": "Kutu balı",
+    "gorcerist_id": "goods__276",
+    "has_category": [
+      {
+        "id": 6766,
+        "value": "Condiments",
+        "color": "red"
+      },
+      {
+        "id": 6747,
+        "value": "Honey Assortment",
+        "color": "light-gray"
+      }
+    ],
+    "documents": [
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "278": {
+    "id": 278,
+    "order": "271.00000000000000000000",
+    "name": "Turşu",
+    "gorcerist_id": "goods__278",
+    "has_category": [
+      {
+        "id": 6687,
+        "value": "Pickle",
+        "color": "light-orange"
+      }
+    ],
+    "documents": [
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "279": {
+    "id": 279,
+    "order": "272.00000000000000000000",
+    "name": "Kömür terazisi",
+    "gorcerist_id": "goods__279",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "280": {
+    "id": 280,
+    "order": "273.00000000000000000000",
+    "name": "Yağ destisi",
+    "gorcerist_id": "goods__280",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "281": {
+    "id": 281,
+    "order": "274.00000000000000000000",
+    "name": "Zeytun fuçısı",
+    "gorcerist_id": "goods__281",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "282": {
+    "id": 282,
+    "order": "275.00000000000000000000",
+    "name": "Zeyt yağı kovası",
+    "gorcerist_id": "goods__282",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "283": {
+    "id": 283,
+    "order": "276.00000000000000000000",
+    "name": "Kalbur",
+    "gorcerist_id": "goods__283",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "284": {
+    "id": 284,
+    "order": "277.00000000000000000000",
+    "name": "Böğrülce anbarı",
+    "gorcerist_id": "goods__284",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "285": {
+    "id": 285,
+    "order": "278.00000000000000000000",
+    "name": "Sofra",
+    "gorcerist_id": "goods__285",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "286": {
+    "id": 286,
+    "order": "279.00000000000000000000",
+    "name": "Nişasta fuçısı",
+    "gorcerist_id": "goods__286",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "287": {
+    "id": 287,
+    "order": "280.00000000000000000000",
+    "name": "Balık tabası",
+    "gorcerist_id": "goods__287",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "288": {
+    "id": 288,
+    "order": "281.00000000000000000000",
+    "name": "Tencere",
+    "gorcerist_id": "goods__288",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "289": {
+    "id": 289,
+    "order": "282.00000000000000000000",
+    "name": "Kazgan",
+    "gorcerist_id": "goods__289",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "290": {
+    "id": 290,
+    "order": "283.00000000000000000000",
+    "name": "Huni",
+    "gorcerist_id": "goods__290",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "291": {
+    "id": 291,
+    "order": "284.00000000000000000000",
+    "name": "Yumurta sepeti",
+    "gorcerist_id": "goods__291",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "292": {
+    "id": 292,
+    "order": "285.00000000000000000000",
+    "name": "Tahin çömleği",
+    "gorcerist_id": "goods__292",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "293": {
+    "id": 293,
+    "order": "286.00000000000000000000",
+    "name": "Peynir Kutusu",
+    "gorcerist_id": "goods__293",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "294": {
+    "id": 294,
+    "order": "287.00000000000000000000",
+    "name": "Misafir sofrası",
+    "gorcerist_id": "goods__294",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "295": {
+    "id": 295,
+    "order": "288.00000000000000000000",
+    "name": "Pirinç hunisi",
+    "gorcerist_id": "goods__295",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "296": {
+    "id": 296,
+    "order": "289.00000000000000000000",
+    "name": "Tas",
+    "gorcerist_id": "goods__296",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "297": {
+    "id": 297,
+    "order": "290.00000000000000000000",
+    "name": "İbrik",
+    "gorcerist_id": "goods__297",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "298": {
+    "id": 298,
+    "order": "291.00000000000000000000",
+    "name": "Vezne",
+    "gorcerist_id": "goods__298",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "299": {
+    "id": 299,
+    "order": "292.00000000000000000000",
+    "name": "Çekmece",
+    "gorcerist_id": "goods__299",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "300": {
+    "id": 300,
+    "order": "293.00000000000000000000",
+    "name": "Biblo kutusu",
+    "gorcerist_id": "goods__300",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "301": {
+    "id": 301,
+    "order": "294.00000000000000000000",
+    "name": "destere",
+    "gorcerist_id": "goods__301",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "302": {
+    "id": 302,
+    "order": "295.00000000000000000000",
+    "name": "Keser",
+    "gorcerist_id": "goods__302",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "303": {
+    "id": 303,
+    "order": "296.00000000000000000000",
+    "name": "Şamdan",
+    "gorcerist_id": "goods__303",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 47,
+        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "304": {
+    "id": 304,
+    "order": "297.00000000000000000000",
+    "name": "Havan",
+    "gorcerist_id": "goods__304",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "305": {
+    "id": 305,
+    "order": "298.00000000000000000000",
+    "name": "Kandil",
+    "gorcerist_id": "goods__305",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "306": {
+    "id": 306,
+    "order": "299.00000000000000000000",
+    "name": "Badya",
+    "gorcerist_id": "goods__306",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "307": {
+    "id": 307,
+    "order": "300.00000000000000000000",
+    "name": "Süzek",
+    "gorcerist_id": "goods__307",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "308": {
+    "id": 308,
+    "order": "301.00000000000000000000",
+    "name": "Fenar",
+    "gorcerist_id": "goods__308",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "309": {
+    "id": 309,
+    "order": "302.00000000000000000000",
+    "name": "Dara",
+    "gorcerist_id": "goods__309",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "310": {
+    "id": 310,
+    "order": "303.00000000000000000000",
+    "name": "İskemle",
+    "gorcerist_id": "goods__310",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "311": {
+    "id": 311,
+    "order": "304.00000000000000000000",
+    "name": "Pirinç kilesi",
+    "gorcerist_id": "goods__311",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "312": {
+    "id": 312,
+    "order": "305.00000000000000000000",
+    "name": "Akçe tahtası",
+    "gorcerist_id": "goods__312",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "313": {
+    "id": 313,
+    "order": "306.00000000000000000000",
+    "name": "Rende",
+    "gorcerist_id": "goods__313",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "314": {
+    "id": 314,
+    "order": "307.00000000000000000000",
+    "name": "Devad",
+    "gorcerist_id": "goods__314",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "315": {
+    "id": 315,
+    "order": "308.00000000000000000000",
+    "name": "Hokka",
+    "gorcerist_id": "goods__315",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "316": {
+    "id": 316,
+    "order": "309.00000000000000000000",
+    "name": "Çatal-ı haliç",
+    "gorcerist_id": "goods__316",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "317": {
+    "id": 317,
+    "order": "310.00000000000000000000",
+    "name": "Sirke hunisi",
+    "gorcerist_id": "goods__317",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "318": {
+    "id": 318,
+    "order": "311.00000000000000000000",
+    "name": "Mum kutusu",
+    "gorcerist_id": "goods__318",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "319": {
+    "id": 319,
+    "order": "312.00000000000000000000",
+    "name": "Yağ malası",
+    "gorcerist_id": "goods__319",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "320": {
+    "id": 320,
+    "order": "313.00000000000000000000",
+    "name": "Manula",
+    "gorcerist_id": "goods__320",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "321": {
+    "id": 321,
+    "order": "314.00000000000000000000",
+    "name": "Saban",
+    "gorcerist_id": "goods__321",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "322": {
+    "id": 322,
+    "order": "315.00000000000000000000",
+    "name": "Dükkan perdesi",
+    "gorcerist_id": "goods__322",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "323": {
+    "id": 323,
+    "order": "316.00000000000000000000",
+    "name": "Çengel",
+    "gorcerist_id": "goods__323",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "324": {
+    "id": 324,
+    "order": "317.00000000000000000000",
+    "name": "Erik",
+    "gorcerist_id": "goods__324",
+    "has_category": [
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 6689,
+        "value": "Dried Fruits",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "325": {
+    "id": 325,
+    "order": "318.00000000000000000000",
+    "name": "Küflenmiş zeytun",
+    "gorcerist_id": "goods__325",
+    "has_category": [
+      {
+        "id": 6749,
+        "value": "Olive Assortment",
+        "color": "light-gray"
+      }
+    ],
+    "documents": [
+      {
+        "id": 20,
+        "value": "İSTM.ŞSC.14.d.254 / 3b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "326": {
+    "id": 326,
+    "order": "319.00000000000000000000",
+    "name": "Kızak yağı",
+    "gorcerist_id": "goods__326",
+    "has_category": [
+      {
+        "id": 6750,
+        "value": "Non-foods",
+        "color": "light-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 52,
+        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+      }
+    ],
     "turkish_names": "",
     "spelling_variations and synonyms": "",
     "Notes": ""

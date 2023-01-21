@@ -49,7 +49,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 13,
@@ -162,7 +162,7 @@
     "shop_owner": [
       {
         "id": 2,
-        "value": "Bakkal Filibi v. Yorgi"
+        "value": "Bakkal Filibi veled-i Yorgi"
       }
     ],
     "district": [
@@ -200,7 +200,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 14,
@@ -545,7 +545,7 @@
     "shop_owner": [
       {
         "id": 5,
-        "value": "Yani"
+        "value": "Yani veled-i Yorgi"
       }
     ],
     "district": [
@@ -587,7 +587,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 12,
@@ -829,7 +829,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 15,
@@ -1257,7 +1257,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 12,
@@ -1619,7 +1619,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 12,
@@ -1735,7 +1735,7 @@
     "shop_owner": [
       {
         "id": 15,
-        "value": "Hristo? veled-i Yorgi"
+        "value": "Hristo veled-i Yorgi"
       }
     ],
     "district": [
@@ -1769,7 +1769,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 12,
@@ -1919,7 +1919,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 21,
@@ -2136,7 +2136,7 @@
     "shop_owner": [
       {
         "id": 19,
-        "value": "İstavor v. Yako"
+        "value": "İstavor veled-i Yako"
       }
     ],
     "district": [
@@ -2218,6 +2218,10 @@
       {
         "id": 136,
         "value": "Potna"
+      },
+      {
+        "id": 325,
+        "value": "Küflenmiş zeytun"
       }
     ],
     "longtitude": null,
@@ -2642,7 +2646,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 12,
@@ -2850,7 +2854,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 12,
@@ -2988,7 +2992,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 15,
@@ -3140,7 +3144,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 15,
@@ -3586,7 +3590,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 12,
@@ -4016,7 +4020,7 @@
     "shop_owner": [
       {
         "id": 38,
-        "value": "Bakkal Yani veled-i Tanaş"
+        "value": "Bakkal Bafi veled-i Tanaş"
       }
     ],
     "district": [
@@ -4143,7 +4147,28 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 9894,
+        "value": "Grandson",
+        "color": "dark-gray"
+      }
+    ],
     "year_of_creation__hicri": "1186",
     "year_of_creation/Miladi": "1772-1773",
     "karye": []
@@ -4271,7 +4296,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 15,
@@ -4361,7 +4386,7 @@
   "42": {
     "id": 42,
     "order": "42.00000000000000000000",
-    "shelfmark": "/ İSTM.ŞSC.14.d. 405/ 37b-1",
+    "shelfmark": "İSTM.ŞSC.14.d. 405/ 37b-1",
     "grocerist_id": "document__42",
     "shop_owner": [
       {
@@ -4542,7 +4567,23 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6797,
+        "value": "Sister",
+        "color": "orange"
+      },
+      {
+        "id": 9895,
+        "value": "Uncle",
+        "color": "light-blue"
+      }
+    ],
     "year_of_creation__hicri": "1191",
     "year_of_creation/Miladi": "1777-1778",
     "karye": []
@@ -4586,7 +4627,7 @@
     "shop_owner": [
       {
         "id": 47,
-        "value": "Yenişehirli Dimitri"
+        "value": "Yenişehirli Dimitri veled-i Nikola"
       }
     ],
     "district": [
@@ -4677,6 +4718,14 @@
       {
         "id": 166,
         "value": "Cheese"
+      },
+      {
+        "id": 234,
+        "value": "Çanak"
+      },
+      {
+        "id": 303,
+        "value": "Şamdan"
       }
     ],
     "longtitude": null,
@@ -4836,7 +4885,7 @@
     "shop_owner": [
       {
         "id": 52,
-        "value": "Bakkal Yorgi veled-i Kirispo"
+        "value": "Bakkal Yorgi veled-i Kirikor"
       }
     ],
     "district": [
@@ -4866,7 +4915,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 28,
@@ -4915,6 +4964,10 @@
       {
         "id": 152,
         "value": "Şamadıra"
+      },
+      {
+        "id": 326,
+        "value": "Kızak yağı"
       }
     ],
     "longtitude": null,
@@ -4926,8 +4979,8 @@
         "color": "light-green"
       }
     ],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "year_of_creation__hicri": "1210",
+    "year_of_creation/Miladi": "1795-1796",
     "karye": []
   },
   "59": {
@@ -5013,9 +5066,25 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
+    "year_of_creation__hicri": "1141",
+    "year_of_creation/Miladi": "1728-1729",
     "karye": []
   },
   "60": {
@@ -5125,9 +5194,25 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
+    "year_of_creation__hicri": "1141",
+    "year_of_creation/Miladi": "1728-1729",
     "karye": []
   },
   "61": {
@@ -5249,9 +5334,15 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation__hicri": "1142",
+    "year_of_creation/Miladi": "1729-1730",
     "karye": []
   },
   "62": {
@@ -5317,9 +5408,15 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
+    "year_of_creation__hicri": "1142",
+    "year_of_creation/Miladi": "1729-1730",
     "karye": []
   },
   "64": {
@@ -5364,7 +5461,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 12,
@@ -5477,13 +5574,17 @@
       {
         "id": 207,
         "value": "Zeyt yağı bardağı"
+      },
+      {
+        "id": 260,
+        "value": "Demet odunu"
       }
     ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "year_of_creation__hicri": "1120",
+    "year_of_creation/Miladi": "1708-1709",
     "karye": []
   },
   "65": {
@@ -5491,7 +5592,12 @@
     "order": "59.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
     "grocerist_id": "document__65",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 96,
+        "value": "Bakkal Rizo veled-i Aleksan"
+      }
+    ],
     "district": [
       {
         "id": 16,
@@ -5531,7 +5637,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 12,
@@ -5702,6 +5808,14 @@
         "value": "Çorlu kaşkavalı"
       },
       {
+        "id": 191,
+        "value": "Edremit siyahı üzüm"
+      },
+      {
+        "id": 193,
+        "value": "Tahini"
+      },
+      {
         "id": 206,
         "value": "Temür hurdası"
       },
@@ -5712,11 +5826,43 @@
       {
         "id": 210,
         "value": "Edremit siyahı"
+      },
+      {
+        "id": 259,
+        "value": "Leh tuzu"
+      },
+      {
+        "id": 260,
+        "value": "Demet odunu"
+      },
+      {
+        "id": 261,
+        "value": "Leh kaşkavalı"
+      },
+      {
+        "id": 275,
+        "value": "İzmir siyahı üzüm"
       }
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6790,
+        "value": "Mother",
+        "color": "gray"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      }
+    ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
     "karye": [
@@ -5747,9 +5893,20 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      }
+    ],
+    "year_of_creation__hicri": "1121",
+    "year_of_creation/Miladi": "1709-1710",
     "karye": []
   },
   "67": {
@@ -5785,7 +5942,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 12,
@@ -5870,13 +6027,28 @@
       {
         "id": 211,
         "value": "Asma yaprağı"
+      },
+      {
+        "id": 260,
+        "value": "Demet odunu"
       }
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      }
+    ],
+    "year_of_creation__hicri": "1129",
+    "year_of_creation/Miladi": "1716-1717",
     "karye": []
   },
   "68": {
@@ -5900,9 +6072,30 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6790,
+        "value": "Mother",
+        "color": "gray"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
+    "year_of_creation__hicri": "1128",
+    "year_of_creation/Miladi": "1715-1716",
     "karye": [
       {
         "id": 4,
@@ -5931,9 +6124,20 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      }
+    ],
+    "year_of_creation__hicri": "1142",
+    "year_of_creation/Miladi": "1729-1730",
     "karye": [
       {
         "id": 5,
@@ -5964,12 +6168,125 @@
         "value": "Mehmed Paşa"
       }
     ],
-    "goods": [],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 14,
+        "value": "Lentil"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 17,
+        "value": "Beylerce"
+      },
+      {
+        "id": 18,
+        "value": "Razaki"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 24,
+        "value": "Nardenk"
+      },
+      {
+        "id": 25,
+        "value": "Honey"
+      },
+      {
+        "id": 27,
+        "value": "Starch"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 36,
+        "value": "Vermicelli"
+      },
+      {
+        "id": 44,
+        "value": "Wheat"
+      },
+      {
+        "id": 49,
+        "value": "Sausage"
+      },
+      {
+        "id": 53,
+        "value": "Flour"
+      },
+      {
+        "id": 61,
+        "value": "Trilye olives"
+      },
+      {
+        "id": 64,
+        "value": "Smashed salt"
+      },
+      {
+        "id": 93,
+        "value": "Gömeç honey"
+      },
+      {
+        "id": 95,
+        "value": "Black sesame"
+      },
+      {
+        "id": 108,
+        "value": "Soap"
+      },
+      {
+        "id": 158,
+        "value": "Candle wax"
+      },
+      {
+        "id": 192,
+        "value": "Çakmak tozu"
+      },
+      {
+        "id": 196,
+        "value": "Dil peyniri"
+      },
+      {
+        "id": 206,
+        "value": "Temür hurdası"
+      },
+      {
+        "id": 234,
+        "value": "Çanak"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "year_of_creation__hicri": "1149",
+    "year_of_creation/Miladi": "1736-1737",
     "karye": [
       {
         "id": 6,
@@ -5994,12 +6311,45 @@
       }
     ],
     "neighbourhood": [],
-    "goods": [],
+    "goods": [
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 49,
+        "value": "Sausage"
+      },
+      {
+        "id": 120,
+        "value": "Steelyard"
+      },
+      {
+        "id": 124,
+        "value": "Scales"
+      },
+      {
+        "id": 198,
+        "value": "Oil scale"
+      },
+      {
+        "id": 270,
+        "value": "Torba yoğurt"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "year_of_creation__hicri": "1154",
+    "year_of_creation/Miladi": "1741-1742",
     "karye": []
   },
   "72": {
@@ -6025,12 +6375,209 @@
         "value": "Kefere"
       }
     ],
-    "goods": [],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 4,
+        "value": "Walnut"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 9,
+        "value": "Kashkaval"
+      },
+      {
+        "id": 10,
+        "value": "Tulum peyniri"
+      },
+      {
+        "id": 12,
+        "value": "Pea"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 14,
+        "value": "Lentil"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 17,
+        "value": "Beylerce"
+      },
+      {
+        "id": 18,
+        "value": "Razaki"
+      },
+      {
+        "id": 21,
+        "value": "Figs"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 24,
+        "value": "Nardenk"
+      },
+      {
+        "id": 25,
+        "value": "Honey"
+      },
+      {
+        "id": 27,
+        "value": "Starch"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 30,
+        "value": "Salt"
+      },
+      {
+        "id": 36,
+        "value": "Vermicelli"
+      },
+      {
+        "id": 40,
+        "value": "Pickled cabbage"
+      },
+      {
+        "id": 41,
+        "value": "Daru"
+      },
+      {
+        "id": 44,
+        "value": "Wheat"
+      },
+      {
+        "id": 45,
+        "value": "Bulgur"
+      },
+      {
+        "id": 49,
+        "value": "Sausage"
+      },
+      {
+        "id": 57,
+        "value": "Pastrami"
+      },
+      {
+        "id": 65,
+        "value": "Küfter"
+      },
+      {
+        "id": 67,
+        "value": "Pepper"
+      },
+      {
+        "id": 96,
+        "value": "Pestil"
+      },
+      {
+        "id": 114,
+        "value": "Barrel"
+      },
+      {
+        "id": 120,
+        "value": "Steelyard"
+      },
+      {
+        "id": 124,
+        "value": "Scales"
+      },
+      {
+        "id": 135,
+        "value": "Pot"
+      },
+      {
+        "id": 146,
+        "value": "Wood"
+      },
+      {
+        "id": 170,
+        "value": "Water melon"
+      },
+      {
+        "id": 172,
+        "value": "İzmir soap"
+      },
+      {
+        "id": 175,
+        "value": "Chestnut"
+      },
+      {
+        "id": 184,
+        "value": "Goat cheese"
+      },
+      {
+        "id": 231,
+        "value": "Revgan-ı çerviş"
+      },
+      {
+        "id": 272,
+        "value": "Turşu yaprağı"
+      },
+      {
+        "id": 275,
+        "value": "İzmir siyahı üzüm"
+      },
+      {
+        "id": 276,
+        "value": "Kutu balı"
+      },
+      {
+        "id": 278,
+        "value": "Turşu"
+      },
+      {
+        "id": 324,
+        "value": "Erik"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
+    "year_of_creation__hicri": "1163",
+    "year_of_creation/Miladi": "1749-1750",
     "karye": []
   },
   "73": {
@@ -6056,12 +6603,263 @@
         "value": "Yenimahalle"
       }
     ],
-    "goods": [],
+    "goods": [
+      {
+        "id": 68,
+        "value": "Pipe"
+      },
+      {
+        "id": 114,
+        "value": "Barrel"
+      },
+      {
+        "id": 115,
+        "value": "Zenbil"
+      },
+      {
+        "id": 119,
+        "value": "Sack"
+      },
+      {
+        "id": 120,
+        "value": "Steelyard"
+      },
+      {
+        "id": 124,
+        "value": "Scales"
+      },
+      {
+        "id": 125,
+        "value": "Dirhem"
+      },
+      {
+        "id": 128,
+        "value": "Flat tray"
+      },
+      {
+        "id": 133,
+        "value": "Washing tray"
+      },
+      {
+        "id": 134,
+        "value": "Bucket"
+      },
+      {
+        "id": 135,
+        "value": "Pot"
+      },
+      {
+        "id": 140,
+        "value": "Knife"
+      },
+      {
+        "id": 232,
+        "value": "Kaşık"
+      },
+      {
+        "id": 234,
+        "value": "Çanak"
+      },
+      {
+        "id": 239,
+        "value": "Kahve"
+      },
+      {
+        "id": 243,
+        "value": "Sandık"
+      },
+      {
+        "id": 279,
+        "value": "Kömür terazisi"
+      },
+      {
+        "id": 280,
+        "value": "Yağ destisi"
+      },
+      {
+        "id": 281,
+        "value": "Zeytun fuçısı"
+      },
+      {
+        "id": 282,
+        "value": "Zeyt yağı kovası"
+      },
+      {
+        "id": 283,
+        "value": "Kalbur"
+      },
+      {
+        "id": 284,
+        "value": "Böğrülce anbarı"
+      },
+      {
+        "id": 285,
+        "value": "Sofra"
+      },
+      {
+        "id": 286,
+        "value": "Nişasta fuçısı"
+      },
+      {
+        "id": 287,
+        "value": "Balık tabası"
+      },
+      {
+        "id": 288,
+        "value": "Tencere"
+      },
+      {
+        "id": 289,
+        "value": "Kazgan"
+      },
+      {
+        "id": 290,
+        "value": "Huni"
+      },
+      {
+        "id": 291,
+        "value": "Yumurta sepeti"
+      },
+      {
+        "id": 292,
+        "value": "Tahin çömleği"
+      },
+      {
+        "id": 293,
+        "value": "Peynir Kutusu"
+      },
+      {
+        "id": 294,
+        "value": "Misafir sofrası"
+      },
+      {
+        "id": 295,
+        "value": "Pirinç hunisi"
+      },
+      {
+        "id": 296,
+        "value": "Tas"
+      },
+      {
+        "id": 297,
+        "value": "İbrik"
+      },
+      {
+        "id": 298,
+        "value": "Vezne"
+      },
+      {
+        "id": 299,
+        "value": "Çekmece"
+      },
+      {
+        "id": 300,
+        "value": "Biblo kutusu"
+      },
+      {
+        "id": 301,
+        "value": "destere"
+      },
+      {
+        "id": 302,
+        "value": "Keser"
+      },
+      {
+        "id": 303,
+        "value": "Şamdan"
+      },
+      {
+        "id": 304,
+        "value": "Havan"
+      },
+      {
+        "id": 305,
+        "value": "Kandil"
+      },
+      {
+        "id": 306,
+        "value": "Badya"
+      },
+      {
+        "id": 307,
+        "value": "Süzek"
+      },
+      {
+        "id": 308,
+        "value": "Fenar"
+      },
+      {
+        "id": 309,
+        "value": "Dara"
+      },
+      {
+        "id": 310,
+        "value": "İskemle"
+      },
+      {
+        "id": 311,
+        "value": "Pirinç kilesi"
+      },
+      {
+        "id": 312,
+        "value": "Akçe tahtası"
+      },
+      {
+        "id": 313,
+        "value": "Rende"
+      },
+      {
+        "id": 314,
+        "value": "Devad"
+      },
+      {
+        "id": 315,
+        "value": "Hokka"
+      },
+      {
+        "id": 316,
+        "value": "Çatal-ı haliç"
+      },
+      {
+        "id": 317,
+        "value": "Sirke hunisi"
+      },
+      {
+        "id": 318,
+        "value": "Mum kutusu"
+      },
+      {
+        "id": 319,
+        "value": "Yağ malası"
+      },
+      {
+        "id": 320,
+        "value": "Manula"
+      },
+      {
+        "id": 321,
+        "value": "Saban"
+      },
+      {
+        "id": 322,
+        "value": "Dükkan perdesi"
+      },
+      {
+        "id": 323,
+        "value": "Çengel"
+      }
+    ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "mentioned_persons": [
+      {
+        "id": 6796,
+        "value": "Brother",
+        "color": "dark-green"
+      }
+    ],
+    "year_of_creation__hicri": "1168",
+    "year_of_creation/Miladi": "1754-1755",
     "karye": []
   },
   "74": {
@@ -6090,9 +6888,25 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      }
+    ],
+    "year_of_creation__hicri": "1169",
+    "year_of_creation/Miladi": "1755-1756",
     "karye": []
   },
   "75": {
@@ -6124,7 +6938,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 15,
@@ -6260,7 +7074,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 12,
@@ -6423,7 +7237,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 15,
@@ -6575,7 +7389,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 13,
@@ -6924,7 +7738,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 13,
@@ -7220,6 +8034,22 @@
       {
         "id": 41,
         "value": "Daru"
+      },
+      {
+        "id": 46,
+        "value": "Barley"
+      },
+      {
+        "id": 267,
+        "value": "Alaca bakla"
+      },
+      {
+        "id": 268,
+        "value": "Çürük zeytun"
+      },
+      {
+        "id": 269,
+        "value": "Çalgı revgan-ı sade"
       }
     ],
     "longtitude": null,
@@ -7265,7 +8095,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 12,
@@ -7397,11 +8227,19 @@
       },
       {
         "id": 191,
-        "value": "Edremit siyahı"
+        "value": "Edremit siyahı üzüm"
       },
       {
         "id": 206,
         "value": "Temür hurdası"
+      },
+      {
+        "id": 260,
+        "value": "Demet odunu"
+      },
+      {
+        "id": 262,
+        "value": "Revgan-ı Leh"
       }
     ],
     "longtitude": null,
@@ -7452,7 +8290,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 13,
@@ -7473,10 +8311,6 @@
       {
         "id": 18,
         "value": "Razaki"
-      },
-      {
-        "id": 20,
-        "value": "Siyah"
       },
       {
         "id": 23,
@@ -7539,6 +8373,10 @@
         "value": "Egg"
       },
       {
+        "id": 61,
+        "value": "Trilye olives"
+      },
+      {
         "id": 63,
         "value": "Sesame Oil"
       },
@@ -7579,6 +8417,10 @@
         "value": "Goat cheese"
       },
       {
+        "id": 185,
+        "value": "Oleaster"
+      },
+      {
         "id": 192,
         "value": "Çakmak tozu"
       },
@@ -7593,6 +8435,26 @@
       {
         "id": 206,
         "value": "Temür hurdası"
+      },
+      {
+        "id": 259,
+        "value": "Leh tuzu"
+      },
+      {
+        "id": 260,
+        "value": "Demet odunu"
+      },
+      {
+        "id": 261,
+        "value": "Leh kaşkavalı"
+      },
+      {
+        "id": 265,
+        "value": "Döğülmüş Leh tuzu"
+      },
+      {
+        "id": 275,
+        "value": "İzmir siyahı üzüm"
       }
     ],
     "longtitude": null,
@@ -7677,10 +8539,6 @@
       {
         "id": 33,
         "value": "Kefe salt"
-      },
-      {
-        "id": 36,
-        "value": "Vermicelli"
       },
       {
         "id": 63,
@@ -8289,7 +9147,7 @@
       },
       {
         "id": 230,
-        "value": "saman"
+        "value": "Saman"
       }
     ],
     "longtitude": null,
@@ -8641,7 +9499,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 29,
@@ -8660,20 +9518,20 @@
         "value": "Seklem"
       },
       {
+        "id": 194,
+        "value": "Yapağı yün"
+      },
+      {
         "id": 227,
         "value": "Ham sirke"
       },
       {
         "id": 230,
-        "value": "saman"
+        "value": "Saman"
       },
       {
         "id": 231,
         "value": "Revgan-ı çerviş"
-      },
-      {
-        "id": 245,
-        "value": "Yapağı"
       },
       {
         "id": 246,
@@ -8812,7 +9670,7 @@
       },
       {
         "id": 10,
-        "value": "Tulum"
+        "value": "Tulum peyniri"
       },
       {
         "id": 15,
