@@ -7015,6 +7015,14 @@
       {
         "id": 213,
         "value": "Turşu fıçısı"
+      },
+      {
+        "id": 243,
+        "value": "Sandık"
+      },
+      {
+        "id": 304,
+        "value": "Havan"
       }
     ],
     "longtitude": null,
@@ -7522,8 +7530,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "year_of_creation__hicri": "1190",
+    "year_of_creation/Miladi": "1776-1777",
     "karye": []
   },
   "82": {
@@ -7553,8 +7561,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "year_of_creation__hicri": "1189",
+    "year_of_creation/Miladi": "1775-1776",
     "karye": []
   },
   "83": {
@@ -7670,13 +7678,17 @@
       {
         "id": 204,
         "value": "Broom"
+      },
+      {
+        "id": 234,
+        "value": "Çanak"
       }
     ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "year_of_creation__hicri": "1192",
+    "year_of_creation/Miladi": "1778-1779",
     "karye": [
       {
         "id": 7,
@@ -7813,6 +7825,10 @@
         "value": "Eflak salt"
       },
       {
+        "id": 44,
+        "value": "Wheat"
+      },
+      {
         "id": 46,
         "value": "Barley"
       },
@@ -7833,8 +7849,16 @@
         "value": "Bean"
       },
       {
+        "id": 108,
+        "value": "Soap"
+      },
+      {
         "id": 112,
         "value": "Candle"
+      },
+      {
+        "id": 115,
+        "value": "Zenbil"
       },
       {
         "id": 122,
@@ -7871,13 +7895,21 @@
       {
         "id": 214,
         "value": "Nardenk destisi"
+      },
+      {
+        "id": 243,
+        "value": "Sandık"
+      },
+      {
+        "id": 303,
+        "value": "Şamdan"
       }
     ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "year_of_creation__hicri": "1194",
+    "year_of_creation/Miladi": "1780",
     "karye": []
   },
   "86": {
@@ -7972,8 +8004,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
+    "year_of_creation__hicri": "1200",
+    "year_of_creation/Miladi": "1785-1786",
     "karye": []
   },
   "87": {
@@ -8673,8 +8705,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": "",
+    "year_of_creation__hicri": "1156",
+    "year_of_creation/Miladi": "1743-1744",
     "karye": []
   },
   "95": {
@@ -8748,6 +8780,10 @@
         "value": "Jar"
       },
       {
+        "id": 133,
+        "value": "Washing tray"
+      },
+      {
         "id": 134,
         "value": "Bucket"
       },
@@ -8806,6 +8842,22 @@
       {
         "id": 221,
         "value": "Şinik"
+      },
+      {
+        "id": 288,
+        "value": "Tencere"
+      },
+      {
+        "id": 302,
+        "value": "Keser"
+      },
+      {
+        "id": 304,
+        "value": "Havan"
+      },
+      {
+        "id": 306,
+        "value": "Badya"
       }
     ],
     "longtitude": null,
@@ -8970,13 +9022,17 @@
       {
         "id": 225,
         "value": "Kahve kutusu"
+      },
+      {
+        "id": 328,
+        "value": "Kahve kutusu"
       }
     ],
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": "",
+    "year_of_creation__hicri": "1168",
+    "year_of_creation/Miladi": "1754-1755",
     "karye": []
   },
   "98": {

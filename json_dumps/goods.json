@@ -4282,6 +4282,10 @@
         "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
       },
       {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
+      },
+      {
         "id": 96,
         "value": "İSTM.ŞSC.15.d. 174 / 41a-2"
       },
@@ -6568,6 +6572,10 @@
         "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
       },
       {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
+      },
+      {
         "id": 86,
         "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
       },
@@ -6875,6 +6883,10 @@
       {
         "id": 80,
         "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
+      },
+      {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
       },
       {
         "id": 95,
@@ -7613,6 +7625,10 @@
       {
         "id": 73,
         "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
       }
     ],
     "turkish_names": "Tekne",
@@ -10289,6 +10305,10 @@
         "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
       },
       {
+        "id": 84,
+        "value": "İSTM.ŞSC.06.d. 501 / 22b-3"
+      },
+      {
         "id": 104,
         "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
       }
@@ -10470,6 +10490,14 @@
       {
         "id": 73,
         "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 76,
+        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+      },
+      {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
       },
       {
         "id": 106,
@@ -11417,6 +11445,10 @@
       {
         "id": 73,
         "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
       }
     ],
     "turkish_names": "",
@@ -11725,6 +11757,10 @@
       {
         "id": 73,
         "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
       }
     ],
     "turkish_names": "",
@@ -11751,6 +11787,10 @@
       {
         "id": 73,
         "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
       }
     ],
     "turkish_names": "",
@@ -11773,6 +11813,14 @@
       {
         "id": 73,
         "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 76,
+        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
       }
     ],
     "turkish_names": "",
@@ -11817,6 +11865,10 @@
       {
         "id": 73,
         "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
       }
     ],
     "turkish_names": "",
@@ -12262,6 +12314,28 @@
       {
         "id": 52,
         "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "328": {
+    "id": 328,
+    "order": "321.00000000000000000000",
+    "name": "Kahve kutusu",
+    "gorcerist_id": "goods__328",
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 97,
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1"
       }
     ],
     "turkish_names": "",
