@@ -9190,6 +9190,10 @@
         "value": "Broad bean"
       },
       {
+        "id": 206,
+        "value": "Temür hurdası"
+      },
+      {
         "id": 226,
         "value": "Arak"
       },
@@ -9204,6 +9208,14 @@
       {
         "id": 230,
         "value": "Saman"
+      },
+      {
+        "id": 285,
+        "value": "Sofra"
+      },
+      {
+        "id": 303,
+        "value": "Şamdan"
       }
     ],
     "longtitude": null,
@@ -9327,6 +9339,10 @@
       {
         "id": 147,
         "value": "Coal"
+      },
+      {
+        "id": 151,
+        "value": "String"
       },
       {
         "id": 217,
@@ -9492,6 +9508,10 @@
         "value": "Chestnut"
       },
       {
+        "id": 206,
+        "value": "Temür hurdası"
+      },
+      {
         "id": 235,
         "value": "Tahin helvası"
       },
@@ -9531,8 +9551,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": "",
+    "year_of_creation__hicri": "1205",
+    "year_of_creation/Miladi": "1790-1791",
     "karye": []
   },
   "107": {
@@ -9570,8 +9590,8 @@
         "value": "Sack"
       },
       {
-        "id": 143,
-        "value": "Seklem"
+        "id": 140,
+        "value": "Knife"
       },
       {
         "id": 194,
@@ -9601,8 +9621,8 @@
     "longtitude": null,
     "latitude": null,
     "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": "",
+    "year_of_creation__hicri": "1207",
+    "year_of_creation/Miladi": "1792-1793",
     "karye": []
   },
   "109": {
