@@ -2673,10 +2673,6 @@
         "value": "Razaki"
       },
       {
-        "id": 20,
-        "value": "Siyah"
-      },
-      {
         "id": 21,
         "value": "Figs"
       },
@@ -2783,6 +2779,10 @@
       {
         "id": 112,
         "value": "Candle"
+      },
+      {
+        "id": 275,
+        "value": "İzmir siyahı üzüm"
       }
     ],
     "longtitude": null,
@@ -4085,6 +4085,10 @@
         "value": "Olive"
       },
       {
+        "id": 41,
+        "value": "Daru"
+      },
+      {
         "id": 46,
         "value": "Barley"
       },
@@ -4202,62 +4206,6 @@
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
     "karye": []
-  },
-  "40": {
-    "id": 40,
-    "order": "40.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.14.d.399 / 56a-1",
-    "grocerist_id": "document__40",
-    "shop_owner": [],
-    "district": [
-      {
-        "id": 4,
-        "value": "Galata"
-      },
-      {
-        "id": 8,
-        "value": "İstinye"
-      }
-    ],
-    "neighbourhood": [
-      {
-        "id": 29,
-        "value": "Yeniköy"
-      }
-    ],
-    "goods": [
-      {
-        "id": 5,
-        "value": "Olive Oil"
-      }
-    ],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [
-      {
-        "id": 6787,
-        "value": "Wife",
-        "color": "dark-orange"
-      },
-      {
-        "id": 6788,
-        "value": "Son",
-        "color": "light-gray"
-      },
-      {
-        "id": 6789,
-        "value": "Daughter",
-        "color": "dark-blue"
-      }
-    ],
-    "year_of_creation__hicri": "1183",
-    "year_of_creation/Miladi": "1769-1770",
-    "karye": [
-      {
-        "id": 1,
-        "value": "Zekeriya"
-      }
-    ]
   },
   "41": {
     "id": 41,
@@ -4563,6 +4511,10 @@
       {
         "id": 125,
         "value": "Dirhem"
+      },
+      {
+        "id": 128,
+        "value": "Flat tray"
       }
     ],
     "longtitude": null,
@@ -4942,6 +4894,10 @@
         "value": "Tuzlu balık"
       },
       {
+        "id": 114,
+        "value": "Barrel"
+      },
+      {
         "id": 122,
         "value": "Mug"
       },
@@ -4968,6 +4924,10 @@
       {
         "id": 326,
         "value": "Kızak yağı"
+      },
+      {
+        "id": 333,
+        "value": "Zeytun yağı kapları"
       }
     ],
     "longtitude": null,
@@ -5578,6 +5538,10 @@
       {
         "id": 260,
         "value": "Demet odunu"
+      },
+      {
+        "id": 272,
+        "value": "Turşu yaprağı"
       }
     ],
     "longtitude": null,
@@ -5662,10 +5626,6 @@
       {
         "id": 18,
         "value": "Razaki"
-      },
-      {
-        "id": 20,
-        "value": "Siyah"
       },
       {
         "id": 21,
@@ -5995,6 +5955,10 @@
       {
         "id": 61,
         "value": "Trilye olives"
+      },
+      {
+        "id": 87,
+        "value": "Kaba soğan"
       },
       {
         "id": 88,
@@ -6337,12 +6301,40 @@
         "value": "Scales"
       },
       {
+        "id": 128,
+        "value": "Flat tray"
+      },
+      {
+        "id": 140,
+        "value": "Knife"
+      },
+      {
+        "id": 197,
+        "value": "Yogurt"
+      },
+      {
         "id": 198,
         "value": "Oil scale"
       },
       {
         "id": 270,
         "value": "Torba yoğurt"
+      },
+      {
+        "id": 288,
+        "value": "Tencere"
+      },
+      {
+        "id": 312,
+        "value": "Akçe tahtası"
+      },
+      {
+        "id": 331,
+        "value": "Nariye"
+      },
+      {
+        "id": 332,
+        "value": "Sahan"
       }
     ],
     "longtitude": null,
@@ -6553,6 +6545,14 @@
         "value": "Turşu"
       },
       {
+        "id": 288,
+        "value": "Tencere"
+      },
+      {
+        "id": 289,
+        "value": "Kazgan"
+      },
+      {
         "id": 324,
         "value": "Erik"
       }
@@ -6607,10 +6607,6 @@
       {
         "id": 68,
         "value": "Pipe"
-      },
-      {
-        "id": 114,
-        "value": "Barrel"
       },
       {
         "id": 115,
@@ -6847,6 +6843,10 @@
       {
         "id": 323,
         "value": "Çengel"
+      },
+      {
+        "id": 330,
+        "value": "Zeytun fuçısı"
       }
     ],
     "longtitude": null,
@@ -7023,6 +7023,10 @@
       {
         "id": 304,
         "value": "Havan"
+      },
+      {
+        "id": 329,
+        "value": "Turşu fıçısı"
       }
     ],
     "longtitude": null,
@@ -7388,6 +7392,10 @@
     ],
     "goods": [
       {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
         "id": 6,
         "value": "Ghee, Clarified Butter"
       },
@@ -7418,10 +7426,6 @@
       {
         "id": 18,
         "value": "Razaki"
-      },
-      {
-        "id": 20,
-        "value": "Siyah"
       },
       {
         "id": 22,
@@ -7494,6 +7498,10 @@
       {
         "id": 202,
         "value": "Lob fig"
+      },
+      {
+        "id": 275,
+        "value": "İzmir siyahı üzüm"
       }
     ],
     "longtitude": null,
@@ -7769,10 +7777,6 @@
         "value": "Razaki"
       },
       {
-        "id": 20,
-        "value": "Siyah"
-      },
-      {
         "id": 21,
         "value": "Figs"
       },
@@ -7899,6 +7903,10 @@
       {
         "id": 243,
         "value": "Sandık"
+      },
+      {
+        "id": 275,
+        "value": "İzmir siyahı üzüm"
       },
       {
         "id": 303,
@@ -8064,6 +8072,10 @@
     ],
     "goods": [
       {
+        "id": 22,
+        "value": "Carob"
+      },
+      {
         "id": 41,
         "value": "Daru"
       },
@@ -8152,10 +8164,6 @@
       {
         "id": 18,
         "value": "Razaki"
-      },
-      {
-        "id": 20,
-        "value": "Siyah"
       },
       {
         "id": 21,
@@ -8272,6 +8280,10 @@
       {
         "id": 262,
         "value": "Revgan-ı Leh"
+      },
+      {
+        "id": 275,
+        "value": "İzmir siyahı üzüm"
       }
     ],
     "longtitude": null,
@@ -8573,6 +8585,10 @@
         "value": "Kefe salt"
       },
       {
+        "id": 36,
+        "value": "Vermicelli"
+      },
+      {
         "id": 63,
         "value": "Sesame Oil"
       },
@@ -8844,6 +8860,10 @@
         "value": "Şinik"
       },
       {
+        "id": 260,
+        "value": "Demet odunu"
+      },
+      {
         "id": 288,
         "value": "Tencere"
       },
@@ -8884,6 +8904,10 @@
       {
         "id": 44,
         "value": "Wheat"
+      },
+      {
+        "id": 289,
+        "value": "Kazgan"
       }
     ],
     "longtitude": null,
