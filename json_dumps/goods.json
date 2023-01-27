@@ -2367,6 +2367,10 @@
         "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
       },
       {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      },
+      {
         "id": 109,
         "value": "İSTM.ŞSC.06.d. 566/92b-1"
       },
@@ -10536,7 +10540,7 @@
   "244": {
     "id": 244,
     "order": "237.00000000000000000000",
-    "name": "Hasır iplik",
+    "name": "Mısır ipliği",
     "gorcerist_id": "goods__244",
     "has_category": [
       {
@@ -12517,6 +12521,102 @@
       {
         "id": 52,
         "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "334": {
+    "id": 334,
+    "order": "327.00000000000000000000",
+    "name": "Kaya tuzu",
+    "gorcerist_id": "goods__334",
+    "has_category": [],
+    "documents": [
+      {
+        "id": 104,
+        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "335": {
+    "id": 335,
+    "order": "328.00000000000000000000",
+    "name": "Horoz",
+    "gorcerist_id": "goods__335",
+    "has_category": [],
+    "documents": [
+      {
+        "id": 104,
+        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "336": {
+    "id": 336,
+    "order": "329.00000000000000000000",
+    "name": "Kahve şekeri",
+    "gorcerist_id": "goods__336",
+    "has_category": [],
+    "documents": [
+      {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "337": {
+    "id": 337,
+    "order": "330.00000000000000000000",
+    "name": "Hunnap",
+    "gorcerist_id": "goods__337",
+    "has_category": [],
+    "documents": [
+      {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "338": {
+    "id": 338,
+    "order": "331.00000000000000000000",
+    "name": "Sünbül",
+    "gorcerist_id": "goods__338",
+    "has_category": [],
+    "documents": [
+      {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": ""
+  },
+  "339": {
+    "id": 339,
+    "order": "332.00000000000000000000",
+    "name": "Arşın",
+    "gorcerist_id": "goods__339",
+    "has_category": [],
+    "documents": [
+      {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
       }
     ],
     "turkish_names": "",
