@@ -12540,7 +12540,13 @@
     "order": "327.00000000000000000000",
     "name": "Kaya tuzu",
     "gorcerist_id": "goods__334",
-    "has_category": [],
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      }
+    ],
     "documents": [
       {
         "id": 104,
@@ -12588,7 +12594,18 @@
     "order": "330.00000000000000000000",
     "name": "Hunnap",
     "gorcerist_id": "goods__337",
-    "has_category": [],
+    "has_category": [
+      {
+        "id": 6762,
+        "value": "Produce",
+        "color": "light-orange"
+      },
+      {
+        "id": 6756,
+        "value": "Fresh Fruits",
+        "color": "orange"
+      }
+    ],
     "documents": [
       {
         "id": 106,
@@ -12620,7 +12637,13 @@
     "order": "332.00000000000000000000",
     "name": "Arşın",
     "gorcerist_id": "goods__339",
-    "has_category": [],
+    "has_category": [
+      {
+        "id": 6751,
+        "value": "Utensils",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 106,
