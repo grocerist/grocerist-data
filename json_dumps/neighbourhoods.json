@@ -196,12 +196,7 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [
-      {
-        "id": 35,
-        "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
-      }
-    ],
+    "documents": [],
     "district_nineteenth_century": []
   },
   "12": {
@@ -538,10 +533,6 @@
       {
         "id": 39,
         "value": "İSTM.ŞSC.14.d. 394/ 59b-1"
-      },
-      {
-        "id": 48,
-        "value": "İSTM.ŞSC.14.d. 472 / 33b-1"
       }
     ],
     "district_nineteenth_century": []
@@ -580,6 +571,10 @@
       {
         "id": 30,
         "value": "İSTM.ŞSC.14.d.290 / 73b-2"
+      },
+      {
+        "id": 105,
+        "value": "İSTM.ŞSC.15.d. 254 / 8a-2"
       }
     ],
     "district_nineteenth_century": []
@@ -611,6 +606,10 @@
     "latitude": null,
     "longitute": null,
     "documents": [
+      {
+        "id": 39,
+        "value": "İSTM.ŞSC.14.d. 394/ 59b-1"
+      },
       {
         "id": 44,
         "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
@@ -808,16 +807,7 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [
-      {
-        "id": 64,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
-      },
-      {
-        "id": 91,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
-      }
-    ],
+    "documents": [],
     "district_nineteenth_century": []
   },
   "48": {
@@ -847,7 +837,7 @@
         "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       },
       {
-        "id": 88,
+        "id": 91,
         "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
       }
     ],
@@ -1131,5 +1121,102 @@
         "value": "Üsküdar"
       }
     ]
+  },
+  "65": {
+    "id": 65,
+    "order": "63.00000000000000000000",
+    "name": "Reis",
+    "grocerist_id": "neighbourhood__65",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 64,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
+      }
+    ],
+    "district_nineteenth_century": []
+  },
+  "66": {
+    "id": 66,
+    "order": "64.00000000000000000000",
+    "name": "Kürkçü",
+    "grocerist_id": "neighbourhood__66",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 35,
+        "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
+      }
+    ],
+    "district_nineteenth_century": []
+  },
+  "67": {
+    "id": 67,
+    "order": "65.00000000000000000000",
+    "name": "Yavud",
+    "grocerist_id": "neighbourhood__67",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
+      }
+    ],
+    "district_nineteenth_century": []
+  },
+  "68": {
+    "id": 68,
+    "order": "66.00000000000000000000",
+    "name": "",
+    "grocerist_id": "neighbourhood__68",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": []
+  },
+  "69": {
+    "id": 69,
+    "order": "67.00000000000000000000",
+    "name": "Otakçı",
+    "grocerist_id": "neighbourhood__69",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 97,
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1"
+      }
+    ],
+    "district_nineteenth_century": []
+  },
+  "70": {
+    "id": 70,
+    "order": "68.00000000000000000000",
+    "name": "Edine Kapısı harici",
+    "grocerist_id": "neighbourhood__70",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 101,
+        "value": "İSTM.ŞSC.15.d. 216 / 42a-1"
+      }
+    ],
+    "district_nineteenth_century": []
   }
 }

@@ -342,7 +342,28 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6790,
+        "value": "Mother",
+        "color": "gray"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
     "year_of_creation__hicri": "1113",
     "year_of_creation/Miladi": "1701-1702",
     "karye": []
@@ -1443,6 +1464,11 @@
         "id": 6787,
         "value": "Wife",
         "color": "dark-orange"
+      },
+      {
+        "id": 6795,
+        "value": "Fetus",
+        "color": "red"
       }
     ],
     "year_of_creation__hicri": "1128",
@@ -2136,7 +2162,7 @@
     "shop_owner": [
       {
         "id": 19,
-        "value": "İstavor veled-i Yako"
+        "value": "Astavor veled-i Yako"
       }
     ],
     "district": [
@@ -2158,7 +2184,13 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
     "year_of_creation__hicri": "1134",
     "year_of_creation/Miladi": "1721-1722",
     "karye": []
@@ -2245,7 +2277,7 @@
     "shop_owner": [
       {
         "id": 21,
-        "value": "Bakkal Nikola v. Dimitri"
+        "value": "Bakkal Lefter v. Dimitri"
       }
     ],
     "district": [
@@ -2258,7 +2290,18 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
     "year_of_creation__hicri": "1135",
     "year_of_creation/Miladi": "1722-1723",
     "karye": [
@@ -2444,7 +2487,18 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 9911,
+        "value": "Grandchildren",
+        "color": "light-gray"
+      }
+    ],
     "year_of_creation__hicri": "1135",
     "year_of_creation/Miladi": "1722-1723",
     "karye": []
@@ -2946,7 +3000,7 @@
     "shop_owner": [
       {
         "id": 27,
-        "value": "Bakkal Nikola"
+        "value": "Bakkal Nikola veled-i Dimitri"
       }
     ],
     "district": [
@@ -3252,7 +3306,7 @@
     "shop_owner": [
       {
         "id": 29,
-        "value": "Nikola"
+        "value": "Nikola veled-i Ulaş"
       }
     ],
     "district": [
@@ -3731,7 +3785,13 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
     "year_of_creation__hicri": "1164",
     "year_of_creation/Miladi": "1750-1751",
     "karye": []
@@ -3761,7 +3821,23 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6797,
+        "value": "Sister",
+        "color": "orange"
+      }
+    ],
     "year_of_creation__hicri": "1168",
     "year_of_creation/Miladi": "1754-1755",
     "karye": [
@@ -3801,7 +3877,23 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6790,
+        "value": "Mother",
+        "color": "gray"
+      },
+      {
+        "id": 6795,
+        "value": "Fetus",
+        "color": "red"
+      }
+    ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
     "karye": []
@@ -3814,7 +3906,7 @@
     "shop_owner": [
       {
         "id": 35,
-        "value": "Bakkal Simal"
+        "value": "Bakkal Simal veled-i Nikola"
       }
     ],
     "district": [
@@ -3829,18 +3921,34 @@
     ],
     "neighbourhood": [
       {
-        "id": 11,
-        "value": "Eğrikapı"
-      },
-      {
         "id": 29,
         "value": "Yeniköy"
+      },
+      {
+        "id": 66,
+        "value": "Kürkçü"
       }
     ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      }
+    ],
     "year_of_creation__hicri": "1173",
     "year_of_creation/Miladi": "1759-1760",
     "karye": []
@@ -4002,7 +4110,13 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      }
+    ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
     "karye": [
@@ -4166,11 +4280,6 @@
         "id": 6789,
         "value": "Daughter",
         "color": "dark-blue"
-      },
-      {
-        "id": 9894,
-        "value": "Grandson",
-        "color": "dark-gray"
       }
     ],
     "year_of_creation__hicri": "1176",
@@ -4197,12 +4306,32 @@
       {
         "id": 29,
         "value": "Yeniköy"
+      },
+      {
+        "id": 33,
+        "value": " Aya Nikoli"
       }
     ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6797,
+        "value": "Sister",
+        "color": "orange"
+      }
+    ],
     "year_of_creation__hicri": "1182",
     "year_of_creation/Miladi": "1768-1769",
     "karye": []
@@ -4357,7 +4486,13 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
     "year_of_creation__hicri": "1184",
     "year_of_creation/Miladi": "1770-1771",
     "karye": []
@@ -4388,7 +4523,18 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
     "year_of_creation__hicri": "1184",
     "year_of_creation/Miladi": "1770-1771",
     "karye": []
@@ -4423,7 +4569,23 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6795,
+        "value": "Fetus",
+        "color": "red"
+      }
+    ],
     "year_of_creation__hicri": "1190",
     "year_of_creation/Miladi": "1776-1777",
     "karye": []
@@ -4683,16 +4845,27 @@
         "value": "Kasımpaşa"
       }
     ],
-    "neighbourhood": [
-      {
-        "id": 29,
-        "value": "Yeniköy"
-      }
-    ],
+    "neighbourhood": [],
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6796,
+        "value": "Brother",
+        "color": "dark-green"
+      }
+    ],
     "year_of_creation__hicri": "1199",
     "year_of_creation/Miladi": "1784-1785",
     "karye": []
@@ -4727,7 +4900,23 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
     "karye": []
@@ -4758,7 +4947,18 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6790,
+        "value": "Mother",
+        "color": "gray"
+      },
+      {
+        "id": 6797,
+        "value": "Sister",
+        "color": "orange"
+      }
+    ],
     "year_of_creation__hicri": "1205",
     "year_of_creation/Miladi": "1790-1791",
     "karye": []
@@ -4788,7 +4988,13 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
     "karye": [
@@ -5356,7 +5562,7 @@
     "shop_owner": [
       {
         "id": 64,
-        "value": "Yani veled-i Dimitri"
+        "value": "Yani veled-i Dimo"
       }
     ],
     "district": [
@@ -5367,8 +5573,8 @@
     ],
     "neighbourhood": [
       {
-        "id": 47,
-        "value": "Reşen"
+        "id": 65,
+        "value": "Reis"
       }
     ],
     "goods": [
@@ -5806,7 +6012,12 @@
     "order": "60.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 339 / 94b-1",
     "grocerist_id": "document__66",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 66,
+        "value": "Bakkal Kristic veled-i Mihal"
+      }
+    ],
     "district": [
       {
         "id": 16,
@@ -5843,7 +6054,12 @@
     "order": "61.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d.359 / 26a-1",
     "grocerist_id": "document__67",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 67,
+        "value": "Asteryo veled-i Yorgi"
+      }
+    ],
     "district": [
       {
         "id": 16,
@@ -6217,7 +6433,13 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 9912,
+        "value": "İstanbul bazarbaşısı",
+        "color": "light-green"
+      }
+    ],
     "year_of_creation__hicri": "1149",
     "year_of_creation/Miladi": "1736-1737",
     "karye": [
@@ -6232,7 +6454,12 @@
     "order": "65.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 405 / 87b-2",
     "grocerist_id": "document__71",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 71,
+        "value": "Bakkal suhte Ömer"
+      }
+    ],
     "district": [
       {
         "id": 16,
@@ -6932,10 +7159,31 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6790,
+        "value": "Mother",
+        "color": "gray"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      }
+    ],
     "year_of_creation__hicri": "1169",
     "year_of_creation/Miladi": "1755-1756",
-    "karye": []
+    "karye": [
+      {
+        "id": 3,
+        "value": "Karye-i Cedid"
+      }
+    ]
   },
   "76": {
     "id": 76,
@@ -7000,7 +7248,13 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      }
+    ],
     "year_of_creation__hicri": "1174",
     "year_of_creation/Miladi": "1760-1761",
     "karye": []
@@ -7330,7 +7584,23 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
     "karye": [
@@ -7510,7 +7780,18 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
     "year_of_creation__hicri": "1190",
     "year_of_creation/Miladi": "1776-1777",
     "karye": []
@@ -7541,7 +7822,23 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
     "year_of_creation__hicri": "1189",
     "year_of_creation/Miladi": "1775-1776",
     "karye": []
@@ -7572,7 +7869,33 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6791,
+        "value": "Father",
+        "color": "light-red"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6795,
+        "value": "Fetus",
+        "color": "red"
+      }
+    ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
     "karye": []
@@ -7988,7 +8311,28 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6795,
+        "value": "Fetus",
+        "color": "red"
+      }
+    ],
     "year_of_creation__hicri": "1200",
     "year_of_creation/Miladi": "1785-1786",
     "karye": []
@@ -8019,65 +8363,30 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6796,
+        "value": "Brother",
+        "color": "dark-green"
+      },
+      {
+        "id": 6797,
+        "value": "Sister",
+        "color": "orange"
+      }
+    ],
     "year_of_creation__hicri": "1213",
     "year_of_creation/Miladi": "1798-1799",
-    "karye": []
-  },
-  "88": {
-    "id": 88,
-    "order": "82.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)",
-    "grocerist_id": "document__88",
-    "shop_owner": [
-      {
-        "id": 64,
-        "value": "Yani veled-i Dimitri"
-      }
-    ],
-    "district": [
-      {
-        "id": 16,
-        "value": "Üsküdar"
-      }
-    ],
-    "neighbourhood": [
-      {
-        "id": 48,
-        "value": "Kefere"
-      }
-    ],
-    "goods": [
-      {
-        "id": 22,
-        "value": "Carob"
-      },
-      {
-        "id": 41,
-        "value": "Daru"
-      },
-      {
-        "id": 46,
-        "value": "Barley"
-      },
-      {
-        "id": 267,
-        "value": "Alaca bakla"
-      },
-      {
-        "id": 268,
-        "value": "Çürük zeytun"
-      },
-      {
-        "id": 269,
-        "value": "Çalgı revgan-ı sade"
-      }
-    ],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
     "karye": []
   },
   "89": {
@@ -8493,7 +8802,7 @@
     "shop_owner": [
       {
         "id": 64,
-        "value": "Yani veled-i Dimitri"
+        "value": "Yani veled-i Dimo"
       }
     ],
     "district": [
@@ -8504,8 +8813,8 @@
     ],
     "neighbourhood": [
       {
-        "id": 47,
-        "value": "Reşen"
+        "id": 48,
+        "value": "Kefere"
       }
     ],
     "goods": [
@@ -8665,7 +8974,12 @@
     "order": "87.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 164 / 8b-1",
     "grocerist_id": "document__93",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 97,
+        "value": "İşrapo veled-i Yani"
+      }
+    ],
     "district": [
       {
         "id": 19,
@@ -8676,17 +8990,43 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
     "year_of_creation__hicri": "1149",
     "year_of_creation/Miladi": "1736-1737",
-    "karye": []
+    "karye": [
+      {
+        "id": 10,
+        "value": "Küçük"
+      }
+    ]
   },
   "94": {
     "id": 94,
     "order": "88.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 170 / 111b-3",
     "grocerist_id": "document__94",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 98,
+        "value": "Bakkal Pavlo veled-i Dimitri"
+      }
+    ],
     "district": [
       {
         "id": 19,
@@ -8697,24 +9037,55 @@
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
     "year_of_creation__hicri": "1156",
     "year_of_creation/Miladi": "1743-1744",
-    "karye": []
+    "karye": [
+      {
+        "id": 11,
+        "value": "Ayastefanos"
+      }
+    ]
   },
   "95": {
     "id": 95,
     "order": "89.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 173 / 71a-2,72",
     "grocerist_id": "document__95",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 99,
+        "value": "Yorgi veled-i Franko"
+      }
+    ],
     "district": [
       {
         "id": 19,
         "value": "Eyüp"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 67,
+        "value": "Yavud"
+      }
+    ],
     "goods": [
       {
         "id": 14,
@@ -8859,7 +9230,13 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
     "year_of_creation__hicri": "1157",
     "year_of_creation/Miladi": "1744-1745",
     "karye": []
@@ -8869,7 +9246,12 @@
     "order": "90.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 174 / 41a-2",
     "grocerist_id": "document__96",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 100,
+        "value": "Bakkal Dimitri veled-i Hristo"
+      }
+    ],
     "district": [
       {
         "id": 19,
@@ -8889,7 +9271,18 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": "",
     "karye": []
@@ -8899,14 +9292,24 @@
     "order": "91.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 194 / 10b-1",
     "grocerist_id": "document__97",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 101,
+        "value": "Bakkal Yorgi"
+      }
+    ],
     "district": [
       {
         "id": 19,
         "value": "Eyüp"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 69,
+        "value": "Otakçı"
+      }
+    ],
     "goods": [
       {
         "id": 1,
@@ -9062,7 +9465,12 @@
     "order": "94.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 205 / 51a-2",
     "grocerist_id": "document__100",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 102,
+        "value": "Bakkal Yani veled-i Aleksi"
+      }
+    ],
     "district": [
       {
         "id": 19,
@@ -9102,28 +9510,70 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6796,
+        "value": "Brother",
+        "color": "dark-green"
+      }
+    ],
     "year_of_creation__hicri": "1175",
     "year_of_creation/Miladi": "1761-1762",
-    "karye": []
+    "karye": [
+      {
+        "id": 10,
+        "value": "Küçük"
+      }
+    ]
   },
   "101": {
     "id": 101,
     "order": "95.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 216 / 42a-1",
     "grocerist_id": "document__101",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 103,
+        "value": "Bakkal Dimo veled-i Yorgi"
+      }
+    ],
     "district": [
       {
         "id": 19,
         "value": "Eyüp"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 70,
+        "value": "Edine Kapısı harici"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      }
+    ],
     "year_of_creation__hicri": "1183",
     "year_of_creation/Miladi": "1769-1770",
     "karye": []
@@ -9133,7 +9583,12 @@
     "order": "96.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 230 / 69a-1",
     "grocerist_id": "document__102",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 104,
+        "value": "Tanaş veled-i Niko"
+      }
+    ],
     "district": [
       {
         "id": 19,
@@ -9221,17 +9676,33 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
     "year_of_creation__hicri": "1188",
     "year_of_creation/Miladi": "1774-1775",
-    "karye": []
+    "karye": [
+      {
+        "id": 12,
+        "value": "Terkos"
+      }
+    ]
   },
   "104": {
     "id": 104,
     "order": "98.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 243 / 51a-1",
     "grocerist_id": "document__104",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 105,
+        "value": "Yorgi"
+      }
+    ],
     "district": [
       {
         "id": 19,
@@ -9362,25 +9833,56 @@
     "mentioned_persons": [],
     "year_of_creation__hicri": "1195",
     "year_of_creation/Miladi": "1780-1781",
-    "karye": []
+    "karye": [
+      {
+        "id": 13,
+        "value": "Alibey"
+      }
+    ]
   },
   "105": {
     "id": 105,
     "order": "99.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 254 / 8a-2",
     "grocerist_id": "document__105",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 106,
+        "value": "Bakkal Ali Ağa b. Hasan"
+      }
+    ],
     "district": [
       {
         "id": 19,
         "value": "Eyüp"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 31,
+        "value": "Camii Kebir"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6796,
+        "value": "Brother",
+        "color": "dark-green"
+      }
+    ],
     "year_of_creation__hicri": "1178",
     "year_of_creation/Miladi": "1764-1765",
     "karye": []
@@ -9390,7 +9892,12 @@
     "order": "100.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 272 / 27b-1",
     "grocerist_id": "document__106",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 107,
+        "value": "Bakkal Esseyid Süleyman Beşe b. Esseyid Mehmed"
+      }
+    ],
     "district": [
       {
         "id": 19,
@@ -9558,17 +10065,43 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6789,
+        "value": "Daughter",
+        "color": "dark-blue"
+      },
+      {
+        "id": 6791,
+        "value": "Father",
+        "color": "light-red"
+      }
+    ],
     "year_of_creation__hicri": "1205",
     "year_of_creation/Miladi": "1790-1791",
-    "karye": []
+    "karye": [
+      {
+        "id": 14,
+        "value": "Makrahorya"
+      }
+    ]
   },
   "107": {
     "id": 107,
     "order": "101.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 275 / 99b-1",
     "grocerist_id": "document__107",
-    "shop_owner": [],
+    "shop_owner": [
+      {
+        "id": 108,
+        "value": "Bakkal Esper veled-i Todori"
+      }
+    ],
     "district": [
       {
         "id": 19,
@@ -9628,10 +10161,26 @@
     ],
     "longtitude": null,
     "latitude": null,
-    "mentioned_persons": [],
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6793,
+        "value": "Beytülmal Emini",
+        "color": "light-green"
+      }
+    ],
     "year_of_creation__hicri": "1207",
     "year_of_creation/Miladi": "1792-1793",
-    "karye": []
+    "karye": [
+      {
+        "id": 10,
+        "value": "Küçük"
+      }
+    ]
   },
   "109": {
     "id": 109,

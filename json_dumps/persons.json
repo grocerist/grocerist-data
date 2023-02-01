@@ -382,18 +382,10 @@
       }
     ]
   },
-  "18": {
-    "id": 18,
-    "order": "18.00000000000000000000",
-    "name": "",
-    "grocerist_id": "person__18",
-    "religion": [],
-    "documents": []
-  },
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "name": "İstavor veled-i Yako",
+    "name": "Astavor veled-i Yako",
     "grocerist_id": "person__19",
     "religion": [],
     "documents": [
@@ -430,7 +422,7 @@
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
-    "name": "Bakkal Nikola v. Dimitri",
+    "name": "Bakkal Lefter v. Dimitri",
     "grocerist_id": "person__21",
     "religion": [
       {
@@ -590,7 +582,7 @@
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
-    "name": "Bakkal Nikola",
+    "name": "Bakkal Nikola veled-i Dimitri",
     "grocerist_id": "person__27",
     "religion": [
       {
@@ -633,7 +625,7 @@
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "name": "Nikola",
+    "name": "Nikola veled-i Ulaş",
     "grocerist_id": "person__29",
     "religion": [
       {
@@ -767,7 +759,7 @@
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "name": "Bakkal Simal",
+    "name": "Bakkal Simal veled-i Nikola",
     "grocerist_id": "person__35",
     "religion": [],
     "documents": [
@@ -1208,7 +1200,7 @@
   "64": {
     "id": 64,
     "order": "65.00000000000000000000",
-    "name": "Yani veled-i Dimitri",
+    "name": "Yani veled-i Dimo",
     "grocerist_id": "person__64",
     "religion": [
       {
@@ -1228,10 +1220,6 @@
         "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
       },
       {
-        "id": 88,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
-      },
-      {
         "id": 91,
         "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
       }
@@ -1248,18 +1236,28 @@
   "66": {
     "id": 66,
     "order": "67.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Kristic veled-i Mihal",
     "grocerist_id": "person__66",
     "religion": [],
-    "documents": []
+    "documents": [
+      {
+        "id": 66,
+        "value": "İSTM.ŞSC.06.d. 339 / 94b-1"
+      }
+    ]
   },
   "67": {
     "id": 67,
     "order": "68.00000000000000000000",
-    "name": "",
+    "name": "Asteryo veled-i Yorgi",
     "grocerist_id": "person__67",
     "religion": [],
-    "documents": []
+    "documents": [
+      {
+        "id": 67,
+        "value": "İSTM.ŞSC.06.d.359 / 26a-1"
+      }
+    ]
   },
   "68": {
     "id": 68,
@@ -1331,10 +1329,15 @@
   "71": {
     "id": 71,
     "order": "72.00000000000000000000",
-    "name": "",
+    "name": "Bakkal suhte Ömer",
     "grocerist_id": "person__71",
     "religion": [],
-    "documents": []
+    "documents": [
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      }
+    ]
   },
   "72": {
     "id": 72,
@@ -1804,6 +1807,162 @@
       {
         "id": 65,
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      }
+    ]
+  },
+  "97": {
+    "id": 97,
+    "order": "95.00000000000000000000",
+    "name": "İşrapo veled-i Yani",
+    "grocerist_id": "person__97",
+    "religion": [],
+    "documents": [
+      {
+        "id": 93,
+        "value": "İSTM.ŞSC.15.d. 164 / 8b-1"
+      }
+    ]
+  },
+  "98": {
+    "id": 98,
+    "order": "96.00000000000000000000",
+    "name": "Bakkal Pavlo veled-i Dimitri",
+    "grocerist_id": "person__98",
+    "religion": [],
+    "documents": [
+      {
+        "id": 94,
+        "value": "İSTM.ŞSC.15.d. 170 / 111b-3"
+      }
+    ]
+  },
+  "99": {
+    "id": 99,
+    "order": "97.00000000000000000000",
+    "name": "Yorgi veled-i Franko",
+    "grocerist_id": "person__99",
+    "religion": [],
+    "documents": [
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
+      }
+    ]
+  },
+  "100": {
+    "id": 100,
+    "order": "98.00000000000000000000",
+    "name": "Bakkal Dimitri veled-i Hristo",
+    "grocerist_id": "person__100",
+    "religion": [],
+    "documents": [
+      {
+        "id": 96,
+        "value": "İSTM.ŞSC.15.d. 174 / 41a-2"
+      }
+    ]
+  },
+  "101": {
+    "id": 101,
+    "order": "99.00000000000000000000",
+    "name": "Bakkal Yorgi",
+    "grocerist_id": "person__101",
+    "religion": [],
+    "documents": [
+      {
+        "id": 97,
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1"
+      }
+    ]
+  },
+  "102": {
+    "id": 102,
+    "order": "100.00000000000000000000",
+    "name": "Bakkal Yani veled-i Aleksi",
+    "grocerist_id": "person__102",
+    "religion": [],
+    "documents": [
+      {
+        "id": 100,
+        "value": "İSTM.ŞSC.15.d. 205 / 51a-2"
+      }
+    ]
+  },
+  "103": {
+    "id": 103,
+    "order": "101.00000000000000000000",
+    "name": "Bakkal Dimo veled-i Yorgi",
+    "grocerist_id": "person__103",
+    "religion": [],
+    "documents": [
+      {
+        "id": 101,
+        "value": "İSTM.ŞSC.15.d. 216 / 42a-1"
+      }
+    ]
+  },
+  "104": {
+    "id": 104,
+    "order": "102.00000000000000000000",
+    "name": "Tanaş veled-i Niko",
+    "grocerist_id": "person__104",
+    "religion": [],
+    "documents": [
+      {
+        "id": 102,
+        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
+      }
+    ]
+  },
+  "105": {
+    "id": 105,
+    "order": "103.00000000000000000000",
+    "name": "Yorgi",
+    "grocerist_id": "person__105",
+    "religion": [],
+    "documents": [
+      {
+        "id": 104,
+        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
+      }
+    ]
+  },
+  "106": {
+    "id": 106,
+    "order": "104.00000000000000000000",
+    "name": "Bakkal Ali Ağa b. Hasan",
+    "grocerist_id": "person__106",
+    "religion": [],
+    "documents": [
+      {
+        "id": 105,
+        "value": "İSTM.ŞSC.15.d. 254 / 8a-2"
+      }
+    ]
+  },
+  "107": {
+    "id": 107,
+    "order": "105.00000000000000000000",
+    "name": "Bakkal Esseyid Süleyman Beşe b. Esseyid Mehmed",
+    "grocerist_id": "person__107",
+    "religion": [],
+    "documents": [
+      {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      }
+    ]
+  },
+  "108": {
+    "id": 108,
+    "order": "106.00000000000000000000",
+    "name": "Bakkal Esper veled-i Todori",
+    "grocerist_id": "person__108",
+    "religion": [],
+    "documents": [
+      {
+        "id": 107,
+        "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
       }
     ]
   }
