@@ -621,6 +621,11 @@
         "id": 6684,
         "value": "Cooking Oils",
         "color": "dark-gray"
+      },
+      {
+        "id": 6770,
+        "value": "Fats",
+        "color": "light-red"
       }
     ],
     "documents": [
@@ -10232,6 +10237,11 @@
         "id": 6684,
         "value": "Cooking Oils",
         "color": "dark-gray"
+      },
+      {
+        "id": 6770,
+        "value": "Fats",
+        "color": "light-red"
       }
     ],
     "documents": [
@@ -11027,6 +11037,11 @@
         "id": 6684,
         "value": "Cooking Oils",
         "color": "dark-gray"
+      },
+      {
+        "id": 6770,
+        "value": "Fats",
+        "color": "light-red"
       }
     ],
     "documents": [
@@ -11071,6 +11086,11 @@
         "id": 6764,
         "value": "Dried Goods",
         "color": "dark-green"
+      },
+      {
+        "id": 6685,
+        "value": "Legumes",
+        "color": "blue"
       }
     ],
     "documents": [],
@@ -11102,8 +11122,18 @@
     "gorcerist_id": "goods__269",
     "has_category": [
       {
+        "id": 6684,
+        "value": "Cooking Oils",
+        "color": "dark-gray"
+      },
+      {
         "id": 6757,
         "value": "Dairy",
+        "color": "light-red"
+      },
+      {
+        "id": 6770,
+        "value": "Fats",
         "color": "light-red"
       }
     ],

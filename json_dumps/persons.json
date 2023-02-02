@@ -21,7 +21,7 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "Bakkal Filibi veled-i Yorgi",
+    "name": "Bakkal Filibi v. Yorgi",
     "grocerist_id": "person__2",
     "religion": [
       {
@@ -64,7 +64,7 @@
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "name": "Yorgi veled-i Dimitri",
+    "name": "Yorgi v. Dimitri",
     "grocerist_id": "person__4",
     "religion": [
       {
@@ -88,7 +88,7 @@
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "name": "Yani veled-i Yorgi",
+    "name": "Yani v. Yorgi",
     "grocerist_id": "person__5",
     "religion": [
       {
@@ -136,7 +136,7 @@
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "name": "Bakkal Dimitri veled-i Yorgi",
+    "name": "Bakkal Dimitri v. Yorgi",
     "grocerist_id": "person__7",
     "religion": [
       {
@@ -160,7 +160,7 @@
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "name": "Dimo veled-i Lanbo",
+    "name": "Dimo v. Lanbo",
     "grocerist_id": "person__8",
     "religion": [
       {
@@ -203,7 +203,7 @@
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "name": "Yorgi veled-i Dimitri",
+    "name": "Yorgi v.",
     "grocerist_id": "person__10",
     "religion": [
       {
@@ -227,7 +227,7 @@
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "name": "Yorgi veled-i Hristo",
+    "name": "Yorgi v. Hristo",
     "grocerist_id": "person__11",
     "religion": [
       {
@@ -251,7 +251,7 @@
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "name": "Bakkal Dimitri veled-i Hristo",
+    "name": "Bakkal Dimitri v. Hristo",
     "grocerist_id": "person__12",
     "religion": [
       {
@@ -275,7 +275,7 @@
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "name": "Bakkāl Hristodaki veled-i Polhoron",
+    "name": "Bakkāl Hristodaki v. Polhoron",
     "grocerist_id": "person__13",
     "religion": [
       {
@@ -299,7 +299,7 @@
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "name": "Bakkal Kiro veled-i Yani",
+    "name": "Bakkal Kiro v. Yani",
     "grocerist_id": "person__14",
     "religion": [
       {
@@ -323,7 +323,7 @@
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "name": "Hristo veled-i Yorgi",
+    "name": "Hristo v. Yorgi",
     "grocerist_id": "person__15",
     "religion": [
       {
@@ -385,9 +385,20 @@
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "name": "Astavor veled-i Yako",
+    "name": "Astavor v. Yako",
     "grocerist_id": "person__19",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 19,
@@ -398,7 +409,7 @@
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
-    "name": "Bakkal Yanaki veled-i Yani",
+    "name": "Bakkal Yanaki v. Yani",
     "grocerist_id": "person__20",
     "religion": [
       {
@@ -470,7 +481,7 @@
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
-    "name": "Bakkal Todori veled-i Dimitri",
+    "name": "Bakkal Todori v. Dimitri",
     "grocerist_id": "person__23",
     "religion": [
       {
@@ -494,7 +505,7 @@
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
-    "name": "Yani veled-i Panayot",
+    "name": "Yani v. Panayot",
     "grocerist_id": "person__24",
     "religion": [
       {
@@ -526,7 +537,7 @@
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
-    "name": "Bakkal Aslan veled-i Bedros",
+    "name": "Bakkal Aslan v. Bedros",
     "grocerist_id": "person__25",
     "religion": [
       {
@@ -582,7 +593,7 @@
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
-    "name": "Bakkal Nikola veled-i Dimitri",
+    "name": "Bakkal Nikola v. Dimitri",
     "grocerist_id": "person__27",
     "religion": [
       {
@@ -668,7 +679,7 @@
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
-    "name": "Kosta ve Dimitri veled-i Nikola",
+    "name": "Kosta ve Dimitri v. Nikola",
     "grocerist_id": "person__31",
     "religion": [
       {
@@ -692,7 +703,7 @@
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
-    "name": "Dimitri veled-i Todori",
+    "name": "Dimitri v. Todori",
     "grocerist_id": "person__32",
     "religion": [
       {
@@ -716,7 +727,7 @@
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
-    "name": "Yorgaki veled-i Manol",
+    "name": "Yorgaki v. Manol",
     "grocerist_id": "person__33",
     "religion": [
       {
@@ -759,9 +770,20 @@
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "name": "Bakkal Simal veled-i Nikola",
+    "name": "Bakkal Simal v. Nikola",
     "grocerist_id": "person__35",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 35,
@@ -815,7 +837,7 @@
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
-    "name": "Bakkal Bafi veled-i Tanaş",
+    "name": "Bakkal Bafi v. Tanaş",
     "grocerist_id": "person__38",
     "religion": [
       {
@@ -855,7 +877,7 @@
   "41": {
     "id": 41,
     "order": "41.00000000000000000000",
-    "name": "Bakkal Astati veled-i Yani",
+    "name": "Bakkal Astati v. Yani",
     "grocerist_id": "person__41",
     "religion": [
       {
@@ -879,7 +901,7 @@
   "42": {
     "id": 42,
     "order": "42.00000000000000000000",
-    "name": "Panayot veled-i Petro",
+    "name": "Panayot v. Petro",
     "grocerist_id": "person__42",
     "religion": [
       {
@@ -903,7 +925,7 @@
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
-    "name": "Bakkal Yani veled-i  Andon",
+    "name": "Bakkal Yani v.  Andon",
     "grocerist_id": "person__43",
     "religion": [
       {
@@ -984,7 +1006,7 @@
   "47": {
     "id": 47,
     "order": "48.00000000000000000000",
-    "name": "Yenişehirli Dimitri veled-i Nikola",
+    "name": "Yenişehirli Dimitri v. Nikola",
     "grocerist_id": "person__47",
     "religion": [
       {
@@ -1027,7 +1049,7 @@
   "49": {
     "id": 49,
     "order": "50.00000000000000000000",
-    "name": "Bakkal Trandofil",
+    "name": "Bakkal Trandafil",
     "grocerist_id": "person__49",
     "religion": [
       {
@@ -1088,7 +1110,7 @@
   "52": {
     "id": 52,
     "order": "53.00000000000000000000",
-    "name": "Bakkal Yorgi veled-i Kirikor",
+    "name": "Bakkal Yorgi v. Kirikor",
     "grocerist_id": "person__52",
     "religion": [
       {
@@ -1200,7 +1222,7 @@
   "64": {
     "id": 64,
     "order": "65.00000000000000000000",
-    "name": "Yani veled-i Dimo",
+    "name": "Yani v. Dimo",
     "grocerist_id": "person__64",
     "religion": [
       {
@@ -1236,9 +1258,20 @@
   "66": {
     "id": 66,
     "order": "67.00000000000000000000",
-    "name": "Bakkal Kristic veled-i Mihal",
+    "name": "Bakkal Kristic v. Mihal",
     "grocerist_id": "person__66",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 66,
@@ -1249,9 +1282,20 @@
   "67": {
     "id": 67,
     "order": "68.00000000000000000000",
-    "name": "Asteryo veled-i Yorgi",
+    "name": "Asteryo v. Yorgi",
     "grocerist_id": "person__67",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 67,
@@ -1262,7 +1306,7 @@
   "68": {
     "id": 68,
     "order": "69.00000000000000000000",
-    "name": "Bakkal Dimitri veled-i Yorgi",
+    "name": "Bakkal Dimitri v. Yorgi",
     "grocerist_id": "person__68",
     "religion": [
       {
@@ -1305,7 +1349,7 @@
   "70": {
     "id": 70,
     "order": "71.00000000000000000000",
-    "name": "Tanaş veled-i Dimitri",
+    "name": "Tanaş v. Dimitri",
     "grocerist_id": "person__70",
     "religion": [
       {
@@ -1331,7 +1375,13 @@
     "order": "72.00000000000000000000",
     "name": "Bakkal suhte Ömer",
     "grocerist_id": "person__71",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6681,
+        "value": "Muslim",
+        "color": "green"
+      }
+    ],
     "documents": [
       {
         "id": 71,
@@ -1356,12 +1406,7 @@
         "color": "dark-blue"
       }
     ],
-    "documents": [
-      {
-        "id": 72,
-        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
-      }
-    ]
+    "documents": []
   },
   "73": {
     "id": 73,
@@ -1380,12 +1425,7 @@
         "color": "dark-blue"
       }
     ],
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ]
+    "documents": []
   },
   "74": {
     "id": 74,
@@ -1433,7 +1473,7 @@
   "76": {
     "id": 76,
     "order": "77.00000000000000000000",
-    "name": "Vasil veled-i Dimitri",
+    "name": "Vasil v. Dimitri",
     "grocerist_id": "person__76",
     "religion": [
       {
@@ -1562,12 +1602,7 @@
         "color": "dark-blue"
       }
     ],
-    "documents": [
-      {
-        "id": 81,
-        "value": "İSTM.ŞSC.06.d. 494 / 81a-1"
-      }
-    ]
+    "documents": []
   },
   "82": {
     "id": 82,
@@ -1586,12 +1621,7 @@
         "color": "dark-blue"
       }
     ],
-    "documents": [
-      {
-        "id": 82,
-        "value": "İSTM.ŞSC.06.d. 495 / 25a-1"
-      }
-    ]
+    "documents": []
   },
   "83": {
     "id": 83,
@@ -1610,12 +1640,7 @@
         "color": "dark-blue"
       }
     ],
-    "documents": [
-      {
-        "id": 83,
-        "value": "İSTM.ŞSC.06.d.495 / 68a-2"
-      }
-    ]
+    "documents": []
   },
   "84": {
     "id": 84,
@@ -1634,12 +1659,7 @@
         "color": "dark-blue"
       }
     ],
-    "documents": [
-      {
-        "id": 84,
-        "value": "İSTM.ŞSC.06.d. 501 / 22b-3"
-      }
-    ]
+    "documents": []
   },
   "85": {
     "id": 85,
@@ -1682,12 +1702,7 @@
         "color": "dark-blue"
       }
     ],
-    "documents": [
-      {
-        "id": 86,
-        "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
-      }
-    ]
+    "documents": []
   },
   "87": {
     "id": 87,
@@ -1701,12 +1716,7 @@
         "color": "green"
       }
     ],
-    "documents": [
-      {
-        "id": 87,
-        "value": "İSTM.ŞSC.06.d. 548 / 43a-2"
-      }
-    ]
+    "documents": []
   },
   "88": {
     "id": 88,
@@ -1800,9 +1810,20 @@
   "96": {
     "id": 96,
     "order": "94.00000000000000000000",
-    "name": "Bakkal Rizo veled-i Aleksan",
+    "name": "Bakkal Rizo v. Aleksan",
     "grocerist_id": "person__96",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 65,
@@ -1813,9 +1834,20 @@
   "97": {
     "id": 97,
     "order": "95.00000000000000000000",
-    "name": "İşrapo veled-i Yani",
+    "name": "İşrapo v. Yani",
     "grocerist_id": "person__97",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 93,
@@ -1826,9 +1858,20 @@
   "98": {
     "id": 98,
     "order": "96.00000000000000000000",
-    "name": "Bakkal Pavlo veled-i Dimitri",
+    "name": "Bakkal Pavlo v. Dimitri",
     "grocerist_id": "person__98",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 94,
@@ -1839,9 +1882,20 @@
   "99": {
     "id": 99,
     "order": "97.00000000000000000000",
-    "name": "Yorgi veled-i Franko",
+    "name": "Yorgi v. Franko",
     "grocerist_id": "person__99",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 95,
@@ -1852,9 +1906,20 @@
   "100": {
     "id": 100,
     "order": "98.00000000000000000000",
-    "name": "Bakkal Dimitri veled-i Hristo",
+    "name": "Bakkal Dimitri v. Hristo",
     "grocerist_id": "person__100",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 96,
@@ -1867,7 +1932,18 @@
     "order": "99.00000000000000000000",
     "name": "Bakkal Yorgi",
     "grocerist_id": "person__101",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 97,
@@ -1878,9 +1954,20 @@
   "102": {
     "id": 102,
     "order": "100.00000000000000000000",
-    "name": "Bakkal Yani veled-i Aleksi",
+    "name": "Bakkal Yani v. Aleksi",
     "grocerist_id": "person__102",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 100,
@@ -1891,9 +1978,20 @@
   "103": {
     "id": 103,
     "order": "101.00000000000000000000",
-    "name": "Bakkal Dimo veled-i Yorgi",
+    "name": "Bakkal Dimo v. Yorgi",
     "grocerist_id": "person__103",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 101,
@@ -1904,9 +2002,20 @@
   "104": {
     "id": 104,
     "order": "102.00000000000000000000",
-    "name": "Tanaş veled-i Niko",
+    "name": "Tanaş v. Niko",
     "grocerist_id": "person__104",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 102,
@@ -1919,7 +2028,18 @@
     "order": "103.00000000000000000000",
     "name": "Yorgi",
     "grocerist_id": "person__105",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 104,
@@ -1932,7 +2052,13 @@
     "order": "104.00000000000000000000",
     "name": "Bakkal Ali Ağa b. Hasan",
     "grocerist_id": "person__106",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6681,
+        "value": "Muslim",
+        "color": "green"
+      }
+    ],
     "documents": [
       {
         "id": 105,
@@ -1945,7 +2071,13 @@
     "order": "105.00000000000000000000",
     "name": "Bakkal Esseyid Süleyman Beşe b. Esseyid Mehmed",
     "grocerist_id": "person__107",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6681,
+        "value": "Muslim",
+        "color": "green"
+      }
+    ],
     "documents": [
       {
         "id": 106,
@@ -1956,13 +2088,128 @@
   "108": {
     "id": 108,
     "order": "106.00000000000000000000",
-    "name": "Bakkal Esper veled-i Todori",
+    "name": "Bakkal Esper v. Todori",
     "grocerist_id": "person__108",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 107,
         "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
+      }
+    ]
+  },
+  "109": {
+    "id": 109,
+    "order": "107.00000000000000000000",
+    "name": "Bakkal Kosta v. Piyo",
+    "grocerist_id": "person__109",
+    "religion": [],
+    "documents": [
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      }
+    ]
+  },
+  "110": {
+    "id": 110,
+    "order": "108.00000000000000000000",
+    "name": "Bakkal Panayot v. İsteradik",
+    "grocerist_id": "person__110",
+    "religion": [],
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ]
+  },
+  "111": {
+    "id": 111,
+    "order": "109.00000000000000000000",
+    "name": "Bakkal Manok v. Agik",
+    "grocerist_id": "person__111",
+    "religion": [],
+    "documents": [
+      {
+        "id": 81,
+        "value": "İSTM.ŞSC.06.d. 494 / 81a-1"
+      }
+    ]
+  },
+  "112": {
+    "id": 112,
+    "order": "110.00000000000000000000",
+    "name": "Bakkal Panayot v. Polinçeron",
+    "grocerist_id": "person__112",
+    "religion": [],
+    "documents": [
+      {
+        "id": 82,
+        "value": "İSTM.ŞSC.06.d. 495 / 25a-1"
+      }
+    ]
+  },
+  "113": {
+    "id": 113,
+    "order": "111.00000000000000000000",
+    "name": "Bakkal Konstantin v. Horosu",
+    "grocerist_id": "person__113",
+    "religion": [],
+    "documents": [
+      {
+        "id": 83,
+        "value": "İSTM.ŞSC.06.d.495 / 68a-2"
+      }
+    ]
+  },
+  "114": {
+    "id": 114,
+    "order": "112.00000000000000000000",
+    "name": "Bakkal Panço v. Dimitri",
+    "grocerist_id": "person__114",
+    "religion": [],
+    "documents": [
+      {
+        "id": 84,
+        "value": "İSTM.ŞSC.06.d. 501 / 22b-3"
+      }
+    ]
+  },
+  "115": {
+    "id": 115,
+    "order": "113.00000000000000000000",
+    "name": "Dimitri v. Polizo",
+    "grocerist_id": "person__115",
+    "religion": [],
+    "documents": [
+      {
+        "id": 86,
+        "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
+      }
+    ]
+  },
+  "116": {
+    "id": 116,
+    "order": "114.00000000000000000000",
+    "name": "Bakkal Elhac Hasan Ağa b. Ali",
+    "grocerist_id": "person__116",
+    "religion": [],
+    "documents": [
+      {
+        "id": 87,
+        "value": "İSTM.ŞSC.06.d. 548 / 43a-2"
       }
     ]
   }
