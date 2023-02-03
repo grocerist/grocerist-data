@@ -14,7 +14,8 @@
     "latitude": "41.19806",
     "longitute": "29.03028",
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "2": {
     "id": 2,
@@ -25,13 +26,14 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [
+    "documents": [],
+    "district_nineteenth_century": [],
+    "persons": [
       {
         "id": 49,
-        "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
+        "value": "Bakkal Trandafil v. Yori"
       }
-    ],
-    "district_nineteenth_century": []
+    ]
   },
   "3": {
     "id": 3,
@@ -46,13 +48,15 @@
       {
         "id": 31,
         "value": "İSTM.ŞSC.14.d.304 / 22b-3"
-      },
-      {
-        "id": 36,
-        "value": "İSTM.ŞSC.14.d.355 / 47b-3"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 31,
+        "value": "Kosta ve Dimitri v. Nikola"
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -69,7 +73,13 @@
         "value": "İSTM.ŞSC.14.d.528 / 83b-2"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 52,
+        "value": "Bakkal Yorgi v. Kirikor"
+      }
+    ]
   },
   "5": {
     "id": 5,
@@ -91,7 +101,13 @@
         "value": "İSTM.ŞSC.14.d.237 / 39b-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 14,
+        "value": "Bakkal Kiro v. Yani"
+      }
+    ]
   },
   "6": {
     "id": 6,
@@ -108,7 +124,13 @@
         "value": "İSTM.ŞSC.14.d.173 / 9b-2"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 1,
+        "value": "Bakkal Hasan Beşe b. Abdullah"
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -121,15 +143,25 @@
     "longitute": null,
     "documents": [
       {
-        "id": 13,
-        "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
-      },
-      {
         "id": 50,
         "value": "İSTM.ŞSC.14.d. 504/ 86a-2"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 13,
+        "value": "Bakkāl Hristodaki v. Polhoron"
+      },
+      {
+        "id": 86,
+        "value": "Dimitri v. Polizo"
+      },
+      {
+        "id": 115,
+        "value": "Dimitri v. Polizo"
+      }
+    ]
   },
   "8": {
     "id": 8,
@@ -146,7 +178,13 @@
         "value": "İSTM.ŞSC.14.d.196 / 21b-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 5,
+        "value": "Yani v. Yorgi"
+      }
+    ]
   },
   "9": {
     "id": 9,
@@ -168,7 +206,13 @@
         "value": "İSTM.ŞSC.14.d.212/ 29a-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 6,
+        "value": "Bakkal Yorgi"
+      }
+    ]
   },
   "10": {
     "id": 10,
@@ -185,7 +229,13 @@
         "value": "İSTM.ŞSC.14.d.237 / 62b-2"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 15,
+        "value": "Hristo v. Yorgi"
+      }
+    ]
   },
   "11": {
     "id": 11,
@@ -197,7 +247,8 @@
     "latitude": null,
     "longitute": null,
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "12": {
     "id": 12,
@@ -214,7 +265,13 @@
         "value": "İSTM.ŞSC.14.d.241 / 3a-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 16,
+        "value": "Bakkal Ali Beşe b. Mehmed"
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -231,7 +288,13 @@
         "value": "İSTM.ŞSC.14.d.441 / 55b-3"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 47,
+        "value": "Yenişehirli Dimitri v. Nikola"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -243,7 +306,8 @@
     "latitude": null,
     "longitute": null,
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "15": {
     "id": 15,
@@ -264,11 +328,25 @@
         "value": "İSTM.ŞSC.14.d.222 / 45a-2"
       },
       {
-        "id": 12,
-        "value": "İSTM.ŞSC.14.d.237 / 16a-1"
+        "id": 129,
+        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (c)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 7,
+        "value": "Bakkal Dimitri v. Yorgi"
+      },
+      {
+        "id": 10,
+        "value": "Yorgi v. Dimitri"
+      },
+      {
+        "id": 12,
+        "value": "Bakkal Dimitri v. Hristo"
+      }
+    ]
   },
   "16": {
     "id": 16,
@@ -289,7 +367,13 @@
         "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 24,
+        "value": "Yani v. Panayot"
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -306,7 +390,13 @@
         "value": "İSTM.ŞSC.14.d.254 / 76b-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 23,
+        "value": "Bakkal Todori v. Dimo"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -319,11 +409,17 @@
     "longitute": null,
     "documents": [
       {
-        "id": 34,
-        "value": "İSTM.ŞSC.14.d. 342/ 60a-1"
+        "id": 136,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 34,
+        "value": "Bakkal Hasan Beşe b. Ali"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -338,17 +434,10 @@
       {
         "id": 22,
         "value": "İSTM.ŞSC.14.d.254 / 64a-1"
-      },
-      {
-        "id": 61,
-        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)"
-      },
-      {
-        "id": 62,
-        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "20": {
     "id": 20,
@@ -365,7 +454,13 @@
         "value": "İSTM.ŞSC.14.d. 241/ 18b-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 17,
+        "value": "Bakkal Elhac Ahmed b. Resul"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -382,7 +477,13 @@
         "value": "İSTM.ŞSC.14.d. 189 / 5a-3, 6"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 3,
+        "value": "Bakkal Mustafa Beşe b. Osman"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -399,7 +500,13 @@
         "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 9,
+        "value": "Mustafa Beşe b. Abdullah"
+      }
+    ]
   },
   "23": {
     "id": 23,
@@ -416,7 +523,8 @@
     "latitude": null,
     "longitute": null,
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "24": {
     "id": 24,
@@ -433,7 +541,13 @@
         "value": "İSTM.ŞSC.14.d. 406/ 27b-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 43,
+        "value": "Bakkal Yani v.  Andon"
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -445,7 +559,8 @@
     "latitude": null,
     "longitute": null,
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "26": {
     "id": 26,
@@ -467,7 +582,13 @@
         "value": "İSTM.ŞSC.14.d. 405/ 37b-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 42,
+        "value": "Panayot v. Petro"
+      }
+    ]
   },
   "27": {
     "id": 27,
@@ -484,7 +605,13 @@
         "value": "İSTM.ŞSC.14.d.249 / 9b-2"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 118,
+        "value": "Elhac Osman b. İbrahim"
+      }
+    ]
   },
   "28": {
     "id": 28,
@@ -501,7 +628,8 @@
     "latitude": null,
     "longitute": null,
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "29": {
     "id": 29,
@@ -533,9 +661,35 @@
       {
         "id": 39,
         "value": "İSTM.ŞSC.14.d. 394/ 59b-1"
+      },
+      {
+        "id": 44,
+        "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 2,
+        "value": "Bakkal Filibi v. Yorgi"
+      },
+      {
+        "id": 35,
+        "value": "Bakkal Simal v. Nikola"
+      },
+      {
+        "id": 38,
+        "value": "Bakkal Bafi v. Tanaş"
+      },
+      {
+        "id": 39,
+        "value": "Bakkal Totoş"
+      },
+      {
+        "id": 44,
+        "value": "Bakkal Tanaş veled-i  Hristo"
+      }
+    ]
   },
   "30": {
     "id": 30,
@@ -550,9 +704,22 @@
       {
         "id": 26,
         "value": "İSTM.ŞSC.14.d.275 / 45b-3 (a)"
+      },
+      {
+        "id": 61,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)"
+      },
+      {
+        "id": 62,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
+      },
+      {
+        "id": 116,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "31": {
     "id": 31,
@@ -574,10 +741,28 @@
       },
       {
         "id": 105,
-        "value": "İSTM.ŞSC.15.d. 254 / 8a-2"
+        "value": "İSTM.ŞSC.15.d. 254 / 8a-2 (a)"
+      },
+      {
+        "id": 139,
+        "value": "İSTM.ŞSC.15.d. 254 / 8a-2 (b)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 4,
+        "value": "Yorgi v. Dimitri"
+      },
+      {
+        "id": 30,
+        "value": "Bakkal Mustafa b. Abdullah"
+      },
+      {
+        "id": 106,
+        "value": "Bakkal Ali Ağa b. Hasan"
+      }
+    ]
   },
   "32": {
     "id": 32,
@@ -589,7 +774,8 @@
     "latitude": null,
     "longitute": null,
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "33": {
     "id": 33,
@@ -615,7 +801,13 @@
         "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 44,
+        "value": "Bakkal Tanaş veled-i  Hristo"
+      }
+    ]
   },
   "34": {
     "id": 34,
@@ -627,7 +819,8 @@
     "latitude": null,
     "longitute": null,
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "35": {
     "id": 35,
@@ -639,7 +832,8 @@
     "latitude": null,
     "longitute": null,
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "37": {
     "id": 37,
@@ -656,7 +850,13 @@
         "value": "İSTM.ŞSC.14.d.275 / 76b-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 27,
+        "value": "Bakkal Nikola v. Dimitri"
+      }
+    ]
   },
   "38": {
     "id": 38,
@@ -673,7 +873,13 @@
         "value": "İSTM.ŞSC.14.d.276 / 9b-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 28,
+        "value": "Bakkal Molla Hasan b. Abdullah"
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -694,7 +900,17 @@
         "value": "İSTM.ŞSC.14.d.304 / 22b-3"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 29,
+        "value": "Nikola veled-i Ulaş"
+      },
+      {
+        "id": 31,
+        "value": "Kosta ve Dimitri v. Nikola"
+      }
+    ]
   },
   "40": {
     "id": 40,
@@ -711,7 +927,13 @@
         "value": "İSTM.ŞSC.14.d.433 / 74b-2"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 45,
+        "value": "Bakkal Mehmed Beşe b. Salih"
+      }
+    ]
   },
   "41": {
     "id": 41,
@@ -728,7 +950,13 @@
         "value": "İSTM.ŞSC.14.d.254 / 3b-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 20,
+        "value": "Bakkal Yanaki v. Yani"
+      }
+    ]
   },
   "42": {
     "id": 42,
@@ -743,9 +971,27 @@
       {
         "id": 52,
         "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+      },
+      {
+        "id": 127,
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (d)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 52,
+        "value": "Bakkal Yorgi v. Kirikor"
+      },
+      {
+        "id": 82,
+        "value": "Bakkal Panayot v. Polinçeron"
+      },
+      {
+        "id": 83,
+        "value": "Bakkal Konstantin v. Horosu"
+      }
+    ]
   },
   "43": {
     "id": 43,
@@ -762,7 +1008,8 @@
         "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "44": {
     "id": 44,
@@ -779,7 +1026,13 @@
         "value": "İSTM.ŞSC.14.d. 249/ 79a-2"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 19,
+        "value": "Astavor v. Yako"
+      }
+    ]
   },
   "46": {
     "id": 46,
@@ -796,7 +1049,13 @@
         "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 11,
+        "value": "Yorgi v. Hristo"
+      }
+    ]
   },
   "47": {
     "id": 47,
@@ -808,7 +1067,8 @@
     "latitude": null,
     "longitute": null,
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "48": {
     "id": 48,
@@ -821,8 +1081,8 @@
     "longitute": null,
     "documents": [
       {
-        "id": 65,
-        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+        "id": 91,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
       },
       {
         "id": 66,
@@ -835,13 +1095,31 @@
       {
         "id": 72,
         "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
-      },
-      {
-        "id": 91,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 65,
+        "value": "Bakkāl Rizo v. Aleksan"
+      },
+      {
+        "id": 66,
+        "value": "Bakkal Kristic v. Mihal"
+      },
+      {
+        "id": 67,
+        "value": "Asteryo v. Yorgi"
+      },
+      {
+        "id": 72,
+        "value": "Bakkal Kosta v. Piyo"
+      },
+      {
+        "id": 109,
+        "value": "Bakkal Kosta v. Piyo"
+      }
+    ]
   },
   "49": {
     "id": 49,
@@ -853,7 +1131,8 @@
     "latitude": null,
     "longitute": null,
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "50": {
     "id": 50,
@@ -870,7 +1149,8 @@
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "51": {
     "id": 51,
@@ -887,7 +1167,13 @@
         "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 70,
+        "value": "Tanaş v. Dimitri"
+      }
+    ]
   },
   "52": {
     "id": 52,
@@ -906,17 +1192,35 @@
       {
         "id": 81,
         "value": "İSTM.ŞSC.06.d. 494 / 81a-1"
-      },
-      {
-        "id": 82,
-        "value": "İSTM.ŞSC.06.d. 495 / 25a-1"
-      },
-      {
-        "id": 83,
-        "value": "İSTM.ŞSC.06.d.495 / 68a-2"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 73,
+        "value": "Bakkal Panayot"
+      },
+      {
+        "id": 81,
+        "value": "Bakkal Manok"
+      },
+      {
+        "id": 110,
+        "value": "Bakkal Panayot v. İsteradik"
+      },
+      {
+        "id": 111,
+        "value": "Bakkal Manok v. Agik"
+      },
+      {
+        "id": 112,
+        "value": "Bakkal Panayot v. Polinçeron"
+      },
+      {
+        "id": 113,
+        "value": "Bakkal Konstantin v. Horosu"
+      }
+    ]
   },
   "53": {
     "id": 53,
@@ -930,10 +1234,16 @@
     "documents": [
       {
         "id": 74,
-        "value": "İSTM.ŞSC.06.d. 442 / 20a-2"
+        "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (a)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 74,
+        "value": "Elhac Mahmud Ağa b. Hasan"
+      }
+    ]
   },
   "54": {
     "id": 54,
@@ -950,7 +1260,13 @@
         "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 76,
+        "value": "Vasil v. Dimitri"
+      }
+    ]
   },
   "55": {
     "id": 55,
@@ -962,7 +1278,8 @@
     "latitude": null,
     "longitute": null,
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "56": {
     "id": 56,
@@ -979,7 +1296,13 @@
         "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 77,
+        "value": "Yorgi v. Andon"
+      }
+    ]
   },
   "57": {
     "id": 57,
@@ -996,7 +1319,13 @@
         "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 77,
+        "value": "Yorgi v. Andon"
+      }
+    ]
   },
   "58": {
     "id": 58,
@@ -1013,7 +1342,13 @@
         "value": "İSTM.ŞSC.06.d.505 / 83a-3"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 85,
+        "value": "Bakkal Yani v. Papa Dimitraki"
+      }
+    ]
   },
   "59": {
     "id": 59,
@@ -1030,7 +1365,8 @@
         "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "60": {
     "id": 60,
@@ -1047,7 +1383,17 @@
         "value": "İSTM.ŞSC.06.d. 548 / 43a-2"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 87,
+        "value": "Bakkal Elhac Hasan"
+      },
+      {
+        "id": 116,
+        "value": "Bakkal Elhac Hasan Ağa b. Ali"
+      }
+    ]
   },
   "61": {
     "id": 61,
@@ -1064,7 +1410,13 @@
         "value": "İSTM.ŞSC.06.d.505 / 83a-3"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 85,
+        "value": "Bakkal Yani v. Papa Dimitraki"
+      }
+    ]
   },
   "62": {
     "id": 62,
@@ -1081,7 +1433,13 @@
         "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 80,
+        "value": "Yovan v. Vasil"
+      }
+    ]
   },
   "63": {
     "id": 63,
@@ -1098,7 +1456,13 @@
         "value": "İSTM.ŞSC.15.d. 134/ 95a-1"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 88,
+        "value": "Bakkal Ahmed Beşe b. Abdullah"
+      }
+    ]
   },
   "64": {
     "id": 64,
@@ -1120,7 +1484,8 @@
         "id": 16,
         "value": "Üsküdar"
       }
-    ]
+    ],
+    "persons": []
   },
   "65": {
     "id": 65,
@@ -1137,7 +1502,8 @@
         "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "66": {
     "id": 66,
@@ -1148,13 +1514,14 @@
     "geonames_id": "",
     "latitude": null,
     "longitute": null,
-    "documents": [
+    "documents": [],
+    "district_nineteenth_century": [],
+    "persons": [
       {
         "id": 35,
-        "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
+        "value": "Bakkal Simal v. Nikola"
       }
-    ],
-    "district_nineteenth_century": []
+    ]
   },
   "67": {
     "id": 67,
@@ -1168,10 +1535,16 @@
     "documents": [
       {
         "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 99,
+        "value": "Yorgi v. Franko"
+      }
+    ]
   },
   "68": {
     "id": 68,
@@ -1183,7 +1556,8 @@
     "latitude": null,
     "longitute": null,
     "documents": [],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": []
   },
   "69": {
     "id": 69,
@@ -1197,10 +1571,20 @@
     "documents": [
       {
         "id": 97,
-        "value": "İSTM.ŞSC.15.d. 194 / 10b-1"
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
+      },
+      {
+        "id": 137,
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (b)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 101,
+        "value": "Bakkal Yorgi"
+      }
+    ]
   },
   "70": {
     "id": 70,
@@ -1214,9 +1598,387 @@
     "documents": [
       {
         "id": 101,
-        "value": "İSTM.ŞSC.15.d. 216 / 42a-1"
+        "value": "İSTM.ŞSC.15.d. 216 / 42a-1 (a)"
       }
     ],
-    "district_nineteenth_century": []
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 103,
+        "value": "Bakkal Dimo v. Yorgi"
+      }
+    ]
+  },
+  "71": {
+    "id": 71,
+    "order": "69.00000000000000000000",
+    "name": "",
+    "grocerist_id": "neighbourhood__71",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "72": {
+    "id": 72,
+    "order": "70.00000000000000000000",
+    "name": "Aslanağzı",
+    "grocerist_id": "neighbourhood__72",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 115,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "73": {
+    "id": 73,
+    "order": "71.00000000000000000000",
+    "name": "Camii Şerif tahtında",
+    "grocerist_id": "neighbourhood__73",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 116,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "74": {
+    "id": 74,
+    "order": "72.00000000000000000000",
+    "name": "Kemankeş Kara Mustafa Paşa",
+    "grocerist_id": "neighbourhood__74",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 36,
+        "value": "İSTM.ŞSC.14.d.355 / 47b-3"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 36,
+        "value": "Bakkal Ahmed Beşe b. Hasan"
+      }
+    ]
+  },
+  "75": {
+    "id": 75,
+    "order": "73.00000000000000000000",
+    "name": "Mahkeme karşısı",
+    "grocerist_id": "neighbourhood__75",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 44,
+        "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "76": {
+    "id": 76,
+    "order": "74.00000000000000000000",
+    "name": "Kulaksız",
+    "grocerist_id": "neighbourhood__76",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 49,
+        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "77": {
+    "id": 77,
+    "order": "75.00000000000000000000",
+    "name": "Seyyid Ali",
+    "grocerist_id": "neighbourhood__77",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 117,
+        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "78": {
+    "id": 78,
+    "order": "76.00000000000000000000",
+    "name": "Kolluk karşısında",
+    "grocerist_id": "neighbourhood__78",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 89,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "79": {
+    "id": 79,
+    "order": "77.00000000000000000000",
+    "name": "Tenbel",
+    "grocerist_id": "neighbourhood__79",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 120,
+        "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (c)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "80": {
+    "id": 80,
+    "order": "78.00000000000000000000",
+    "name": "Kefçe",
+    "grocerist_id": "neighbourhood__80",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 122,
+        "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (b)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "81": {
+    "id": 81,
+    "order": "79.00000000000000000000",
+    "name": "Yeni Cami",
+    "grocerist_id": "neighbourhood__81",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "82": {
+    "id": 82,
+    "order": "80.00000000000000000000",
+    "name": "Yük iskelesi kurbu",
+    "grocerist_id": "neighbourhood__82",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 79,
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (a)"
+      },
+      {
+        "id": 125,
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (b)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "83": {
+    "id": 83,
+    "order": "81.00000000000000000000",
+    "name": "Arasta kurbu",
+    "grocerist_id": "neighbourhood__83",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 82,
+        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (a)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "84": {
+    "id": 84,
+    "order": "82.00000000000000000000",
+    "name": "Selami",
+    "grocerist_id": "neighbourhood__84",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 83,
+        "value": "İSTM.ŞSC.06.d.495 / 68a-2 (a)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "85": {
+    "id": 85,
+    "order": "83.00000000000000000000",
+    "name": "Dorbalı (Torbalı)",
+    "grocerist_id": "neighbourhood__85",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 132,
+        "value": "İSTM.ŞSC.06.d.495 / 68a-2 (b)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "86": {
+    "id": 86,
+    "order": "84.00000000000000000000",
+    "name": "Ağa hamamı mahali",
+    "grocerist_id": "neighbourhood__86",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 86,
+        "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": [
+      {
+        "id": 86,
+        "value": "Dimitri v. Polizo"
+      }
+    ]
+  },
+  "87": {
+    "id": 87,
+    "order": "85.00000000000000000000",
+    "name": "Balat Kapısı",
+    "grocerist_id": "neighbourhood__87",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 93,
+        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (a)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "88": {
+    "id": 88,
+    "order": "86.00000000000000000000",
+    "name": "Kiremit",
+    "grocerist_id": "neighbourhood__88",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 133,
+        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (b)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "89": {
+    "id": 89,
+    "order": "87.00000000000000000000",
+    "name": "",
+    "grocerist_id": "neighbourhood__89",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "90": {
+    "id": 90,
+    "order": "88.00000000000000000000",
+    "name": "",
+    "grocerist_id": "neighbourhood__90",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "91": {
+    "id": 91,
+    "order": "89.00000000000000000000",
+    "name": "Lonca",
+    "grocerist_id": "neighbourhood__91",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 134,
+        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (c)"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
   }
 }

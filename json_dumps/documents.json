@@ -4,10 +4,10 @@
     "order": "1.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.173 / 9b-2",
     "grocerist_id": "document__1",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 1,
-        "value": "Bakkal Hasan Beşe"
+        "value": "Bakkal Hasan Beşe b. Abdullah"
       }
     ],
     "district": [
@@ -152,14 +152,15 @@
     ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.177 / 34b-1",
     "grocerist_id": "document__2",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 2,
         "value": "Bakkal Filibi v. Yorgi"
@@ -310,14 +311,15 @@
     ],
     "year_of_creation__hicri": "1111",
     "year_of_creation/Miladi": "1699-1700",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 189 / 5a-3, 6",
     "grocerist_id": "document__3",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 3,
         "value": "Bakkal Mustafa Beşe b. Osman"
@@ -366,14 +368,15 @@
     ],
     "year_of_creation__hicri": "1113",
     "year_of_creation/Miladi": "1701-1702",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.196 / 19b-1",
     "grocerist_id": "document__4",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 4,
         "value": "Yorgi v. Dimitri"
@@ -381,8 +384,8 @@
     ],
     "district": [
       {
-        "id": 4,
-        "value": "Galata"
+        "id": 5,
+        "value": "Galata Harici"
       },
       {
         "id": 6,
@@ -556,14 +559,15 @@
     ],
     "year_of_creation__hicri": "1115",
     "year_of_creation/Miladi": "1703-1704",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.196 / 21b-1",
     "grocerist_id": "document__5",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 5,
         "value": "Yani v. Yorgi"
@@ -712,14 +716,15 @@
     ],
     "year_of_creation__hicri": "1115",
     "year_of_creation/Miladi": "1703-1704",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.212/ 29a-1",
     "grocerist_id": "document__6",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 6,
         "value": "Bakkal Yorgi"
@@ -806,14 +811,15 @@
     ],
     "year_of_creation__hicri": "1123",
     "year_of_creation/Miladi": "1711-1712",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.212/ 34b-2",
     "grocerist_id": "document__7",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 7,
         "value": "Bakkal Dimitri v. Yorgi"
@@ -897,14 +903,15 @@
     ],
     "year_of_creation__hicri": "1123",
     "year_of_creation/Miladi": "1711-1712",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.212/ 74b-1",
     "grocerist_id": "document__8",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 8,
         "value": "Dimo v. Lanbo"
@@ -1064,14 +1071,15 @@
     ],
     "year_of_creation__hicri": "1124",
     "year_of_creation/Miladi": "1712-1713",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.217 / 59a-2, 60",
     "grocerist_id": "document__9",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 9,
         "value": "Mustafa Beşe b. Abdullah"
@@ -1132,17 +1140,18 @@
     ],
     "year_of_creation__hicri": "1125",
     "year_of_creation/Miladi": "1713-1714",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.222 / 45a-2",
     "grocerist_id": "document__10",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 10,
-        "value": "Yorgi v."
+        "value": "Yorgi v. Dimitri"
       }
     ],
     "district": [
@@ -1230,14 +1239,15 @@
     ],
     "year_of_creation__hicri": "1125",
     "year_of_creation/Miladi": "1713-1714",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.226 / 27a-2, 28",
     "grocerist_id": "document__11",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 11,
         "value": "Yorgi v. Hristo"
@@ -1394,14 +1404,15 @@
     ],
     "year_of_creation__hicri": "1126",
     "year_of_creation/Miladi": "1714-1715",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.237 / 16a-1",
     "grocerist_id": "document__12",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 12,
         "value": "Bakkal Dimitri v. Hristo"
@@ -1411,14 +1422,13 @@
       {
         "id": 4,
         "value": "Galata"
-      }
-    ],
-    "neighbourhood": [
+      },
       {
-        "id": 15,
-        "value": "Sultan Bayezıd "
+        "id": 14,
+        "value": "Karaköy Kapısı harici"
       }
     ],
+    "neighbourhood": [],
     "goods": [
       {
         "id": 5,
@@ -1473,14 +1483,15 @@
     ],
     "year_of_creation__hicri": "1128",
     "year_of_creation/Miladi": "1715-1716",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.237 / 27a-2, 28",
     "grocerist_id": "document__13",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 13,
         "value": "Bakkāl Hristodaki v. Polhoron"
@@ -1488,16 +1499,15 @@
     ],
     "district": [
       {
-        "id": 5,
-        "value": "Galata Harici"
-      }
-    ],
-    "neighbourhood": [
+        "id": 4,
+        "value": "Galata"
+      },
       {
         "id": 7,
-        "value": "Hüseyin Ağa"
+        "value": "Tophane"
       }
     ],
+    "neighbourhood": [],
     "goods": [
       {
         "id": 3,
@@ -1605,14 +1615,15 @@
     ],
     "year_of_creation__hicri": "1128",
     "year_of_creation/Miladi": "1715-1716",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.237 / 39b-1",
     "grocerist_id": "document__14",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 14,
         "value": "Bakkal Kiro v. Yani"
@@ -1751,14 +1762,15 @@
     ],
     "year_of_creation__hicri": "1129",
     "year_of_creation/Miladi": "1716-1717",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.237 / 62b-2",
     "grocerist_id": "document__15",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 15,
         "value": "Hristo v. Yorgi"
@@ -1905,14 +1917,15 @@
     ],
     "year_of_creation__hicri": "1129",
     "year_of_creation/Miladi": "1716-1717",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.241 / 3a-1",
     "grocerist_id": "document__16",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 16,
         "value": "Bakkal Ali Beşe b. Mehmed"
@@ -2021,14 +2034,20 @@
     ],
     "year_of_creation__hicri": "1130",
     "year_of_creation/Miladi": "1717-1718",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 241/ 18b-1",
     "grocerist_id": "document__17",
-    "shop_owner": [],
+    "main_person": [
+      {
+        "id": 17,
+        "value": "Bakkal Elhac Ahmed b. Resul"
+      }
+    ],
     "district": [
       {
         "id": 4,
@@ -2051,16 +2070,17 @@
     "mentioned_persons": [],
     "year_of_creation__hicri": "1130",
     "year_of_creation/Miladi": "1717-1718",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.249 / 9b-2",
     "grocerist_id": "document__18",
-    "shop_owner": [
+    "main_person": [
       {
-        "id": 17,
+        "id": 118,
         "value": "Elhac Osman b. İbrahim"
       }
     ],
@@ -2152,14 +2172,15 @@
     ],
     "year_of_creation__hicri": "1133",
     "year_of_creation/Miladi": "1720-1721",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 249/ 79a-2",
     "grocerist_id": "document__19",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 19,
         "value": "Astavor v. Yako"
@@ -2193,14 +2214,15 @@
     ],
     "year_of_creation__hicri": "1134",
     "year_of_creation/Miladi": "1721-1722",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.254 / 3b-1",
     "grocerist_id": "document__20",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 20,
         "value": "Bakkal Yanaki v. Yani"
@@ -2267,14 +2289,15 @@
     ],
     "year_of_creation__hicri": "1133",
     "year_of_creation/Miladi": "1720-1721",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.254 / 59a-2",
     "grocerist_id": "document__21",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 21,
         "value": "Bakkal Lefter v. Dimitri"
@@ -2309,14 +2332,15 @@
         "id": 3,
         "value": "Karye-i Cedid"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.254 / 64a-1",
     "grocerist_id": "document__22",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 22,
         "value": "Pereşkova"
@@ -2455,17 +2479,18 @@
     ],
     "year_of_creation__hicri": "1135",
     "year_of_creation/Miladi": "1722-1723",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.254 / 76b-1",
     "grocerist_id": "document__23",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 23,
-        "value": "Bakkal Todori v. Dimitri"
+        "value": "Bakkal Todori v. Dimo"
       }
     ],
     "district": [
@@ -2501,14 +2526,15 @@
     ],
     "year_of_creation__hicri": "1135",
     "year_of_creation/Miladi": "1722-1723",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
     "grocerist_id": "document__24",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 24,
         "value": "Yani v. Panayot"
@@ -2657,14 +2683,15 @@
     ],
     "year_of_creation__hicri": "1141",
     "year_of_creation/Miladi": "1728-1729",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.275 / 37a-4",
     "grocerist_id": "document__25",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 25,
         "value": "Bakkal Aslan v. Bedros"
@@ -2860,14 +2887,15 @@
     ],
     "year_of_creation__hicri": "1142",
     "year_of_creation/Miladi": "1729-1730",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "26": {
     "id": 26,
     "order": "26.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.275 / 45b-3 (a)",
     "grocerist_id": "document__26",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 26,
         "value": "Bakkal Astavor"
@@ -2990,14 +3018,15 @@
     ],
     "year_of_creation__hicri": "1142",
     "year_of_creation/Miladi": "1729-1730",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.275 / 76b-1",
     "grocerist_id": "document__27",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 27,
         "value": "Bakkal Nikola v. Dimitri"
@@ -3150,17 +3179,18 @@
     ],
     "year_of_creation__hicri": "1145",
     "year_of_creation/Miladi": "1732-1733",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.276 / 9b-1",
     "grocerist_id": "document__28",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 28,
-        "value": "Bakkal Molla Hasan b. Abddullah"
+        "value": "Bakkal Molla Hasan b. Abdullah"
       }
     ],
     "district": [
@@ -3296,14 +3326,15 @@
     ],
     "year_of_creation__hicri": "1144",
     "year_of_creation/Miladi": "1731-1732",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.289 / 6b-2",
     "grocerist_id": "document__29",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 29,
         "value": "Nikola veled-i Ulaş"
@@ -3473,14 +3504,15 @@
     ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.290 / 73b-2",
     "grocerist_id": "document__30",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 30,
         "value": "Bakkal Mustafa b. Abdullah"
@@ -3588,14 +3620,15 @@
     ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.304 / 22b-3",
     "grocerist_id": "document__31",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 31,
         "value": "Kosta ve Dimitri v. Nikola"
@@ -3762,14 +3795,15 @@
     ],
     "year_of_creation__hicri": "1152",
     "year_of_creation/Miladi": "1739-1740",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 315/ 30b-1",
     "grocerist_id": "document__32",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 32,
         "value": "Dimitri v. Todori"
@@ -3794,14 +3828,15 @@
     ],
     "year_of_creation__hicri": "1164",
     "year_of_creation/Miladi": "1750-1751",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 332/ 48a-1",
     "grocerist_id": "document__33",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 33,
         "value": "Yorgaki v. Manol"
@@ -3845,14 +3880,15 @@
         "id": 2,
         "value": "Arnavud"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 342/ 60a-1",
     "grocerist_id": "document__34",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 34,
         "value": "Bakkal Hasan Beşe b. Ali"
@@ -3864,16 +3900,11 @@
         "value": "Galata"
       },
       {
-        "id": 6,
-        "value": "Kasımpaşa"
+        "id": 14,
+        "value": "Karaköy Kapısı harici"
       }
     ],
-    "neighbourhood": [
-      {
-        "id": 18,
-        "value": "Elhac Hüsrev"
-      }
-    ],
+    "neighbourhood": [],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -3896,14 +3927,15 @@
     ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 352/ 6a-1",
     "grocerist_id": "document__35",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 35,
         "value": "Bakkal Simal v. Nikola"
@@ -3923,10 +3955,6 @@
       {
         "id": 29,
         "value": "Yeniköy"
-      },
-      {
-        "id": 66,
-        "value": "Kürkçü"
       }
     ],
     "goods": [],
@@ -3951,14 +3979,15 @@
     ],
     "year_of_creation__hicri": "1173",
     "year_of_creation/Miladi": "1759-1760",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.355 / 47b-3",
     "grocerist_id": "document__36",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 36,
         "value": "Bakkal Ahmed Beşe b. Hasan"
@@ -3972,8 +4001,8 @@
     ],
     "neighbourhood": [
       {
-        "id": 3,
-        "value": "Kara Mustafa Paşa"
+        "id": 74,
+        "value": "Kemankeş Kara Mustafa Paşa"
       }
     ],
     "goods": [
@@ -4083,14 +4112,15 @@
     ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 361/ 58b-2",
     "grocerist_id": "document__37",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 37,
         "value": "Bakkal Todori"
@@ -4124,14 +4154,15 @@
         "id": 2,
         "value": "Arnavud"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
     "grocerist_id": "document__38",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 38,
         "value": "Bakkal Bafi v. Tanaş"
@@ -4284,14 +4315,15 @@
     ],
     "year_of_creation__hicri": "1176",
     "year_of_creation/Miladi": "1762-1763",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "39": {
     "id": 39,
     "order": "39.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 394/ 59b-1",
     "grocerist_id": "document__39",
-    "shop_owner": [],
+    "main_person": [],
     "district": [
       {
         "id": 4,
@@ -4334,14 +4366,15 @@
     ],
     "year_of_creation__hicri": "1182",
     "year_of_creation/Miladi": "1768-1769",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "41": {
     "id": 41,
     "order": "41.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.400 / 55a-1",
     "grocerist_id": "document__41",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 41,
         "value": "Bakkal Astati v. Yani"
@@ -4458,14 +4491,15 @@
         "id": 2,
         "value": "Arnavud"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "42": {
     "id": 42,
     "order": "42.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 405/ 37b-1",
     "grocerist_id": "document__42",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 42,
         "value": "Panayot v. Petro"
@@ -4495,14 +4529,15 @@
     ],
     "year_of_creation__hicri": "1184",
     "year_of_creation/Miladi": "1770-1771",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 406/ 27b-1",
     "grocerist_id": "document__43",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 43,
         "value": "Bakkal Yani v.  Andon"
@@ -4537,14 +4572,15 @@
     ],
     "year_of_creation__hicri": "1184",
     "year_of_creation/Miladi": "1770-1771",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 433/ 21a-3",
     "grocerist_id": "document__44",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 44,
         "value": "Bakkal Tanaş veled-i  Hristo"
@@ -4562,8 +4598,16 @@
     ],
     "neighbourhood": [
       {
+        "id": 29,
+        "value": "Yeniköy"
+      },
+      {
         "id": 33,
         "value": " Aya Nikoli"
+      },
+      {
+        "id": 75,
+        "value": "Mahkeme karşısı"
       }
     ],
     "goods": [],
@@ -4588,14 +4632,15 @@
     ],
     "year_of_creation__hicri": "1190",
     "year_of_creation/Miladi": "1776-1777",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "45": {
     "id": 45,
     "order": "45.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.433 / 74b-2",
     "grocerist_id": "document__45",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 45,
         "value": "Bakkal Mehmed Beşe b. Salih"
@@ -4700,14 +4745,15 @@
     ],
     "year_of_creation__hicri": "1191",
     "year_of_creation/Miladi": "1777-1778",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.441 / 55b-3",
     "grocerist_id": "document__47",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 47,
         "value": "Yenişehirli Dimitri v. Nikola"
@@ -4822,17 +4868,18 @@
     ],
     "year_of_creation__hicri": "1192",
     "year_of_creation/Miladi": "1778-1779",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "48": {
     "id": 48,
     "order": "48.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 472 / 33b-1",
     "grocerist_id": "document__48",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 48,
-        "value": "Bakkal Elhac Osman"
+        "value": "Bakkal Elhac Osman b. Halil"
       }
     ],
     "district": [
@@ -4868,17 +4915,18 @@
     ],
     "year_of_creation__hicri": "1199",
     "year_of_creation/Miladi": "1784-1785",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "49": {
     "id": 49,
     "order": "49.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.14.d. 496 / 35b-3",
+    "shelfmark": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)",
     "grocerist_id": "document__49",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 49,
-        "value": "Bakkal Trandafil"
+        "value": "Bakkal Trandafil v. Yori"
       }
     ],
     "district": [
@@ -4893,8 +4941,8 @@
     ],
     "neighbourhood": [
       {
-        "id": 2,
-        "value": "Tatavla"
+        "id": 76,
+        "value": "Kulaksız"
       }
     ],
     "goods": [],
@@ -4919,14 +4967,51 @@
     ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "117": {
+    "id": 117,
+    "order": "49.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)",
+    "grocerist_id": "document__117",
+    "main_person": [
+      {
+        "id": 49,
+        "value": "Bakkal Trandafil v. Yori"
+      }
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 77,
+        "value": "Seyyid Ali"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "50": {
     "id": 50,
     "order": "50.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 504/ 86a-2",
     "grocerist_id": "document__50",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 50,
         "value": "Bakkal Artin"
@@ -4961,14 +5046,15 @@
     ],
     "year_of_creation__hicri": "1205",
     "year_of_creation/Miladi": "1790-1791",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "51": {
     "id": 51,
     "order": "51.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d. 507/20b-2",
     "grocerist_id": "document__51",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 51,
         "value": "Tanaş"
@@ -5002,14 +5088,15 @@
         "id": 2,
         "value": "Arnavud"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "52": {
     "id": 52,
     "order": "53.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.528 / 83b-2",
     "grocerist_id": "document__52",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 52,
         "value": "Bakkal Yorgi v. Kirikor"
@@ -5116,14 +5203,15 @@
     ],
     "year_of_creation__hicri": "1210",
     "year_of_creation/Miladi": "1795-1796",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "59": {
     "id": 59,
     "order": "54.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1(b)",
     "grocerist_id": "document__59",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 24,
         "value": "Yani v. Panayot"
@@ -5220,14 +5308,15 @@
     ],
     "year_of_creation__hicri": "1141",
     "year_of_creation/Miladi": "1728-1729",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "60": {
     "id": 60,
     "order": "55.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1(c)",
     "grocerist_id": "document__60",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 24,
         "value": "Yani v. Panayot"
@@ -5348,14 +5437,47 @@
     ],
     "year_of_creation__hicri": "1141",
     "year_of_creation/Miladi": "1728-1729",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "115": {
+    "id": 115,
+    "order": "55.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1(d)",
+    "grocerist_id": "document__115",
+    "main_person": [
+      {
+        "id": 24,
+        "value": "Yani v. Panayot"
+      }
+    ],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 72,
+        "value": "Aslanağzı"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "61": {
     "id": 61,
     "order": "56.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.275 / 45b-3 (b)",
     "grocerist_id": "document__61",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 26,
         "value": "Bakkal Astavor"
@@ -5369,8 +5491,8 @@
     ],
     "neighbourhood": [
       {
-        "id": 19,
-        "value": "Karaköy"
+        "id": 30,
+        "value": "Karaköy kapısı harici"
       }
     ],
     "goods": [
@@ -5478,14 +5600,15 @@
     ],
     "year_of_creation__hicri": "1142",
     "year_of_creation/Miladi": "1729-1730",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "62": {
     "id": 62,
     "order": "57.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.14.d.275 / 45b-3 (c)",
     "grocerist_id": "document__62",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 26,
         "value": "Bakkal Astavor"
@@ -5499,8 +5622,8 @@
     ],
     "neighbourhood": [
       {
-        "id": 19,
-        "value": "Karaköy"
+        "id": 30,
+        "value": "Karaköy kapısı harici"
       }
     ],
     "goods": [
@@ -5552,14 +5675,51 @@
     ],
     "year_of_creation__hicri": "1142",
     "year_of_creation/Miladi": "1729-1730",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "116": {
+    "id": 116,
+    "order": "57.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.14.d.275 / 45b-3 (d)",
+    "grocerist_id": "document__116",
+    "main_person": [
+      {
+        "id": 26,
+        "value": "Bakkal Astavor"
+      }
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 30,
+        "value": "Karaköy kapısı harici"
+      },
+      {
+        "id": 73,
+        "value": "Camii Şerif tahtında"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "64": {
     "id": 64,
     "order": "58.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)",
     "grocerist_id": "document__64",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 64,
         "value": "Yani v. Dimo"
@@ -5730,17 +5890,18 @@
     ],
     "year_of_creation__hicri": "1120",
     "year_of_creation/Miladi": "1708-1709",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
-  "65": {
-    "id": 65,
-    "order": "59.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
-    "grocerist_id": "document__65",
-    "shop_owner": [
+  "91": {
+    "id": 91,
+    "order": "58.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)",
+    "grocerist_id": "document__91",
+    "main_person": [
       {
-        "id": 96,
-        "value": "Bakkal Rizo v. Aleksan"
+        "id": 64,
+        "value": "Yani v. Dimo"
       }
     ],
     "district": [
@@ -5755,6 +5916,152 @@
         "value": "Kefere"
       }
     ],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 2,
+        "value": "Pistachio"
+      },
+      {
+        "id": 12,
+        "value": "Pea"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 14,
+        "value": "Lentil"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 20,
+        "value": "Siyah"
+      },
+      {
+        "id": 22,
+        "value": "Carob"
+      },
+      {
+        "id": 27,
+        "value": "Starch"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 30,
+        "value": "Salt"
+      },
+      {
+        "id": 33,
+        "value": "Kefe salt"
+      },
+      {
+        "id": 36,
+        "value": "Vermicelli"
+      },
+      {
+        "id": 63,
+        "value": "Sesame Oil"
+      },
+      {
+        "id": 89,
+        "value": "Çorlu cheese"
+      },
+      {
+        "id": 108,
+        "value": "Soap"
+      },
+      {
+        "id": 121,
+        "value": "Jug"
+      },
+      {
+        "id": 122,
+        "value": "Mug"
+      },
+      {
+        "id": 129,
+        "value": "Çömlek"
+      },
+      {
+        "id": 130,
+        "value": "Jar"
+      },
+      {
+        "id": 155,
+        "value": "Broad bean"
+      },
+      {
+        "id": 175,
+        "value": "Chestnut"
+      },
+      {
+        "id": 176,
+        "value": "Aniseed"
+      },
+      {
+        "id": 177,
+        "value": "Roasted chickpea"
+      },
+      {
+        "id": 178,
+        "value": "Zeytin yağı tulumu"
+      },
+      {
+        "id": 179,
+        "value": "Lemon juice"
+      },
+      {
+        "id": 206,
+        "value": "Temür hurdası"
+      }
+    ],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [
+      {
+        "id": 9929,
+        "value": "Kayyım",
+        "color": "blue"
+      }
+    ],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "65": {
+    "id": 65,
+    "order": "59.00000000000000000000",
+    "shelfmark": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
+    "grocerist_id": "document__65",
+    "main_person": [
+      {
+        "id": 96,
+        "value": "Bakkal Rizo v. Aleksan"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
     "goods": [
       {
         "id": 2,
@@ -6011,14 +6318,459 @@
         "id": 9,
         "value": "Bit Pazarı"
       }
-    ]
+    ],
+    "type_of_ownership": []
+  },
+  "89": {
+    "id": 89,
+    "order": "59.99999999999999999998",
+    "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
+    "grocerist_id": "document__89",
+    "main_person": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 78,
+        "value": "Kolluk karşısında"
+      }
+    ],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 2,
+        "value": "Pistachio"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 9,
+        "value": "Kashkaval"
+      },
+      {
+        "id": 10,
+        "value": "Tulum peyniri"
+      },
+      {
+        "id": 12,
+        "value": "Pea"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 14,
+        "value": "Lentil"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 17,
+        "value": "Beylerce"
+      },
+      {
+        "id": 18,
+        "value": "Razaki"
+      },
+      {
+        "id": 21,
+        "value": "Figs"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 25,
+        "value": "Honey"
+      },
+      {
+        "id": 27,
+        "value": "Starch"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 30,
+        "value": "Salt"
+      },
+      {
+        "id": 31,
+        "value": "Garlic"
+      },
+      {
+        "id": 33,
+        "value": "Kefe salt"
+      },
+      {
+        "id": 34,
+        "value": "Olive"
+      },
+      {
+        "id": 36,
+        "value": "Vermicelli"
+      },
+      {
+        "id": 45,
+        "value": "Bulgur"
+      },
+      {
+        "id": 55,
+        "value": "Linseed Oil"
+      },
+      {
+        "id": 61,
+        "value": "Trilye olives"
+      },
+      {
+        "id": 65,
+        "value": "Küfter"
+      },
+      {
+        "id": 108,
+        "value": "Soap"
+      },
+      {
+        "id": 112,
+        "value": "Candle"
+      },
+      {
+        "id": 129,
+        "value": "Çömlek"
+      },
+      {
+        "id": 155,
+        "value": "Broad bean"
+      },
+      {
+        "id": 174,
+        "value": "Turşu yaprağı"
+      },
+      {
+        "id": 181,
+        "value": "Revak asel"
+      },
+      {
+        "id": 184,
+        "value": "Goat cheese"
+      },
+      {
+        "id": 185,
+        "value": "Oleaster"
+      },
+      {
+        "id": 186,
+        "value": "Dried pear"
+      },
+      {
+        "id": 190,
+        "value": "Çorlu kaşkavalı"
+      },
+      {
+        "id": 191,
+        "value": "Edremit siyahı üzüm"
+      },
+      {
+        "id": 206,
+        "value": "Temür hurdası"
+      },
+      {
+        "id": 260,
+        "value": "Demet odunu"
+      },
+      {
+        "id": 262,
+        "value": "Revgan-ı Leh"
+      },
+      {
+        "id": 275,
+        "value": "İzmir siyahı üzüm"
+      }
+    ],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6790,
+        "value": "Mother",
+        "color": "gray"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      }
+    ],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": null,
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "90": {
+    "id": 90,
+    "order": "59.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)",
+    "grocerist_id": "document__90",
+    "main_person": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 50,
+        "value": "At Pazarı"
+      }
+    ],
+    "goods": [
+      {
+        "id": 1,
+        "value": "Hazelnut"
+      },
+      {
+        "id": 2,
+        "value": "Pistachio"
+      },
+      {
+        "id": 4,
+        "value": "Walnut"
+      },
+      {
+        "id": 5,
+        "value": "Olive Oil"
+      },
+      {
+        "id": 6,
+        "value": "Ghee, Clarified Butter"
+      },
+      {
+        "id": 10,
+        "value": "Tulum peyniri"
+      },
+      {
+        "id": 13,
+        "value": "Chickpea"
+      },
+      {
+        "id": 14,
+        "value": "Lentil"
+      },
+      {
+        "id": 15,
+        "value": "Rice"
+      },
+      {
+        "id": 17,
+        "value": "Beylerce"
+      },
+      {
+        "id": 18,
+        "value": "Razaki"
+      },
+      {
+        "id": 23,
+        "value": "Molasses"
+      },
+      {
+        "id": 25,
+        "value": "Honey"
+      },
+      {
+        "id": 27,
+        "value": "Starch"
+      },
+      {
+        "id": 28,
+        "value": "Vinegar"
+      },
+      {
+        "id": 29,
+        "value": "Onion"
+      },
+      {
+        "id": 31,
+        "value": "Garlic"
+      },
+      {
+        "id": 33,
+        "value": "Kefe salt"
+      },
+      {
+        "id": 34,
+        "value": "Olive"
+      },
+      {
+        "id": 36,
+        "value": "Vermicelli"
+      },
+      {
+        "id": 41,
+        "value": "Daru"
+      },
+      {
+        "id": 49,
+        "value": "Sausage"
+      },
+      {
+        "id": 53,
+        "value": "Flour"
+      },
+      {
+        "id": 55,
+        "value": "Linseed Oil"
+      },
+      {
+        "id": 57,
+        "value": "Pastrami"
+      },
+      {
+        "id": 59,
+        "value": "Egg"
+      },
+      {
+        "id": 61,
+        "value": "Trilye olives"
+      },
+      {
+        "id": 63,
+        "value": "Sesame Oil"
+      },
+      {
+        "id": 64,
+        "value": "Smashed salt"
+      },
+      {
+        "id": 93,
+        "value": "Gömeç honey"
+      },
+      {
+        "id": 94,
+        "value": "Cornelian cherry"
+      },
+      {
+        "id": 98,
+        "value": "Sarıca fig"
+      },
+      {
+        "id": 108,
+        "value": "Soap"
+      },
+      {
+        "id": 112,
+        "value": "Candle"
+      },
+      {
+        "id": 129,
+        "value": "Çömlek"
+      },
+      {
+        "id": 174,
+        "value": "Turşu yaprağı"
+      },
+      {
+        "id": 184,
+        "value": "Goat cheese"
+      },
+      {
+        "id": 185,
+        "value": "Oleaster"
+      },
+      {
+        "id": 192,
+        "value": "Çakmak tozu"
+      },
+      {
+        "id": 193,
+        "value": "Tahini"
+      },
+      {
+        "id": 202,
+        "value": "Lob fig"
+      },
+      {
+        "id": 206,
+        "value": "Temür hurdası"
+      },
+      {
+        "id": 259,
+        "value": "Leh tuzu"
+      },
+      {
+        "id": 260,
+        "value": "Demet odunu"
+      },
+      {
+        "id": 261,
+        "value": "Leh kaşkavalı"
+      },
+      {
+        "id": 265,
+        "value": "Döğülmüş Leh tuzu"
+      },
+      {
+        "id": 275,
+        "value": "İzmir siyahı üzüm"
+      }
+    ],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [
+      {
+        "id": 6787,
+        "value": "Wife",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6790,
+        "value": "Mother",
+        "color": "gray"
+      },
+      {
+        "id": 6788,
+        "value": "Son",
+        "color": "light-gray"
+      }
+    ],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": null,
+    "karye": [],
+    "type_of_ownership": []
   },
   "66": {
     "id": 66,
     "order": "60.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 339 / 94b-1",
     "grocerist_id": "document__66",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 66,
         "value": "Bakkal Kristic v. Mihal"
@@ -6053,14 +6805,15 @@
     ],
     "year_of_creation__hicri": "1121",
     "year_of_creation/Miladi": "1709-1710",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "67": {
     "id": 67,
     "order": "61.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d.359 / 26a-1",
     "grocerist_id": "document__67",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 67,
         "value": "Asteryo v. Yorgi"
@@ -6204,14 +6957,15 @@
     ],
     "year_of_creation__hicri": "1129",
     "year_of_creation/Miladi": "1716-1717",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "68": {
     "id": 68,
     "order": "62.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.06.d. 359 / 27a-1",
+    "shelfmark": "İSTM.ŞSC.06.d. 359 / 27a-1 (a)",
     "grocerist_id": "document__68",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 68,
         "value": "Bakkal Dimitri v. Yorgi"
@@ -6256,14 +7010,69 @@
         "id": 4,
         "value": "Kuzguncuk"
       }
-    ]
+    ],
+    "type_of_ownership": []
+  },
+  "119": {
+    "id": 119,
+    "order": "62.99999999999999999998",
+    "shelfmark": "İSTM.ŞSC.06.d. 359 / 27a-1 (b)",
+    "grocerist_id": "document__119",
+    "main_person": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [
+      {
+        "id": 6,
+        "value": "Eski hamam"
+      }
+    ],
+    "type_of_ownership": []
+  },
+  "120": {
+    "id": 120,
+    "order": "62.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.06.d. 359 / 27a-1 (c)",
+    "grocerist_id": "document__120",
+    "main_person": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 79,
+        "value": "Tenbel"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "69": {
     "id": 69,
     "order": "63.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 381 / 32b-3",
     "grocerist_id": "document__69",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 69,
         "value": "Bakkal Ali b. Abdullah"
@@ -6298,14 +7107,15 @@
         "id": 5,
         "value": "Kadı"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "70": {
     "id": 70,
     "order": "64.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 394 / 92a-1",
     "grocerist_id": "document__70",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 70,
         "value": "Tanaş v. Dimitri"
@@ -6453,14 +7263,15 @@
         "id": 6,
         "value": "Eski hamam"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "71": {
     "id": 71,
     "order": "65.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 405 / 87b-2",
     "grocerist_id": "document__71",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 71,
         "value": "Bakkal suhte Ömer"
@@ -6544,14 +7355,15 @@
     "mentioned_persons": [],
     "year_of_creation__hicri": "1154",
     "year_of_creation/Miladi": "1741-1742",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "72": {
     "id": 72,
     "order": "66.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 427 / 50a-2",
     "grocerist_id": "document__72",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 109,
         "value": "Bakkal Kosta v. Piyo"
@@ -6780,14 +7592,15 @@
     ],
     "year_of_creation__hicri": "1163",
     "year_of_creation/Miladi": "1749-1750",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "73": {
     "id": 73,
     "order": "67.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 440 / 24b-1",
     "grocerist_id": "document__73",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 110,
         "value": "Bakkal Panayot v. İsteradik"
@@ -7062,17 +7875,18 @@
     ],
     "year_of_creation__hicri": "1168",
     "year_of_creation/Miladi": "1754-1755",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "74": {
     "id": 74,
     "order": "68.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.06.d. 442 / 20a-2",
+    "shelfmark": "İSTM.ŞSC.06.d. 442 / 20a-2 (a)",
     "grocerist_id": "document__74",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 74,
-        "value": "Elhac Mahmud b. Hasan"
+        "value": "Elhac Mahmud Ağa b. Hasan"
       }
     ],
     "district": [
@@ -7109,17 +7923,50 @@
     ],
     "year_of_creation__hicri": "1169",
     "year_of_creation/Miladi": "1755-1756",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "122": {
+    "id": 122,
+    "order": "68.99999999999999999998",
+    "shelfmark": "İSTM.ŞSC.06.d. 442 / 20a-2 (b)",
+    "grocerist_id": "document__122",
+    "main_person": [
+      {
+        "id": 74,
+        "value": "Elhac Mahmud Ağa b. Hasan"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 80,
+        "value": "Kefçe"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "75": {
     "id": 75,
     "order": "69.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.06.d. 443 / 11a-1",
+    "shelfmark": "İSTM.ŞSC.06.d. 443 / 11a-1 (a)",
     "grocerist_id": "document__75",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 75,
-        "value": "Bakkal Konstantin v. Hristo"
+        "value": "Bakkal Konstantin v. Hristodoli"
       }
     ],
     "district": [
@@ -7186,17 +8033,82 @@
     "year_of_creation/Miladi": "1755-1756",
     "karye": [
       {
-        "id": 3,
-        "value": "Karye-i Cedid"
+        "id": 15,
+        "value": "Yeni Cami"
       }
-    ]
+    ],
+    "type_of_ownership": []
+  },
+  "123": {
+    "id": 123,
+    "order": "69.99999999999999999998",
+    "shelfmark": "İSTM.ŞSC.06.d. 443 / 11a-1 (b)",
+    "grocerist_id": "document__123",
+    "main_person": [
+      {
+        "id": 75,
+        "value": "Bakkal Konstantin v. Hristodoli"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [
+      {
+        "id": 15,
+        "value": "Yeni Cami"
+      }
+    ],
+    "type_of_ownership": []
+  },
+  "124": {
+    "id": 124,
+    "order": "69.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.06.d. 443 / 11a-1 (c)",
+    "grocerist_id": "document__124",
+    "main_person": [
+      {
+        "id": 75,
+        "value": "Bakkal Konstantin v. Hristodoli"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [
+      {
+        "id": 15,
+        "value": "Yeni Cami"
+      }
+    ],
+    "type_of_ownership": []
   },
   "76": {
     "id": 76,
     "order": "70.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 455 / 38a-1",
     "grocerist_id": "document__76",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 76,
         "value": "Vasil v. Dimitri"
@@ -7263,14 +8175,15 @@
     ],
     "year_of_creation__hicri": "1174",
     "year_of_creation/Miladi": "1760-1761",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "77": {
     "id": 77,
     "order": "71.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 456 / 82b-3",
     "grocerist_id": "document__77",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 77,
         "value": "Yorgi v. Andon"
@@ -7439,14 +8352,15 @@
     "mentioned_persons": [],
     "year_of_creation__hicri": "1175",
     "year_of_creation/Miladi": "1761-1762",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "78": {
     "id": 78,
     "order": "72.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 465 / 77a-2",
     "grocerist_id": "document__78",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 78,
         "value": "Esseyid Mustafa b. Ahmed"
@@ -7567,14 +8481,15 @@
         "id": 7,
         "value": "Hünkar"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "79": {
     "id": 79,
     "order": "73.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.06.d. 490 / 74a-2",
+    "shelfmark": "İSTM.ŞSC.06.d. 490 / 74a-2 (a)",
     "grocerist_id": "document__79",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 79,
         "value": "Bakkal Manol v. Dimitri"
@@ -7586,7 +8501,12 @@
         "value": "Üsküdar"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 82,
+        "value": "Yük iskelesi kurbu"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -7609,19 +8529,111 @@
     ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "125": {
+    "id": 125,
+    "order": "73.99999999999999999997",
+    "shelfmark": "İSTM.ŞSC.06.d. 490 / 74a-2 (b)",
+    "grocerist_id": "document__125",
+    "main_person": [
+      {
+        "id": 79,
+        "value": "Bakkal Manol v. Dimitri"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 82,
+        "value": "Yük iskelesi kurbu"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "126": {
+    "id": 126,
+    "order": "73.99999999999999999998",
+    "shelfmark": "İSTM.ŞSC.06.d. 490 / 74a-2 (c)",
+    "grocerist_id": "document__126",
+    "main_person": [
+      {
+        "id": 79,
+        "value": "Bakkal Manol v. Dimitri"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
     "karye": [
       {
-        "id": 4,
-        "value": "Kuzguncuk"
+        "id": 16,
+        "value": "Kısıklı"
       }
-    ]
+    ],
+    "type_of_ownership": []
+  },
+  "127": {
+    "id": 127,
+    "order": "73.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.06.d. 490 / 74a-2 (d)",
+    "grocerist_id": "document__127",
+    "main_person": [
+      {
+        "id": 79,
+        "value": "Bakkal Manol v. Dimitri"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 42,
+        "value": "Yeni mahalle"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "80": {
     "id": 80,
     "order": "74.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 491 / 51b-2",
     "grocerist_id": "document__80",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 80,
         "value": "Yovan v. Vasil"
@@ -7758,14 +8770,15 @@
     "mentioned_persons": [],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "81": {
     "id": 81,
     "order": "75.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 494 / 81a-1",
     "grocerist_id": "document__81",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 111,
         "value": "Bakkal Manok v. Agik"
@@ -7800,14 +8813,15 @@
     ],
     "year_of_creation__hicri": "1190",
     "year_of_creation/Miladi": "1776-1777",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "82": {
     "id": 82,
     "order": "76.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.06.d. 495 / 25a-1",
+    "shelfmark": "İSTM.ŞSC.06.d. 495 / 25a-1 (a)",
     "grocerist_id": "document__82",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 112,
         "value": "Bakkal Panayot v. Polinçeron"
@@ -7821,8 +8835,8 @@
     ],
     "neighbourhood": [
       {
-        "id": 52,
-        "value": "Yenimahalle"
+        "id": 83,
+        "value": "Arasta kurbu"
       }
     ],
     "goods": [],
@@ -7847,14 +8861,111 @@
     ],
     "year_of_creation__hicri": "1189",
     "year_of_creation/Miladi": "1775-1776",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "128": {
+    "id": 128,
+    "order": "76.99999999999999999996",
+    "shelfmark": "İSTM.ŞSC.06.d. 495 / 25a-1 (b)",
+    "grocerist_id": "document__128",
+    "main_person": [
+      {
+        "id": 82,
+        "value": "Bakkal Panayot v. Polinçeron"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [
+      {
+        "id": 17,
+        "value": "Kulak"
+      }
+    ],
+    "type_of_ownership": []
+  },
+  "129": {
+    "id": 129,
+    "order": "76.99999999999999999997",
+    "shelfmark": "İSTM.ŞSC.06.d. 495 / 25a-1 (c)",
+    "grocerist_id": "document__129",
+    "main_person": [
+      {
+        "id": 82,
+        "value": "Bakkal Panayot v. Polinçeron"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 15,
+        "value": "Sultan Bayezıd "
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "130": {
+    "id": 130,
+    "order": "76.99999999999999999998",
+    "shelfmark": "İSTM.ŞSC.06.d. 495 / 25a-1 (d)",
+    "grocerist_id": "document__130",
+    "main_person": [
+      {
+        "id": 82,
+        "value": "Bakkal Panayot v. Polinçeron"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [
+      {
+        "id": 18,
+        "value": "Karaca Ahmed Sultan"
+      }
+    ],
+    "type_of_ownership": []
   },
   "83": {
     "id": 83,
     "order": "77.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.06.d.495 / 68a-2",
+    "shelfmark": "İSTM.ŞSC.06.d.495 / 68a-2 (a)",
     "grocerist_id": "document__83",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 113,
         "value": "Bakkal Konstantin v. Horosu"
@@ -7868,8 +8979,8 @@
     ],
     "neighbourhood": [
       {
-        "id": 52,
-        "value": "Yenimahalle"
+        "id": 84,
+        "value": "Selami"
       }
     ],
     "goods": [],
@@ -7904,14 +9015,37 @@
     ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": null,
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "132": {
+    "id": 132,
+    "order": "77.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.06.d.495 / 68a-2 (b)",
+    "grocerist_id": "document__132",
+    "main_person": [],
+    "district": [],
+    "neighbourhood": [
+      {
+        "id": 85,
+        "value": "Dorbalı (Torbalı)"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "84": {
     "id": 84,
     "order": "78.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 501 / 22b-3",
     "grocerist_id": "document__84",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 114,
         "value": "Bakkal Panço v. Dimitri"
@@ -8004,14 +9138,15 @@
         "id": 7,
         "value": "Hünkar"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "85": {
     "id": 85,
     "order": "79.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d.505 / 83a-3",
     "grocerist_id": "document__85",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 85,
         "value": "Bakkal Yani v. Papa Dimitraki"
@@ -8230,14 +9365,15 @@
     ],
     "year_of_creation__hicri": "1194",
     "year_of_creation/Miladi": "1780",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "86": {
     "id": 86,
     "order": "80.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 522 / 21b-4",
     "grocerist_id": "document__86",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 115,
         "value": "Dimitri v. Polizo"
@@ -8253,6 +9389,10 @@
       {
         "id": 59,
         "value": "Hüseyin Ağa"
+      },
+      {
+        "id": 86,
+        "value": "Ağa hamamı mahali"
       }
     ],
     "goods": [
@@ -8347,14 +9487,15 @@
     ],
     "year_of_creation__hicri": "1200",
     "year_of_creation/Miladi": "1785-1786",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "87": {
     "id": 87,
     "order": "81.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 548 / 43a-2",
     "grocerist_id": "document__87",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 116,
         "value": "Bakkal Elhac Hasan Ağa b. Ali"
@@ -8399,601 +9540,15 @@
     ],
     "year_of_creation__hicri": "1213",
     "year_of_creation/Miladi": "1798-1799",
-    "karye": []
-  },
-  "89": {
-    "id": 89,
-    "order": "83.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
-    "grocerist_id": "document__89",
-    "shop_owner": [],
-    "district": [
-      {
-        "id": 16,
-        "value": "Üsküdar"
-      }
-    ],
-    "neighbourhood": [],
-    "goods": [
-      {
-        "id": 1,
-        "value": "Hazelnut"
-      },
-      {
-        "id": 2,
-        "value": "Pistachio"
-      },
-      {
-        "id": 5,
-        "value": "Olive Oil"
-      },
-      {
-        "id": 6,
-        "value": "Ghee, Clarified Butter"
-      },
-      {
-        "id": 9,
-        "value": "Kashkaval"
-      },
-      {
-        "id": 10,
-        "value": "Tulum peyniri"
-      },
-      {
-        "id": 12,
-        "value": "Pea"
-      },
-      {
-        "id": 13,
-        "value": "Chickpea"
-      },
-      {
-        "id": 14,
-        "value": "Lentil"
-      },
-      {
-        "id": 15,
-        "value": "Rice"
-      },
-      {
-        "id": 17,
-        "value": "Beylerce"
-      },
-      {
-        "id": 18,
-        "value": "Razaki"
-      },
-      {
-        "id": 21,
-        "value": "Figs"
-      },
-      {
-        "id": 23,
-        "value": "Molasses"
-      },
-      {
-        "id": 25,
-        "value": "Honey"
-      },
-      {
-        "id": 27,
-        "value": "Starch"
-      },
-      {
-        "id": 28,
-        "value": "Vinegar"
-      },
-      {
-        "id": 29,
-        "value": "Onion"
-      },
-      {
-        "id": 30,
-        "value": "Salt"
-      },
-      {
-        "id": 31,
-        "value": "Garlic"
-      },
-      {
-        "id": 33,
-        "value": "Kefe salt"
-      },
-      {
-        "id": 34,
-        "value": "Olive"
-      },
-      {
-        "id": 36,
-        "value": "Vermicelli"
-      },
-      {
-        "id": 45,
-        "value": "Bulgur"
-      },
-      {
-        "id": 55,
-        "value": "Linseed Oil"
-      },
-      {
-        "id": 61,
-        "value": "Trilye olives"
-      },
-      {
-        "id": 65,
-        "value": "Küfter"
-      },
-      {
-        "id": 108,
-        "value": "Soap"
-      },
-      {
-        "id": 112,
-        "value": "Candle"
-      },
-      {
-        "id": 129,
-        "value": "Çömlek"
-      },
-      {
-        "id": 155,
-        "value": "Broad bean"
-      },
-      {
-        "id": 174,
-        "value": "Turşu yaprağı"
-      },
-      {
-        "id": 181,
-        "value": "Revak asel"
-      },
-      {
-        "id": 184,
-        "value": "Goat cheese"
-      },
-      {
-        "id": 185,
-        "value": "Oleaster"
-      },
-      {
-        "id": 186,
-        "value": "Dried pear"
-      },
-      {
-        "id": 190,
-        "value": "Çorlu kaşkavalı"
-      },
-      {
-        "id": 191,
-        "value": "Edremit siyahı üzüm"
-      },
-      {
-        "id": 206,
-        "value": "Temür hurdası"
-      },
-      {
-        "id": 260,
-        "value": "Demet odunu"
-      },
-      {
-        "id": 262,
-        "value": "Revgan-ı Leh"
-      },
-      {
-        "id": 275,
-        "value": "İzmir siyahı üzüm"
-      }
-    ],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [
-      {
-        "id": 6787,
-        "value": "Wife",
-        "color": "dark-orange"
-      },
-      {
-        "id": 6790,
-        "value": "Mother",
-        "color": "gray"
-      },
-      {
-        "id": 6788,
-        "value": "Son",
-        "color": "light-gray"
-      }
-    ],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
-    "karye": []
-  },
-  "90": {
-    "id": 90,
-    "order": "84.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)",
-    "grocerist_id": "document__90",
-    "shop_owner": [],
-    "district": [
-      {
-        "id": 16,
-        "value": "Üsküdar"
-      }
-    ],
-    "neighbourhood": [
-      {
-        "id": 50,
-        "value": "At Pazarı"
-      }
-    ],
-    "goods": [
-      {
-        "id": 1,
-        "value": "Hazelnut"
-      },
-      {
-        "id": 2,
-        "value": "Pistachio"
-      },
-      {
-        "id": 4,
-        "value": "Walnut"
-      },
-      {
-        "id": 5,
-        "value": "Olive Oil"
-      },
-      {
-        "id": 6,
-        "value": "Ghee, Clarified Butter"
-      },
-      {
-        "id": 10,
-        "value": "Tulum peyniri"
-      },
-      {
-        "id": 13,
-        "value": "Chickpea"
-      },
-      {
-        "id": 14,
-        "value": "Lentil"
-      },
-      {
-        "id": 15,
-        "value": "Rice"
-      },
-      {
-        "id": 17,
-        "value": "Beylerce"
-      },
-      {
-        "id": 18,
-        "value": "Razaki"
-      },
-      {
-        "id": 23,
-        "value": "Molasses"
-      },
-      {
-        "id": 25,
-        "value": "Honey"
-      },
-      {
-        "id": 27,
-        "value": "Starch"
-      },
-      {
-        "id": 28,
-        "value": "Vinegar"
-      },
-      {
-        "id": 29,
-        "value": "Onion"
-      },
-      {
-        "id": 31,
-        "value": "Garlic"
-      },
-      {
-        "id": 33,
-        "value": "Kefe salt"
-      },
-      {
-        "id": 34,
-        "value": "Olive"
-      },
-      {
-        "id": 36,
-        "value": "Vermicelli"
-      },
-      {
-        "id": 41,
-        "value": "Daru"
-      },
-      {
-        "id": 49,
-        "value": "Sausage"
-      },
-      {
-        "id": 53,
-        "value": "Flour"
-      },
-      {
-        "id": 55,
-        "value": "Linseed Oil"
-      },
-      {
-        "id": 57,
-        "value": "Pastrami"
-      },
-      {
-        "id": 59,
-        "value": "Egg"
-      },
-      {
-        "id": 61,
-        "value": "Trilye olives"
-      },
-      {
-        "id": 63,
-        "value": "Sesame Oil"
-      },
-      {
-        "id": 64,
-        "value": "Smashed salt"
-      },
-      {
-        "id": 93,
-        "value": "Gömeç honey"
-      },
-      {
-        "id": 94,
-        "value": "Cornelian cherry"
-      },
-      {
-        "id": 98,
-        "value": "Sarıca fig"
-      },
-      {
-        "id": 108,
-        "value": "Soap"
-      },
-      {
-        "id": 112,
-        "value": "Candle"
-      },
-      {
-        "id": 129,
-        "value": "Çömlek"
-      },
-      {
-        "id": 174,
-        "value": "Turşu yaprağı"
-      },
-      {
-        "id": 184,
-        "value": "Goat cheese"
-      },
-      {
-        "id": 185,
-        "value": "Oleaster"
-      },
-      {
-        "id": 192,
-        "value": "Çakmak tozu"
-      },
-      {
-        "id": 193,
-        "value": "Tahini"
-      },
-      {
-        "id": 202,
-        "value": "Lob fig"
-      },
-      {
-        "id": 206,
-        "value": "Temür hurdası"
-      },
-      {
-        "id": 259,
-        "value": "Leh tuzu"
-      },
-      {
-        "id": 260,
-        "value": "Demet odunu"
-      },
-      {
-        "id": 261,
-        "value": "Leh kaşkavalı"
-      },
-      {
-        "id": 265,
-        "value": "Döğülmüş Leh tuzu"
-      },
-      {
-        "id": 275,
-        "value": "İzmir siyahı üzüm"
-      }
-    ],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [
-      {
-        "id": 6787,
-        "value": "Wife",
-        "color": "dark-orange"
-      },
-      {
-        "id": 6790,
-        "value": "Mother",
-        "color": "gray"
-      },
-      {
-        "id": 6788,
-        "value": "Son",
-        "color": "light-gray"
-      }
-    ],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": null,
-    "karye": []
-  },
-  "91": {
-    "id": 91,
-    "order": "85.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)",
-    "grocerist_id": "document__91",
-    "shop_owner": [
-      {
-        "id": 64,
-        "value": "Yani v. Dimo"
-      }
-    ],
-    "district": [
-      {
-        "id": 16,
-        "value": "Üsküdar"
-      }
-    ],
-    "neighbourhood": [
-      {
-        "id": 48,
-        "value": "Kefere"
-      }
-    ],
-    "goods": [
-      {
-        "id": 1,
-        "value": "Hazelnut"
-      },
-      {
-        "id": 2,
-        "value": "Pistachio"
-      },
-      {
-        "id": 12,
-        "value": "Pea"
-      },
-      {
-        "id": 13,
-        "value": "Chickpea"
-      },
-      {
-        "id": 14,
-        "value": "Lentil"
-      },
-      {
-        "id": 15,
-        "value": "Rice"
-      },
-      {
-        "id": 20,
-        "value": "Siyah"
-      },
-      {
-        "id": 22,
-        "value": "Carob"
-      },
-      {
-        "id": 27,
-        "value": "Starch"
-      },
-      {
-        "id": 28,
-        "value": "Vinegar"
-      },
-      {
-        "id": 29,
-        "value": "Onion"
-      },
-      {
-        "id": 30,
-        "value": "Salt"
-      },
-      {
-        "id": 33,
-        "value": "Kefe salt"
-      },
-      {
-        "id": 36,
-        "value": "Vermicelli"
-      },
-      {
-        "id": 63,
-        "value": "Sesame Oil"
-      },
-      {
-        "id": 89,
-        "value": "Çorlu cheese"
-      },
-      {
-        "id": 108,
-        "value": "Soap"
-      },
-      {
-        "id": 121,
-        "value": "Jug"
-      },
-      {
-        "id": 122,
-        "value": "Mug"
-      },
-      {
-        "id": 129,
-        "value": "Çömlek"
-      },
-      {
-        "id": 130,
-        "value": "Jar"
-      },
-      {
-        "id": 155,
-        "value": "Broad bean"
-      },
-      {
-        "id": 175,
-        "value": "Chestnut"
-      },
-      {
-        "id": 176,
-        "value": "Aniseed"
-      },
-      {
-        "id": 177,
-        "value": "Roasted chickpea"
-      },
-      {
-        "id": 178,
-        "value": "Zeytin yağı tulumu"
-      },
-      {
-        "id": 179,
-        "value": "Lemon juice"
-      },
-      {
-        "id": 206,
-        "value": "Temür hurdası"
-      }
-    ],
-    "longtitude": null,
-    "latitude": null,
-    "mentioned_persons": [
-      {
-        "id": 9929,
-        "value": "Kayyım",
-        "color": "blue"
-      }
-    ],
-    "year_of_creation__hicri": null,
-    "year_of_creation/Miladi": "",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "92": {
     "id": 92,
     "order": "86.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 134/ 95a-1",
     "grocerist_id": "document__92",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 88,
         "value": "Bakkal Ahmed Beşe b. Abdullah"
@@ -9017,14 +9572,15 @@
     "mentioned_persons": [],
     "year_of_creation__hicri": "1128",
     "year_of_creation/Miladi": "1715-1716",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "93": {
     "id": 93,
     "order": "87.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.15.d. 164 / 8b-1",
+    "shelfmark": "İSTM.ŞSC.15.d. 164 / 8b-1 (a)",
     "grocerist_id": "document__93",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 97,
         "value": "İşrapo v. Yani"
@@ -9032,11 +9588,16 @@
     ],
     "district": [
       {
-        "id": 19,
-        "value": "Eyüp"
+        "id": 21,
+        "value": "İstanbul"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 87,
+        "value": "Balat Kapısı"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
@@ -9059,19 +9620,79 @@
     ],
     "year_of_creation__hicri": "1149",
     "year_of_creation/Miladi": "1736-1737",
-    "karye": [
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "133": {
+    "id": 133,
+    "order": "87.99999999999999999998",
+    "shelfmark": "İSTM.ŞSC.15.d. 164 / 8b-1 (b)",
+    "grocerist_id": "document__133",
+    "main_person": [
       {
-        "id": 10,
-        "value": "Küçük"
+        "id": 97,
+        "value": "İşrapo v. Yani"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 21,
+        "value": "İstanbul"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 88,
+        "value": "Kiremit"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "134": {
+    "id": 134,
+    "order": "87.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.15.d. 164 / 8b-1 (c)",
+    "grocerist_id": "document__134",
+    "main_person": [
+      {
+        "id": 97,
+        "value": "İşrapo v. Yani"
+      }
+    ],
+    "district": [
+      {
+        "id": 21,
+        "value": "İstanbul"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 91,
+        "value": "Lonca"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "94": {
     "id": 94,
     "order": "88.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.15.d. 170 / 111b-3",
+    "shelfmark": "İSTM.ŞSC.15.d. 170 / 111b-3 (a)",
     "grocerist_id": "document__94",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 98,
         "value": "Bakkal Pavlo v. Dimitri"
@@ -9111,14 +9732,46 @@
         "id": 11,
         "value": "Ayastefanos"
       }
-    ]
+    ],
+    "type_of_ownership": []
+  },
+  "135": {
+    "id": 135,
+    "order": "88.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.15.d. 170 / 111b-3 (b)",
+    "grocerist_id": "document__135",
+    "main_person": [
+      {
+        "id": 98,
+        "value": "Bakkal Pavlo v. Dimitri"
+      }
+    ],
+    "district": [
+      {
+        "id": 21,
+        "value": "İstanbul"
+      },
+      {
+        "id": 22,
+        "value": "Yedikule harici"
+      }
+    ],
+    "neighbourhood": [],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "95": {
     "id": 95,
     "order": "89.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.15.d. 173 / 71a-2,72",
+    "shelfmark": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)",
     "grocerist_id": "document__95",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 99,
         "value": "Yorgi v. Franko"
@@ -9289,14 +9942,42 @@
     ],
     "year_of_creation__hicri": "1157",
     "year_of_creation/Miladi": "1744-1745",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "136": {
+    "id": 136,
+    "order": "89.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)",
+    "grocerist_id": "document__136",
+    "main_person": [
+      {
+        "id": 99,
+        "value": "Yorgi v. Franko"
+      }
+    ],
+    "district": [],
+    "neighbourhood": [
+      {
+        "id": 18,
+        "value": "Elhac Hüsrev"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "96": {
     "id": 96,
     "order": "90.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 174 / 41a-2",
     "grocerist_id": "document__96",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 100,
         "value": "Bakkal Dimitri v. Hristo"
@@ -9344,14 +10025,15 @@
     ],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": "",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "97": {
     "id": 97,
     "order": "91.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.15.d. 194 / 10b-1",
+    "shelfmark": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)",
     "grocerist_id": "document__97",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 101,
         "value": "Bakkal Yorgi"
@@ -9502,18 +10184,60 @@
     ],
     "year_of_creation__hicri": "1168",
     "year_of_creation/Miladi": "1754-1755",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "137": {
+    "id": 137,
+    "order": "91.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.15.d. 194 / 10b-1 (b)",
+    "grocerist_id": "document__137",
+    "main_person": [
+      {
+        "id": 101,
+        "value": "Bakkal Yorgi"
+      }
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 69,
+        "value": "Otakçı"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "98": {
     "id": 98,
     "order": "92.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 196 / 15a-2",
     "grocerist_id": "document__98",
-    "shop_owner": [],
+    "main_person": [
+      {
+        "id": 119,
+        "value": "Bakkal Radovuz veled-i Yovan"
+      }
+    ],
     "district": [
       {
-        "id": 19,
-        "value": "Eyüp"
+        "id": 21,
+        "value": "İstanbul"
+      },
+      {
+        "id": 22,
+        "value": "Yedikule harici"
       }
     ],
     "neighbourhood": [],
@@ -9529,14 +10253,15 @@
     ],
     "year_of_creation__hicri": "1170",
     "year_of_creation/Miladi": "1756-1757",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "100": {
     "id": 100,
     "order": "94.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 205 / 51a-2",
     "grocerist_id": "document__100",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 102,
         "value": "Bakkal Yani v. Aleksi"
@@ -9600,14 +10325,15 @@
         "id": 10,
         "value": "Küçük"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "101": {
     "id": 101,
     "order": "95.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.15.d. 216 / 42a-1",
+    "shelfmark": "İSTM.ŞSC.15.d. 216 / 42a-1 (a)",
     "grocerist_id": "document__101",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 103,
         "value": "Bakkal Dimo v. Yorgi"
@@ -9647,14 +10373,42 @@
     ],
     "year_of_creation__hicri": "1183",
     "year_of_creation/Miladi": "1769-1770",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "138": {
+    "id": 138,
+    "order": "95.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.15.d. 216 / 42a-1 (b)",
+    "grocerist_id": "document__138",
+    "main_person": [
+      {
+        "id": 103,
+        "value": "Bakkal Dimo v. Yorgi"
+      }
+    ],
+    "district": [
+      {
+        "id": 24,
+        "value": "Topkapı"
+      }
+    ],
+    "neighbourhood": [],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "102": {
     "id": 102,
     "order": "96.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 230 / 69a-1",
     "grocerist_id": "document__102",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 104,
         "value": "Tanaş v. Niko"
@@ -9761,14 +10515,15 @@
         "id": 12,
         "value": "Terkos"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "104": {
     "id": 104,
     "order": "98.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 243 / 51a-1",
     "grocerist_id": "document__104",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 105,
         "value": "Yorgi"
@@ -9915,14 +10670,15 @@
         "id": 13,
         "value": "Alibey"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "105": {
     "id": 105,
     "order": "99.00000000000000000000",
-    "shelfmark": "İSTM.ŞSC.15.d. 254 / 8a-2",
+    "shelfmark": "İSTM.ŞSC.15.d. 254 / 8a-2 (a)",
     "grocerist_id": "document__105",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 106,
         "value": "Bakkal Ali Ağa b. Hasan"
@@ -9962,14 +10718,47 @@
     ],
     "year_of_creation__hicri": "1178",
     "year_of_creation/Miladi": "1764-1765",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
+  },
+  "139": {
+    "id": 139,
+    "order": "99.99999999999999999999",
+    "shelfmark": "İSTM.ŞSC.15.d. 254 / 8a-2 (b)",
+    "grocerist_id": "document__139",
+    "main_person": [
+      {
+        "id": 106,
+        "value": "Bakkal Ali Ağa b. Hasan"
+      }
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 31,
+        "value": "Camii Kebir"
+      }
+    ],
+    "goods": [],
+    "longtitude": null,
+    "latitude": null,
+    "mentioned_persons": [],
+    "year_of_creation__hicri": null,
+    "year_of_creation/Miladi": "",
+    "karye": [],
+    "type_of_ownership": []
   },
   "106": {
     "id": 106,
     "order": "100.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 272 / 27b-1",
     "grocerist_id": "document__106",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 107,
         "value": "Bakkal Esseyid Süleyman Beşe b. Esseyid Mehmed"
@@ -10166,14 +10955,15 @@
         "id": 14,
         "value": "Makrahorya"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "107": {
     "id": 107,
     "order": "101.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.15.d. 275 / 99b-1",
     "grocerist_id": "document__107",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 108,
         "value": "Bakkal Esper v. Todori"
@@ -10257,14 +11047,15 @@
         "id": 10,
         "value": "Küçük"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "109": {
     "id": 109,
     "order": "102.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 566/92b-1",
     "grocerist_id": "document__109",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 92,
         "value": "Bakkal Yani v. [ ]"
@@ -10353,14 +11144,15 @@
     "mentioned_persons": [],
     "year_of_creation__hicri": "1227",
     "year_of_creation/Miladi": "1812-1813",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "110": {
     "id": 110,
     "order": "103.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 574/51b-1",
     "grocerist_id": "document__110",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 93,
         "value": "Bakkal Kristo"
@@ -10421,14 +11213,15 @@
         "id": 8,
         "value": "Nerdübanlı"
       }
-    ]
+    ],
+    "type_of_ownership": []
   },
   "111": {
     "id": 111,
     "order": "104.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 577/43b-1",
     "grocerist_id": "document__111",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 94,
         "value": "Yani v. Yorgi"
@@ -10504,14 +11297,15 @@
     "mentioned_persons": [],
     "year_of_creation__hicri": "1227",
     "year_of_creation/Miladi": "1812-1813",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "112": {
     "id": 112,
     "order": "105.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 578/53b-1",
     "grocerist_id": "document__112",
-    "shop_owner": [
+    "main_person": [
       {
         "id": 95,
         "value": "Karli v. Serafim"
@@ -10619,14 +11413,15 @@
     "mentioned_persons": [],
     "year_of_creation__hicri": "1228",
     "year_of_creation/Miladi": "1813",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   },
   "113": {
     "id": 113,
     "order": "106.00000000000000000000",
     "shelfmark": "İSTM.ŞSC.06.d. 584/30a-1",
     "grocerist_id": "document__113",
-    "shop_owner": [],
+    "main_person": [],
     "district": [
       {
         "id": 16,
@@ -10640,6 +11435,7 @@
     "mentioned_persons": [],
     "year_of_creation__hicri": null,
     "year_of_creation/Miladi": "",
-    "karye": []
+    "karye": [],
+    "type_of_ownership": []
   }
 }

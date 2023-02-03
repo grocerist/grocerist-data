@@ -19,10 +19,6 @@
         "value": "İSTM.ŞSC.14.d. 189 / 5a-3, 6"
       },
       {
-        "id": 4,
-        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
-      },
-      {
         "id": 5,
         "value": "İSTM.ŞSC.14.d.196 / 21b-1"
       },
@@ -49,6 +45,10 @@
       {
         "id": 12,
         "value": "İSTM.ŞSC.14.d.237 / 16a-1"
+      },
+      {
+        "id": 13,
+        "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
       },
       {
         "id": 15,
@@ -156,7 +156,11 @@
       },
       {
         "id": 49,
-        "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
+        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
+      },
+      {
+        "id": 117,
+        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
       },
       {
         "id": 51,
@@ -173,6 +177,168 @@
       {
         "id": 62,
         "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
+      },
+      {
+        "id": 116,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)"
+      }
+    ],
+    "persons": [
+      {
+        "id": 2,
+        "value": "Bakkal Filibi v. Yorgi"
+      },
+      {
+        "id": 3,
+        "value": "Bakkal Mustafa Beşe b. Osman"
+      },
+      {
+        "id": 5,
+        "value": "Yani v. Yorgi"
+      },
+      {
+        "id": 7,
+        "value": "Bakkal Dimitri v. Yorgi"
+      },
+      {
+        "id": 8,
+        "value": "Dimo v. Lanbo"
+      },
+      {
+        "id": 9,
+        "value": "Mustafa Beşe b. Abdullah"
+      },
+      {
+        "id": 10,
+        "value": "Yorgi v. Dimitri"
+      },
+      {
+        "id": 11,
+        "value": "Yorgi v. Hristo"
+      },
+      {
+        "id": 12,
+        "value": "Bakkal Dimitri v. Hristo"
+      },
+      {
+        "id": 15,
+        "value": "Hristo v. Yorgi"
+      },
+      {
+        "id": 16,
+        "value": "Bakkal Ali Beşe b. Mehmed"
+      },
+      {
+        "id": 17,
+        "value": "Bakkal Elhac Ahmed b. Resul"
+      },
+      {
+        "id": 19,
+        "value": "Astavor v. Yako"
+      },
+      {
+        "id": 20,
+        "value": "Bakkal Yanaki v. Yani"
+      },
+      {
+        "id": 21,
+        "value": "Bakkal Lefter v. Dimitri"
+      },
+      {
+        "id": 22,
+        "value": "Pereşkova"
+      },
+      {
+        "id": 23,
+        "value": "Bakkal Todori v. Dimo"
+      },
+      {
+        "id": 26,
+        "value": "Bakkal Astavor"
+      },
+      {
+        "id": 27,
+        "value": "Bakkal Nikola v. Dimitri"
+      },
+      {
+        "id": 28,
+        "value": "Bakkal Molla Hasan b. Abdullah"
+      },
+      {
+        "id": 29,
+        "value": "Nikola veled-i Ulaş"
+      },
+      {
+        "id": 30,
+        "value": "Bakkal Mustafa b. Abdullah"
+      },
+      {
+        "id": 31,
+        "value": "Kosta ve Dimitri v. Nikola"
+      },
+      {
+        "id": 33,
+        "value": "Yorgaki v. Manol"
+      },
+      {
+        "id": 34,
+        "value": "Bakkal Hasan Beşe b. Ali"
+      },
+      {
+        "id": 35,
+        "value": "Bakkal Simal v. Nikola"
+      },
+      {
+        "id": 36,
+        "value": "Bakkal Ahmed Beşe b. Hasan"
+      },
+      {
+        "id": 37,
+        "value": "Bakkal Todori"
+      },
+      {
+        "id": 38,
+        "value": "Bakkal Bafi v. Tanaş"
+      },
+      {
+        "id": 39,
+        "value": "Bakkal Totoş"
+      },
+      {
+        "id": 41,
+        "value": "Bakkal Astati v. Yani"
+      },
+      {
+        "id": 44,
+        "value": "Bakkal Tanaş veled-i  Hristo"
+      },
+      {
+        "id": 45,
+        "value": "Bakkal Mehmed Beşe b. Salih"
+      },
+      {
+        "id": 47,
+        "value": "Yenişehirli Dimitri v. Nikola"
+      },
+      {
+        "id": 48,
+        "value": "Bakkal Elhac Osman b. Halil"
+      },
+      {
+        "id": 49,
+        "value": "Bakkal Trandafil v. Yori"
+      },
+      {
+        "id": 51,
+        "value": "Tanaş"
+      },
+      {
+        "id": 52,
+        "value": "Bakkal Yorgi v. Kirikor"
+      },
+      {
+        "id": 118,
+        "value": "Elhac Osman b. İbrahim"
       }
     ]
   },
@@ -194,6 +360,12 @@
       {
         "id": 18,
         "value": "İSTM.ŞSC.14.d.249 / 9b-2"
+      }
+    ],
+    "persons": [
+      {
+        "id": 1,
+        "value": "Bakkal Hasan Beşe b. Abdullah"
       }
     ]
   },
@@ -222,12 +394,12 @@
     "comments": null,
     "documents": [
       {
-        "id": 6,
-        "value": "İSTM.ŞSC.14.d.212/ 29a-1"
+        "id": 4,
+        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
       },
       {
-        "id": 13,
-        "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
+        "id": 6,
+        "value": "İSTM.ŞSC.14.d.212/ 29a-1"
       },
       {
         "id": 14,
@@ -264,6 +436,48 @@
       {
         "id": 60,
         "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
+      },
+      {
+        "id": 115,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)"
+      }
+    ],
+    "persons": [
+      {
+        "id": 4,
+        "value": "Yorgi v. Dimitri"
+      },
+      {
+        "id": 6,
+        "value": "Bakkal Yorgi"
+      },
+      {
+        "id": 13,
+        "value": "Bakkāl Hristodaki v. Polhoron"
+      },
+      {
+        "id": 14,
+        "value": "Bakkal Kiro v. Yani"
+      },
+      {
+        "id": 24,
+        "value": "Yani v. Panayot"
+      },
+      {
+        "id": 25,
+        "value": "Bakkal Aslan v. Bedros"
+      },
+      {
+        "id": 32,
+        "value": "Dimitri v. Todori"
+      },
+      {
+        "id": 42,
+        "value": "Panayot v. Petro"
+      },
+      {
+        "id": 43,
+        "value": "Bakkal Yani v.  Andon"
       }
     ]
   },
@@ -295,10 +509,6 @@
         "value": "İSTM.ŞSC.14.d.275 / 76b-1"
       },
       {
-        "id": 34,
-        "value": "İSTM.ŞSC.14.d. 342/ 60a-1"
-      },
-      {
         "id": 47,
         "value": "İSTM.ŞSC.14.d.441 / 55b-3"
       },
@@ -308,7 +518,45 @@
       },
       {
         "id": 49,
-        "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
+        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
+      },
+      {
+        "id": 117,
+        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
+      }
+    ],
+    "persons": [
+      {
+        "id": 4,
+        "value": "Yorgi v. Dimitri"
+      },
+      {
+        "id": 16,
+        "value": "Bakkal Ali Beşe b. Mehmed"
+      },
+      {
+        "id": 20,
+        "value": "Bakkal Yanaki v. Yani"
+      },
+      {
+        "id": 27,
+        "value": "Bakkal Nikola v. Dimitri"
+      },
+      {
+        "id": 34,
+        "value": "Bakkal Hasan Beşe b. Ali"
+      },
+      {
+        "id": 47,
+        "value": "Yenişehirli Dimitri v. Nikola"
+      },
+      {
+        "id": 48,
+        "value": "Bakkal Elhac Osman b. Halil"
+      },
+      {
+        "id": 49,
+        "value": "Bakkal Trandafil v. Yori"
       }
     ]
   },
@@ -328,8 +576,22 @@
         "value": "İSTM.ŞSC.14.d.212/ 74b-1"
       },
       {
+        "id": 13,
+        "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
+      },
+      {
         "id": 17,
         "value": "İSTM.ŞSC.14.d. 241/ 18b-1"
+      }
+    ],
+    "persons": [
+      {
+        "id": 8,
+        "value": "Dimo v. Lanbo"
+      },
+      {
+        "id": 17,
+        "value": "Bakkal Elhac Ahmed b. Resul"
       }
     ]
   },
@@ -369,6 +631,28 @@
         "id": 51,
         "value": "İSTM.ŞSC.14.d. 507/20b-2"
       }
+    ],
+    "persons": [
+      {
+        "id": 23,
+        "value": "Bakkal Todori v. Dimo"
+      },
+      {
+        "id": 33,
+        "value": "Yorgaki v. Manol"
+      },
+      {
+        "id": 37,
+        "value": "Bakkal Todori"
+      },
+      {
+        "id": 41,
+        "value": "Bakkal Astati v. Yani"
+      },
+      {
+        "id": 51,
+        "value": "Tanaş"
+      }
     ]
   },
   "3": {
@@ -390,6 +674,16 @@
         "id": 45,
         "value": "İSTM.ŞSC.14.d.433 / 74b-2"
       }
+    ],
+    "persons": [
+      {
+        "id": 19,
+        "value": "Astavor v. Yako"
+      },
+      {
+        "id": 45,
+        "value": "Bakkal Mehmed Beşe b. Salih"
+      }
     ]
   },
   "15": {
@@ -406,6 +700,16 @@
       {
         "id": 29,
         "value": "İSTM.ŞSC.14.d.289 / 6b-2"
+      }
+    ],
+    "persons": [
+      {
+        "id": 22,
+        "value": "Pereşkova"
+      },
+      {
+        "id": 29,
+        "value": "Nikola veled-i Ulaş"
       }
     ]
   },
@@ -473,6 +777,44 @@
         "id": 52,
         "value": "İSTM.ŞSC.14.d.528 / 83b-2"
       }
+    ],
+    "persons": [
+      {
+        "id": 2,
+        "value": "Bakkal Filibi v. Yorgi"
+      },
+      {
+        "id": 3,
+        "value": "Bakkal Mustafa Beşe b. Osman"
+      },
+      {
+        "id": 11,
+        "value": "Yorgi v. Hristo"
+      },
+      {
+        "id": 28,
+        "value": "Bakkal Molla Hasan b. Abdullah"
+      },
+      {
+        "id": 35,
+        "value": "Bakkal Simal v. Nikola"
+      },
+      {
+        "id": 38,
+        "value": "Bakkal Bafi v. Tanaş"
+      },
+      {
+        "id": 39,
+        "value": "Bakkal Totoş"
+      },
+      {
+        "id": 44,
+        "value": "Bakkal Tanaş veled-i  Hristo"
+      },
+      {
+        "id": 52,
+        "value": "Bakkal Yorgi v. Kirikor"
+      }
     ]
   },
   "9": {
@@ -485,7 +827,8 @@
     "neighbourhood": [],
     "neighbourhoods": [],
     "comments": "Former neighbourhood became a district in the 19th century.",
-    "documents": []
+    "documents": [],
+    "persons": []
   },
   "1": {
     "id": 1,
@@ -501,6 +844,12 @@
       {
         "id": 5,
         "value": "İSTM.ŞSC.14.d.196 / 21b-1"
+      }
+    ],
+    "persons": [
+      {
+        "id": 5,
+        "value": "Yani v. Yorgi"
       }
     ]
   },
@@ -519,6 +868,12 @@
         "id": 9,
         "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60"
       }
+    ],
+    "persons": [
+      {
+        "id": 9,
+        "value": "Mustafa Beşe b. Abdullah"
+      }
     ]
   },
   "14": {
@@ -531,7 +886,22 @@
     "neighbourhood": [],
     "neighbourhoods": [],
     "comments": "",
-    "documents": []
+    "documents": [
+      {
+        "id": 12,
+        "value": "İSTM.ŞSC.14.d.237 / 16a-1"
+      },
+      {
+        "id": 34,
+        "value": "İSTM.ŞSC.14.d. 342/ 60a-1"
+      }
+    ],
+    "persons": [
+      {
+        "id": 26,
+        "value": "Bakkal Astavor"
+      }
+    ]
   },
   "16": {
     "id": 16,
@@ -554,8 +924,20 @@
         "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
       },
       {
+        "id": 91,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+      },
+      {
         "id": 65,
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 89,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
+      },
+      {
+        "id": 90,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
       },
       {
         "id": 66,
@@ -567,7 +949,15 @@
       },
       {
         "id": 68,
-        "value": "İSTM.ŞSC.06.d. 359 / 27a-1"
+        "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (a)"
+      },
+      {
+        "id": 119,
+        "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (b)"
+      },
+      {
+        "id": 120,
+        "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (c)"
       },
       {
         "id": 69,
@@ -591,11 +981,23 @@
       },
       {
         "id": 74,
-        "value": "İSTM.ŞSC.06.d. 442 / 20a-2"
+        "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (a)"
+      },
+      {
+        "id": 122,
+        "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (b)"
       },
       {
         "id": 75,
-        "value": "İSTM.ŞSC.06.d. 443 / 11a-1"
+        "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (a)"
+      },
+      {
+        "id": 123,
+        "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (b)"
+      },
+      {
+        "id": 124,
+        "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (c)"
       },
       {
         "id": 76,
@@ -611,7 +1013,19 @@
       },
       {
         "id": 79,
-        "value": "İSTM.ŞSC.06.d. 490 / 74a-2"
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (a)"
+      },
+      {
+        "id": 125,
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (b)"
+      },
+      {
+        "id": 126,
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (c)"
+      },
+      {
+        "id": 127,
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (d)"
       },
       {
         "id": 80,
@@ -623,11 +1037,23 @@
       },
       {
         "id": 82,
-        "value": "İSTM.ŞSC.06.d. 495 / 25a-1"
+        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (a)"
+      },
+      {
+        "id": 128,
+        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (b)"
+      },
+      {
+        "id": 129,
+        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (c)"
+      },
+      {
+        "id": 130,
+        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (d)"
       },
       {
         "id": 83,
-        "value": "İSTM.ŞSC.06.d.495 / 68a-2"
+        "value": "İSTM.ŞSC.06.d.495 / 68a-2 (a)"
       },
       {
         "id": 84,
@@ -644,18 +1070,6 @@
       {
         "id": 87,
         "value": "İSTM.ŞSC.06.d. 548 / 43a-2"
-      },
-      {
-        "id": 89,
-        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
-      },
-      {
-        "id": 90,
-        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
-      },
-      {
-        "id": 91,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
       },
       {
         "id": 109,
@@ -677,6 +1091,132 @@
         "id": 113,
         "value": "İSTM.ŞSC.06.d. 584/30a-1"
       }
+    ],
+    "persons": [
+      {
+        "id": 65,
+        "value": "Bakkāl Rizo v. Aleksan"
+      },
+      {
+        "id": 66,
+        "value": "Bakkal Kristic v. Mihal"
+      },
+      {
+        "id": 67,
+        "value": "Asteryo v. Yorgi"
+      },
+      {
+        "id": 68,
+        "value": "Bakkal Dimitri v. Yorgi"
+      },
+      {
+        "id": 69,
+        "value": "Bakkal Ali b. Abdullah"
+      },
+      {
+        "id": 70,
+        "value": "Tanaş v. Dimitri"
+      },
+      {
+        "id": 71,
+        "value": "Bakkal suhte Ömer"
+      },
+      {
+        "id": 72,
+        "value": "Bakkal Kosta v. Piyo"
+      },
+      {
+        "id": 73,
+        "value": "Bakkal Panayot"
+      },
+      {
+        "id": 74,
+        "value": "Elhac Mahmud Ağa b. Hasan"
+      },
+      {
+        "id": 75,
+        "value": "Bakkal Konstantin v. Hristodoli"
+      },
+      {
+        "id": 76,
+        "value": "Vasil v. Dimitri"
+      },
+      {
+        "id": 77,
+        "value": "Yorgi v. Andon"
+      },
+      {
+        "id": 78,
+        "value": "Esseyid Mustafa b. Ahmed"
+      },
+      {
+        "id": 79,
+        "value": "Bakkal Manol v. Dimitri"
+      },
+      {
+        "id": 80,
+        "value": "Yovan v. Vasil"
+      },
+      {
+        "id": 81,
+        "value": "Bakkal Manok"
+      },
+      {
+        "id": 82,
+        "value": "Bakkal Panayot v. Polinçeron"
+      },
+      {
+        "id": 83,
+        "value": "Bakkal Konstantin v. Horosu"
+      },
+      {
+        "id": 84,
+        "value": "Bakkal Panko"
+      },
+      {
+        "id": 85,
+        "value": "Bakkal Yani v. Papa Dimitraki"
+      },
+      {
+        "id": 86,
+        "value": "Dimitri v. Polizo"
+      },
+      {
+        "id": 87,
+        "value": "Bakkal Elhac Hasan"
+      },
+      {
+        "id": 109,
+        "value": "Bakkal Kosta v. Piyo"
+      },
+      {
+        "id": 110,
+        "value": "Bakkal Panayot v. İsteradik"
+      },
+      {
+        "id": 111,
+        "value": "Bakkal Manok v. Agik"
+      },
+      {
+        "id": 112,
+        "value": "Bakkal Panayot v. Polinçeron"
+      },
+      {
+        "id": 113,
+        "value": "Bakkal Konstantin v. Horosu"
+      },
+      {
+        "id": 114,
+        "value": "Bakkal Panço v. Dimitri"
+      },
+      {
+        "id": 115,
+        "value": "Dimitri v. Polizo"
+      },
+      {
+        "id": 116,
+        "value": "Bakkal Elhac Hasan Ağa b. Ali"
+      }
     ]
   },
   "17": {
@@ -694,6 +1234,12 @@
         "id": 71,
         "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
       }
+    ],
+    "persons": [
+      {
+        "id": 71,
+        "value": "Bakkal suhte Ömer"
+      }
     ]
   },
   "18": {
@@ -706,7 +1252,8 @@
     "neighbourhood": [],
     "neighbourhoods": [],
     "comments": "",
-    "documents": []
+    "documents": [],
+    "persons": []
   },
   "19": {
     "id": 19,
@@ -724,16 +1271,12 @@
         "value": "İSTM.ŞSC.15.d. 134/ 95a-1"
       },
       {
-        "id": 93,
-        "value": "İSTM.ŞSC.15.d. 164 / 8b-1"
-      },
-      {
         "id": 94,
-        "value": "İSTM.ŞSC.15.d. 170 / 111b-3"
+        "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (a)"
       },
       {
         "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
       },
       {
         "id": 96,
@@ -741,11 +1284,11 @@
       },
       {
         "id": 97,
-        "value": "İSTM.ŞSC.15.d. 194 / 10b-1"
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
       },
       {
-        "id": 98,
-        "value": "İSTM.ŞSC.15.d. 196 / 15a-2"
+        "id": 137,
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (b)"
       },
       {
         "id": 100,
@@ -753,7 +1296,7 @@
       },
       {
         "id": 101,
-        "value": "İSTM.ŞSC.15.d. 216 / 42a-1"
+        "value": "İSTM.ŞSC.15.d. 216 / 42a-1 (a)"
       },
       {
         "id": 102,
@@ -765,7 +1308,11 @@
       },
       {
         "id": 105,
-        "value": "İSTM.ŞSC.15.d. 254 / 8a-2"
+        "value": "İSTM.ŞSC.15.d. 254 / 8a-2 (a)"
+      },
+      {
+        "id": 139,
+        "value": "İSTM.ŞSC.15.d. 254 / 8a-2 (b)"
       },
       {
         "id": 106,
@@ -774,6 +1321,60 @@
       {
         "id": 107,
         "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
+      }
+    ],
+    "persons": [
+      {
+        "id": 88,
+        "value": "Bakkal Ahmed Beşe b. Abdullah"
+      },
+      {
+        "id": 97,
+        "value": "İşrapo v. Yani"
+      },
+      {
+        "id": 98,
+        "value": "Bakkal Pavlo v. Dimitri"
+      },
+      {
+        "id": 99,
+        "value": "Yorgi v. Franko"
+      },
+      {
+        "id": 100,
+        "value": "Bakkal Dimitri v. Hristo"
+      },
+      {
+        "id": 101,
+        "value": "Bakkal Yorgi"
+      },
+      {
+        "id": 102,
+        "value": "Bakkal Yani v. Aleksi"
+      },
+      {
+        "id": 103,
+        "value": "Bakkal Dimo v. Yorgi"
+      },
+      {
+        "id": 104,
+        "value": "Tanaş v. Niko"
+      },
+      {
+        "id": 105,
+        "value": "Yorgi"
+      },
+      {
+        "id": 106,
+        "value": "Bakkal Ali Ağa b. Hasan"
+      },
+      {
+        "id": 107,
+        "value": "Bakkal Esseyid Süleyman Beşe b. Esseyid Mehmed"
+      },
+      {
+        "id": 108,
+        "value": "Bakkal Esper v. Todori"
       }
     ]
   },
@@ -792,6 +1393,109 @@
         "id": 96,
         "value": "İSTM.ŞSC.15.d. 174 / 41a-2"
       }
+    ],
+    "persons": [
+      {
+        "id": 100,
+        "value": "Bakkal Dimitri v. Hristo"
+      }
     ]
+  },
+  "21": {
+    "id": 21,
+    "order": "20.00000000000000000000",
+    "name": "İstanbul",
+    "grocerist_id": "district__21",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": "",
+    "documents": [
+      {
+        "id": 93,
+        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (a)"
+      },
+      {
+        "id": 133,
+        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (b)"
+      },
+      {
+        "id": 134,
+        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (c)"
+      },
+      {
+        "id": 135,
+        "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (b)"
+      },
+      {
+        "id": 98,
+        "value": "İSTM.ŞSC.15.d. 196 / 15a-2"
+      }
+    ],
+    "persons": [
+      {
+        "id": 119,
+        "value": "Bakkal Radovuz veled-i Yovan"
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "order": "21.00000000000000000000",
+    "name": "Yedikule harici",
+    "grocerist_id": "district__22",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": "",
+    "documents": [
+      {
+        "id": 135,
+        "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (b)"
+      },
+      {
+        "id": 98,
+        "value": "İSTM.ŞSC.15.d. 196 / 15a-2"
+      }
+    ],
+    "persons": [
+      {
+        "id": 119,
+        "value": "Bakkal Radovuz veled-i Yovan"
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "order": "22.00000000000000000000",
+    "name": "Yedikule",
+    "grocerist_id": "district__23",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": "",
+    "documents": [],
+    "persons": []
+  },
+  "24": {
+    "id": 24,
+    "order": "23.00000000000000000000",
+    "name": "Topkapı",
+    "grocerist_id": "district__24",
+    "geonames_id": "",
+    "wikidata_id": "",
+    "neighbourhood": [],
+    "neighbourhoods": [],
+    "comments": "",
+    "documents": [
+      {
+        "id": 138,
+        "value": "İSTM.ŞSC.15.d. 216 / 42a-1 (b)"
+      }
+    ],
+    "persons": []
   }
 }

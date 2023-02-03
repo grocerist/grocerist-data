@@ -2,7 +2,7 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "name": "Bakkal Hasan Beşe",
+    "name": "Bakkal Hasan Beşe b. Abdullah",
     "grocerist_id": "person__1",
     "religion": [
       {
@@ -16,7 +16,20 @@
         "id": 1,
         "value": "İSTM.ŞSC.14.d.173 / 9b-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 10,
+        "value": "Galata Dahili"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 6,
+        "value": "Şehsuvar"
+      }
+    ],
+    "karye": []
   },
   "2": {
     "id": 2,
@@ -40,7 +53,24 @@
         "id": 2,
         "value": "İSTM.ŞSC.14.d.177 / 34b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 29,
+        "value": "Yeniköy"
+      }
+    ],
+    "karye": []
   },
   "3": {
     "id": 3,
@@ -59,7 +89,24 @@
         "id": 3,
         "value": "İSTM.ŞSC.14.d. 189 / 5a-3, 6"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 21,
+        "value": "Kale-i Boğazköy"
+      }
+    ],
+    "karye": []
   },
   "4": {
     "id": 4,
@@ -83,7 +130,24 @@
         "id": 4,
         "value": "İSTM.ŞSC.14.d.196 / 19b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      },
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 31,
+        "value": "Camii Kebir"
+      }
+    ],
+    "karye": []
   },
   "5": {
     "id": 5,
@@ -107,7 +171,24 @@
         "id": 5,
         "value": "İSTM.ŞSC.14.d.196 / 21b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 1,
+        "value": "Azapkapısı Harici"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 8,
+        "value": "Mehmed Paşa Camii Şerifi karyesi "
+      }
+    ],
+    "karye": []
   },
   "6": {
     "id": 6,
@@ -131,7 +212,20 @@
         "id": 6,
         "value": "İSTM.ŞSC.14.d.212/ 29a-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 9,
+        "value": "Hasan Ağa "
+      }
+    ],
+    "karye": []
   },
   "7": {
     "id": 7,
@@ -155,7 +249,20 @@
         "id": 7,
         "value": "İSTM.ŞSC.14.d.212/ 34b-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 15,
+        "value": "Sultan Bayezıd "
+      }
+    ],
+    "karye": []
   },
   "8": {
     "id": 8,
@@ -179,7 +286,19 @@
         "id": 8,
         "value": "İSTM.ŞSC.14.d.212/ 74b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 7,
+        "value": "Tophane"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": []
   },
   "9": {
     "id": 9,
@@ -198,12 +317,29 @@
         "id": 9,
         "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 11,
+        "value": "Kurşunlu Mahzen Kapısı dahili"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 22,
+        "value": "Mustafa Paşa "
+      }
+    ],
+    "karye": []
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "name": "Yorgi v.",
+    "name": "Yorgi v. Dimitri",
     "grocerist_id": "person__10",
     "religion": [
       {
@@ -222,7 +358,20 @@
         "id": 10,
         "value": "İSTM.ŞSC.14.d.222 / 45a-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 15,
+        "value": "Sultan Bayezıd "
+      }
+    ],
+    "karye": []
   },
   "11": {
     "id": 11,
@@ -246,7 +395,24 @@
         "id": 11,
         "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 46,
+        "value": "Rumeli kazası"
+      }
+    ],
+    "karye": []
   },
   "12": {
     "id": 12,
@@ -270,7 +436,20 @@
         "id": 12,
         "value": "İSTM.ŞSC.14.d.237 / 16a-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 15,
+        "value": "Sultan Bayezıd "
+      }
+    ],
+    "karye": []
   },
   "13": {
     "id": 13,
@@ -294,7 +473,20 @@
         "id": 13,
         "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 7,
+        "value": "Hüseyin Ağa"
+      }
+    ],
+    "karye": []
   },
   "14": {
     "id": 14,
@@ -318,7 +510,20 @@
         "id": 14,
         "value": "İSTM.ŞSC.14.d.237 / 39b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 5,
+        "value": "Beyoğlu"
+      }
+    ],
+    "karye": []
   },
   "15": {
     "id": 15,
@@ -342,7 +547,20 @@
         "id": 15,
         "value": "İSTM.ŞSC.14.d.237 / 62b-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 10,
+        "value": "Rumeli Hisarı"
+      }
+    ],
+    "karye": []
   },
   "16": {
     "id": 16,
@@ -361,12 +579,29 @@
         "id": 16,
         "value": "İSTM.ŞSC.14.d.241 / 3a-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 12,
+        "value": "Elhac Hasan"
+      }
+    ],
+    "karye": []
   },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
-    "name": "Elhac Osman b. İbrahim",
+    "name": "Bakkal Elhac Ahmed b. Resul",
     "grocerist_id": "person__17",
     "religion": [
       {
@@ -377,10 +612,27 @@
     ],
     "documents": [
       {
-        "id": 18,
-        "value": "İSTM.ŞSC.14.d.249 / 9b-2"
+        "id": 17,
+        "value": "İSTM.ŞSC.14.d. 241/ 18b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 7,
+        "value": "Tophane"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 20,
+        "value": "Karabaş Mustafa Ağa"
+      }
+    ],
+    "karye": []
   },
   "19": {
     "id": 19,
@@ -404,7 +656,24 @@
         "id": 19,
         "value": "İSTM.ŞSC.14.d. 249/ 79a-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 3,
+        "value": "Fındıklı"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 44,
+        "value": "İbrahim Efendi"
+      }
+    ],
+    "karye": []
   },
   "20": {
     "id": 20,
@@ -428,7 +697,24 @@
         "id": 20,
         "value": "İSTM.ŞSC.14.d.254 / 3b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 41,
+        "value": "Tersane-i Amire"
+      }
+    ],
+    "karye": []
   },
   "21": {
     "id": 21,
@@ -451,6 +737,19 @@
       {
         "id": 21,
         "value": "İSTM.ŞSC.14.d.254 / 59a-2"
+      }
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 3,
+        "value": "Karye-i Cedid"
       }
     ]
   },
@@ -476,12 +775,24 @@
         "id": 22,
         "value": "İSTM.ŞSC.14.d.254 / 64a-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 15,
+        "value": "Karaköy"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": []
   },
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
-    "name": "Bakkal Todori v. Dimitri",
+    "name": "Bakkal Todori v. Dimo",
     "grocerist_id": "person__23",
     "religion": [
       {
@@ -500,7 +811,24 @@
         "id": 23,
         "value": "İSTM.ŞSC.14.d.254 / 76b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 2,
+        "value": "Beşiktaş"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 17,
+        "value": "Sinan Paşa-i Kebir"
+      }
+    ],
+    "karye": []
   },
   "24": {
     "id": 24,
@@ -531,8 +859,25 @@
       {
         "id": 60,
         "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
+      },
+      {
+        "id": 115,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 16,
+        "value": "Galata mevlevihanesi kurbü"
+      }
+    ],
+    "karye": []
   },
   "25": {
     "id": 25,
@@ -556,7 +901,15 @@
         "id": 25,
         "value": "İSTM.ŞSC.14.d.275 / 37a-4"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": []
   },
   "26": {
     "id": 26,
@@ -587,8 +940,24 @@
       {
         "id": 62,
         "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
+      },
+      {
+        "id": 116,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 14,
+        "value": "Karaköy Kapısı harici"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": []
   },
   "27": {
     "id": 27,
@@ -612,12 +981,29 @@
         "id": 27,
         "value": "İSTM.ŞSC.14.d.275 / 76b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 37,
+        "value": "Yeldeğirmeni"
+      }
+    ],
+    "karye": []
   },
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
-    "name": "Bakkal Molla Hasan b. Abddullah",
+    "name": "Bakkal Molla Hasan b. Abdullah",
     "grocerist_id": "person__28",
     "religion": [
       {
@@ -631,7 +1017,24 @@
         "id": 28,
         "value": "İSTM.ŞSC.14.d.276 / 9b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 38,
+        "value": "Bey Bağçesi"
+      }
+    ],
+    "karye": []
   },
   "29": {
     "id": 29,
@@ -655,7 +1058,24 @@
         "id": 29,
         "value": "İSTM.ŞSC.14.d.289 / 6b-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 15,
+        "value": "Karaköy"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 39,
+        "value": "Sandıkçılarbaşı"
+      }
+    ],
+    "karye": []
   },
   "30": {
     "id": 30,
@@ -674,7 +1094,20 @@
         "id": 30,
         "value": "İSTM.ŞSC.14.d.290 / 73b-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 31,
+        "value": "Camii Kebir"
+      }
+    ],
+    "karye": []
   },
   "31": {
     "id": 31,
@@ -698,7 +1131,24 @@
         "id": 31,
         "value": "İSTM.ŞSC.14.d.304 / 22b-3"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 3,
+        "value": "Kara Mustafa Paşa"
+      },
+      {
+        "id": 39,
+        "value": "Sandıkçılarbaşı"
+      }
+    ],
+    "karye": []
   },
   "32": {
     "id": 32,
@@ -722,7 +1172,15 @@
         "id": 32,
         "value": "İSTM.ŞSC.14.d. 315/ 30b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": []
   },
   "33": {
     "id": 33,
@@ -746,6 +1204,23 @@
         "id": 33,
         "value": "İSTM.ŞSC.14.d. 332/ 48a-1"
       }
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 2,
+        "value": "Beşiktaş"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 2,
+        "value": "Arnavud"
+      }
     ]
   },
   "34": {
@@ -765,7 +1240,24 @@
         "id": 34,
         "value": "İSTM.ŞSC.14.d. 342/ 60a-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 18,
+        "value": "Elhac Hüsrev"
+      }
+    ],
+    "karye": []
   },
   "35": {
     "id": 35,
@@ -789,7 +1281,28 @@
         "id": 35,
         "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 29,
+        "value": "Yeniköy"
+      },
+      {
+        "id": 66,
+        "value": "Kürkçü"
+      }
+    ],
+    "karye": []
   },
   "36": {
     "id": 36,
@@ -808,7 +1321,20 @@
         "id": 36,
         "value": "İSTM.ŞSC.14.d.355 / 47b-3"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 74,
+        "value": "Kemankeş Kara Mustafa Paşa"
+      }
+    ],
+    "karye": []
   },
   "37": {
     "id": 37,
@@ -832,7 +1358,19 @@
         "id": 37,
         "value": "İSTM.ŞSC.14.d. 361/ 58b-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 2,
+        "value": "Beşiktaş"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": []
   },
   "38": {
     "id": 38,
@@ -856,23 +1394,60 @@
         "id": 38,
         "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 29,
+        "value": "Yeniköy"
+      }
+    ],
+    "karye": []
   },
   "39": {
     "id": 39,
     "order": "39.00000000000000000000",
-    "name": "",
+    "name": "Bakkal Totoş",
     "grocerist_id": "person__39",
-    "religion": [],
-    "documents": []
-  },
-  "40": {
-    "id": 40,
-    "order": "40.00000000000000000000",
-    "name": "",
-    "grocerist_id": "person__40",
-    "religion": [],
-    "documents": []
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 29,
+        "value": "Yeniköy"
+      }
+    ],
+    "karye": []
   },
   "41": {
     "id": 41,
@@ -895,6 +1470,23 @@
       {
         "id": 41,
         "value": "İSTM.ŞSC.14.d.400 / 55a-1"
+      }
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 2,
+        "value": "Beşiktaş"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 2,
+        "value": "Arnavud"
       }
     ]
   },
@@ -920,7 +1512,20 @@
         "id": 42,
         "value": "İSTM.ŞSC.14.d. 405/ 37b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 26,
+        "value": "Balık pazarı"
+      }
+    ],
+    "karye": []
   },
   "43": {
     "id": 43,
@@ -944,7 +1549,20 @@
         "id": 43,
         "value": "İSTM.ŞSC.14.d. 406/ 27b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 24,
+        "value": "Kalafatçıbaşı"
+      }
+    ],
+    "karye": []
   },
   "44": {
     "id": 44,
@@ -968,7 +1586,28 @@
         "id": 44,
         "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 29,
+        "value": "Yeniköy"
+      },
+      {
+        "id": 33,
+        "value": " Aya Nikoli"
+      }
+    ],
+    "karye": []
   },
   "45": {
     "id": 45,
@@ -987,7 +1626,24 @@
         "id": 45,
         "value": "İSTM.ŞSC.14.d.433 / 74b-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 3,
+        "value": "Fındıklı"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 40,
+        "value": "Molla Çelebi"
+      }
+    ],
+    "karye": []
   },
   "46": {
     "id": 46,
@@ -1001,11 +1657,14 @@
         "color": "green"
       }
     ],
-    "documents": []
+    "documents": [],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "47": {
     "id": 47,
-    "order": "48.00000000000000000000",
+    "order": "48.99999999999999999999",
     "name": "Yenişehirli Dimitri v. Nikola",
     "grocerist_id": "person__47",
     "religion": [
@@ -1025,12 +1684,29 @@
         "id": 47,
         "value": "İSTM.ŞSC.14.d.441 / 55b-3"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 13,
+        "value": "Kadı Mehmed Efendi"
+      }
+    ],
+    "karye": []
   },
   "48": {
     "id": 48,
     "order": "49.00000000000000000000",
-    "name": "Bakkal Elhac Osman",
+    "name": "Bakkal Elhac Osman b. Halil",
     "grocerist_id": "person__48",
     "religion": [
       {
@@ -1044,12 +1720,24 @@
         "id": 48,
         "value": "İSTM.ŞSC.14.d. 472 / 33b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": []
   },
   "49": {
     "id": 49,
     "order": "50.00000000000000000000",
-    "name": "Bakkal Trandafil",
+    "name": "Bakkal Trandafil v. Yori",
     "grocerist_id": "person__49",
     "religion": [
       {
@@ -1066,9 +1754,30 @@
     "documents": [
       {
         "id": 49,
-        "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
+        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
+      },
+      {
+        "id": 117,
+        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 6,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 2,
+        "value": "Tatavla"
+      }
+    ],
+    "karye": []
   },
   "50": {
     "id": 50,
@@ -1081,7 +1790,10 @@
         "id": 50,
         "value": "İSTM.ŞSC.14.d. 504/ 86a-2"
       }
-    ]
+    ],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "51": {
     "id": 51,
@@ -1104,6 +1816,23 @@
       {
         "id": 51,
         "value": "İSTM.ŞSC.14.d. 507/20b-2"
+      }
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 2,
+        "value": "Beşiktaş"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 2,
+        "value": "Arnavud"
       }
     ]
   },
@@ -1129,7 +1858,28 @@
         "id": 52,
         "value": "İSTM.ŞSC.14.d.528 / 83b-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      },
+      {
+        "id": 8,
+        "value": "İstinye"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 4,
+        "value": "Sarıyer"
+      },
+      {
+        "id": 42,
+        "value": "Yeni mahalle"
+      }
+    ],
+    "karye": []
   },
   "53": {
     "id": 53,
@@ -1137,7 +1887,10 @@
     "name": "",
     "grocerist_id": "person__53",
     "religion": [],
-    "documents": []
+    "documents": [],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "54": {
     "id": 54,
@@ -1145,7 +1898,10 @@
     "name": "",
     "grocerist_id": "person__54",
     "religion": [],
-    "documents": []
+    "documents": [],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "55": {
     "id": 55,
@@ -1153,7 +1909,10 @@
     "name": "",
     "grocerist_id": "person__55",
     "religion": [],
-    "documents": []
+    "documents": [],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "56": {
     "id": 56,
@@ -1161,7 +1920,10 @@
     "name": "",
     "grocerist_id": "person__56",
     "religion": [],
-    "documents": []
+    "documents": [],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "57": {
     "id": 57,
@@ -1169,7 +1931,10 @@
     "name": "",
     "grocerist_id": "person__57",
     "religion": [],
-    "documents": []
+    "documents": [],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "58": {
     "id": 58,
@@ -1177,7 +1942,10 @@
     "name": "",
     "grocerist_id": "person__58",
     "religion": [],
-    "documents": []
+    "documents": [],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "59": {
     "id": 59,
@@ -1185,7 +1953,10 @@
     "name": "",
     "grocerist_id": "person__59",
     "religion": [],
-    "documents": []
+    "documents": [],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "60": {
     "id": 60,
@@ -1193,7 +1964,10 @@
     "name": "",
     "grocerist_id": "person__60",
     "religion": [],
-    "documents": []
+    "documents": [],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "61": {
     "id": 61,
@@ -1201,7 +1975,10 @@
     "name": "",
     "grocerist_id": "person__61",
     "religion": [],
-    "documents": []
+    "documents": [],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "62": {
     "id": 62,
@@ -1209,7 +1986,10 @@
     "name": "",
     "grocerist_id": "person__62",
     "religion": [],
-    "documents": []
+    "documents": [],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "63": {
     "id": 63,
@@ -1217,7 +1997,10 @@
     "name": "",
     "grocerist_id": "person__63",
     "religion": [],
-    "documents": []
+    "documents": [],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "64": {
     "id": 64,
@@ -1245,15 +2028,42 @@
         "id": 91,
         "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
       }
-    ]
+    ],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "65": {
     "id": 65,
     "order": "66.00000000000000000000",
-    "name": "",
+    "name": "Bakkāl Rizo v. Aleksan",
     "grocerist_id": "person__65",
-    "religion": [],
-    "documents": []
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 48,
+        "value": "Kefere"
+      }
+    ],
+    "karye": []
   },
   "66": {
     "id": 66,
@@ -1277,7 +2087,20 @@
         "id": 66,
         "value": "İSTM.ŞSC.06.d. 339 / 94b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 48,
+        "value": "Kefere"
+      }
+    ],
+    "karye": []
   },
   "67": {
     "id": 67,
@@ -1301,7 +2124,20 @@
         "id": 67,
         "value": "İSTM.ŞSC.06.d.359 / 26a-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 48,
+        "value": "Kefere"
+      }
+    ],
+    "karye": []
   },
   "68": {
     "id": 68,
@@ -1323,7 +2159,20 @@
     "documents": [
       {
         "id": 68,
-        "value": "İSTM.ŞSC.06.d. 359 / 27a-1"
+        "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (a)"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 4,
+        "value": "Kuzguncuk"
       }
     ]
   },
@@ -1343,6 +2192,19 @@
       {
         "id": 69,
         "value": "İSTM.ŞSC.06.d. 381 / 32b-3"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 5,
+        "value": "Kadı"
       }
     ]
   },
@@ -1368,6 +2230,24 @@
         "id": 70,
         "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
       }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 51,
+        "value": "Mehmed Paşa"
+      }
+    ],
+    "karye": [
+      {
+        "id": 6,
+        "value": "Eski hamam"
+      }
     ]
   },
   "71": {
@@ -1387,12 +2267,24 @@
         "id": 71,
         "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      },
+      {
+        "id": 17,
+        "value": "Valide-i Cedid Camii"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": []
   },
   "72": {
     "id": 72,
     "order": "73.00000000000000000000",
-    "name": "Bakkal Kosta",
+    "name": "Bakkal Kosta v. Piyo",
     "grocerist_id": "person__72",
     "religion": [
       {
@@ -1406,7 +2298,20 @@
         "color": "dark-blue"
       }
     ],
-    "documents": []
+    "documents": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 48,
+        "value": "Kefere"
+      }
+    ],
+    "karye": []
   },
   "73": {
     "id": 73,
@@ -1425,12 +2330,25 @@
         "color": "dark-blue"
       }
     ],
-    "documents": []
+    "documents": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 52,
+        "value": "Yenimahalle"
+      }
+    ],
+    "karye": []
   },
   "74": {
     "id": 74,
     "order": "75.00000000000000000000",
-    "name": "Elhac Mahmud b. Hasan",
+    "name": "Elhac Mahmud Ağa b. Hasan",
     "grocerist_id": "person__74",
     "religion": [
       {
@@ -1442,14 +2360,31 @@
     "documents": [
       {
         "id": 74,
-        "value": "İSTM.ŞSC.06.d. 442 / 20a-2"
+        "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (a)"
+      },
+      {
+        "id": 122,
+        "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (b)"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 53,
+        "value": "Kapı ağası"
+      }
+    ],
+    "karye": []
   },
   "75": {
     "id": 75,
     "order": "76.00000000000000000000",
-    "name": "Bakkal Konstantin v. Hristo",
+    "name": "Bakkal Konstantin v. Hristodoli",
     "grocerist_id": "person__75",
     "religion": [
       {
@@ -1466,7 +2401,28 @@
     "documents": [
       {
         "id": 75,
-        "value": "İSTM.ŞSC.06.d. 443 / 11a-1"
+        "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (a)"
+      },
+      {
+        "id": 123,
+        "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (b)"
+      },
+      {
+        "id": 124,
+        "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (c)"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 15,
+        "value": "Yeni Cami"
       }
     ]
   },
@@ -1492,7 +2448,20 @@
         "id": 76,
         "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 54,
+        "value": "Mirahor"
+      }
+    ],
+    "karye": []
   },
   "77": {
     "id": 77,
@@ -1516,7 +2485,24 @@
         "id": 77,
         "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 56,
+        "value": "Süleyman Ağa"
+      },
+      {
+        "id": 57,
+        "value": "Köprübaşı"
+      }
+    ],
+    "karye": []
   },
   "78": {
     "id": 78,
@@ -1534,6 +2520,19 @@
       {
         "id": 78,
         "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 7,
+        "value": "Hünkar"
       }
     ]
   },
@@ -1557,7 +2556,32 @@
     "documents": [
       {
         "id": 79,
-        "value": "İSTM.ŞSC.06.d. 490 / 74a-2"
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (a)"
+      },
+      {
+        "id": 125,
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (b)"
+      },
+      {
+        "id": 126,
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (c)"
+      },
+      {
+        "id": 127,
+        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (d)"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 4,
+        "value": "Kuzguncuk"
       }
     ]
   },
@@ -1583,7 +2607,20 @@
         "id": 80,
         "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 62,
+        "value": "Tenbel Elhac Mehmed"
+      }
+    ],
+    "karye": []
   },
   "81": {
     "id": 81,
@@ -1602,12 +2639,25 @@
         "color": "dark-blue"
       }
     ],
-    "documents": []
+    "documents": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 52,
+        "value": "Yenimahalle"
+      }
+    ],
+    "karye": []
   },
   "82": {
     "id": 82,
     "order": "83.00000000000000000000",
-    "name": "Bakkal Panayot",
+    "name": "Bakkal Panayot v. Polinçeron",
     "grocerist_id": "person__82",
     "religion": [
       {
@@ -1621,12 +2671,38 @@
         "color": "dark-blue"
       }
     ],
-    "documents": []
+    "documents": [
+      {
+        "id": 128,
+        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (b)"
+      },
+      {
+        "id": 129,
+        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (c)"
+      },
+      {
+        "id": 130,
+        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (d)"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 42,
+        "value": "Yeni mahalle"
+      }
+    ],
+    "karye": []
   },
   "83": {
     "id": 83,
     "order": "84.00000000000000000000",
-    "name": "Bakkal Konstantin",
+    "name": "Bakkal Konstantin v. Horosu",
     "grocerist_id": "person__83",
     "religion": [
       {
@@ -1640,7 +2716,20 @@
         "color": "dark-blue"
       }
     ],
-    "documents": []
+    "documents": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 42,
+        "value": "Yeni mahalle"
+      }
+    ],
+    "karye": []
   },
   "84": {
     "id": 84,
@@ -1659,7 +2748,20 @@
         "color": "dark-blue"
       }
     ],
-    "documents": []
+    "documents": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 7,
+        "value": "Hünkar"
+      }
+    ]
   },
   "85": {
     "id": 85,
@@ -1683,12 +2785,29 @@
         "id": 85,
         "value": "İSTM.ŞSC.06.d.505 / 83a-3"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 58,
+        "value": "Arakiyeci Elhac Mehmed"
+      },
+      {
+        "id": 61,
+        "value": "Kasım Ağa Çeşmesi kurbü"
+      }
+    ],
+    "karye": []
   },
   "86": {
     "id": 86,
     "order": "87.00000000000000000000",
-    "name": "Dimitri",
+    "name": "Dimitri v. Polizo",
     "grocerist_id": "person__86",
     "religion": [
       {
@@ -1702,7 +2821,24 @@
         "color": "dark-blue"
       }
     ],
-    "documents": []
+    "documents": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 7,
+        "value": "Hüseyin Ağa"
+      },
+      {
+        "id": 86,
+        "value": "Ağa hamamı mahali"
+      }
+    ],
+    "karye": []
   },
   "87": {
     "id": 87,
@@ -1716,20 +2852,52 @@
         "color": "green"
       }
     ],
-    "documents": []
+    "documents": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 60,
+        "value": "Bulgurlu"
+      }
+    ],
+    "karye": []
   },
   "88": {
     "id": 88,
     "order": "89.00000000000000000000",
     "name": "Bakkal Ahmed Beşe b. Abdullah",
     "grocerist_id": "person__88",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6681,
+        "value": "Muslim",
+        "color": "green"
+      }
+    ],
     "documents": [
       {
         "id": 92,
         "value": "İSTM.ŞSC.15.d. 134/ 95a-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 63,
+        "value": "Şah Sultan"
+      }
+    ],
+    "karye": []
   },
   "92": {
     "id": 92,
@@ -1748,7 +2916,10 @@
         "id": 109,
         "value": "İSTM.ŞSC.06.d. 566/92b-1"
       }
-    ]
+    ],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "93": {
     "id": 93,
@@ -1767,7 +2938,10 @@
         "id": 110,
         "value": "İSTM.ŞSC.06.d. 574/51b-1"
       }
-    ]
+    ],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "94": {
     "id": 94,
@@ -1786,7 +2960,10 @@
         "id": 111,
         "value": "İSTM.ŞSC.06.d. 577/43b-1"
       }
-    ]
+    ],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "95": {
     "id": 95,
@@ -1805,7 +2982,10 @@
         "id": 112,
         "value": "İSTM.ŞSC.06.d. 578/53b-1"
       }
-    ]
+    ],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "96": {
     "id": 96,
@@ -1829,7 +3009,10 @@
         "id": 65,
         "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
       }
-    ]
+    ],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
   },
   "97": {
     "id": 97,
@@ -1851,7 +3034,28 @@
     "documents": [
       {
         "id": 93,
-        "value": "İSTM.ŞSC.15.d. 164 / 8b-1"
+        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (a)"
+      },
+      {
+        "id": 133,
+        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (b)"
+      },
+      {
+        "id": 134,
+        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (c)"
+      }
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 10,
+        "value": "Küçük"
       }
     ]
   },
@@ -1875,7 +3079,24 @@
     "documents": [
       {
         "id": 94,
-        "value": "İSTM.ŞSC.15.d. 170 / 111b-3"
+        "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (a)"
+      },
+      {
+        "id": 135,
+        "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (b)"
+      }
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 11,
+        "value": "Ayastefanos"
       }
     ]
   },
@@ -1899,9 +3120,26 @@
     "documents": [
       {
         "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72"
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      },
+      {
+        "id": 136,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 67,
+        "value": "Yavud"
+      }
+    ],
+    "karye": []
   },
   "100": {
     "id": 100,
@@ -1925,7 +3163,19 @@
         "id": 96,
         "value": "İSTM.ŞSC.15.d. 174 / 41a-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      },
+      {
+        "id": 20,
+        "value": "Çekmece-i Kebir"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": []
   },
   "101": {
     "id": 101,
@@ -1947,9 +3197,26 @@
     "documents": [
       {
         "id": 97,
-        "value": "İSTM.ŞSC.15.d. 194 / 10b-1"
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
+      },
+      {
+        "id": 137,
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (b)"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 69,
+        "value": "Otakçı"
+      }
+    ],
+    "karye": []
   },
   "102": {
     "id": 102,
@@ -1973,6 +3240,19 @@
         "id": 100,
         "value": "İSTM.ŞSC.15.d. 205 / 51a-2"
       }
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 10,
+        "value": "Küçük"
+      }
     ]
   },
   "103": {
@@ -1995,9 +3275,26 @@
     "documents": [
       {
         "id": 101,
-        "value": "İSTM.ŞSC.15.d. 216 / 42a-1"
+        "value": "İSTM.ŞSC.15.d. 216 / 42a-1 (a)"
+      },
+      {
+        "id": 138,
+        "value": "İSTM.ŞSC.15.d. 216 / 42a-1 (b)"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 70,
+        "value": "Edine Kapısı harici"
+      }
+    ],
+    "karye": []
   },
   "104": {
     "id": 104,
@@ -2020,6 +3317,19 @@
       {
         "id": 102,
         "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
+      }
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 12,
+        "value": "Terkos"
       }
     ]
   },
@@ -2045,6 +3355,19 @@
         "id": 104,
         "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
       }
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 13,
+        "value": "Alibey"
+      }
     ]
   },
   "106": {
@@ -2062,9 +3385,26 @@
     "documents": [
       {
         "id": 105,
-        "value": "İSTM.ŞSC.15.d. 254 / 8a-2"
+        "value": "İSTM.ŞSC.15.d. 254 / 8a-2 (a)"
+      },
+      {
+        "id": 139,
+        "value": "İSTM.ŞSC.15.d. 254 / 8a-2 (b)"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 31,
+        "value": "Camii Kebir"
+      }
+    ],
+    "karye": []
   },
   "107": {
     "id": 107,
@@ -2082,6 +3422,19 @@
       {
         "id": 106,
         "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      }
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 14,
+        "value": "Makrahorya"
       }
     ]
   },
@@ -2107,6 +3460,19 @@
         "id": 107,
         "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
       }
+    ],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 10,
+        "value": "Küçük"
+      }
     ]
   },
   "109": {
@@ -2114,76 +3480,220 @@
     "order": "107.00000000000000000000",
     "name": "Bakkal Kosta v. Piyo",
     "grocerist_id": "person__109",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 72,
         "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 48,
+        "value": "Kefere"
+      }
+    ],
+    "karye": []
   },
   "110": {
     "id": 110,
     "order": "108.00000000000000000000",
     "name": "Bakkal Panayot v. İsteradik",
     "grocerist_id": "person__110",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 73,
         "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 52,
+        "value": "Yenimahalle"
+      }
+    ],
+    "karye": []
   },
   "111": {
     "id": 111,
     "order": "109.00000000000000000000",
     "name": "Bakkal Manok v. Agik",
     "grocerist_id": "person__111",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 81,
         "value": "İSTM.ŞSC.06.d. 494 / 81a-1"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 52,
+        "value": "Yenimahalle"
+      }
+    ],
+    "karye": []
   },
   "112": {
     "id": 112,
     "order": "110.00000000000000000000",
     "name": "Bakkal Panayot v. Polinçeron",
     "grocerist_id": "person__112",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 82,
-        "value": "İSTM.ŞSC.06.d. 495 / 25a-1"
+        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (a)"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 52,
+        "value": "Yenimahalle"
+      }
+    ],
+    "karye": []
   },
   "113": {
     "id": 113,
     "order": "111.00000000000000000000",
     "name": "Bakkal Konstantin v. Horosu",
     "grocerist_id": "person__113",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 83,
-        "value": "İSTM.ŞSC.06.d.495 / 68a-2"
+        "value": "İSTM.ŞSC.06.d.495 / 68a-2 (a)"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 52,
+        "value": "Yenimahalle"
+      }
+    ],
+    "karye": []
   },
   "114": {
     "id": 114,
     "order": "112.00000000000000000000",
     "name": "Bakkal Panço v. Dimitri",
     "grocerist_id": "person__114",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 84,
         "value": "İSTM.ŞSC.06.d. 501 / 22b-3"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": [
+      {
+        "id": 7,
+        "value": "Hünkar"
       }
     ]
   },
@@ -2192,25 +3702,136 @@
     "order": "113.00000000000000000000",
     "name": "Dimitri v. Polizo",
     "grocerist_id": "person__115",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
     "documents": [
       {
         "id": 86,
         "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 7,
+        "value": "Hüseyin Ağa"
+      }
+    ],
+    "karye": []
   },
   "116": {
     "id": 116,
     "order": "114.00000000000000000000",
     "name": "Bakkal Elhac Hasan Ağa b. Ali",
     "grocerist_id": "person__116",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6681,
+        "value": "Muslim",
+        "color": "green"
+      }
+    ],
     "documents": [
       {
         "id": 87,
         "value": "İSTM.ŞSC.06.d. 548 / 43a-2"
       }
-    ]
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 60,
+        "value": "Bulgurlu"
+      }
+    ],
+    "karye": []
+  },
+  "118": {
+    "id": 118,
+    "order": "115.00000000000000000000",
+    "name": "Elhac Osman b. İbrahim",
+    "grocerist_id": "person__118",
+    "religion": [
+      {
+        "id": 6681,
+        "value": "Muslim",
+        "color": "green"
+      }
+    ],
+    "documents": [
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2"
+      }
+    ],
+    "district": [
+      {
+        "id": 4,
+        "value": "Galata"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 27,
+        "value": "Emekyemez"
+      }
+    ],
+    "karye": []
+  },
+  "119": {
+    "id": 119,
+    "order": "116.00000000000000000000",
+    "name": "Bakkal Radovuz veled-i Yovan",
+    "grocerist_id": "person__119",
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
+      }
+    ],
+    "documents": [
+      {
+        "id": 98,
+        "value": "İSTM.ŞSC.15.d. 196 / 15a-2"
+      }
+    ],
+    "district": [
+      {
+        "id": 21,
+        "value": "İstanbul"
+      },
+      {
+        "id": 22,
+        "value": "Yedikule harici"
+      }
+    ],
+    "neighbourhood": [],
+    "karye": []
   }
 }
