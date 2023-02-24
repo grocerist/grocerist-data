@@ -153,8 +153,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": null,
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "2": {
     "id": 2,
@@ -313,8 +321,16 @@
     "year_of_creation__hicri": "1111",
     "year_of_creation_miladi": "1699-1700",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "3": {
     "id": 3,
@@ -371,8 +387,16 @@
     "year_of_creation__hicri": "1113",
     "year_of_creation_miladi": "1701-1702",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "4": {
     "id": 4,
@@ -563,8 +587,16 @@
     "year_of_creation__hicri": "1115",
     "year_of_creation_miladi": "1703-1704",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "5": {
     "id": 5,
@@ -721,8 +753,16 @@
     "year_of_creation__hicri": "1115",
     "year_of_creation_miladi": "1703-1704",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "6": {
     "id": 6,
@@ -817,8 +857,16 @@
     "year_of_creation__hicri": "1123",
     "year_of_creation_miladi": "1711-1712",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "7": {
     "id": 7,
@@ -910,8 +958,16 @@
     "year_of_creation__hicri": "1123",
     "year_of_creation_miladi": "1711-1712",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "8": {
     "id": 8,
@@ -1079,8 +1135,16 @@
     "year_of_creation__hicri": "1124",
     "year_of_creation_miladi": "1712-1713",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "9": {
     "id": 9,
@@ -1149,8 +1213,16 @@
     "year_of_creation__hicri": "1125",
     "year_of_creation_miladi": "1713-1714",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "10": {
     "id": 10,
@@ -1249,8 +1321,16 @@
     "year_of_creation__hicri": "1125",
     "year_of_creation_miladi": "1713-1714",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9934,
+      "value": "tenant",
+      "color": "dark-blue"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "11": {
     "id": 11,
@@ -1415,8 +1495,16 @@
     "year_of_creation__hicri": "1126",
     "year_of_creation_miladi": "1714-1715",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "12": {
     "id": 12,
@@ -1495,8 +1583,16 @@
     "year_of_creation__hicri": "1128",
     "year_of_creation_miladi": "1715-1716",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "13": {
     "id": 13,
@@ -1628,8 +1724,16 @@
     "year_of_creation__hicri": "1128",
     "year_of_creation_miladi": "1715-1716",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "14": {
     "id": 14,
@@ -1776,8 +1880,16 @@
     "year_of_creation__hicri": "1129",
     "year_of_creation_miladi": "1716-1717",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "15": {
     "id": 15,
@@ -1932,8 +2044,16 @@
     "year_of_creation__hicri": "1129",
     "year_of_creation_miladi": "1716-1717",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "16": {
     "id": 16,
@@ -2050,8 +2170,16 @@
     "year_of_creation__hicri": "1130",
     "year_of_creation_miladi": "1717-1718",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "17": {
     "id": 17,
@@ -2087,8 +2215,16 @@
     "year_of_creation__hicri": "1130",
     "year_of_creation_miladi": "1717-1718",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "18": {
     "id": 18,
@@ -2190,8 +2326,16 @@
     "year_of_creation__hicri": "1133",
     "year_of_creation_miladi": "1720-1721",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "19": {
     "id": 19,
@@ -2233,8 +2377,16 @@
     "year_of_creation__hicri": "1134",
     "year_of_creation_miladi": "1721-1722",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "20": {
     "id": 20,
@@ -2309,8 +2461,16 @@
     "year_of_creation__hicri": "1133",
     "year_of_creation_miladi": "1720-1721",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "21": {
     "id": 21,
@@ -2353,8 +2513,16 @@
         "value": "Karye-i Cedid"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "22": {
     "id": 22,
@@ -2501,8 +2669,16 @@
     "year_of_creation__hicri": "1135",
     "year_of_creation_miladi": "1722-1723",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "23": {
     "id": 23,
@@ -2549,8 +2725,16 @@
     "year_of_creation__hicri": "1135",
     "year_of_creation_miladi": "1722-1723",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "24": {
     "id": 24,
@@ -2707,8 +2891,16 @@
     "year_of_creation__hicri": "1141",
     "year_of_creation_miladi": "1728-1729",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "25": {
     "id": 25,
@@ -2912,8 +3104,16 @@
     "year_of_creation__hicri": "1142",
     "year_of_creation_miladi": "1729-1730",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "26": {
     "id": 26,
@@ -3044,8 +3244,16 @@
     "year_of_creation__hicri": "1142",
     "year_of_creation_miladi": "1729-1730",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "27": {
     "id": 27,
@@ -3206,8 +3414,16 @@
     "year_of_creation__hicri": "1145",
     "year_of_creation_miladi": "1732-1733",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "28": {
     "id": 28,
@@ -3354,8 +3570,16 @@
     "year_of_creation__hicri": "1144",
     "year_of_creation_miladi": "1731-1732",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "29": {
     "id": 29,
@@ -3533,8 +3757,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": null,
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "30": {
     "id": 30,
@@ -3650,8 +3882,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": null,
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "31": {
     "id": 31,
@@ -3826,8 +4066,16 @@
     "year_of_creation__hicri": "1152",
     "year_of_creation_miladi": "1739-1740",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "32": {
     "id": 32,
@@ -3860,8 +4108,16 @@
     "year_of_creation__hicri": "1164",
     "year_of_creation_miladi": "1750-1751",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "33": {
     "id": 33,
@@ -3913,8 +4169,16 @@
         "value": "Arnavud"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "34": {
     "id": 34,
@@ -3961,8 +4225,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": null,
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "35": {
     "id": 35,
@@ -4014,8 +4286,16 @@
     "year_of_creation__hicri": "1173",
     "year_of_creation_miladi": "1759-1760",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "36": {
     "id": 36,
@@ -4148,8 +4428,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": null,
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "37": {
     "id": 37,
@@ -4191,8 +4479,16 @@
         "value": "Arnavud"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "38": {
     "id": 38,
@@ -4353,8 +4649,16 @@
     "year_of_creation__hicri": "1176",
     "year_of_creation_miladi": "1762-1763",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "39": {
     "id": 39,
@@ -4405,8 +4709,16 @@
     "year_of_creation__hicri": "1182",
     "year_of_creation_miladi": "1768-1769",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "41": {
     "id": 41,
@@ -4531,8 +4843,16 @@
         "value": "Arnavud"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "42": {
     "id": 42,
@@ -4571,7 +4891,11 @@
     "year_of_creation_miladi": "1770-1771",
     "karye": [],
     "type_of_ownership": null,
-    "status_of_main_person": null
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "43": {
     "id": 43,
@@ -4614,8 +4938,16 @@
     "year_of_creation__hicri": "1184",
     "year_of_creation_miladi": "1770-1771",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "44": {
     "id": 44,
@@ -4675,8 +5007,16 @@
     "year_of_creation__hicri": "1190",
     "year_of_creation_miladi": "1776-1777",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "45": {
     "id": 45,
@@ -4789,8 +5129,16 @@
     "year_of_creation__hicri": "1191",
     "year_of_creation_miladi": "1777-1778",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "47": {
     "id": 47,
@@ -4913,8 +5261,16 @@
     "year_of_creation__hicri": "1192",
     "year_of_creation_miladi": "1778-1779",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9934,
+      "value": "tenant",
+      "color": "dark-blue"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "48": {
     "id": 48,
@@ -4961,8 +5317,16 @@
     "year_of_creation__hicri": "1199",
     "year_of_creation_miladi": "1784-1785",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "49": {
     "id": 49,
@@ -5014,8 +5378,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": null,
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "117": {
     "id": 117,
@@ -5051,8 +5423,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "50": {
     "id": 50,
@@ -5095,8 +5475,16 @@
     "year_of_creation__hicri": "1205",
     "year_of_creation_miladi": "1790-1791",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "51": {
     "id": 51,
@@ -5138,8 +5526,16 @@
         "value": "Arnavud"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "52": {
     "id": 52,
@@ -5254,8 +5650,16 @@
     "year_of_creation__hicri": "1210",
     "year_of_creation_miladi": "1795-1796",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "59": {
     "id": 59,
@@ -5360,8 +5764,16 @@
     "year_of_creation__hicri": "1141",
     "year_of_creation_miladi": "1728-1729",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "60": {
     "id": 60,
@@ -5490,8 +5902,16 @@
     "year_of_creation__hicri": "1141",
     "year_of_creation_miladi": "1728-1729",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "115": {
     "id": 115,
@@ -5523,8 +5943,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "61": {
     "id": 61,
@@ -5655,8 +6083,16 @@
     "year_of_creation__hicri": "1142",
     "year_of_creation_miladi": "1729-1730",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "62": {
     "id": 62,
@@ -5731,8 +6167,16 @@
     "year_of_creation__hicri": "1142",
     "year_of_creation_miladi": "1729-1730",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "116": {
     "id": 116,
@@ -5768,8 +6212,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "64": {
     "id": 64,
@@ -5948,8 +6400,16 @@
     "year_of_creation__hicri": "1120",
     "year_of_creation_miladi": "1708-1709",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9934,
+      "value": "tenant",
+      "color": "dark-blue"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "91": {
     "id": 91,
@@ -6100,8 +6560,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "65": {
     "id": 65,
@@ -6378,15 +6846,28 @@
         "value": "Bit Pazarı"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "89": {
     "id": 89,
     "order": "59.99999999999999999998",
     "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
     "grocerist_id": "document__89",
-    "main_person": [],
+    "main_person": [
+      {
+        "id": 96,
+        "value": "Bakkal Rizo v. Aleksan"
+      }
+    ],
     "district": [
       {
         "id": 16,
@@ -6591,15 +7072,28 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": null,
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "90": {
     "id": 90,
     "order": "59.99999999999999999999",
     "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)",
     "grocerist_id": "document__90",
-    "main_person": [],
+    "main_person": [
+      {
+        "id": 96,
+        "value": "Bakkal Rizo v. Aleksan"
+      }
+    ],
     "district": [
       {
         "id": 16,
@@ -6824,8 +7318,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": null,
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "66": {
     "id": 66,
@@ -6868,8 +7370,16 @@
     "year_of_creation__hicri": "1121",
     "year_of_creation_miladi": "1709-1710",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "67": {
     "id": 67,
@@ -7021,8 +7531,16 @@
     "year_of_creation__hicri": "1129",
     "year_of_creation_miladi": "1716-1717",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "68": {
     "id": 68,
@@ -7075,15 +7593,28 @@
         "value": "Kuzguncuk"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "119": {
     "id": 119,
     "order": "62.99999999999999999998",
     "shelfmark": "İSTM.ŞSC.06.d. 359 / 27a-1 (b)",
     "grocerist_id": "document__119",
-    "main_person": [],
+    "main_person": [
+      {
+        "id": 7,
+        "value": "Bakkal Dimitri v. Yorgi"
+      }
+    ],
     "district": [
       {
         "id": 16,
@@ -7103,15 +7634,28 @@
         "value": "Eski hamam"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "120": {
     "id": 120,
     "order": "62.99999999999999999999",
     "shelfmark": "İSTM.ŞSC.06.d. 359 / 27a-1 (c)",
     "grocerist_id": "document__120",
-    "main_person": [],
+    "main_person": [
+      {
+        "id": 7,
+        "value": "Bakkal Dimitri v. Yorgi"
+      }
+    ],
     "district": [
       {
         "id": 16,
@@ -7131,8 +7675,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "69": {
     "id": 69,
@@ -7175,8 +7727,16 @@
         "value": "Kadı"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "70": {
     "id": 70,
@@ -7332,8 +7892,16 @@
         "value": "Eski hamam"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "71": {
     "id": 71,
@@ -7663,8 +8231,16 @@
     "year_of_creation__hicri": "1163",
     "year_of_creation_miladi": "1749-1750",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "73": {
     "id": 73,
@@ -7947,8 +8523,16 @@
     "year_of_creation__hicri": "1168",
     "year_of_creation_miladi": "1754-1755",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "74": {
     "id": 74,
@@ -7996,8 +8580,16 @@
     "year_of_creation__hicri": "1169",
     "year_of_creation_miladi": "1755-1756",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "122": {
     "id": 122,
@@ -8029,8 +8621,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "75": {
     "id": 75,
@@ -8111,8 +8711,16 @@
         "value": "Yeni Cami"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "123": {
     "id": 123,
@@ -8144,8 +8752,16 @@
         "value": "Yeni Cami"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "124": {
     "id": 124,
@@ -8177,8 +8793,16 @@
         "value": "Yeni Cami"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "76": {
     "id": 76,
@@ -8253,8 +8877,16 @@
     "year_of_creation__hicri": "1174",
     "year_of_creation_miladi": "1760-1761",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "77": {
     "id": 77,
@@ -8431,8 +9063,16 @@
     "year_of_creation__hicri": "1175",
     "year_of_creation_miladi": "1761-1762",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "78": {
     "id": 78,
@@ -8561,8 +9201,16 @@
         "value": "Hünkar"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9934,
+      "value": "tenant",
+      "color": "dark-blue"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "79": {
     "id": 79,
@@ -8610,8 +9258,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": null,
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "125": {
     "id": 125,
@@ -8643,8 +9299,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "126": {
     "id": 126,
@@ -8676,8 +9340,16 @@
         "value": "Kısıklı"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "127": {
     "id": 127,
@@ -8709,8 +9381,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "80": {
     "id": 80,
@@ -8855,8 +9535,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": null,
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9934,
+      "value": "tenant",
+      "color": "dark-blue"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "81": {
     "id": 81,
@@ -8899,8 +9587,16 @@
     "year_of_creation__hicri": "1190",
     "year_of_creation_miladi": "1776-1777",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "82": {
     "id": 82,
@@ -8948,8 +9644,16 @@
     "year_of_creation__hicri": "1189",
     "year_of_creation_miladi": "1775-1776",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "128": {
     "id": 128,
@@ -8981,8 +9685,16 @@
         "value": "Kulak"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "129": {
     "id": 129,
@@ -9014,8 +9726,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "130": {
     "id": 130,
@@ -9047,8 +9767,16 @@
         "value": "Karaca Ahmed Sultan"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "83": {
     "id": 83,
@@ -9106,15 +9834,28 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": null,
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "132": {
     "id": 132,
     "order": "77.99999999999999999999",
     "shelfmark": "İSTM.ŞSC.06.d.495 / 68a-2 (b)",
     "grocerist_id": "document__132",
-    "main_person": [],
+    "main_person": [
+      {
+        "id": 83,
+        "value": "Bakkal Konstantin v. Horosu"
+      }
+    ],
     "district": [],
     "neighbourhood": [
       {
@@ -9129,8 +9870,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "84": {
     "id": 84,
@@ -9231,8 +9980,16 @@
         "value": "Hünkar"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "85": {
     "id": 85,
@@ -9459,8 +10216,16 @@
     "year_of_creation__hicri": "1194",
     "year_of_creation_miladi": "1780",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9934,
+      "value": "tenant",
+      "color": "dark-blue"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "86": {
     "id": 86,
@@ -9582,8 +10347,16 @@
     "year_of_creation__hicri": "1200",
     "year_of_creation_miladi": "1785-1786",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "87": {
     "id": 87,
@@ -9636,8 +10409,16 @@
     "year_of_creation__hicri": "1213",
     "year_of_creation_miladi": "1798-1799",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "92": {
     "id": 92,
@@ -9669,8 +10450,16 @@
     "year_of_creation__hicri": "1128",
     "year_of_creation_miladi": "1715-1716",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "93": {
     "id": 93,
@@ -9718,8 +10507,16 @@
     "year_of_creation__hicri": "1149",
     "year_of_creation_miladi": "1736-1737",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "133": {
     "id": 133,
@@ -9751,8 +10548,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "134": {
     "id": 134,
@@ -9784,8 +10589,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "94": {
     "id": 94,
@@ -9833,8 +10646,16 @@
         "value": "Ayastefanos"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "135": {
     "id": 135,
@@ -9865,8 +10686,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "95": {
     "id": 95,
@@ -10045,8 +10874,16 @@
     "year_of_creation__hicri": "1157",
     "year_of_creation_miladi": "1744-1745",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9934,
+      "value": "tenant",
+      "color": "dark-blue"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "136": {
     "id": 136,
@@ -10073,8 +10910,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9934,
+      "value": "tenant",
+      "color": "dark-blue"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "96": {
     "id": 96,
@@ -10130,8 +10975,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "97": {
     "id": 97,
@@ -10290,8 +11143,16 @@
     "year_of_creation__hicri": "1168",
     "year_of_creation_miladi": "1754-1755",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9934,
+      "value": "tenant",
+      "color": "dark-blue"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "137": {
     "id": 137,
@@ -10323,8 +11184,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9934,
+      "value": "tenant",
+      "color": "dark-blue"
+    },
+    "status_of_main_person": {
+      "id": 9952,
+      "value": "lost",
+      "color": "dark-orange"
+    }
   },
   "98": {
     "id": 98,
@@ -10361,8 +11230,16 @@
     "year_of_creation__hicri": "1170",
     "year_of_creation_miladi": "1756-1757",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "100": {
     "id": 100,
@@ -10434,8 +11311,16 @@
         "value": "Küçük"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "101": {
     "id": 101,
@@ -10483,8 +11368,16 @@
     "year_of_creation__hicri": "1183",
     "year_of_creation_miladi": "1769-1770",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "138": {
     "id": 138,
@@ -10511,8 +11404,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "102": {
     "id": 102,
@@ -10627,8 +11528,16 @@
         "value": "Terkos"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9934,
+      "value": "tenant",
+      "color": "dark-blue"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "104": {
     "id": 104,
@@ -10783,8 +11692,16 @@
         "value": "Alibey"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "105": {
     "id": 105,
@@ -10832,8 +11749,16 @@
     "year_of_creation__hicri": "1178",
     "year_of_creation_miladi": "1764-1765",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "139": {
     "id": 139,
@@ -10865,8 +11790,16 @@
     "year_of_creation__hicri": null,
     "year_of_creation_miladi": "",
     "karye": [],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9961,
+      "value": "shareholder",
+      "color": "light-gray"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "106": {
     "id": 106,
@@ -11071,8 +12004,16 @@
         "value": "Makrahorya"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "107": {
     "id": 107,
@@ -11164,8 +12105,16 @@
         "value": "Küçük"
       }
     ],
-    "type_of_ownership": null,
-    "status_of_main_person": null
+    "type_of_ownership": {
+      "id": 9933,
+      "value": "owner",
+      "color": "dark-green"
+    },
+    "status_of_main_person": {
+      "id": 9951,
+      "value": "dead",
+      "color": "light-red"
+    }
   },
   "109": {
     "id": 109,
