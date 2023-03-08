@@ -2919,7 +2919,12 @@
         "value": "Galata Harici"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 93,
+        "value": "Ketahorya"
+      }
+    ],
     "goods": [
       {
         "id": 1,
@@ -4201,7 +4206,12 @@
         "value": "Karaköy Kapısı harici"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 30,
+        "value": "Karaköy kapısı harici"
+      }
+    ],
     "goods": [],
     "longtitude": null,
     "latitude": null,
