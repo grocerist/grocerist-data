@@ -37,24 +37,16 @@ for key, value in goods.items():
     for x in goods_set:
         good_name, good_id = x.split("__")
         item["goods"].append(
-            {
-                "id": good_id,
-                "name": good_name,
-                "grocerist": f"goods__{good_id}"
-            }
+            {"id": good_id, "name": good_name, "grocerist": f"goods__{good_id}"}
         )
     for x in document_set:
         doc_id, doc_name = x.split("##")
         item["documents"].append(
-            {
-                "id": doc_id,
-                "name": doc_name,
-                "grocerist_id": f"document__{doc_id}"
-            }
+            {"id": doc_id, "name": doc_name, "grocerist_id": f"document__{doc_id}"}
         )
         item["doc_count"] = len(item["documents"])
         item["good_count"] = len(item["goods"])
-    category_list.append(item) 
+    category_list.append(item)
 
 
 with open(os.path.join(JSON_FOLDER, "category.json"), "w") as f:

@@ -28,6 +28,9 @@ jobs:
       - name: make good category json
         run: |
           python make_category_list.py
+      - name: add category to documents
+        run: |
+          python add_good_cat.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
