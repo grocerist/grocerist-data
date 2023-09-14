@@ -25,6 +25,9 @@ jobs:
       - name: join the data
         run: |
           python join_tables.py
+      - name: make good category json
+        run: |
+          python make_category_list.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
