@@ -25,6 +25,7 @@ category_list = []
 for key, value in goods.items():
     item = {}
     item["id"], item["name"], item["color"] = key.split("__")
+    item["grocerist_id"] = f"category__{item['id']}"
     item["goods"] = []
     item["documents"] = []
     goods_set = set()
