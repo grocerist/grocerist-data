@@ -1,1 +1,4 @@
-acdh-baserow-pyutils>=0.2.0,<3
+acdh-baserow-pyutils>=0.5,<3
+tqdm
+acdh-geonames-utils==0.5.0
+acdh-id-reconciler
