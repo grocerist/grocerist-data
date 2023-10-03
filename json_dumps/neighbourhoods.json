@@ -979,6 +979,10 @@
       {
         "id": 127,
         "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (d)"
+      },
+      {
+        "id": 111,
+        "value": "İSTM.ŞSC.06.d. 577/43b-1"
       }
     ],
     "district_nineteenth_century": [],
@@ -2001,6 +2005,74 @@
       }
     ],
     "district_nineteenth_century": [],
+    "persons": []
+  },
+  "95": {
+    "id": 95,
+    "order": "91.00000000000000000000",
+    "name": "Yeniçeşme",
+    "grocerist_id": "neighbourhood__95",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 112,
+        "value": "İSTM.ŞSC.06.d. 578/53b-1"
+      }
+    ],
+    "district_nineteenth_century": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "persons": []
+  },
+  "96": {
+    "id": 96,
+    "order": "92.00000000000000000000",
+    "name": "Hamam-ı kebir kurbünde",
+    "grocerist_id": "neighbourhood__96",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 140,
+        "value": "İSTM.ŞSC.06.d. 589/49a"
+      },
+      {
+        "id": 142,
+        "value": "İSTM.ŞSC.06.d. 591/19b"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "97": {
+    "id": 97,
+    "order": "93.00000000000000000000",
+    "name": "Kazasker",
+    "grocerist_id": "neighbourhood__97",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 141,
+        "value": "İSTM.ŞSC.06.d. 589/56b"
+      }
+    ],
+    "district_nineteenth_century": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "persons": []
   }
 }
