@@ -7692,6 +7692,10 @@
         "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
       },
       {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
+      },
+      {
         "id": 111,
         "value": "İSTM.ŞSC.06.d. 577/43b-1"
       },
@@ -12451,6 +12455,10 @@
         "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
       },
       {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
+      },
+      {
         "id": 111,
         "value": "İSTM.ŞSC.06.d. 577/43b-1"
       },
@@ -12611,6 +12619,10 @@
       {
         "id": 102,
         "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
+      },
+      {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
       }
     ],
     "turkish_names": "",
@@ -12665,6 +12677,10 @@
       {
         "id": 73,
         "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
       },
       {
         "id": 141,
@@ -14259,6 +14275,95 @@
     ],
     "turkish_names": "Fındık içi",
     "spelling_variations and synonyms": "",
+    "Notes": "",
+    "sophisticated": false
+  },
+  "372": {
+    "id": 372,
+    "order": "363.00000000000000000000",
+    "name": "Arpa şariye",
+    "grocerist_id": "goods__372",
+    "has_category": [
+      {
+        "id": 6767,
+        "value": "Grains",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6764,
+        "value": "Dried Goods",
+        "color": "dark-green"
+      },
+      {
+        "id": 9880,
+        "value": "Vermicelli Assortment",
+        "color": "light-green"
+      }
+    ],
+    "documents": [
+      {
+        "id": 111,
+        "value": "İSTM.ŞSC.06.d. 577/43b-1"
+      }
+    ],
+    "turkish_names": "",
+    "spelling_variations and synonyms": "",
+    "Notes": "",
+    "sophisticated": false
+  },
+  "373": {
+    "id": 373,
+    "order": "364.00000000000000000000",
+    "name": "Red pepper",
+    "grocerist_id": "goods__373",
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      },
+      {
+        "id": 6766,
+        "value": "Condiments",
+        "color": "red"
+      }
+    ],
+    "documents": [
+      {
+        "id": 111,
+        "value": "İSTM.ŞSC.06.d. 577/43b-1"
+      }
+    ],
+    "turkish_names": "Kırmızı biber",
+    "spelling_variations and synonyms": "Kırmızı büber",
+    "Notes": "",
+    "sophisticated": false
+  },
+  "375": {
+    "id": 375,
+    "order": "365.00000000000000000000",
+    "name": "Peppercorn",
+    "grocerist_id": "goods__375",
+    "has_category": [
+      {
+        "id": 6748,
+        "value": "Spices and Add Ons",
+        "color": "dark-gray"
+      },
+      {
+        "id": 6766,
+        "value": "Condiments",
+        "color": "red"
+      }
+    ],
+    "documents": [
+      {
+        "id": 111,
+        "value": "İSTM.ŞSC.06.d. 577/43b-1"
+      }
+    ],
+    "turkish_names": "Tane biber",
+    "spelling_variations and synonyms": "Tane büber",
     "Notes": "",
     "sophisticated": false
   }
