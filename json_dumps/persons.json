@@ -2831,7 +2831,12 @@
         "value": "İSTM.ŞSC.06.d. 574/51b-1"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": []
   },
@@ -3739,7 +3744,13 @@
     "order": "117.00000000000000000000",
     "name": "Yani v. Yorgi",
     "grocerist_id": "person__120",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      }
+    ],
     "documents": [
       {
         "id": 113,
@@ -3755,7 +3766,13 @@
     "order": "118.00000000000000000000",
     "name": "Tanaşo v. Dimitri",
     "grocerist_id": "person__121",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      }
+    ],
     "documents": [
       {
         "id": 140,
@@ -3775,11 +3792,93 @@
     "order": "119.00000000000000000000",
     "name": "Yani v. Yorgi",
     "grocerist_id": "person__122",
-    "religion": [],
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      }
+    ],
     "documents": [
       {
         "id": 141,
         "value": "İSTM.ŞSC.06.d. 589/56b"
+      }
+    ],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
+  },
+  "123": {
+    "id": 123,
+    "order": "120.00000000000000000000",
+    "name": "Salih beşe b. Abdullah",
+    "grocerist_id": "person__123",
+    "religion": [
+      {
+        "id": 6681,
+        "value": "Muslim",
+        "color": "green"
+      }
+    ],
+    "documents": [
+      {
+        "id": 143,
+        "value": "İSTM.ŞSC.06.d. 559/13a"
+      }
+    ],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
+    "neighbourhood": [
+      {
+        "id": 56,
+        "value": "Süleyman Ağa"
+      }
+    ],
+    "karye": []
+  },
+  "124": {
+    "id": 124,
+    "order": "121.00000000000000000000",
+    "name": "Bakkal Nikola v. Yani",
+    "grocerist_id": "person__124",
+    "religion": [
+      {
+        "id": 6682,
+        "value": "Non muslim",
+        "color": "gray"
+      }
+    ],
+    "documents": [
+      {
+        "id": 144,
+        "value": "İSTM.ŞSC.06.d. 566/51a"
+      }
+    ],
+    "district": [],
+    "neighbourhood": [],
+    "karye": []
+  },
+  "125": {
+    "id": 125,
+    "order": "122.00000000000000000000",
+    "name": "Bakkal Elhac Mustafa Ağa",
+    "grocerist_id": "person__125",
+    "religion": [
+      {
+        "id": 6681,
+        "value": "Muslim",
+        "color": "green"
+      }
+    ],
+    "documents": [
+      {
+        "id": 145,
+        "value": "İSTM.ŞSC.06.d. 567/71a"
       }
     ],
     "district": [],
