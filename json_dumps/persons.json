@@ -29,7 +29,8 @@
         "value": "Şehsuvar"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "2": {
     "id": 2,
@@ -70,7 +71,8 @@
         "value": "Yeniköy"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "3": {
     "id": 3,
@@ -106,7 +108,8 @@
         "value": "Kale-i Boğazköy"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "4": {
     "id": 4,
@@ -147,7 +150,8 @@
         "value": "Camii Kebir"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "5": {
     "id": 5,
@@ -188,7 +192,8 @@
         "value": "Mehmed Paşa Camii Şerifi karyesi "
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "6": {
     "id": 6,
@@ -225,7 +230,8 @@
         "value": "Hasan Ağa "
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "7": {
     "id": 7,
@@ -270,7 +276,8 @@
         "value": "Sultan Bayezıd "
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "8": {
     "id": 8,
@@ -306,7 +313,8 @@
       }
     ],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "9": {
     "id": 9,
@@ -342,7 +350,8 @@
         "value": "Mustafa Paşa "
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "10": {
     "id": 10,
@@ -379,7 +388,8 @@
         "value": "Sultan Bayezıd "
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "11": {
     "id": 11,
@@ -420,7 +430,8 @@
         "value": "Rumeli kazası"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "12": {
     "id": 12,
@@ -457,7 +468,8 @@
         "value": "Sultan Bayezıd "
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "13": {
     "id": 13,
@@ -494,7 +506,8 @@
         "value": "Hüseyin Ağa"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "14": {
     "id": 14,
@@ -531,7 +544,8 @@
         "value": "Beyoğlu"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "15": {
     "id": 15,
@@ -568,7 +582,8 @@
         "value": "Rumeli Hisarı"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "16": {
     "id": 16,
@@ -604,7 +619,14 @@
         "value": "Elhac Hasan"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": [
+      {
+        "id": 11464,
+        "value": "grocer",
+        "color": "green"
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -640,7 +662,8 @@
         "value": "Karabaş Mustafa Ağa"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "19": {
     "id": 19,
@@ -681,7 +704,8 @@
         "value": "İbrahim Efendi"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "20": {
     "id": 20,
@@ -722,7 +746,8 @@
         "value": "Tersane-i Amire"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "21": {
     "id": 21,
@@ -759,7 +784,8 @@
         "id": 3,
         "value": "Karye-i Cedid"
       }
-    ]
+    ],
+    "occupation": []
   },
   "22": {
     "id": 22,
@@ -795,7 +821,8 @@
       }
     ],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "23": {
     "id": 23,
@@ -836,7 +863,8 @@
         "value": "Sinan Paşa-i Kebir"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "24": {
     "id": 24,
@@ -885,7 +913,8 @@
         "value": "Galata mevlevihanesi kurbü"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "25": {
     "id": 25,
@@ -917,7 +946,8 @@
       }
     ],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "26": {
     "id": 26,
@@ -965,7 +995,8 @@
       }
     ],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "27": {
     "id": 27,
@@ -1006,7 +1037,8 @@
         "value": "Yeldeğirmeni"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "28": {
     "id": 28,
@@ -1042,7 +1074,8 @@
         "value": "Bey Bağçesi"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "29": {
     "id": 29,
@@ -1083,7 +1116,8 @@
         "value": "Sandıkçılarbaşı"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "30": {
     "id": 30,
@@ -1115,7 +1149,8 @@
         "value": "Camii Kebir"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "31": {
     "id": 31,
@@ -1156,7 +1191,8 @@
         "value": "Sandıkçılarbaşı"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "32": {
     "id": 32,
@@ -1188,7 +1224,8 @@
       }
     ],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "33": {
     "id": 33,
@@ -1229,7 +1266,8 @@
         "id": 2,
         "value": "Arnavud"
       }
-    ]
+    ],
+    "occupation": []
   },
   "34": {
     "id": 34,
@@ -1265,7 +1303,8 @@
         "value": "Elhac Hüsrev"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "35": {
     "id": 35,
@@ -1310,7 +1349,8 @@
         "value": "Kürkçü"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "36": {
     "id": 36,
@@ -1342,7 +1382,8 @@
         "value": "Kemankeş Kara Mustafa Paşa"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "37": {
     "id": 37,
@@ -1378,7 +1419,8 @@
       }
     ],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "38": {
     "id": 38,
@@ -1419,7 +1461,8 @@
         "value": "Yeniköy"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "39": {
     "id": 39,
@@ -1455,7 +1498,8 @@
         "value": "Yeniköy"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "41": {
     "id": 41,
@@ -1496,7 +1540,8 @@
         "id": 2,
         "value": "Arnavud"
       }
-    ]
+    ],
+    "occupation": []
   },
   "42": {
     "id": 42,
@@ -1533,7 +1578,8 @@
         "value": "Balık pazarı"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "43": {
     "id": 43,
@@ -1570,7 +1616,8 @@
         "value": "Kalafatçıbaşı"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "44": {
     "id": 44,
@@ -1615,7 +1662,8 @@
         "value": " Aya Nikoli"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "45": {
     "id": 45,
@@ -1651,7 +1699,8 @@
         "value": "Molla Çelebi"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "46": {
     "id": 46,
@@ -1668,7 +1717,8 @@
     "documents": [],
     "district": [],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "47": {
     "id": 47,
@@ -1709,7 +1759,8 @@
         "value": "Kadı Mehmed Efendi"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "48": {
     "id": 48,
@@ -1740,7 +1791,8 @@
       }
     ],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "49": {
     "id": 49,
@@ -1785,7 +1837,8 @@
         "value": "Tatavla"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "50": {
     "id": 50,
@@ -1801,7 +1854,8 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "51": {
     "id": 51,
@@ -1842,7 +1896,8 @@
         "id": 2,
         "value": "Arnavud"
       }
-    ]
+    ],
+    "occupation": []
   },
   "52": {
     "id": 52,
@@ -1887,7 +1942,8 @@
         "value": "Yeni mahalle"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "64": {
     "id": 64,
@@ -1918,7 +1974,8 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "65": {
     "id": 65,
@@ -1950,7 +2007,8 @@
         "value": "Kefere"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "66": {
     "id": 66,
@@ -1987,7 +2045,8 @@
         "value": "Kefere"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "67": {
     "id": 67,
@@ -2024,7 +2083,8 @@
         "value": "Kefere"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "68": {
     "id": 68,
@@ -2061,7 +2121,8 @@
         "id": 4,
         "value": "Kuzguncuk"
       }
-    ]
+    ],
+    "occupation": []
   },
   "69": {
     "id": 69,
@@ -2093,7 +2154,8 @@
         "id": 5,
         "value": "Kadı"
       }
-    ]
+    ],
+    "occupation": []
   },
   "70": {
     "id": 70,
@@ -2135,7 +2197,8 @@
         "id": 6,
         "value": "Eski hamam"
       }
-    ]
+    ],
+    "occupation": []
   },
   "71": {
     "id": 71,
@@ -2166,7 +2229,8 @@
       }
     ],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "72": {
     "id": 72,
@@ -2198,7 +2262,8 @@
         "value": "Kefere"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "73": {
     "id": 73,
@@ -2230,7 +2295,8 @@
         "value": "Yenimahalle"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "74": {
     "id": 74,
@@ -2266,7 +2332,8 @@
         "value": "Kapı ağası"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "75": {
     "id": 75,
@@ -2311,7 +2378,8 @@
         "id": 15,
         "value": "Yeni Cami"
       }
-    ]
+    ],
+    "occupation": []
   },
   "76": {
     "id": 76,
@@ -2348,7 +2416,8 @@
         "value": "Mirahor"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "77": {
     "id": 77,
@@ -2389,7 +2458,8 @@
         "value": "Köprübaşı"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "78": {
     "id": 78,
@@ -2421,7 +2491,8 @@
         "id": 7,
         "value": "Hünkar"
       }
-    ]
+    ],
+    "occupation": []
   },
   "79": {
     "id": 79,
@@ -2470,7 +2541,8 @@
         "id": 4,
         "value": "Kuzguncuk"
       }
-    ]
+    ],
+    "occupation": []
   },
   "80": {
     "id": 80,
@@ -2507,7 +2579,8 @@
         "value": "Tenbel Elhac Mehmed"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "81": {
     "id": 81,
@@ -2539,7 +2612,8 @@
         "value": "Yenimahalle"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "82": {
     "id": 82,
@@ -2584,7 +2658,8 @@
         "value": "Yeni mahalle"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "83": {
     "id": 83,
@@ -2621,7 +2696,8 @@
         "value": "Yeni mahalle"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "84": {
     "id": 84,
@@ -2653,7 +2729,8 @@
         "id": 7,
         "value": "Hünkar"
       }
-    ]
+    ],
+    "occupation": []
   },
   "85": {
     "id": 85,
@@ -2694,7 +2771,8 @@
         "value": "Kasım Ağa Çeşmesi kurbü"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "86": {
     "id": 86,
@@ -2730,7 +2808,8 @@
         "value": "Ağa hamamı mahali"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "87": {
     "id": 87,
@@ -2757,7 +2836,8 @@
         "value": "Bulgurlu"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "88": {
     "id": 88,
@@ -2789,7 +2869,8 @@
         "value": "Şah Sultan"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "92": {
     "id": 92,
@@ -2811,7 +2892,8 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "93": {
     "id": 93,
@@ -2838,7 +2920,8 @@
       }
     ],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "94": {
     "id": 94,
@@ -2860,7 +2943,8 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "95": {
     "id": 95,
@@ -2882,7 +2966,8 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "96": {
     "id": 96,
@@ -2917,7 +3002,8 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "97": {
     "id": 97,
@@ -2962,7 +3048,8 @@
         "id": 10,
         "value": "Küçük"
       }
-    ]
+    ],
+    "occupation": []
   },
   "98": {
     "id": 98,
@@ -3003,7 +3090,8 @@
         "id": 11,
         "value": "Ayastefanos"
       }
-    ]
+    ],
+    "occupation": []
   },
   "99": {
     "id": 99,
@@ -3044,7 +3132,8 @@
         "value": "Yavud"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "100": {
     "id": 100,
@@ -3080,7 +3169,8 @@
       }
     ],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "101": {
     "id": 101,
@@ -3121,7 +3211,8 @@
         "value": "Otakçı"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "102": {
     "id": 102,
@@ -3158,7 +3249,8 @@
         "id": 10,
         "value": "Küçük"
       }
-    ]
+    ],
+    "occupation": []
   },
   "103": {
     "id": 103,
@@ -3199,7 +3291,8 @@
         "value": "Edine Kapısı harici"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "104": {
     "id": 104,
@@ -3236,7 +3329,8 @@
         "id": 12,
         "value": "Terkos"
       }
-    ]
+    ],
+    "occupation": []
   },
   "105": {
     "id": 105,
@@ -3273,7 +3367,8 @@
         "id": 13,
         "value": "Alibey"
       }
-    ]
+    ],
+    "occupation": []
   },
   "106": {
     "id": 106,
@@ -3309,7 +3404,8 @@
         "value": "Camii Kebir"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "107": {
     "id": 107,
@@ -3341,7 +3437,8 @@
         "id": 14,
         "value": "Makrahorya"
       }
-    ]
+    ],
+    "occupation": []
   },
   "108": {
     "id": 108,
@@ -3378,7 +3475,8 @@
         "id": 10,
         "value": "Küçük"
       }
-    ]
+    ],
+    "occupation": []
   },
   "109": {
     "id": 109,
@@ -3415,7 +3513,8 @@
         "value": "Kefere"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "110": {
     "id": 110,
@@ -3452,7 +3551,8 @@
         "value": "Yenimahalle"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "111": {
     "id": 111,
@@ -3489,7 +3589,8 @@
         "value": "Yenimahalle"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "112": {
     "id": 112,
@@ -3526,7 +3627,8 @@
         "value": "Yenimahalle"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "113": {
     "id": 113,
@@ -3563,7 +3665,8 @@
         "value": "Yenimahalle"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "114": {
     "id": 114,
@@ -3600,7 +3703,8 @@
         "id": 7,
         "value": "Hünkar"
       }
-    ]
+    ],
+    "occupation": []
   },
   "115": {
     "id": 115,
@@ -3637,7 +3741,8 @@
         "value": "Hüseyin Ağa"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "116": {
     "id": 116,
@@ -3669,7 +3774,8 @@
         "value": "Bulgurlu"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "118": {
     "id": 118,
@@ -3701,7 +3807,8 @@
         "value": "Emekyemez"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "119": {
     "id": 119,
@@ -3737,7 +3844,8 @@
       }
     ],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "120": {
     "id": 120,
@@ -3759,7 +3867,8 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "121": {
     "id": 121,
@@ -3785,7 +3894,8 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "122": {
     "id": 122,
@@ -3807,7 +3917,8 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "123": {
     "id": 123,
@@ -3839,7 +3950,8 @@
         "value": "Süleyman Ağa"
       }
     ],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "124": {
     "id": 124,
@@ -3861,7 +3973,8 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   },
   "125": {
     "id": 125,
@@ -3883,6 +3996,7 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": []
+    "karye": [],
+    "occupation": []
   }
 }
