@@ -369,5 +369,73 @@
       }
     ],
     "persons": []
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "Name": "Anadolu Hisarı",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 146,
+        "value": "İSTM.ŞSC.06.d. 578/28a"
+      },
+      {
+        "id": 147,
+        "value": "İSTM.ŞSC.06.d. 578/44b"
+      }
+    ],
+    "persons": []
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "Name": "Orta",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 149,
+        "value": "İSTM.ŞSC.06.d. 578/68a"
+      }
+    ],
+    "persons": []
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "Name": "Bakkal-ı Kebir",
+    "Notes": "Kebir Bakkallar (another name for the same karye); under jurisdiction of Adalar nahiye",
+    "Active": false,
+    "documents": [
+      {
+        "id": 150,
+        "value": "İSTM.ŞSC.06.d. 578/78b"
+      },
+      {
+        "id": 151,
+        "value": "İSTM.ŞSC.06.d. 581/59b"
+      },
+      {
+        "id": 155,
+        "value": "İSTM.ŞSC.06.d. 591/32b"
+      }
+    ],
+    "persons": []
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "Name": "Çengel",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 153,
+        "value": "İSTM.ŞSC.06.d. 587/62b"
+      }
+    ],
+    "persons": []
   }
 }

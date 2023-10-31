@@ -979,10 +979,6 @@
       {
         "id": 127,
         "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (d)"
-      },
-      {
-        "id": 111,
-        "value": "İSTM.ŞSC.06.d. 577/43b-1"
       }
     ],
     "district_nineteenth_century": [],
@@ -1202,8 +1198,16 @@
         "value": "İSTM.ŞSC.06.d. 494 / 81a-1"
       },
       {
+        "id": 111,
+        "value": "İSTM.ŞSC.06.d. 577/43b-1"
+      },
+      {
         "id": 144,
         "value": "İSTM.ŞSC.06.d. 566/51a"
+      },
+      {
+        "id": 148,
+        "value": "İSTM.ŞSC.06.d. 578/54a"
       }
     ],
     "district_nineteenth_century": [],
@@ -2100,6 +2104,42 @@
       {
         "id": 145,
         "value": "İSTM.ŞSC.06.d. 567/71a"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "99": {
+    "id": 99,
+    "order": "95.00000000000000000000",
+    "name": "Doğancılar (nam mahal)",
+    "grocerist_id": "neighbourhood__99",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 152,
+        "value": "İSTM.ŞSC.06.d. 584/35b"
+      }
+    ],
+    "district_nineteenth_century": [],
+    "persons": []
+  },
+  "100": {
+    "id": 100,
+    "order": "96.00000000000000000000",
+    "name": "Gülfem Hatun",
+    "grocerist_id": "neighbourhood__100",
+    "district_eighteenth_century": [],
+    "geonames_id": "",
+    "latitude": null,
+    "longitute": null,
+    "documents": [
+      {
+        "id": 160,
+        "value": "İSTM.ŞSC.06.d. 598/41a"
       }
     ],
     "district_nineteenth_century": [],
