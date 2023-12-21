@@ -674,7 +674,7 @@
     "name": "Karaköy",
     "grocerist_id": "district__15",
     "geonames_id": "",
-    "wikidata_id": "",
+    "wikidata_id": "https://www.wikidata.org/wiki/Q2706262",
     "comments": "",
     "documents": [
       {
@@ -788,7 +788,7 @@
     "name": "Yeniköy",
     "grocerist_id": "district__9",
     "geonames_id": "",
-    "wikidata_id": "",
+    "wikidata_id": "https://www.wikidata.org/wiki/Q3395754",
     "comments": "Former neighbourhood became a district in the 19th century.",
     "documents": [],
     "persons": [],
@@ -874,7 +874,7 @@
     "name": "Üsküdar",
     "grocerist_id": "district__16",
     "geonames_id": "",
-    "wikidata_id": "",
+    "wikidata_id": "https://www.wikidata.org/wiki/Q326339",
     "comments": "",
     "documents": [
       {
@@ -1272,8 +1272,8 @@
         "value": "Salih beşe b. Abdullah"
       }
     ],
-    "lat": null,
-    "long": null
+    "lat": "41.03232",
+    "long": "29.03176"
   },
   "17": {
     "id": 17,
