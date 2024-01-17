@@ -26,7 +26,12 @@
     "geonames_id": "",
     "lat": "41.0609400000",
     "long": "28.9881000000",
-    "documents": [],
+    "documents": [
+      {
+        "id": 49,
+        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
+      }
+    ],
     "district_nineteenth_century": [],
     "persons": [
       {
@@ -116,8 +121,8 @@
     "grocerist_id": "neighbourhood__6",
     "district_eighteenth_century": [],
     "geonames_id": "",
-    "lat": null,
-    "long": null,
+    "lat": "41.0263900000",
+    "long": "28.9730000000",
     "documents": [
       {
         "id": 1,
@@ -303,8 +308,8 @@
     "grocerist_id": "neighbourhood__14",
     "district_eighteenth_century": [],
     "geonames_id": "",
-    "lat": null,
-    "long": null,
+    "lat": "41.0275400000",
+    "long": "28.9809600000",
     "documents": [],
     "district_nineteenth_century": [],
     "persons": []
@@ -846,8 +851,8 @@
     "grocerist_id": "neighbourhood__37",
     "district_eighteenth_century": [],
     "geonames_id": "",
-    "lat": null,
-    "long": null,
+    "lat": "41.0346000000",
+    "long": "28.9623100000",
     "documents": [
       {
         "id": 27,
@@ -946,8 +951,8 @@
     "grocerist_id": "neighbourhood__41",
     "district_eighteenth_century": [],
     "geonames_id": "",
-    "lat": null,
-    "long": null,
+    "lat": "41.0376100000",
+    "long": "28.9520800000",
     "documents": [
       {
         "id": 20,
@@ -1532,13 +1537,18 @@
   "66": {
     "id": 66,
     "order": "64.00000000000000000000",
-    "name": "Kürkçü",
+    "name": "Kürkçüi11",
     "grocerist_id": "neighbourhood__66",
     "district_eighteenth_century": [],
     "geonames_id": "",
     "lat": null,
     "long": null,
-    "documents": [],
+    "documents": [
+      {
+        "id": 35,
+        "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
+      }
+    ],
     "district_nineteenth_century": [],
     "persons": [
       {
@@ -2030,8 +2040,8 @@
     "grocerist_id": "neighbourhood__95",
     "district_eighteenth_century": [],
     "geonames_id": "",
-    "lat": null,
-    "long": null,
+    "lat": "40.9889460000",
+    "long": "29.0227000000",
     "documents": [
       {
         "id": 112,
