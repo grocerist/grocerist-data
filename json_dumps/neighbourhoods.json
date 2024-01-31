@@ -554,19 +554,6 @@
       }
     ]
   },
-  "25": {
-    "id": 25,
-    "order": "25.00000000000000000000",
-    "name": "İbrahim Efendi",
-    "grocerist_id": "neighbourhood__25",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [],
-    "district_nineteenth_century": [],
-    "persons": []
-  },
   "26": {
     "id": 26,
     "order": "26.00000000000000000000",
@@ -617,24 +604,6 @@
         "value": "Elhac Osman b. İbrahim"
       }
     ]
-  },
-  "28": {
-    "id": 28,
-    "order": "28.00000000000000000000",
-    "name": ".. Bağçesi kurbü",
-    "grocerist_id": "neighbourhood__28",
-    "district_eighteenth_century": [
-      {
-        "id": 8,
-        "value": "İstinye"
-      }
-    ],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [],
-    "district_nineteenth_century": [],
-    "persons": []
   },
   "29": {
     "id": 29,
@@ -772,19 +741,6 @@
         "value": "Bakkal Ali Ağa b. Hasan"
       }
     ]
-  },
-  "32": {
-    "id": 32,
-    "order": "32.00000000000000000000",
-    "name": "Hüseyin Ağa ",
-    "grocerist_id": "neighbourhood__32",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [],
-    "district_nineteenth_century": [],
-    "persons": []
   },
   "33": {
     "id": 33,
@@ -1537,12 +1493,12 @@
   "66": {
     "id": 66,
     "order": "64.00000000000000000000",
-    "name": "Kürkçüi11",
+    "name": "Kürkçü",
     "grocerist_id": "neighbourhood__66",
     "district_eighteenth_century": [],
     "geonames_id": "",
-    "lat": null,
-    "long": null,
+    "lat": "41.0353900000",
+    "long": "28.9646400000",
     "documents": [
       {
         "id": 35,
@@ -1681,8 +1637,8 @@
     "grocerist_id": "neighbourhood__73",
     "district_eighteenth_century": [],
     "geonames_id": "",
-    "lat": null,
-    "long": null,
+    "lat": "41.0338000000",
+    "long": "28.9650400000",
     "documents": [
       {
         "id": 116,
