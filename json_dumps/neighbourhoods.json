@@ -17,29 +17,6 @@
     "district_nineteenth_century": [],
     "persons": []
   },
-  "2": {
-    "id": 2,
-    "order": "2.00000000000000000000",
-    "name": "Tatavla",
-    "grocerist_id": "neighbourhood__2",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": "41.0609400000",
-    "long": "28.9881000000",
-    "documents": [
-      {
-        "id": 49,
-        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 49,
-        "value": "Bakkal Trandafil v. Yori"
-      }
-    ]
-  },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
@@ -60,29 +37,6 @@
       {
         "id": 31,
         "value": "Kosta ve Dimitri v. Nikola"
-      }
-    ]
-  },
-  "4": {
-    "id": 4,
-    "order": "4.00000000000000000000",
-    "name": "Sarıyer",
-    "grocerist_id": "neighbourhood__4",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": "41.1665600000",
-    "long": "29.0571000000",
-    "documents": [
-      {
-        "id": 52,
-        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 52,
-        "value": "Bakkal Yorgi v. Kirikor"
       }
     ]
   },
@@ -168,29 +122,6 @@
       }
     ]
   },
-  "8": {
-    "id": 8,
-    "order": "8.00000000000000000000",
-    "name": "Mehmed Paşa Camii Şerifi karyesi ",
-    "grocerist_id": "neighbourhood__8",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [
-      {
-        "id": 5,
-        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 5,
-        "value": "Yani v. Yorgi"
-      }
-    ]
-  },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
@@ -228,12 +159,7 @@
     "geonames_id": "",
     "lat": "41.0850100000",
     "long": "29.0566500000",
-    "documents": [
-      {
-        "id": 15,
-        "value": "İSTM.ŞSC.14.d.237 / 62b-2"
-      }
-    ],
+    "documents": [],
     "district_nineteenth_century": [],
     "persons": [
       {
@@ -353,33 +279,6 @@
       }
     ]
   },
-  "16": {
-    "id": 16,
-    "order": "16.00000000000000000000",
-    "name": "Galata mevlevihanesi kurbü",
-    "grocerist_id": "neighbourhood__16",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": "41.0282300000",
-    "long": "28.9744400000",
-    "documents": [
-      {
-        "id": 24,
-        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)"
-      },
-      {
-        "id": 59,
-        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 24,
-        "value": "Yani v. Panayot"
-      }
-    ]
-  },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
@@ -467,29 +366,6 @@
       }
     ]
   },
-  "21": {
-    "id": 21,
-    "order": "21.00000000000000000000",
-    "name": "Kale-i Boğazköy",
-    "grocerist_id": "neighbourhood__21",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [
-      {
-        "id": 3,
-        "value": "İSTM.ŞSC.14.d. 189 / 5a-3, 6"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 3,
-        "value": "Bakkal Mustafa Beşe b. Osman"
-      }
-    ]
-  },
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
@@ -554,34 +430,6 @@
       }
     ]
   },
-  "26": {
-    "id": 26,
-    "order": "26.00000000000000000000",
-    "name": "Balık pazarı",
-    "grocerist_id": "neighbourhood__26",
-    "district_eighteenth_century": [
-      {
-        "id": 5,
-        "value": "Galata Harici"
-      }
-    ],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [
-      {
-        "id": 42,
-        "value": "İSTM.ŞSC.14.d. 405/ 37b-1"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 42,
-        "value": "Panayot v. Petro"
-      }
-    ]
-  },
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
@@ -604,100 +452,6 @@
         "value": "Elhac Osman b. İbrahim"
       }
     ]
-  },
-  "29": {
-    "id": 29,
-    "order": "29.00000000000000000000",
-    "name": "Yeniköy",
-    "grocerist_id": "neighbourhood__29",
-    "district_eighteenth_century": [
-      {
-        "id": 8,
-        "value": "İstinye"
-      }
-    ],
-    "geonames_id": "https://www.geonames.org/737627/yenikoey.html",
-    "lat": "41.1241100000",
-    "long": "29.0612400000",
-    "documents": [
-      {
-        "id": 2,
-        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
-      },
-      {
-        "id": 35,
-        "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
-      },
-      {
-        "id": 38,
-        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
-      },
-      {
-        "id": 39,
-        "value": "İSTM.ŞSC.14.d. 394/ 59b-1"
-      },
-      {
-        "id": 44,
-        "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 2,
-        "value": "Bakkal Filibi v. Yorgi"
-      },
-      {
-        "id": 35,
-        "value": "Bakkal Simal v. Nikola"
-      },
-      {
-        "id": 38,
-        "value": "Bakkal Bafi v. Tanaş"
-      },
-      {
-        "id": 39,
-        "value": "Bakkal Totoş"
-      },
-      {
-        "id": 44,
-        "value": "Bakkal Tanaş veled-i  Hristo"
-      }
-    ]
-  },
-  "30": {
-    "id": 30,
-    "order": "30.00000000000000000000",
-    "name": "Karaköy kapısı harici",
-    "grocerist_id": "neighbourhood__30",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [
-      {
-        "id": 26,
-        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (a)"
-      },
-      {
-        "id": 34,
-        "value": "İSTM.ŞSC.14.d. 342/ 60a-1"
-      },
-      {
-        "id": 61,
-        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)"
-      },
-      {
-        "id": 62,
-        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
-      },
-      {
-        "id": 116,
-        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": []
   },
   "31": {
     "id": 31,
@@ -797,60 +551,6 @@
       }
     ]
   },
-  "38": {
-    "id": 38,
-    "order": "37.00000000000000000000",
-    "name": "Bey Bağçesi",
-    "grocerist_id": "neighbourhood__38",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [
-      {
-        "id": 28,
-        "value": "İSTM.ŞSC.14.d.276 / 9b-1"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 28,
-        "value": "Bakkal Molla Hasan b. Abdullah"
-      }
-    ]
-  },
-  "39": {
-    "id": 39,
-    "order": "38.00000000000000000000",
-    "name": "Sandıkçılarbaşı",
-    "grocerist_id": "neighbourhood__39",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [
-      {
-        "id": 29,
-        "value": "İSTM.ŞSC.14.d.289 / 6b-2"
-      },
-      {
-        "id": 31,
-        "value": "İSTM.ŞSC.14.d.304 / 22b-3"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 29,
-        "value": "Nikola veled-i Ulaş"
-      },
-      {
-        "id": 31,
-        "value": "Kosta ve Dimitri v. Nikola"
-      }
-    ]
-  },
   "40": {
     "id": 40,
     "order": "39.00000000000000000000",
@@ -871,29 +571,6 @@
       {
         "id": 45,
         "value": "Bakkal Mehmed Beşe b. Salih"
-      }
-    ]
-  },
-  "41": {
-    "id": 41,
-    "order": "40.00000000000000000000",
-    "name": "Tersane-i Amire",
-    "grocerist_id": "neighbourhood__41",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": "41.0376100000",
-    "long": "28.9520800000",
-    "documents": [
-      {
-        "id": 20,
-        "value": "İSTM.ŞSC.14.d.254 / 3b-1"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 20,
-        "value": "Bakkal Yanaki v. Yani"
       }
     ]
   },
@@ -1069,12 +746,7 @@
     "geonames_id": "",
     "lat": "41.0201000000",
     "long": "29.0194600000",
-    "documents": [
-      {
-        "id": 90,
-        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
-      }
-    ],
+    "documents": [],
     "district_nineteenth_century": [],
     "persons": []
   },
@@ -1206,37 +878,6 @@
       }
     ]
   },
-  "56": {
-    "id": 56,
-    "order": "54.00000000000000000000",
-    "name": "Süleyman Ağa",
-    "grocerist_id": "neighbourhood__56",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [
-      {
-        "id": 77,
-        "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
-      },
-      {
-        "id": 143,
-        "value": "İSTM.ŞSC.06.d. 559/13a"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 77,
-        "value": "Yorgi v. Andon"
-      },
-      {
-        "id": 123,
-        "value": "Salih beşe b. Abdullah"
-      }
-    ]
-  },
   "57": {
     "id": 57,
     "order": "55.00000000000000000000",
@@ -1325,29 +966,6 @@
       {
         "id": 116,
         "value": "Bakkal Elhac Hasan Ağa b. Ali"
-      }
-    ]
-  },
-  "61": {
-    "id": 61,
-    "order": "59.00000000000000000000",
-    "name": "Kasım Ağa Çeşmesi kurbü",
-    "grocerist_id": "neighbourhood__61",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": "41.0180000000",
-    "long": "29.0255400000",
-    "documents": [
-      {
-        "id": 85,
-        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 85,
-        "value": "Bakkal Yani v. Papa Dimitraki"
       }
     ]
   },
@@ -1511,29 +1129,6 @@
       }
     ]
   },
-  "70": {
-    "id": 70,
-    "order": "68.00000000000000000000",
-    "name": "Edine Kapısı harici",
-    "grocerist_id": "neighbourhood__70",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": "41.0315300000",
-    "long": "28.9390500000",
-    "documents": [
-      {
-        "id": 101,
-        "value": "İSTM.ŞSC.15.d. 216 / 42a-1 (a)"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 103,
-        "value": "Bakkal Dimo v. Yorgi"
-      }
-    ]
-  },
   "72": {
     "id": 72,
     "order": "70.00000000000000000000",
@@ -1547,24 +1142,6 @@
       {
         "id": 115,
         "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": []
-  },
-  "73": {
-    "id": 73,
-    "order": "71.00000000000000000000",
-    "name": "Camii Şerif tahtında",
-    "grocerist_id": "neighbourhood__73",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": "41.0338000000",
-    "long": "28.9650400000",
-    "documents": [
-      {
-        "id": 116,
-        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)"
       }
     ],
     "district_nineteenth_century": [],
@@ -1592,24 +1169,6 @@
         "value": "Bakkal Ahmed Beşe b. Hasan"
       }
     ]
-  },
-  "75": {
-    "id": 75,
-    "order": "73.00000000000000000000",
-    "name": "Mahkeme karşısı",
-    "grocerist_id": "neighbourhood__75",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": "41.0237900000",
-    "long": "28.9715400000",
-    "documents": [
-      {
-        "id": 44,
-        "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": []
   },
   "76": {
     "id": 76,
@@ -1642,24 +1201,6 @@
       {
         "id": 117,
         "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": []
-  },
-  "78": {
-    "id": 78,
-    "order": "76.00000000000000000000",
-    "name": "Kolluk karşısında",
-    "grocerist_id": "neighbourhood__78",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [
-      {
-        "id": 89,
-        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
       }
     ],
     "district_nineteenth_century": [],
@@ -1714,46 +1255,6 @@
     "district_nineteenth_century": [],
     "persons": []
   },
-  "82": {
-    "id": 82,
-    "order": "80.00000000000000000000",
-    "name": "Yük iskelesi kurbu",
-    "grocerist_id": "neighbourhood__82",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [
-      {
-        "id": 79,
-        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (a)"
-      },
-      {
-        "id": 125,
-        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (b)"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": []
-  },
-  "83": {
-    "id": 83,
-    "order": "81.00000000000000000000",
-    "name": "Arasta kurbu",
-    "grocerist_id": "neighbourhood__83",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [
-      {
-        "id": 82,
-        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (a)"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": []
-  },
   "84": {
     "id": 84,
     "order": "82.00000000000000000000",
@@ -1789,29 +1290,6 @@
     ],
     "district_nineteenth_century": [],
     "persons": []
-  },
-  "86": {
-    "id": 86,
-    "order": "84.00000000000000000000",
-    "name": "Ağa hamamı mahali",
-    "grocerist_id": "neighbourhood__86",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": "41.0194400000",
-    "long": "29.0169700000",
-    "documents": [
-      {
-        "id": 86,
-        "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 86,
-        "value": "Dimitri v. Polizo"
-      }
-    ]
   },
   "87": {
     "id": 87,
@@ -1867,24 +1345,6 @@
     "district_nineteenth_century": [],
     "persons": []
   },
-  "93": {
-    "id": 93,
-    "order": "90.00000000000000000000",
-    "name": "Ketahorya",
-    "grocerist_id": "neighbourhood__93",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": null,
-    "long": null,
-    "documents": [
-      {
-        "id": 25,
-        "value": "İSTM.ŞSC.14.d.275 / 37a-4"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": []
-  },
   "95": {
     "id": 95,
     "order": "91.00000000000000000000",
@@ -1906,28 +1366,6 @@
         "value": "Üsküdar"
       }
     ],
-    "persons": []
-  },
-  "96": {
-    "id": 96,
-    "order": "92.00000000000000000000",
-    "name": "Hamam-ı kebir kurbünde",
-    "grocerist_id": "neighbourhood__96",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": "41.0234200000",
-    "long": "29.0176500000",
-    "documents": [
-      {
-        "id": 140,
-        "value": "İSTM.ŞSC.06.d. 589/49a"
-      },
-      {
-        "id": 142,
-        "value": "İSTM.ŞSC.06.d. 591/19b"
-      }
-    ],
-    "district_nineteenth_century": [],
     "persons": []
   },
   "97": {
@@ -1966,24 +1404,6 @@
       {
         "id": 145,
         "value": "İSTM.ŞSC.06.d. 567/71a"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": []
-  },
-  "99": {
-    "id": 99,
-    "order": "95.00000000000000000000",
-    "name": "Doğancılar (nam mahal)",
-    "grocerist_id": "neighbourhood__99",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": "41.0198200000",
-    "long": "29.0131900000",
-    "documents": [
-      {
-        "id": 152,
-        "value": "İSTM.ŞSC.06.d. 584/35b"
       }
     ],
     "district_nineteenth_century": [],

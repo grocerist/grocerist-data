@@ -481,5 +481,48 @@
     "grocerist_id": "karye__22",
     "lat": "41.0542400000",
     "long": "29.0682500000"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "name": "",
+    "notes": "",
+    "documents": [],
+    "persons": [],
+    "grocerist_id": "karye__23",
+    "lat": null,
+    "long": null
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "name": "Çekmece-i Kebir",
+    "notes": "",
+    "documents": [
+      {
+        "id": 96,
+        "value": "İSTM.ŞSC.15.d. 174 / 41a-2"
+      }
+    ],
+    "persons": [],
+    "grocerist_id": "karye__24",
+    "lat": null,
+    "long": null
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "name": "Bey Bağçesi",
+    "notes": "",
+    "documents": [
+      {
+        "id": 28,
+        "value": "İSTM.ŞSC.14.d.276 / 9b-1"
+      }
+    ],
+    "persons": [],
+    "grocerist_id": "karye__25",
+    "lat": null,
+    "long": null
   }
 }
