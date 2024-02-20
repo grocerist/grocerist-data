@@ -2,9 +2,7 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "Tophane",
-    "Notes": "",
-    "Active": false,
+    "name": "Tophane",
     "documents": [
       {
         "id": 8,
@@ -24,9 +22,7 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "Kasımpaşa",
-    "Notes": "",
-    "Active": false,
+    "name": "Kasımpaşa",
     "documents": [
       {
         "id": 4,
@@ -66,9 +62,7 @@
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "Name": "Fındıklı",
-    "Notes": "",
-    "Active": false,
+    "name": "Fındıklı",
     "documents": [
       {
         "id": 19,
@@ -84,9 +78,7 @@
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "Name": "Azapkapısı harici",
-    "Notes": "",
-    "Active": false,
+    "name": "Azapkapısı harici",
     "documents": [
       {
         "id": 5,
@@ -98,9 +90,7 @@
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "Name": "Karaköy Kapısı harici",
-    "Notes": "",
-    "Active": false,
+    "name": "Karaköy Kapısı harici",
     "documents": [
       {
         "id": 12,
@@ -132,9 +122,7 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "Name": "Karaköy",
-    "Notes": "",
-    "Active": false,
+    "name": "Karaköy",
     "documents": [
       {
         "id": 29,
@@ -146,18 +134,14 @@
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "Name": "",
-    "Notes": "",
-    "Active": false,
+    "name": "",
     "documents": [],
     "grocerist_id": "quarter__7"
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "Name": "Kurşunlu Mahzen Kapısı dahili",
-    "Notes": "",
-    "Active": false,
+    "name": "Kurşunlu Mahzen Kapısı dahili",
     "documents": [
       {
         "id": 9,
@@ -169,9 +153,7 @@
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "Name": "Yedikule harici",
-    "Notes": "",
-    "Active": false,
+    "name": "Yedikule harici",
     "documents": [
       {
         "id": 135,
@@ -187,9 +169,7 @@
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "Name": "Tatavla",
-    "Notes": "",
-    "Active": false,
+    "name": "Tatavla",
     "documents": [
       {
         "id": 49,
@@ -201,18 +181,14 @@
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "Name": "Edirne Kapısı harici",
-    "Notes": "",
-    "Active": false,
+    "name": "Edirne Kapısı harici",
     "documents": [],
     "grocerist_id": "quarter__11"
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "Name": "Edirne Kapısı harici",
-    "Notes": "",
-    "Active": false,
+    "name": "Edirne Kapısı harici",
     "documents": [
       {
         "id": 101,
@@ -224,9 +200,7 @@
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "Name": "Valide-i Cedid Camii",
-    "Notes": "",
-    "Active": false,
+    "name": "Valide-i Cedid Camii",
     "documents": [
       {
         "id": 71,
@@ -238,9 +212,7 @@
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "Name": "Rumeli Hisarı",
-    "Notes": "",
-    "Active": false,
+    "name": "Rumeli Hisarı",
     "documents": [
       {
         "id": 15,
@@ -252,9 +224,7 @@
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "Name": "Yeniköy",
-    "Notes": "",
-    "Active": false,
+    "name": "Yeniköy",
     "documents": [
       {
         "id": 35,
@@ -274,9 +244,7 @@
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
-    "Name": "Balık Pazarı",
-    "Notes": "",
-    "Active": false,
+    "name": "Balık Pazarı",
     "documents": [
       {
         "id": 42,
@@ -288,9 +256,7 @@
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
-    "Name": "Sarıyer",
-    "Notes": "",
-    "Active": false,
+    "name": "Sarıyer",
     "documents": [
       {
         "id": 52,
@@ -302,9 +268,7 @@
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "Name": "Kale-i Boğazkesen",
-    "Notes": "",
-    "Active": false,
+    "name": "Kale-i Boğazkesen",
     "documents": [
       {
         "id": 3,
@@ -316,9 +280,7 @@
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "Name": "At Pazarı dahili",
-    "Notes": "",
-    "Active": false,
+    "name": "At Pazarı dahili",
     "documents": [
       {
         "id": 90,
