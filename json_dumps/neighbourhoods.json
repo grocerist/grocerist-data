@@ -17,29 +17,6 @@
     "district_nineteenth_century": [],
     "persons": []
   },
-  "3": {
-    "id": 3,
-    "order": "3.00000000000000000000",
-    "name": "Kara Mustafa Paşa",
-    "grocerist_id": "neighbourhood__3",
-    "district_eighteenth_century": [],
-    "geonames_id": "",
-    "lat": "41.0232100000",
-    "long": "28.9769500000",
-    "documents": [
-      {
-        "id": 31,
-        "value": "İSTM.ŞSC.14.d.304 / 22b-3"
-      }
-    ],
-    "district_nineteenth_century": [],
-    "persons": [
-      {
-        "id": 31,
-        "value": "Kosta ve Dimitri v. Nikola"
-      }
-    ]
-  },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
@@ -1158,12 +1135,20 @@
     "long": "28.9769500000",
     "documents": [
       {
+        "id": 31,
+        "value": "İSTM.ŞSC.14.d.304 / 22b-3"
+      },
+      {
         "id": 36,
         "value": "İSTM.ŞSC.14.d.355 / 47b-3"
       }
     ],
     "district_nineteenth_century": [],
     "persons": [
+      {
+        "id": 31,
+        "value": "Kosta ve Dimitri v. Nikola"
+      },
       {
         "id": 36,
         "value": "Bakkal Ahmed Beşe b. Hasan"
