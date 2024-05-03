@@ -12,8 +12,7 @@ for key, value in data.items():
     for x in value["has_category"]:
         cat_id = x["id"]
         cat_value = x["value"]
-        cat_color = x["color"]
-        goods[f"{cat_id}__{cat_value}__{cat_color}"].append(
+        goods[f"{cat_id}__{cat_value}"].append(
             {
                 "grocerist_id": value["grocerist_id"],
                 "name": f'{value["name"]}__{value["id"]}',
@@ -24,7 +23,7 @@ for key, value in data.items():
 category_list = []
 for key, value in goods.items():
     item = {}
-    item["id"], item["name"], item["color"] = key.split("__")
+    item["id"], item["name"] = key.split("__")
     item["grocerist_id"] = f"category__{item['id']}"
     item["goods"] = []
     item["documents"] = []
