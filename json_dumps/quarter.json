@@ -24,8 +24,30 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 8,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 13,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 17,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": []
   },
   "2": {
     "id": 2,
@@ -72,8 +94,65 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 16,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 20,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 27,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 47,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 48,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 49,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 117,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 4,
+          "database_table_1492": 5
+        },
+        "value": "Galata Harici"
+      }
+    ],
+    "upper_admin2": []
   },
   "3": {
     "id": 3,
@@ -96,8 +175,23 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 19,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 45,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": []
   },
   "4": {
     "id": 4,
@@ -116,8 +210,16 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 5,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": []
   },
   "5": {
     "id": 5,
@@ -156,8 +258,51 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 12,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 26,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 34,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 61,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 62,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 116,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": []
   },
   "6": {
     "id": 6,
@@ -176,8 +321,16 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 29,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": []
   },
   "7": {
     "id": 7,
@@ -191,8 +344,8 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": null,
-    "upper_admin2": null
+    "upper_admin1": [],
+    "upper_admin2": []
   },
   "8": {
     "id": 8,
@@ -211,8 +364,16 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 9,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": []
   },
   "9": {
     "id": 9,
@@ -235,8 +396,8 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": null,
-    "upper_admin2": null
+    "upper_admin1": [],
+    "upper_admin2": []
   },
   "10": {
     "id": 10,
@@ -255,8 +416,16 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 49,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": []
   },
   "11": {
     "id": 11,
@@ -270,8 +439,8 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": null,
-    "upper_admin2": null
+    "upper_admin1": [],
+    "upper_admin2": []
   },
   "12": {
     "id": 12,
@@ -290,8 +459,16 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Eyüp",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 101,
+          "database_table_1492": 19
+        },
+        "value": "Eyüp"
+      }
+    ],
+    "upper_admin2": []
   },
   "13": {
     "id": 13,
@@ -310,8 +487,16 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 71,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": []
   },
   "14": {
     "id": 14,
@@ -330,8 +515,16 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 15,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": []
   },
   "15": {
     "id": 15,
@@ -358,8 +551,52 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata",
-    "upper_admin2": "İstinye"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 35,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 39,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 44,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [
+      {
+        "ids": {
+          "database_table_1488": 35,
+          "database_table_2979": 1
+        },
+        "value": "İstinye"
+      },
+      {
+        "ids": {
+          "database_table_1488": 39,
+          "database_table_2979": 1
+        },
+        "value": "İstinye"
+      },
+      {
+        "ids": {
+          "database_table_1488": 44,
+          "database_table_2979": 1
+        },
+        "value": "İstinye"
+      }
+    ]
   },
   "16": {
     "id": 16,
@@ -378,8 +615,16 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata Harici",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 42,
+          "database_table_1492": 5
+        },
+        "value": "Galata Harici"
+      }
+    ],
+    "upper_admin2": []
   },
   "17": {
     "id": 17,
@@ -398,8 +643,24 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata",
-    "upper_admin2": "İstinye"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 52,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [
+      {
+        "ids": {
+          "database_table_1488": 52,
+          "database_table_2979": 1
+        },
+        "value": "İstinye"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -418,8 +679,24 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Galata",
-    "upper_admin2": "İstinye"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 3,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [
+      {
+        "ids": {
+          "database_table_1488": 3,
+          "database_table_2979": 1
+        },
+        "value": "İstinye"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -438,7 +715,15 @@
     "lat": null,
     "long": null,
     "comments": null,
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 90,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": []
   }
 }

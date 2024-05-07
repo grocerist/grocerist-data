@@ -11,11 +11,11 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": null,
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "2": {
     "id": 2,
@@ -29,11 +29,11 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": null,
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "3": {
     "id": 3,
@@ -47,11 +47,11 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": null,
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "4": {
     "id": 4,
@@ -74,11 +74,26 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Galata Harici",
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 24,
+          "database_table_1492": 5
+        },
+        "value": "Galata Harici"
+      },
+      {
+        "ids": {
+          "database_table_1488": 59,
+          "database_table_1492": 5
+        },
+        "value": "Galata Harici"
+      }
+    ],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "5": {
     "id": 5,
@@ -97,11 +112,43 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Galata",
-    "upper_admin4": " Aya Nikoli",
-    "upper_admin2": "İstinye",
-    "upper_admin3": "Yeniköy",
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 44,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin4": [
+      {
+        "ids": {
+          "database_table_1488": 44,
+          "database_table_1493": 33
+        },
+        "value": " Aya Nikoli"
+      }
+    ],
+    "upper_admin2": [
+      {
+        "ids": {
+          "database_table_1488": 44,
+          "database_table_2979": 1
+        },
+        "value": "İstinye"
+      }
+    ],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 44,
+          "database_table_2977": 15
+        },
+        "value": "Yeniköy"
+      }
+    ],
+    "upper_admin5": []
   },
   "6": {
     "id": 6,
@@ -120,11 +167,27 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Galata",
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": "Karaköy Kapısı harici",
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 116,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 116,
+          "database_table_2977": 5
+        },
+        "value": "Karaköy Kapısı harici"
+      }
+    ],
+    "upper_admin5": []
   },
   "7": {
     "id": 7,
@@ -143,11 +206,19 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 89,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "8": {
     "id": 8,
@@ -170,11 +241,26 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 79,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      },
+      {
+        "ids": {
+          "database_table_1488": 125,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "9": {
     "id": 9,
@@ -193,11 +279,19 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 82,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "10": {
     "id": 10,
@@ -216,11 +310,27 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin4": "Arakiyeci Elhac Mehmed",
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 85,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin4": [
+      {
+        "ids": {
+          "database_table_1488": 85,
+          "database_table_1493": 58
+        },
+        "value": "Arakiyeci Elhac Mehmed"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "11": {
     "id": 11,
@@ -239,11 +349,27 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin4": "Hüseyin Ağa",
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 86,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin4": [
+      {
+        "ids": {
+          "database_table_1488": 86,
+          "database_table_1493": 59
+        },
+        "value": "Hüseyin Ağa"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "12": {
     "id": 12,
@@ -266,11 +392,26 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 140,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      },
+      {
+        "ids": {
+          "database_table_1488": 142,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "13": {
     "id": 13,
@@ -289,11 +430,19 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 152,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "14": {
     "id": 14,
@@ -312,11 +461,27 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Galata",
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": "Azapkapısı harici",
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 5,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 5,
+          "database_table_2977": 4
+        },
+        "value": "Azapkapısı harici"
+      }
+    ],
+    "upper_admin5": []
   },
   "15": {
     "id": 15,
@@ -335,11 +500,19 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Galata Harici",
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 25,
+          "database_table_1492": 5
+        },
+        "value": "Galata Harici"
+      }
+    ],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "16": {
     "id": 16,
@@ -358,11 +531,27 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Galata",
-    "upper_admin4": "Kemankeş Kara Mustafa Paşa",
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 31,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin4": [
+      {
+        "ids": {
+          "database_table_1488": 31,
+          "database_table_1493": 74
+        },
+        "value": "Kemankeş Kara Mustafa Paşa"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   },
   "17": {
     "id": 17,
@@ -381,11 +570,27 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Galata",
-    "upper_admin4": null,
-    "upper_admin2": null,
-    "upper_admin3": "Kasımpaşa",
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 20,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin4": [],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 20,
+          "database_table_2977": 2
+        },
+        "value": "Kasımpaşa"
+      }
+    ],
+    "upper_admin5": []
   },
   "18": {
     "id": 18,
@@ -404,10 +609,26 @@
     "geonames_id": "",
     "wikidata_id": "",
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin4": "Köprübaşı",
-    "upper_admin2": null,
-    "upper_admin3": null,
-    "upper_admin5": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 77,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin4": [
+      {
+        "ids": {
+          "database_table_1488": 77,
+          "database_table_1493": 57
+        },
+        "value": "Köprübaşı"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [],
+    "upper_admin5": []
   }
 }

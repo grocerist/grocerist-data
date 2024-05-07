@@ -26,9 +26,17 @@
         "value": "Bakkal Kiro v. Yani"
       }
     ],
-    "upper_admin1": "Galata Harici",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 14,
+          "database_table_1492": 5
+        },
+        "value": "Galata Harici"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "6": {
     "id": 6,
@@ -52,9 +60,17 @@
         "value": "Bakkal Hasan Beşe b. Abdullah"
       }
     ],
-    "upper_admin1": "Galata Dahili",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 1,
+          "database_table_1492": 10
+        },
+        "value": "Galata Dahili"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "7": {
     "id": 7,
@@ -86,9 +102,17 @@
         "value": "Dimitri v. Polizo"
       }
     ],
-    "upper_admin1": "Galata Harici",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 50,
+          "database_table_1492": 5
+        },
+        "value": "Galata Harici"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "9": {
     "id": 9,
@@ -117,9 +141,17 @@
         "value": "Bakkal Yorgi"
       }
     ],
-    "upper_admin1": "Galata Harici",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 6,
+          "database_table_1492": 5
+        },
+        "value": "Galata Harici"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "12": {
     "id": 12,
@@ -143,9 +175,25 @@
         "value": "Bakkal Ali Beşe b. Mehmed"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": null,
-    "upper_admin3": "Kasımpaşa"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 16,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 16,
+          "database_table_2977": 2
+        },
+        "value": "Kasımpaşa"
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -169,9 +217,25 @@
         "value": "Yenişehirli Dimitri v. Nikola"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": null,
-    "upper_admin3": "Kasımpaşa"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 47,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 47,
+          "database_table_2977": 2
+        },
+        "value": "Kasımpaşa"
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -211,9 +275,31 @@
         "value": "Bakkal Dimitri v. Hristo"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 7,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 10,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 129,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "17": {
     "id": 17,
@@ -237,9 +323,25 @@
         "value": "Bakkal Todori v. Dimo"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": "Beşiktaş",
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 23,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [
+      {
+        "ids": {
+          "database_table_1488": 23,
+          "database_table_2979": 2
+        },
+        "value": "Beşiktaş"
+      }
+    ],
+    "upper_admin3": []
   },
   "18": {
     "id": 18,
@@ -263,9 +365,9 @@
         "value": "Bakkal Hasan Beşe b. Ali"
       }
     ],
-    "upper_admin1": null,
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "19": {
     "id": 19,
@@ -284,9 +386,17 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": "Galata",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 22,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "20": {
     "id": 20,
@@ -310,9 +420,25 @@
         "value": "Bakkal Elhac Ahmed b. Resul"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": null,
-    "upper_admin3": "Tophane"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 17,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 17,
+          "database_table_2977": 1
+        },
+        "value": "Tophane"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -336,9 +462,25 @@
         "value": "Mustafa Beşe b. Abdullah"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": null,
-    "upper_admin3": "Kurşunlu Mahzen Kapısı dahili"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 9,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 9,
+          "database_table_2977": 8
+        },
+        "value": "Kurşunlu Mahzen Kapısı dahili"
+      }
+    ]
   },
   "24": {
     "id": 24,
@@ -362,9 +504,17 @@
         "value": "Bakkal Yani v.  Andon"
       }
     ],
-    "upper_admin1": "Galata Harici",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 43,
+          "database_table_1492": 5
+        },
+        "value": "Galata Harici"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "27": {
     "id": 27,
@@ -388,9 +538,17 @@
         "value": "Elhac Osman b. İbrahim"
       }
     ],
-    "upper_admin1": "Galata Dahili",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 18,
+          "database_table_1492": 10
+        },
+        "value": "Galata Dahili"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "31": {
     "id": 31,
@@ -434,9 +592,46 @@
         "value": "Bakkal Ali Ağa b. Hasan"
       }
     ],
-    "upper_admin1": "Eyüp",
-    "upper_admin2": null,
-    "upper_admin3": "Kasımpaşa"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 30,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 4,
+          "database_table_1492": 5
+        },
+        "value": "Galata Harici"
+      },
+      {
+        "ids": {
+          "database_table_1488": 105,
+          "database_table_1492": 19
+        },
+        "value": "Eyüp"
+      },
+      {
+        "ids": {
+          "database_table_1488": 139,
+          "database_table_1492": 19
+        },
+        "value": "Eyüp"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 4,
+          "database_table_2977": 2
+        },
+        "value": "Kasımpaşa"
+      }
+    ]
   },
   "33": {
     "id": 33,
@@ -464,9 +659,54 @@
         "value": "Bakkal Tanaş veled-i  Hristo"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": "İstinye",
-    "upper_admin3": "Yeniköy"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 39,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 44,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [
+      {
+        "ids": {
+          "database_table_1488": 39,
+          "database_table_2979": 1
+        },
+        "value": "İstinye"
+      },
+      {
+        "ids": {
+          "database_table_1488": 44,
+          "database_table_2979": 1
+        },
+        "value": "İstinye"
+      }
+    ],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 39,
+          "database_table_2977": 15
+        },
+        "value": "Yeniköy"
+      },
+      {
+        "ids": {
+          "database_table_1488": 44,
+          "database_table_2977": 15
+        },
+        "value": "Yeniköy"
+      }
+    ]
   },
   "37": {
     "id": 37,
@@ -490,9 +730,25 @@
         "value": "Bakkal Nikola v. Dimitri"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": null,
-    "upper_admin3": "Kasımpaşa"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 27,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 27,
+          "database_table_2977": 2
+        },
+        "value": "Kasımpaşa"
+      }
+    ]
   },
   "40": {
     "id": 40,
@@ -516,9 +772,25 @@
         "value": "Bakkal Mehmed Beşe b. Salih"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": null,
-    "upper_admin3": "Fındıklı"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 45,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 45,
+          "database_table_2977": 3
+        },
+        "value": "Fındıklı"
+      }
+    ]
   },
   "42": {
     "id": 42,
@@ -554,9 +826,40 @@
         "value": "Bakkal Konstantin v. Horosu"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": "İstinye",
-    "upper_admin3": "Sarıyer"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 52,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 127,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [
+      {
+        "ids": {
+          "database_table_1488": 52,
+          "database_table_2979": 1
+        },
+        "value": "İstinye"
+      }
+    ],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 52,
+          "database_table_2977": 17
+        },
+        "value": "Sarıyer"
+      }
+    ]
   },
   "43": {
     "id": 43,
@@ -575,9 +878,17 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": "Galata Harici",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 60,
+          "database_table_1492": 5
+        },
+        "value": "Galata Harici"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "44": {
     "id": 44,
@@ -601,9 +912,25 @@
         "value": "Astavor v. Yako"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": null,
-    "upper_admin3": "Fındıklı"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 19,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 19,
+          "database_table_2977": 3
+        },
+        "value": "Fındıklı"
+      }
+    ]
   },
   "46": {
     "id": 46,
@@ -627,9 +954,25 @@
         "value": "Yorgi v. Hristo"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": "İstinye",
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 11,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [
+      {
+        "ids": {
+          "database_table_1488": 11,
+          "database_table_2979": 1
+        },
+        "value": "İstinye"
+      }
+    ],
+    "upper_admin3": []
   },
   "48": {
     "id": 48,
@@ -681,9 +1024,38 @@
         "value": "Bakkal Kosta v. Piyo"
       }
     ],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 91,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      },
+      {
+        "ids": {
+          "database_table_1488": 66,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      },
+      {
+        "ids": {
+          "database_table_1488": 67,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      },
+      {
+        "ids": {
+          "database_table_1488": 72,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "51": {
     "id": 51,
@@ -707,9 +1079,17 @@
         "value": "Tanaş v. Dimitri"
       }
     ],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 70,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "52": {
     "id": 52,
@@ -769,9 +1149,45 @@
         "value": "Bakkal Konstantin v. Horosu"
       }
     ],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 73,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      },
+      {
+        "ids": {
+          "database_table_1488": 81,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      },
+      {
+        "ids": {
+          "database_table_1488": 111,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      },
+      {
+        "ids": {
+          "database_table_1488": 144,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      },
+      {
+        "ids": {
+          "database_table_1488": 148,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "53": {
     "id": 53,
@@ -795,9 +1211,17 @@
         "value": "Elhac Mahmud Ağa b. Hasan"
       }
     ],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 74,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "54": {
     "id": 54,
@@ -821,9 +1245,17 @@
         "value": "Vasil v. Dimitri"
       }
     ],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 76,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "57": {
     "id": 57,
@@ -847,9 +1279,17 @@
         "value": "Yorgi v. Andon"
       }
     ],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 77,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "58": {
     "id": 58,
@@ -873,9 +1313,17 @@
         "value": "Bakkal Yani v. Papa Dimitraki"
       }
     ],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 85,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "59": {
     "id": 59,
@@ -894,9 +1342,17 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 86,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "60": {
     "id": 60,
@@ -924,9 +1380,17 @@
         "value": "Bakkal Elhac Hasan Ağa b. Ali"
       }
     ],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 87,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "62": {
     "id": 62,
@@ -950,9 +1414,17 @@
         "value": "Yovan v. Vasil"
       }
     ],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 80,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "63": {
     "id": 63,
@@ -976,9 +1448,17 @@
         "value": "Bakkal Ahmed Beşe b. Abdullah"
       }
     ],
-    "upper_admin1": "Eyüp",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 92,
+          "database_table_1492": 19
+        },
+        "value": "Eyüp"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "64": {
     "id": 64,
@@ -1002,9 +1482,17 @@
       }
     ],
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 109,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "65": {
     "id": 65,
@@ -1023,9 +1511,17 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 64,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "66": {
     "id": 66,
@@ -1049,9 +1545,33 @@
         "value": "Bakkal Simal v. Nikola"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": "İstinye",
-    "upper_admin3": "Yeniköy"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 35,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [
+      {
+        "ids": {
+          "database_table_1488": 35,
+          "database_table_2979": 1
+        },
+        "value": "İstinye"
+      }
+    ],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 35,
+          "database_table_2977": 15
+        },
+        "value": "Yeniköy"
+      }
+    ]
   },
   "67": {
     "id": 67,
@@ -1075,9 +1595,17 @@
         "value": "Yorgi v. Franko"
       }
     ],
-    "upper_admin1": "Eyüp",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 95,
+          "database_table_1492": 19
+        },
+        "value": "Eyüp"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "69": {
     "id": 69,
@@ -1105,9 +1633,24 @@
         "value": "Bakkal Yorgi"
       }
     ],
-    "upper_admin1": "Eyüp",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 97,
+          "database_table_1492": 19
+        },
+        "value": "Eyüp"
+      },
+      {
+        "ids": {
+          "database_table_1488": 137,
+          "database_table_1492": 19
+        },
+        "value": "Eyüp"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "72": {
     "id": 72,
@@ -1126,9 +1669,17 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": "Galata Harici",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 115,
+          "database_table_1492": 5
+        },
+        "value": "Galata Harici"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "74": {
     "id": 74,
@@ -1160,9 +1711,24 @@
         "value": "Bakkal Ahmed Beşe b. Hasan"
       }
     ],
-    "upper_admin1": "Galata",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 31,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      },
+      {
+        "ids": {
+          "database_table_1488": 36,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "76": {
     "id": 76,
@@ -1181,9 +1747,32 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": "Galata",
-    "upper_admin2": null,
-    "upper_admin3": "Kasımpaşa"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 49,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 49,
+          "database_table_2977": 2
+        },
+        "value": "Kasımpaşa"
+      },
+      {
+        "ids": {
+          "database_table_1488": 49,
+          "database_table_2977": 10
+        },
+        "value": "Tatavla"
+      }
+    ]
   },
   "77": {
     "id": 77,
@@ -1202,9 +1791,25 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": "Galata",
-    "upper_admin2": null,
-    "upper_admin3": "Kasımpaşa"
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 117,
+          "database_table_1492": 4
+        },
+        "value": "Galata"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": [
+      {
+        "ids": {
+          "database_table_1488": 117,
+          "database_table_2977": 2
+        },
+        "value": "Kasımpaşa"
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -1223,9 +1828,17 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 120,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "80": {
     "id": 80,
@@ -1244,9 +1857,17 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 122,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "81": {
     "id": 81,
@@ -1260,9 +1881,9 @@
     "documents": [],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": null,
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "84": {
     "id": 84,
@@ -1281,9 +1902,17 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 83,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "85": {
     "id": 85,
@@ -1302,9 +1931,9 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": null,
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "87": {
     "id": 87,
@@ -1323,9 +1952,9 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": null,
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "88": {
     "id": 88,
@@ -1344,9 +1973,9 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": null,
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "91": {
     "id": 91,
@@ -1365,9 +1994,9 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": null,
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "95": {
     "id": 95,
@@ -1391,9 +2020,17 @@
       }
     ],
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 112,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "97": {
     "id": 97,
@@ -1417,9 +2054,17 @@
       }
     ],
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 141,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "98": {
     "id": 98,
@@ -1438,9 +2083,17 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 145,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   },
   "100": {
     "id": 100,
@@ -1459,8 +2112,16 @@
     ],
     "district_nineteenth_century": [],
     "persons": [],
-    "upper_admin1": "Üsküdar",
-    "upper_admin2": null,
-    "upper_admin3": null
+    "upper_admin1": [
+      {
+        "ids": {
+          "database_table_1488": 160,
+          "database_table_1492": 16
+        },
+        "value": "Üsküdar"
+      }
+    ],
+    "upper_admin2": [],
+    "upper_admin3": []
   }
 }
