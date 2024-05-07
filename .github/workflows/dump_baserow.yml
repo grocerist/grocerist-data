@@ -33,6 +33,9 @@ jobs:
       - name: add category to documents
         run: |
           python add_good_cat.py
+      - name: filter upper administrative unit lists
+        run: |
+          python unique_upper_admins.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
