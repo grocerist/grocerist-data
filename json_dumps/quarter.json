@@ -27,14 +27,14 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 13,
+                    "database_table_1488": 17,
                     "database_table_1492": 4
                 },
                 "value": "Galata"
             },
             {
                 "ids": {
-                    "database_table_1488": 17,
+                    "database_table_1488": 13,
                     "database_table_1492": 4
                 },
                 "value": "Galata"
@@ -97,6 +97,20 @@
         "upper_admin1": [
             {
                 "ids": {
+                    "database_table_1488": 20,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 27,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            },
+            {
+                "ids": {
                     "database_table_1488": 47,
                     "database_table_1492": 4
                 },
@@ -111,7 +125,7 @@
             },
             {
                 "ids": {
-                    "database_table_1488": 49,
+                    "database_table_1488": 117,
                     "database_table_1492": 4
                 },
                 "value": "Galata"
@@ -132,21 +146,7 @@
             },
             {
                 "ids": {
-                    "database_table_1488": 117,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 20,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 27,
+                    "database_table_1488": 49,
                     "database_table_1492": 4
                 },
                 "value": "Galata"
@@ -178,14 +178,14 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 45,
+                    "database_table_1488": 19,
                     "database_table_1492": 4
                 },
                 "value": "Galata"
             },
             {
                 "ids": {
-                    "database_table_1488": 19,
+                    "database_table_1488": 45,
                     "database_table_1492": 4
                 },
                 "value": "Galata"
@@ -261,14 +261,14 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 116,
+                    "database_table_1488": 61,
                     "database_table_1492": 4
                 },
                 "value": "Galata"
             },
             {
                 "ids": {
-                    "database_table_1488": 61,
+                    "database_table_1488": 62,
                     "database_table_1492": 4
                 },
                 "value": "Galata"
@@ -289,7 +289,7 @@
             },
             {
                 "ids": {
-                    "database_table_1488": 62,
+                    "database_table_1488": 116,
                     "database_table_1492": 4
                 },
                 "value": "Galata"
@@ -554,7 +554,7 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 39,
+                    "database_table_1488": 35,
                     "database_table_1492": 4
                 },
                 "value": "Galata"
@@ -568,7 +568,7 @@
             },
             {
                 "ids": {
-                    "database_table_1488": 35,
+                    "database_table_1488": 39,
                     "database_table_1492": 4
                 },
                 "value": "Galata"
@@ -577,14 +577,14 @@
         "upper_admin2": [
             {
                 "ids": {
-                    "database_table_1488": 44,
+                    "database_table_1488": 39,
                     "database_table_2979": 1
                 },
                 "value": "İstinye"
             },
             {
                 "ids": {
-                    "database_table_1488": 39,
+                    "database_table_1488": 44,
                     "database_table_2979": 1
                 },
                 "value": "İstinye"

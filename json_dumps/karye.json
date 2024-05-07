@@ -57,14 +57,7 @@
         "upper_admin2": [
             {
                 "ids": {
-                    "database_table_1488": 37,
-                    "database_table_2979": 2
-                },
-                "value": "Beşiktaş"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 33,
+                    "database_table_1488": 51,
                     "database_table_2979": 2
                 },
                 "value": "Beşiktaş"
@@ -78,7 +71,14 @@
             },
             {
                 "ids": {
-                    "database_table_1488": 51,
+                    "database_table_1488": 37,
+                    "database_table_2979": 2
+                },
+                "value": "Beşiktaş"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 33,
                     "database_table_2979": 2
                 },
                 "value": "Beşiktaş"
@@ -87,20 +87,6 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 41,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 33,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            },
-            {
-                "ids": {
                     "database_table_1488": 37,
                     "database_table_1492": 4
                 },
@@ -108,7 +94,21 @@
             },
             {
                 "ids": {
+                    "database_table_1488": 41,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            },
+            {
+                "ids": {
                     "database_table_1488": 51,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 33,
                     "database_table_1492": 4
                 },
                 "value": "Galata"
@@ -215,14 +215,14 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 113,
+                    "database_table_1488": 69,
                     "database_table_1492": 16
                 },
                 "value": "Üsküdar"
             },
             {
                 "ids": {
-                    "database_table_1488": 69,
+                    "database_table_1488": 113,
                     "database_table_1492": 16
                 },
                 "value": "Üsküdar"
@@ -319,14 +319,14 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 84,
+                    "database_table_1488": 78,
                     "database_table_1492": 16
                 },
                 "value": "Üsküdar"
             },
             {
                 "ids": {
-                    "database_table_1488": 78,
+                    "database_table_1488": 84,
                     "database_table_1492": 16
                 },
                 "value": "Üsküdar"
@@ -607,7 +607,7 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 123,
+                    "database_table_1488": 124,
                     "database_table_1492": 16
                 },
                 "value": "Üsküdar"
@@ -621,7 +621,7 @@
             },
             {
                 "ids": {
-                    "database_table_1488": 124,
+                    "database_table_1488": 123,
                     "database_table_1492": 16
                 },
                 "value": "Üsküdar"
@@ -737,14 +737,14 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 147,
+                    "database_table_1488": 146,
                     "database_table_1492": 16
                 },
                 "value": "Üsküdar"
             },
             {
                 "ids": {
-                    "database_table_1488": 146,
+                    "database_table_1488": 147,
                     "database_table_1492": 16
                 },
                 "value": "Üsküdar"
