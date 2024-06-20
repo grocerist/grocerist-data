@@ -2,7 +2,7 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "name": "Hazelnut",
+    "name": "Fındık",
     "grocerist_id": "goods__1",
     "documents": [
       {
@@ -91,7 +91,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 64,
@@ -170,7 +170,7 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Fındık",
+    "english_names": "Hazelnut",
     "spelling_variations_and_synonyms": null,
     "notes": null,
     "sophisticated": false,
@@ -189,7 +189,7 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "Fıstık (Pistachio)",
+    "name": "Fıstık",
     "grocerist_id": "goods__2",
     "documents": [
       {
@@ -284,7 +284,7 @@
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "name": "Badem (Almond)",
+    "name": "Badem",
     "grocerist_id": "goods__3",
     "documents": [
       {
@@ -351,7 +351,7 @@
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "name": "Ceviz (Walnut)",
+    "name": "Ceviz",
     "grocerist_id": "goods__4",
     "documents": [
       {
@@ -422,7 +422,7 @@
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "name": "Zeytin yağı (Olive Oil)",
+    "name": "Zeytin yağı",
     "grocerist_id": "goods__5",
     "documents": [
       {
@@ -531,7 +531,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 59,
@@ -618,8 +618,8 @@
         "value": "İSTM.ŞSC.06.d. 584/30a-1"
       }
     ],
-    "english_names": "Revgan-ı zeyt",
-    "spelling_variations_and_synonyms": "Zeyt yağı, revgan-ı zeyd",
+    "english_names": "Olive oil",
+    "spelling_variations_and_synonyms": "Zeyt yağı, Revgan-ı zeyd",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -637,7 +637,7 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "name": "Sadeyağ (Ghee, Clarified Butter)",
+    "name": "Sadeyağ",
     "grocerist_id": "goods__6",
     "documents": [
       {
@@ -730,7 +730,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 59,
@@ -821,8 +821,8 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Revgan-ı sade",
-    "spelling_variations_and_synonyms": "Sadeyağ",
+    "english_names": "Ghee, Clarified Butter",
+    "spelling_variations_and_synonyms": "Revgan-ı sade",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -844,7 +844,7 @@
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "name": "Don yağı (Tallow)",
+    "name": "Don yağı",
     "grocerist_id": "goods__7",
     "documents": [
       {
@@ -868,7 +868,7 @@
         "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)"
       }
     ],
-    "english_names": "Don yağı",
+    "english_names": "Tallow",
     "spelling_variations_and_synonyms": "Ton yağı, Doñ yağı",
     "notes": null,
     "sophisticated": false,
@@ -887,7 +887,7 @@
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "name": "Kaşkaval (Kashkaval)",
+    "name": "Kaşkaval",
     "grocerist_id": "goods__9",
     "documents": [
       {
@@ -1019,7 +1019,7 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Kaşkaval",
+    "english_names": "Kashkaval",
     "spelling_variations_and_synonyms": null,
     "notes": null,
     "sophisticated": false,
@@ -1189,7 +1189,7 @@
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "name": "Börülce (Pea)",
+    "name": "Böğrülce",
     "grocerist_id": "goods__12",
     "documents": [
       {
@@ -1321,7 +1321,7 @@
         "value": "İSTM.ŞSC.06.d. 589/56b"
       }
     ],
-    "english_names": "Börülce",
+    "english_names": "Pea",
     "spelling_variations_and_synonyms": "Böğrülce, Bölürce",
     "notes": null,
     "sophisticated": false,
@@ -1340,7 +1340,7 @@
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "name": "Nohut (Chickpea)",
+    "name": "Nohut",
     "grocerist_id": "goods__13",
     "documents": [
       {
@@ -1409,7 +1409,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 60,
@@ -1500,8 +1500,8 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Nohud",
-    "spelling_variations_and_synonyms": null,
+    "english_names": "Chickpea",
+    "spelling_variations_and_synonyms": "Nohud",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -1519,7 +1519,7 @@
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "name": "Mercimek (Lentil)",
+    "name": "Mercimek",
     "grocerist_id": "goods__14",
     "documents": [
       {
@@ -1647,7 +1647,7 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Mercimek",
+    "english_names": "Lentil",
     "spelling_variations_and_synonyms": null,
     "notes": null,
     "sophisticated": false,
@@ -1666,7 +1666,7 @@
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "name": "Pirinç (Rice)",
+    "name": "Pirinç",
     "grocerist_id": "goods__15",
     "documents": [
       {
@@ -1771,7 +1771,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 60,
@@ -1882,7 +1882,7 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Pirinç",
+    "english_names": "Rice",
     "spelling_variations_and_synonyms": null,
     "notes": null,
     "sophisticated": false,
@@ -1961,8 +1961,8 @@
         "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
       }
     ],
-    "english_names": "Beylerce üzüm",
-    "spelling_variations_and_synonyms": null,
+    "english_names": "",
+    "spelling_variations_and_synonyms": "Beylerce üzüm",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -2044,8 +2044,8 @@
         "value": "İSTM.ŞSC.06.d. 578/53b-1"
       }
     ],
-    "english_names": "Razaki üzüm",
-    "spelling_variations_and_synonyms": null,
+    "english_names": "",
+    "spelling_variations_and_synonyms": "Razaki üzüm",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -2087,8 +2087,8 @@
         "value": "İSTM.ŞSC.14.d.222 / 45a-2"
       }
     ],
-    "english_names": "Kızıl üzüm",
-    "spelling_variations_and_synonyms": null,
+    "english_names": "",
+    "spelling_variations_and_synonyms": "Kızıl üzüm",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -2158,8 +2158,8 @@
         "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
       }
     ],
-    "english_names": "Siyah üzüm",
-    "spelling_variations_and_synonyms": "İzmir siyahı",
+    "english_names": "",
+    "spelling_variations_and_synonyms": "Siyah üzüm, İzmir siyahı",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -2185,7 +2185,7 @@
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
-    "name": "İncir (Fig)",
+    "name": "İncir",
     "grocerist_id": "goods__21",
     "documents": [
       {
@@ -2277,7 +2277,7 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "İncir",
+    "english_names": "Fig",
     "spelling_variations_and_synonyms": null,
     "notes": null,
     "sophisticated": false,
@@ -2304,7 +2304,7 @@
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
-    "name": "Keçiboynuzu / Harnup (Carob)",
+    "name": "Keçiboynuzu / Harnup",
     "grocerist_id": "goods__22",
     "documents": [
       {
@@ -2344,7 +2344,7 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Harnup",
+    "english_names": "Carob",
     "spelling_variations_and_synonyms": "Keçi boynuzu; Harnub, Harnup",
     "notes": null,
     "sophisticated": false,
@@ -2363,7 +2363,7 @@
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
-    "name": "Pekmez (Molasses)",
+    "name": "Pekmez",
     "grocerist_id": "goods__23",
     "documents": [
       {
@@ -2428,7 +2428,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 60,
@@ -2511,8 +2511,8 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Pekmez",
-    "spelling_variations_and_synonyms": "betmez, bekmez",
+    "english_names": "Molasses",
+    "spelling_variations_and_synonyms": "Betmez, Bekmez",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -2534,7 +2534,7 @@
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
-    "name": "Nardenk",
+    "name": "Nardeng",
     "grocerist_id": "goods__24",
     "documents": [
       {
@@ -2603,7 +2603,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 65,
@@ -2685,7 +2685,7 @@
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
-    "name": "Bal / Asel (Honey)",
+    "name": "Bal / Asel",
     "grocerist_id": "goods__25",
     "documents": [
       {
@@ -2750,7 +2750,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 59,
@@ -2825,7 +2825,7 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Asel, Bal",
+    "english_names": "Honey",
     "spelling_variations_and_synonyms": "Bal",
     "notes": null,
     "sophisticated": false,
@@ -2875,7 +2875,7 @@
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
-    "name": "Nişasta (Starch)",
+    "name": "Nişasta",
     "grocerist_id": "goods__27",
     "documents": [
       {
@@ -2948,7 +2948,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 59,
@@ -3027,7 +3027,7 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Nişasta",
+    "english_names": "Starch)",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -3143,7 +3143,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 52,
@@ -3261,7 +3261,7 @@
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "name": "Soğan (Onion)",
+    "name": "Soğan",
     "grocerist_id": "goods__29",
     "documents": [
       {
@@ -3425,7 +3425,7 @@
         "value": "İSTM.ŞSC.06.d. 584/30a-1"
       }
     ],
-    "english_names": "Soğan",
+    "english_names": "Onion",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -3444,7 +3444,7 @@
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
-    "name": "Tuz (Salt)",
+    "name": "Tuz",
     "grocerist_id": "goods__30",
     "documents": [
       {
@@ -3548,7 +3548,7 @@
         "value": "İSTM.ŞSC.06.d. 589/56b"
       }
     ],
-    "english_names": "Tuz",
+    "english_names": "Salt",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -3567,7 +3567,7 @@
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
-    "name": "Sarımsak (Garlic)",
+    "name": "Sarımsak",
     "grocerist_id": "goods__31",
     "documents": [
       {
@@ -3651,7 +3651,7 @@
         "value": "İSTM.ŞSC.06.d. 584/30a-1"
       }
     ],
-    "english_names": "Sarımsak",
+    "english_names": "Garlic",
     "spelling_variations_and_synonyms": "Sarmusak",
     "notes": null,
     "sophisticated": false,
@@ -3697,7 +3697,7 @@
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
-    "name": "Kefe tuzu (Kefe salt)",
+    "name": "Kefe tuzu",
     "grocerist_id": "goods__33",
     "documents": [
       {
@@ -3785,7 +3785,7 @@
         "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
       }
     ],
-    "english_names": "Kefe tuzu",
+    "english_names": "Kefe salt",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -3808,7 +3808,7 @@
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
-    "name": "Zeytin (Olive)",
+    "name": "Zeytin",
     "grocerist_id": "goods__34",
     "documents": [
       {
@@ -3873,7 +3873,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 89,
@@ -3928,8 +3928,8 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Zeytūn",
-    "spelling_variations_and_synonyms": "",
+    "english_names": "Olive",
+    "spelling_variations_and_synonyms": "Zeytūn",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -3947,7 +3947,7 @@
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "name": "Tütün (Tobacco)",
+    "name": "Tütün",
     "grocerist_id": "goods__35",
     "documents": [
       {
@@ -3967,8 +3967,8 @@
         "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
       }
     ],
-    "english_names": "Duhan",
-    "spelling_variations_and_synonyms": "",
+    "english_names": "Tobacco",
+    "spelling_variations_and_synonyms": "Duhan",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -3982,7 +3982,7 @@
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
-    "name": "Şariye (Vermicelli)",
+    "name": "Şariye",
     "grocerist_id": "goods__36",
     "documents": [
       {
@@ -4051,7 +4051,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 59,
@@ -4122,7 +4122,7 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Şariyye",
+    "english_names": "Vermicelli",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -4141,7 +4141,7 @@
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
-    "name": "Balık turşusu (Pickled fish)",
+    "name": "Balık turşusu",
     "grocerist_id": "goods__37",
     "documents": [
       {
@@ -4153,7 +4153,7 @@
         "value": "İSTM.ŞSC.06.d.505 / 83a-3"
       }
     ],
-    "english_names": "Balık turşusu",
+    "english_names": "Pickled fish",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -4172,7 +4172,7 @@
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
-    "name": "Havyar (Caviar)",
+    "name": "Havyar",
     "grocerist_id": "goods__38",
     "documents": [
       {
@@ -4208,7 +4208,7 @@
         "value": "İSTM.ŞSC.06.d. 584/30a-1"
       }
     ],
-    "english_names": "Havyar",
+    "english_names": "Caviar",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -4243,7 +4243,7 @@
         "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
       }
     ],
-    "english_names": "Lahana turşusu",
+    "english_names": "Pickled cabbage",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -4365,7 +4365,7 @@
   "42": {
     "id": 42,
     "order": "42.00000000000000000000",
-    "name": "Eflak tuzu (Eflak salt)",
+    "name": "Eflak tuzu",
     "grocerist_id": "goods__42",
     "documents": [
       {
@@ -4417,7 +4417,7 @@
         "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
       }
     ],
-    "english_names": "Eflak tuzu",
+    "english_names": "Wallachia salt",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -4440,7 +4440,7 @@
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
-    "name": "Hurda tuz (Scrap salt)",
+    "name": "Hurda tuz",
     "grocerist_id": "goods__43",
     "documents": [
       {
@@ -4456,7 +4456,7 @@
         "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
       }
     ],
-    "english_names": "Hurda tuz",
+    "english_names": "Scrap salt",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -4479,7 +4479,7 @@
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
-    "name": "Buğday (Wheat)",
+    "name": "Buğday",
     "grocerist_id": "goods__44",
     "documents": [
       {
@@ -4519,7 +4519,7 @@
         "value": "İSTM.ŞSC.06.d. 584/30a-1"
       }
     ],
-    "english_names": "Buğday",
+    "english_names": "Wheat",
     "spelling_variations_and_synonyms": "Hınta",
     "notes": null,
     "sophisticated": false,
@@ -4629,7 +4629,7 @@
   "46": {
     "id": 46,
     "order": "46.00000000000000000000",
-    "name": "Şair (Barley)",
+    "name": "Şair",
     "grocerist_id": "goods__46",
     "documents": [
       {
@@ -4701,8 +4701,8 @@
         "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
       }
     ],
-    "english_names": "Şa‘īr",
-    "spelling_variations_and_synonyms": "Arpa",
+    "english_names": "Barley",
+    "spelling_variations_and_synonyms": "Arpa, Şa'ir",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -4763,7 +4763,7 @@
         "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60"
       }
     ],
-    "english_names": "",
+    "english_names": "Raisins",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -4790,7 +4790,7 @@
   "49": {
     "id": 49,
     "order": "49.00000000000000000000",
-    "name": "Sucuk (Sausage)",
+    "name": "Sucuk",
     "grocerist_id": "goods__49",
     "documents": [
       {
@@ -4846,7 +4846,7 @@
         "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
       }
     ],
-    "english_names": "Sucuk",
+    "english_names": "Sausage",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -4865,7 +4865,7 @@
   "50": {
     "id": 50,
     "order": "50.00000000000000000000",
-    "name": "Sumak (Sumac)",
+    "name": "Sumak",
     "grocerist_id": "goods__50",
     "documents": [
       {
@@ -4873,7 +4873,7 @@
         "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60"
       }
     ],
-    "english_names": "Sumak",
+    "english_names": "Sumac",
     "spelling_variations_and_synonyms": "Semuk",
     "notes": null,
     "sophisticated": false,
@@ -4892,7 +4892,7 @@
   "51": {
     "id": 51,
     "order": "51.00000000000000000000",
-    "name": "Ihlamur (Linden)",
+    "name": "Ihlamur",
     "grocerist_id": "goods__51",
     "documents": [
       {
@@ -4912,7 +4912,7 @@
         "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
       }
     ],
-    "english_names": "Ihlamur",
+    "english_names": "Linden",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -4958,7 +4958,7 @@
   "53": {
     "id": 53,
     "order": "53.00000000000000000000",
-    "name": "Un / Dakik (Flour)",
+    "name": "Un / Dakik",
     "grocerist_id": "goods__53",
     "documents": [
       {
@@ -5022,7 +5022,7 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "english_names": "Un, Dakik",
+    "english_names": "Flour",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -5076,7 +5076,7 @@
   "55": {
     "id": 55,
     "order": "55.00000000000000000000",
-    "name": "Bezir yağı (Linseed Oil)",
+    "name": "Bezir yağı",
     "grocerist_id": "goods__55",
     "documents": [
       {
@@ -5096,7 +5096,7 @@
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
       }
     ],
-    "english_names": "Bezir yağı",
+    "english_names": "Linseed oil",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -5115,7 +5115,7 @@
   "56": {
     "id": 56,
     "order": "56.00000000000000000000",
-    "name": "Balık salamurası (Fish brine)",
+    "name": "Balık salamurası",
     "grocerist_id": "goods__56",
     "documents": [
       {
@@ -5123,7 +5123,7 @@
         "value": "İSTM.ŞSC.14.d.237 / 62b-2"
       }
     ],
-    "english_names": "Balık salamurası",
+    "english_names": "Fish brine",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -5146,7 +5146,7 @@
   "57": {
     "id": 57,
     "order": "57.00000000000000000000",
-    "name": "Pastırma (Pastrami)",
+    "name": "Pastırma",
     "grocerist_id": "goods__57",
     "documents": [
       {
@@ -5190,8 +5190,8 @@
         "value": "İSTM.ŞSC.06.d. 589/56b"
       }
     ],
-    "english_names": "Basdırma",
-    "spelling_variations_and_synonyms": "Bastırma",
+    "english_names": "Pastrami",
+    "spelling_variations_and_synonyms": "Bastırma, Basdırma",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -5209,7 +5209,7 @@
   "58": {
     "id": 58,
     "order": "58.00000000000000000000",
-    "name": "Kuş üzümü (Currant)",
+    "name": "Kuş üzümü",
     "grocerist_id": "goods__58",
     "documents": [
       {
@@ -5229,7 +5229,7 @@
         "value": "İSTM.ŞSC.06.d. 584/30a-1"
       }
     ],
-    "english_names": "Kuş üzümü",
+    "english_names": "Currant",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -5244,7 +5244,7 @@
   "59": {
     "id": 59,
     "order": "59.00000000000000000000",
-    "name": "Yumurta / Egg",
+    "name": "Yumurta",
     "grocerist_id": "goods__59",
     "documents": [
       {
@@ -5272,7 +5272,7 @@
         "value": "İSTM.ŞSC.06.d. 584/30a-1"
       }
     ],
-    "english_names": "Yumurta",
+    "english_names": "Egg",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -5314,7 +5314,7 @@
   "61": {
     "id": 61,
     "order": "61.00000000000000000000",
-    "name": "Trilye zeytini (Trilye olives)",
+    "name": "Trilye zeytini",
     "grocerist_id": "goods__61",
     "documents": [
       {
@@ -5370,8 +5370,8 @@
         "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
       }
     ],
-    "english_names": "Trilye zeytūnu",
-    "spelling_variations_and_synonyms": "",
+    "english_names": "Trilye olives",
+    "spelling_variations_and_synonyms": "Trilye zeytūnu",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -5389,7 +5389,7 @@
   "62": {
     "id": 62,
     "order": "62.00000000000000000000",
-    "name": "Kenevir tohumu (Hemp seed)",
+    "name": "Kenevir tohumu",
     "grocerist_id": "goods__62",
     "documents": [
       {
@@ -5405,7 +5405,7 @@
         "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
       }
     ],
-    "english_names": "Kenevir tohumu",
+    "english_names": "Hemp seed",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -5424,7 +5424,7 @@
   "63": {
     "id": 63,
     "order": "63.00000000000000000000",
-    "name": "Susam yağı (Sesame Oil)",
+    "name": "Susam yağı",
     "grocerist_id": "goods__63",
     "documents": [
       {
@@ -5460,8 +5460,8 @@
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
       }
     ],
-    "english_names": "Revgan-ı şir",
-    "spelling_variations_and_synonyms": "Şirugan",
+    "english_names": "Sesame oil",
+    "spelling_variations_and_synonyms": "Şirugan, Revgan-ı şir",
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
@@ -5479,7 +5479,7 @@
   "64": {
     "id": 64,
     "order": "64.00000000000000000000",
-    "name": "Döğülmüş tuz (Smashed salt)",
+    "name": "Döğülmüş tuz",
     "grocerist_id": "goods__64",
     "documents": [
       {
@@ -5527,7 +5527,7 @@
         "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
       }
     ],
-    "english_names": "Döğülmüş tuz",
+    "english_names": "Smashed salt",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -5620,7 +5620,7 @@
   "67": {
     "id": 67,
     "order": "67.00000000000000000000",
-    "name": "Biber (Pepper)",
+    "name": "Biber",
     "grocerist_id": "goods__67",
     "documents": [
       {
@@ -5672,7 +5672,7 @@
         "value": "İSTM.ŞSC.06.d. 589/56b"
       }
     ],
-    "english_names": "Biber",
+    "english_names": "Pepper",
     "spelling_variations_and_synonyms": "Büber",
     "notes": null,
     "sophisticated": false,
@@ -5691,7 +5691,7 @@
   "68": {
     "id": 68,
     "order": "68.00000000000000000000",
-    "name": "Lüle (Pipe)",
+    "name": "Lüle",
     "grocerist_id": "goods__68",
     "documents": [
       {
@@ -5715,7 +5715,7 @@
         "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
       }
     ],
-    "english_names": "Lüle",
+    "english_names": "Pipe",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -5734,7 +5734,7 @@
   "69": {
     "id": 69,
     "order": "69.00000000000000000000",
-    "name": "Elma (Apple)",
+    "name": "Elma",
     "grocerist_id": "goods__69",
     "documents": [
       {
@@ -5742,7 +5742,7 @@
         "value": "İSTM.ŞSC.14.d.275 / 37a-4"
       }
     ],
-    "english_names": "Elma",
+    "english_names": "Apple",
     "spelling_variations_and_synonyms": "",
     "notes": null,
     "sophisticated": false,
@@ -6860,7 +6860,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 60,
@@ -6999,7 +6999,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 59,
@@ -7089,1200 +7089,6 @@
       }
     ]
   },
-  "114": {
-    "id": 114,
-    "order": "114.00000000000000000000",
-    "name": "Fıçı (Barrel)",
-    "grocerist_id": "goods__114",
-    "documents": [
-      {
-        "id": 2,
-        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
-      },
-      {
-        "id": 4,
-        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
-      },
-      {
-        "id": 8,
-        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
-      },
-      {
-        "id": 10,
-        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
-      },
-      {
-        "id": 16,
-        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
-      },
-      {
-        "id": 22,
-        "value": "İSTM.ŞSC.14.d.254 / 64a-1"
-      },
-      {
-        "id": 24,
-        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)"
-      },
-      {
-        "id": 38,
-        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
-      },
-      {
-        "id": 59,
-        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)"
-      },
-      {
-        "id": 52,
-        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
-      },
-      {
-        "id": 60,
-        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
-      },
-      {
-        "id": 61,
-        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)"
-      },
-      {
-        "id": 72,
-        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
-      },
-      {
-        "id": 76,
-        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      },
-      {
-        "id": 100,
-        "value": "İSTM.ŞSC.15.d. 205 / 51a-2"
-      },
-      {
-        "id": 102,
-        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
-      },
-      {
-        "id": 113,
-        "value": "İSTM.ŞSC.06.d. 584/30a-1"
-      }
-    ],
-    "english_names": "Fıçı",
-    "spelling_variations_and_synonyms": "Fuçı, Fıçı",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "115": {
-    "id": 115,
-    "order": "115.00000000000000000000",
-    "name": "Zenbil",
-    "grocerist_id": "goods__115",
-    "documents": [
-      {
-        "id": 2,
-        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
-      },
-      {
-        "id": 4,
-        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
-      },
-      {
-        "id": 8,
-        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
-      },
-      {
-        "id": 10,
-        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
-      },
-      {
-        "id": 11,
-        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
-      },
-      {
-        "id": 14,
-        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
-      },
-      {
-        "id": 16,
-        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
-      },
-      {
-        "id": 38,
-        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 80,
-        "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
-      },
-      {
-        "id": 85,
-        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      },
-      {
-        "id": 104,
-        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
-      },
-      {
-        "id": 106,
-        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 32,
-        "value": "Durable Goods"
-      },
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "116": {
-    "id": 116,
-    "order": "116.00000000000000000000",
-    "name": "Taba (Frying pan)",
-    "grocerist_id": "goods__116",
-    "documents": [
-      {
-        "id": 2,
-        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
-      }
-    ],
-    "english_names": "Taba",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "119": {
-    "id": 119,
-    "order": "119.00000000000000000000",
-    "name": "Çuval (Sack)",
-    "grocerist_id": "goods__119",
-    "documents": [
-      {
-        "id": 2,
-        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
-      },
-      {
-        "id": 16,
-        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 77,
-        "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
-      },
-      {
-        "id": 107,
-        "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
-      },
-      {
-        "id": 111,
-        "value": "İSTM.ŞSC.06.d. 577/43b-1"
-      },
-      {
-        "id": 113,
-        "value": "İSTM.ŞSC.06.d. 584/30a-1"
-      }
-    ],
-    "english_names": "Çuval",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "120": {
-    "id": 120,
-    "order": "120.00000000000000000000",
-    "name": "Steelyard",
-    "grocerist_id": "goods__120",
-    "documents": [
-      {
-        "id": 2,
-        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
-      },
-      {
-        "id": 6,
-        "value": "İSTM.ŞSC.14.d.212/ 29a-1"
-      },
-      {
-        "id": 7,
-        "value": "İSTM.ŞSC.14.d.212/ 34b-2"
-      },
-      {
-        "id": 8,
-        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
-      },
-      {
-        "id": 10,
-        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
-      },
-      {
-        "id": 13,
-        "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
-      },
-      {
-        "id": 14,
-        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
-      },
-      {
-        "id": 15,
-        "value": "İSTM.ŞSC.14.d.237 / 62b-2"
-      },
-      {
-        "id": 16,
-        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
-      },
-      {
-        "id": 30,
-        "value": "İSTM.ŞSC.14.d.290 / 73b-2"
-      },
-      {
-        "id": 38,
-        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
-      },
-      {
-        "id": 41,
-        "value": "İSTM.ŞSC.14.d.400 / 55a-1"
-      },
-      {
-        "id": 71,
-        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
-      },
-      {
-        "id": 72,
-        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 76,
-        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      },
-      {
-        "id": 102,
-        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
-      },
-      {
-        "id": 106,
-        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
-      }
-    ],
-    "english_names": "Kantar",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "121": {
-    "id": 121,
-    "order": "121.00000000000000000000",
-    "name": "Jug",
-    "grocerist_id": "goods__121",
-    "documents": [
-      {
-        "id": 2,
-        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
-      },
-      {
-        "id": 4,
-        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
-      },
-      {
-        "id": 5,
-        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
-      },
-      {
-        "id": 20,
-        "value": "İSTM.ŞSC.14.d.254 / 3b-1"
-      },
-      {
-        "id": 22,
-        "value": "İSTM.ŞSC.14.d.254 / 64a-1"
-      },
-      {
-        "id": 24,
-        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)"
-      },
-      {
-        "id": 29,
-        "value": "İSTM.ŞSC.14.d.289 / 6b-2"
-      },
-      {
-        "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
-      },
-      {
-        "id": 59,
-        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)"
-      },
-      {
-        "id": 60,
-        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
-      },
-      {
-        "id": 91,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
-      },
-      {
-        "id": 67,
-        "value": "İSTM.ŞSC.06.d.359 / 26a-1"
-      },
-      {
-        "id": 75,
-        "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (a)"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      },
-      {
-        "id": 97,
-        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
-      },
-      {
-        "id": 113,
-        "value": "İSTM.ŞSC.06.d. 584/30a-1"
-      },
-      {
-        "id": 140,
-        "value": "İSTM.ŞSC.06.d. 589/49a"
-      }
-    ],
-    "english_names": "Desti",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "122": {
-    "id": 122,
-    "order": "122.00000000000000000000",
-    "name": "Mug",
-    "grocerist_id": "goods__122",
-    "documents": [
-      {
-        "id": 2,
-        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
-      },
-      {
-        "id": 5,
-        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
-      },
-      {
-        "id": 38,
-        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
-      },
-      {
-        "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
-      },
-      {
-        "id": 52,
-        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
-      },
-      {
-        "id": 91,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
-      },
-      {
-        "id": 75,
-        "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (a)"
-      },
-      {
-        "id": 78,
-        "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
-      },
-      {
-        "id": 85,
-        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
-      },
-      {
-        "id": 97,
-        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
-      },
-      {
-        "id": 104,
-        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
-      },
-      {
-        "id": 109,
-        "value": "İSTM.ŞSC.06.d. 566/92b-1"
-      },
-      {
-        "id": 111,
-        "value": "İSTM.ŞSC.06.d. 577/43b-1"
-      },
-      {
-        "id": 113,
-        "value": "İSTM.ŞSC.06.d. 584/30a-1"
-      },
-      {
-        "id": 141,
-        "value": "İSTM.ŞSC.06.d. 589/56b"
-      }
-    ],
-    "english_names": "Bardak",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "123": {
-    "id": 123,
-    "order": "123.00000000000000000000",
-    "name": "Hadde",
-    "grocerist_id": "goods__123",
-    "documents": [
-      {
-        "id": 4,
-        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "124": {
-    "id": 124,
-    "order": "124.00000000000000000000",
-    "name": "Scales",
-    "grocerist_id": "goods__124",
-    "documents": [
-      {
-        "id": 4,
-        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
-      },
-      {
-        "id": 15,
-        "value": "İSTM.ŞSC.14.d.237 / 62b-2"
-      },
-      {
-        "id": 16,
-        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
-      },
-      {
-        "id": 38,
-        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
-      },
-      {
-        "id": 41,
-        "value": "İSTM.ŞSC.14.d.400 / 55a-1"
-      },
-      {
-        "id": 45,
-        "value": "İSTM.ŞSC.14.d.433 / 74b-2"
-      },
-      {
-        "id": 52,
-        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
-      },
-      {
-        "id": 71,
-        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
-      },
-      {
-        "id": 72,
-        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 76,
-        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
-      }
-    ],
-    "english_names": "Terazi",
-    "spelling_variations_and_synonyms": "Terazu",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "125": {
-    "id": 125,
-    "order": "125.00000000000000000000",
-    "name": "Dirhem",
-    "grocerist_id": "goods__125",
-    "documents": [
-      {
-        "id": 4,
-        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
-      },
-      {
-        "id": 6,
-        "value": "İSTM.ŞSC.14.d.212/ 29a-1"
-      },
-      {
-        "id": 8,
-        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
-      },
-      {
-        "id": 10,
-        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
-      },
-      {
-        "id": 11,
-        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
-      },
-      {
-        "id": 15,
-        "value": "İSTM.ŞSC.14.d.237 / 62b-2"
-      },
-      {
-        "id": 16,
-        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
-      },
-      {
-        "id": 30,
-        "value": "İSTM.ŞSC.14.d.290 / 73b-2"
-      },
-      {
-        "id": 38,
-        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
-      },
-      {
-        "id": 41,
-        "value": "İSTM.ŞSC.14.d.400 / 55a-1"
-      },
-      {
-        "id": 45,
-        "value": "İSTM.ŞSC.14.d.433 / 74b-2"
-      },
-      {
-        "id": 52,
-        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 76,
-        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
-      },
-      {
-        "id": 106,
-        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "128": {
-    "id": 128,
-    "order": "128.00000000000000000000",
-    "name": "Flat tray",
-    "grocerist_id": "goods__128",
-    "documents": [
-      {
-        "id": 4,
-        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
-      },
-      {
-        "id": 8,
-        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
-      },
-      {
-        "id": 10,
-        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
-      },
-      {
-        "id": 11,
-        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
-      },
-      {
-        "id": 14,
-        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
-      },
-      {
-        "id": 16,
-        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
-      },
-      {
-        "id": 41,
-        "value": "İSTM.ŞSC.14.d.400 / 55a-1"
-      },
-      {
-        "id": 45,
-        "value": "İSTM.ŞSC.14.d.433 / 74b-2"
-      },
-      {
-        "id": 71,
-        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "Tabla",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "129": {
-    "id": 129,
-    "order": "129.00000000000000000000",
-    "name": "Çömlek",
-    "grocerist_id": "goods__129",
-    "documents": [
-      {
-        "id": 4,
-        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
-      },
-      {
-        "id": 5,
-        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
-      },
-      {
-        "id": 8,
-        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
-      },
-      {
-        "id": 10,
-        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
-      },
-      {
-        "id": 14,
-        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
-      },
-      {
-        "id": 29,
-        "value": "İSTM.ŞSC.14.d.289 / 6b-2"
-      },
-      {
-        "id": 31,
-        "value": "İSTM.ŞSC.14.d.304 / 22b-3"
-      },
-      {
-        "id": 91,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
-      },
-      {
-        "id": 65,
-        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
-      },
-      {
-        "id": 89,
-        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
-      },
-      {
-        "id": 90,
-        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
-      },
-      {
-        "id": 78,
-        "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
-      },
-      {
-        "id": 85,
-        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
-      },
-      {
-        "id": 104,
-        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "130": {
-    "id": 130,
-    "order": "130.00000000000000000000",
-    "name": "Jar",
-    "grocerist_id": "goods__130",
-    "documents": [
-      {
-        "id": 6,
-        "value": "İSTM.ŞSC.14.d.212/ 29a-1"
-      },
-      {
-        "id": 11,
-        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
-      },
-      {
-        "id": 12,
-        "value": "İSTM.ŞSC.14.d.237 / 16a-1"
-      },
-      {
-        "id": 13,
-        "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
-      },
-      {
-        "id": 26,
-        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (a)"
-      },
-      {
-        "id": 27,
-        "value": "İSTM.ŞSC.14.d.275 / 76b-1"
-      },
-      {
-        "id": 29,
-        "value": "İSTM.ŞSC.14.d.289 / 6b-2"
-      },
-      {
-        "id": 31,
-        "value": "İSTM.ŞSC.14.d.304 / 22b-3"
-      },
-      {
-        "id": 61,
-        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)"
-      },
-      {
-        "id": 64,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
-      },
-      {
-        "id": 91,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
-      },
-      {
-        "id": 77,
-        "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
-      },
-      {
-        "id": 80,
-        "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      },
-      {
-        "id": 104,
-        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
-      }
-    ],
-    "english_names": "Kavanoz",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "132": {
-    "id": 132,
-    "order": "132.00000000000000000000",
-    "name": "Mizan",
-    "grocerist_id": "goods__132",
-    "documents": [
-      {
-        "id": 8,
-        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
-      },
-      {
-        "id": 10,
-        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
-      },
-      {
-        "id": 11,
-        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
-      },
-      {
-        "id": 14,
-        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "133": {
-    "id": 133,
-    "order": "133.00000000000000000000",
-    "name": "Washing tray",
-    "grocerist_id": "goods__133",
-    "documents": [
-      {
-        "id": 8,
-        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "Tekne",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "134": {
-    "id": 134,
-    "order": "134.00000000000000000000",
-    "name": "Bucket",
-    "grocerist_id": "goods__134",
-    "documents": [
-      {
-        "id": 2,
-        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
-      },
-      {
-        "id": 8,
-        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
-      },
-      {
-        "id": 18,
-        "value": "İSTM.ŞSC.14.d.249 / 9b-2"
-      },
-      {
-        "id": 62,
-        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "Kova",
-    "spelling_variations_and_synonyms": "Gerdel",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "135": {
-    "id": 135,
-    "order": "135.00000000000000000000",
-    "name": "Pot",
-    "grocerist_id": "goods__135",
-    "documents": [
-      {
-        "id": 8,
-        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
-      },
-      {
-        "id": 16,
-        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
-      },
-      {
-        "id": 18,
-        "value": "İSTM.ŞSC.14.d.249 / 9b-2"
-      },
-      {
-        "id": 62,
-        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
-      },
-      {
-        "id": 72,
-        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "Küp",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "136": {
-    "id": 136,
-    "order": "136.00000000000000000000",
-    "name": "Potna",
-    "grocerist_id": "goods__136",
-    "documents": [
-      {
-        "id": 8,
-        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
-      },
-      {
-        "id": 16,
-        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
-      },
-      {
-        "id": 20,
-        "value": "İSTM.ŞSC.14.d.254 / 3b-1"
-      },
-      {
-        "id": 22,
-        "value": "İSTM.ŞSC.14.d.254 / 64a-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "137": {
-    "id": 137,
-    "order": "137.00000000000000000000",
-    "name": "Trivet",
-    "grocerist_id": "goods__137",
-    "documents": [
-      {
-        "id": 8,
-        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
-      },
-      {
-        "id": 102,
-        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
-      }
-    ],
-    "english_names": "Sac ayağı",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "139": {
-    "id": 139,
-    "order": "139.00000000000000000000",
-    "name": "Basket",
-    "grocerist_id": "goods__139",
-    "documents": [
-      {
-        "id": 10,
-        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "Sepet",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "140": {
-    "id": 140,
-    "order": "140.00000000000000000000",
-    "name": "Knife",
-    "grocerist_id": "goods__140",
-    "documents": [
-      {
-        "id": 11,
-        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
-      },
-      {
-        "id": 71,
-        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      },
-      {
-        "id": 107,
-        "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
-      }
-    ],
-    "english_names": "Bıçak",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "141": {
-    "id": 141,
-    "order": "141.00000000000000000000",
-    "name": "Kutu (Box)",
-    "grocerist_id": "goods__141",
-    "documents": [
-      {
-        "id": 11,
-        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
-      }
-    ],
-    "english_names": "Kutu",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
   "142": {
     "id": 142,
     "order": "142.00000000000000000000",
@@ -8318,79 +7124,6 @@
       }
     ]
   },
-  "143": {
-    "id": 143,
-    "order": "143.00000000000000000000",
-    "name": "Seklem",
-    "grocerist_id": "goods__143",
-    "documents": [
-      {
-        "id": 16,
-        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "144": {
-    "id": 144,
-    "order": "144.00000000000000000000",
-    "name": "Piştahta",
-    "grocerist_id": "goods__144",
-    "documents": [
-      {
-        "id": 16,
-        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "145": {
-    "id": 145,
-    "order": "145.00000000000000000000",
-    "name": "Akçe kesesi",
-    "grocerist_id": "goods__145",
-    "documents": [
-      {
-        "id": 16,
-        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
   "146": {
     "id": 146,
     "order": "146.00000000000000000000",
@@ -8415,7 +7148,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       },
       {
         "id": 59,
@@ -8976,7 +7709,7 @@
       },
       {
         "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
       }
     ],
     "english_names": "Peynir",
@@ -8992,56 +7725,6 @@
       {
         "id": 6,
         "value": "Cheese Assortment"
-      }
-    ]
-  },
-  "167": {
-    "id": 167,
-    "order": "164.00000000000000000000",
-    "name": "Havan",
-    "grocerist_id": "goods__167",
-    "documents": [
-      {
-        "id": 38,
-        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "168": {
-    "id": 168,
-    "order": "165.00000000000000000000",
-    "name": "Yağ tulumu",
-    "grocerist_id": "goods__168",
-    "documents": [
-      {
-        "id": 12,
-        "value": "İSTM.ŞSC.14.d.237 / 16a-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
       }
     ]
   },
@@ -9298,29 +7981,6 @@
       {
         "id": 9,
         "value": "Legumes"
-      }
-    ]
-  },
-  "178": {
-    "id": 178,
-    "order": "175.00000000000000000000",
-    "name": "Zeytin yağı tulumu",
-    "grocerist_id": "goods__178",
-    "documents": [
-      {
-        "id": 91,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
       }
     ]
   },
@@ -9847,29 +8507,6 @@
       }
     ]
   },
-  "198": {
-    "id": 198,
-    "order": "195.00000000000000000000",
-    "name": "Oil scale",
-    "grocerist_id": "goods__198",
-    "documents": [
-      {
-        "id": 71,
-        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
-      }
-    ],
-    "english_names": "Yağ ölçeği",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
   "199": {
     "id": 199,
     "order": "196.00000000000000000000",
@@ -9991,29 +8628,6 @@
       {
         "id": 13,
         "value": "Fig Assortment"
-      }
-    ]
-  },
-  "203": {
-    "id": 203,
-    "order": "200.00000000000000000000",
-    "name": "Destgah (Loom)",
-    "grocerist_id": "goods__203",
-    "documents": [
-      {
-        "id": 67,
-        "value": "İSTM.ŞSC.06.d.359 / 26a-1"
-      }
-    ],
-    "english_names": "Destgah",
-    "spelling_variations_and_synonyms": "",
-    "notes": null,
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
       }
     ]
   },
@@ -10146,37 +8760,6 @@
       }
     ]
   },
-  "207": {
-    "id": 207,
-    "order": "204.00000000000000000000",
-    "name": "Zeyt yağı bardağı",
-    "grocerist_id": "goods__207",
-    "documents": [
-      {
-        "id": 64,
-        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
-      },
-      {
-        "id": 85,
-        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
-      },
-      {
-        "id": 97,
-        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
-      }
-    ],
-    "english_names": "Yağ bardağı",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
   "209": {
     "id": 209,
     "order": "205.00000000000000000000",
@@ -10250,91 +8833,6 @@
       }
     ]
   },
-  "212": {
-    "id": 212,
-    "order": "208.00000000000000000000",
-    "name": "Zeyt yağı küpü",
-    "grocerist_id": "goods__212",
-    "documents": [
-      {
-        "id": 76,
-        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "Yağ küpü",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "213": {
-    "id": 213,
-    "order": "209.00000000000000000000",
-    "name": "Turşu fıçısı",
-    "grocerist_id": "goods__213",
-    "documents": [
-      {
-        "id": 76,
-        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 32,
-        "value": "Durable Goods"
-      },
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "214": {
-    "id": 214,
-    "order": "210.00000000000000000000",
-    "name": "Nardenk destisi",
-    "grocerist_id": "goods__214",
-    "documents": [
-      {
-        "id": 85,
-        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
-      },
-      {
-        "id": 109,
-        "value": "İSTM.ŞSC.06.d. 566/92b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 32,
-        "value": "Durable Goods"
-      },
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
   "216": {
     "id": 216,
     "order": "211.00000000000000000000",
@@ -10363,56 +8861,6 @@
       {
         "id": 36,
         "value": "Broom Assortment"
-      }
-    ]
-  },
-  "217": {
-    "id": 217,
-    "order": "212.00000000000000000000",
-    "name": "Urgan",
-    "grocerist_id": "goods__217",
-    "documents": [
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      },
-      {
-        "id": 104,
-        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "218": {
-    "id": 218,
-    "order": "213.00000000000000000000",
-    "name": "Torba",
-    "grocerist_id": "goods__218",
-    "documents": [
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
       }
     ]
   },
@@ -10448,121 +8896,6 @@
       {
         "id": 27,
         "value": "Non-foods"
-      }
-    ]
-  },
-  "220": {
-    "id": 220,
-    "order": "215.00000000000000000000",
-    "name": "Yağ badyesi",
-    "grocerist_id": "goods__220",
-    "documents": [
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "221": {
-    "id": 221,
-    "order": "216.00000000000000000000",
-    "name": "Şinik",
-    "grocerist_id": "goods__221",
-    "documents": [
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "223": {
-    "id": 223,
-    "order": "217.00000000000000000000",
-    "name": "Güğüm",
-    "grocerist_id": "goods__223",
-    "documents": [
-      {
-        "id": 97,
-        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "224": {
-    "id": 224,
-    "order": "218.00000000000000000000",
-    "name": "Keyl",
-    "grocerist_id": "goods__224",
-    "documents": [
-      {
-        "id": 97,
-        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "225": {
-    "id": 225,
-    "order": "219.00000000000000000000",
-    "name": "Kahve kutusu",
-    "grocerist_id": "goods__225",
-    "documents": [
-      {
-        "id": 97,
-        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
       }
     ]
   },
@@ -10621,52 +8954,6 @@
       {
         "id": 17,
         "value": "Beverages"
-      }
-    ]
-  },
-  "228": {
-    "id": 228,
-    "order": "222.00000000000000000000",
-    "name": "Dikel",
-    "grocerist_id": "goods__228",
-    "documents": [
-      {
-        "id": 100,
-        "value": "İSTM.ŞSC.15.d. 205 / 51a-2"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "229": {
-    "id": 229,
-    "order": "223.00000000000000000000",
-    "name": "Tabak",
-    "grocerist_id": "goods__229",
-    "documents": [
-      {
-        "id": 102,
-        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
       }
     ]
   },
@@ -10744,33 +9031,6 @@
       }
     ]
   },
-  "232": {
-    "id": 232,
-    "order": "226.00000000000000000000",
-    "name": "Kaşık",
-    "grocerist_id": "goods__232",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 104,
-        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
   "233": {
     "id": 233,
     "order": "227.00000000000000000000",
@@ -10791,45 +9051,6 @@
       {
         "id": 27,
         "value": "Non-foods"
-      }
-    ]
-  },
-  "234": {
-    "id": 234,
-    "order": "228.00000000000000000000",
-    "name": "Çanak",
-    "grocerist_id": "goods__234",
-    "documents": [
-      {
-        "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
-      },
-      {
-        "id": 70,
-        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 84,
-        "value": "İSTM.ŞSC.06.d. 501 / 22b-3"
-      },
-      {
-        "id": 104,
-        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
       }
     ]
   },
@@ -10951,87 +9172,6 @@
       }
     ]
   },
-  "241": {
-    "id": 241,
-    "order": "234.00000000000000000000",
-    "name": "Kahve terazisi",
-    "grocerist_id": "goods__241",
-    "documents": [
-      {
-        "id": 106,
-        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "242": {
-    "id": 242,
-    "order": "235.00000000000000000000",
-    "name": "Duhan kavanozu",
-    "grocerist_id": "goods__242",
-    "documents": [
-      {
-        "id": 106,
-        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "243": {
-    "id": 243,
-    "order": "236.00000000000000000000",
-    "name": "Sandık",
-    "grocerist_id": "goods__243",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 76,
-        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
-      },
-      {
-        "id": 85,
-        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
-      },
-      {
-        "id": 106,
-        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
   "244": {
     "id": 244,
     "order": "237.00000000000000000000",
@@ -11052,29 +9192,6 @@
       {
         "id": 27,
         "value": "Non-foods"
-      }
-    ]
-  },
-  "246": {
-    "id": 246,
-    "order": "239.00000000000000000000",
-    "name": "Yatağan bıçağı",
-    "grocerist_id": "goods__246",
-    "documents": [
-      {
-        "id": 107,
-        "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
       }
     ]
   },
@@ -11104,82 +9221,6 @@
         "value": "Animal Food"
       }
     ]
-  },
-  "248": {
-    "id": 248,
-    "order": "241.00000000000000000000",
-    "name": "Pekmez destisi",
-    "grocerist_id": "goods__248",
-    "documents": [
-      {
-        "id": 109,
-        "value": "İSTM.ŞSC.06.d. 566/92b-1"
-      },
-      {
-        "id": 113,
-        "value": "İSTM.ŞSC.06.d. 584/30a-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 27,
-        "value": "Non-foods"
-      },
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "249": {
-    "id": 249,
-    "order": "242.00000000000000000000",
-    "name": "Yoğurt çanağı",
-    "grocerist_id": "goods__249",
-    "documents": [
-      {
-        "id": 109,
-        "value": "İSTM.ŞSC.06.d. 566/92b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 27,
-        "value": "Non-foods"
-      },
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "250": {
-    "id": 250,
-    "order": "243.00000000000000000000",
-    "name": "Bulgurlu",
-    "grocerist_id": "goods__250",
-    "documents": [
-      {
-        "id": 109,
-        "value": "İSTM.ŞSC.06.d. 566/92b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": []
   },
   "251": {
     "id": 251,
@@ -11801,1121 +9842,6 @@
       }
     ]
   },
-  "279": {
-    "id": 279,
-    "order": "272.00000000000000000000",
-    "name": "Kömür terazisi",
-    "grocerist_id": "goods__279",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "280": {
-    "id": 280,
-    "order": "273.00000000000000000000",
-    "name": "Yağ destisi",
-    "grocerist_id": "goods__280",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "281": {
-    "id": 281,
-    "order": "274.00000000000000000000",
-    "name": "Zeytun fuçısı",
-    "grocerist_id": "goods__281",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "282": {
-    "id": 282,
-    "order": "275.00000000000000000000",
-    "name": "Zeyt yağı kovası",
-    "grocerist_id": "goods__282",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "283": {
-    "id": 283,
-    "order": "276.00000000000000000000",
-    "name": "Kalbur",
-    "grocerist_id": "goods__283",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "284": {
-    "id": 284,
-    "order": "277.00000000000000000000",
-    "name": "Böğrülce anbarı",
-    "grocerist_id": "goods__284",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "285": {
-    "id": 285,
-    "order": "278.00000000000000000000",
-    "name": "Sofra",
-    "grocerist_id": "goods__285",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 102,
-        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "286": {
-    "id": 286,
-    "order": "279.00000000000000000000",
-    "name": "Nişasta fuçısı",
-    "grocerist_id": "goods__286",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "287": {
-    "id": 287,
-    "order": "280.00000000000000000000",
-    "name": "Balık tabası",
-    "grocerist_id": "goods__287",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "288": {
-    "id": 288,
-    "order": "281.00000000000000000000",
-    "name": "Tencere",
-    "grocerist_id": "goods__288",
-    "documents": [
-      {
-        "id": 71,
-        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
-      },
-      {
-        "id": 72,
-        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "289": {
-    "id": 289,
-    "order": "282.00000000000000000000",
-    "name": "Kazgan",
-    "grocerist_id": "goods__289",
-    "documents": [
-      {
-        "id": 72,
-        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 96,
-        "value": "İSTM.ŞSC.15.d. 174 / 41a-2"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "290": {
-    "id": 290,
-    "order": "283.00000000000000000000",
-    "name": "Huni",
-    "grocerist_id": "goods__290",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "291": {
-    "id": 291,
-    "order": "284.00000000000000000000",
-    "name": "Yumurta sepeti",
-    "grocerist_id": "goods__291",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "292": {
-    "id": 292,
-    "order": "285.00000000000000000000",
-    "name": "Tahin çömleği",
-    "grocerist_id": "goods__292",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "293": {
-    "id": 293,
-    "order": "286.00000000000000000000",
-    "name": "Peynir Kutusu",
-    "grocerist_id": "goods__293",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "294": {
-    "id": 294,
-    "order": "287.00000000000000000000",
-    "name": "Misafir sofrası",
-    "grocerist_id": "goods__294",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "295": {
-    "id": 295,
-    "order": "288.00000000000000000000",
-    "name": "Pirinç hunisi",
-    "grocerist_id": "goods__295",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "296": {
-    "id": 296,
-    "order": "289.00000000000000000000",
-    "name": "Tas",
-    "grocerist_id": "goods__296",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "297": {
-    "id": 297,
-    "order": "290.00000000000000000000",
-    "name": "İbrik",
-    "grocerist_id": "goods__297",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 109,
-        "value": "İSTM.ŞSC.06.d. 566/92b-1"
-      },
-      {
-        "id": 111,
-        "value": "İSTM.ŞSC.06.d. 577/43b-1"
-      },
-      {
-        "id": 141,
-        "value": "İSTM.ŞSC.06.d. 589/56b"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "298": {
-    "id": 298,
-    "order": "291.00000000000000000000",
-    "name": "Vezne",
-    "grocerist_id": "goods__298",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "299": {
-    "id": 299,
-    "order": "292.00000000000000000000",
-    "name": "Çekmece",
-    "grocerist_id": "goods__299",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "300": {
-    "id": 300,
-    "order": "293.00000000000000000000",
-    "name": "Biblo kutusu",
-    "grocerist_id": "goods__300",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "301": {
-    "id": 301,
-    "order": "294.00000000000000000000",
-    "name": "destere",
-    "grocerist_id": "goods__301",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "302": {
-    "id": 302,
-    "order": "295.00000000000000000000",
-    "name": "Keser",
-    "grocerist_id": "goods__302",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "303": {
-    "id": 303,
-    "order": "296.00000000000000000000",
-    "name": "Şamdan",
-    "grocerist_id": "goods__303",
-    "documents": [
-      {
-        "id": 47,
-        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 85,
-        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
-      },
-      {
-        "id": 102,
-        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
-      },
-      {
-        "id": 109,
-        "value": "İSTM.ŞSC.06.d. 566/92b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "304": {
-    "id": 304,
-    "order": "297.00000000000000000000",
-    "name": "Havan",
-    "grocerist_id": "goods__304",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 76,
-        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "305": {
-    "id": 305,
-    "order": "298.00000000000000000000",
-    "name": "Kandil",
-    "grocerist_id": "goods__305",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 109,
-        "value": "İSTM.ŞSC.06.d. 566/92b-1"
-      },
-      {
-        "id": 141,
-        "value": "İSTM.ŞSC.06.d. 589/56b"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "306": {
-    "id": 306,
-    "order": "299.00000000000000000000",
-    "name": "Badya",
-    "grocerist_id": "goods__306",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      },
-      {
-        "id": 95,
-        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "307": {
-    "id": 307,
-    "order": "300.00000000000000000000",
-    "name": "Süzek",
-    "grocerist_id": "goods__307",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "308": {
-    "id": 308,
-    "order": "301.00000000000000000000",
-    "name": "Fenar",
-    "grocerist_id": "goods__308",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "309": {
-    "id": 309,
-    "order": "302.00000000000000000000",
-    "name": "Dara",
-    "grocerist_id": "goods__309",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "310": {
-    "id": 310,
-    "order": "303.00000000000000000000",
-    "name": "İskemle",
-    "grocerist_id": "goods__310",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "311": {
-    "id": 311,
-    "order": "304.00000000000000000000",
-    "name": "Pirinç kilesi",
-    "grocerist_id": "goods__311",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "312": {
-    "id": 312,
-    "order": "305.00000000000000000000",
-    "name": "Akçe tahtası",
-    "grocerist_id": "goods__312",
-    "documents": [
-      {
-        "id": 71,
-        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
-      },
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "313": {
-    "id": 313,
-    "order": "306.00000000000000000000",
-    "name": "Rende",
-    "grocerist_id": "goods__313",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "314": {
-    "id": 314,
-    "order": "307.00000000000000000000",
-    "name": "Devad",
-    "grocerist_id": "goods__314",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "315": {
-    "id": 315,
-    "order": "308.00000000000000000000",
-    "name": "Hokka",
-    "grocerist_id": "goods__315",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "316": {
-    "id": 316,
-    "order": "309.00000000000000000000",
-    "name": "Çatal-ı haliç",
-    "grocerist_id": "goods__316",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "317": {
-    "id": 317,
-    "order": "310.00000000000000000000",
-    "name": "Sirke hunisi",
-    "grocerist_id": "goods__317",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "318": {
-    "id": 318,
-    "order": "311.00000000000000000000",
-    "name": "Mum kutusu",
-    "grocerist_id": "goods__318",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "319": {
-    "id": 319,
-    "order": "312.00000000000000000000",
-    "name": "Yağ malası",
-    "grocerist_id": "goods__319",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "320": {
-    "id": 320,
-    "order": "313.00000000000000000000",
-    "name": "Manula",
-    "grocerist_id": "goods__320",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "321": {
-    "id": 321,
-    "order": "314.00000000000000000000",
-    "name": "Saban",
-    "grocerist_id": "goods__321",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "322": {
-    "id": 322,
-    "order": "315.00000000000000000000",
-    "name": "Dükkan perdesi",
-    "grocerist_id": "goods__322",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "323": {
-    "id": 323,
-    "order": "316.00000000000000000000",
-    "name": "Çengel",
-    "grocerist_id": "goods__323",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
   "324": {
     "id": 324,
     "order": "317.00000000000000000000",
@@ -12989,75 +9915,6 @@
       }
     ]
   },
-  "328": {
-    "id": 328,
-    "order": "321.00000000000000000000",
-    "name": "Kahve kutusu",
-    "grocerist_id": "goods__328",
-    "documents": [
-      {
-        "id": 97,
-        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "329": {
-    "id": 329,
-    "order": "322.00000000000000000000",
-    "name": "Turşu fıçısı",
-    "grocerist_id": "goods__329",
-    "documents": [
-      {
-        "id": 76,
-        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "330": {
-    "id": 330,
-    "order": "323.00000000000000000000",
-    "name": "Zeytun fuçısı",
-    "grocerist_id": "goods__330",
-    "documents": [
-      {
-        "id": 73,
-        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
   "331": {
     "id": 331,
     "order": "324.00000000000000000000",
@@ -13075,52 +9932,6 @@
     "sophisticated": false,
     "documents - personal_goods": [],
     "has_category": []
-  },
-  "332": {
-    "id": 332,
-    "order": "325.00000000000000000000",
-    "name": "Sahan",
-    "grocerist_id": "goods__332",
-    "documents": [
-      {
-        "id": 71,
-        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "333": {
-    "id": 333,
-    "order": "326.00000000000000000000",
-    "name": "Zeytun yağı kapları",
-    "grocerist_id": "goods__333",
-    "documents": [
-      {
-        "id": 52,
-        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
   },
   "334": {
     "id": 334,
@@ -13225,29 +10036,6 @@
     "sophisticated": false,
     "documents - personal_goods": [],
     "has_category": []
-  },
-  "339": {
-    "id": 339,
-    "order": "332.00000000000000000000",
-    "name": "Arşın",
-    "grocerist_id": "goods__339",
-    "documents": [
-      {
-        "id": 106,
-        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
   },
   "340": {
     "id": 340,
@@ -13587,60 +10375,6 @@
       {
         "id": 6,
         "value": "Cheese Assortment"
-      }
-    ]
-  },
-  "352": {
-    "id": 352,
-    "order": "344.00000000000000000000",
-    "name": "Nardenk koğası",
-    "grocerist_id": "goods__352",
-    "documents": [
-      {
-        "id": 141,
-        "value": "İSTM.ŞSC.06.d. 589/56b"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 32,
-        "value": "Durable Goods"
-      },
-      {
-        "id": 35,
-        "value": "Utensils"
-      }
-    ]
-  },
-  "354": {
-    "id": 354,
-    "order": "346.00000000000000000000",
-    "name": "Asel tulumu",
-    "grocerist_id": "goods__354",
-    "documents": [
-      {
-        "id": 141,
-        "value": "İSTM.ŞSC.06.d. 589/56b"
-      }
-    ],
-    "english_names": "",
-    "spelling_variations_and_synonyms": "",
-    "notes": "",
-    "sophisticated": false,
-    "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 32,
-        "value": "Durable Goods"
-      },
-      {
-        "id": 35,
-        "value": "Utensils"
       }
     ]
   },

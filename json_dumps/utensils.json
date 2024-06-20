@@ -3,18 +3,2262 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "Name": "Taba",
-    "Notes": "",
+    "Notes": "Frying Pan",
     "Active": false,
-    "documents": "İSTM.ŞSC.14.d.177 / 34b-1",
+    "documents": [
+      {
+        "id": 2,
+        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
+      }
+    ],
     "grocerist_id": "utensils_1"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "",
+    "Name": "Zenbil",
     "Notes": "",
     "Active": false,
-    "documents": null,
-    "grocerist_id": null
+    "documents": [
+      {
+        "id": 2,
+        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
+      },
+      {
+        "id": 4,
+        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
+      },
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 10,
+        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
+      },
+      {
+        "id": 11,
+        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
+      },
+      {
+        "id": 14,
+        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
+      },
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      },
+      {
+        "id": 38,
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 80,
+        "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
+      },
+      {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
+      },
+      {
+        "id": 136,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)"
+      },
+      {
+        "id": 104,
+        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
+      },
+      {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      }
+    ],
+    "grocerist_id": "utensils_2"
+  },
+  "3": {
+    "id": 3,
+    "order": "4.00000000000000000000",
+    "Name": "Çuval",
+    "Notes": "Sack",
+    "Active": false,
+    "documents": [
+      {
+        "id": 2,
+        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
+      },
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 77,
+        "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
+      },
+      {
+        "id": 107,
+        "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
+      },
+      {
+        "id": 111,
+        "value": "İSTM.ŞSC.06.d. 577/43b-1"
+      },
+      {
+        "id": 113,
+        "value": "İSTM.ŞSC.06.d. 584/30a-1"
+      }
+    ],
+    "grocerist_id": "utensils_3"
+  },
+  "4": {
+    "id": 4,
+    "order": "5.00000000000000000000",
+    "Name": "Kantar",
+    "Notes": "Steelyard",
+    "Active": false,
+    "documents": [
+      {
+        "id": 2,
+        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
+      },
+      {
+        "id": 6,
+        "value": "İSTM.ŞSC.14.d.212/ 29a-1"
+      },
+      {
+        "id": 7,
+        "value": "İSTM.ŞSC.14.d.212/ 34b-2"
+      },
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 10,
+        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
+      },
+      {
+        "id": 13,
+        "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
+      },
+      {
+        "id": 14,
+        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
+      },
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2"
+      },
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      },
+      {
+        "id": 30,
+        "value": "İSTM.ŞSC.14.d.290 / 73b-2"
+      },
+      {
+        "id": 38,
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
+      },
+      {
+        "id": 41,
+        "value": "İSTM.ŞSC.14.d.400 / 55a-1"
+      },
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 76,
+        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      },
+      {
+        "id": 102,
+        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
+      },
+      {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      }
+    ],
+    "grocerist_id": "utensils_4"
+  },
+  "5": {
+    "id": 5,
+    "order": "6.00000000000000000000",
+    "Name": "Desti",
+    "Notes": "Jug",
+    "Active": false,
+    "documents": [
+      {
+        "id": 2,
+        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
+      },
+      {
+        "id": 4,
+        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
+      },
+      {
+        "id": 5,
+        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
+      },
+      {
+        "id": 20,
+        "value": "İSTM.ŞSC.14.d.254 / 3b-1"
+      },
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1"
+      },
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)"
+      },
+      {
+        "id": 29,
+        "value": "İSTM.ŞSC.14.d.289 / 6b-2"
+      },
+      {
+        "id": 47,
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
+      },
+      {
+        "id": 59,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)"
+      },
+      {
+        "id": 60,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
+      },
+      {
+        "id": 91,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+      },
+      {
+        "id": 67,
+        "value": "İSTM.ŞSC.06.d.359 / 26a-1"
+      },
+      {
+        "id": 75,
+        "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (a)"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      },
+      {
+        "id": 97,
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
+      },
+      {
+        "id": 113,
+        "value": "İSTM.ŞSC.06.d. 584/30a-1"
+      },
+      {
+        "id": 140,
+        "value": "İSTM.ŞSC.06.d. 589/49a"
+      }
+    ],
+    "grocerist_id": "utensilz_5"
+  },
+  "6": {
+    "id": 6,
+    "order": "7.00000000000000000000",
+    "Name": "Bardak",
+    "Notes": "Mug",
+    "Active": false,
+    "documents": [
+      {
+        "id": 2,
+        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
+      },
+      {
+        "id": 5,
+        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
+      },
+      {
+        "id": 38,
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
+      },
+      {
+        "id": 52,
+        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+      },
+      {
+        "id": 91,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+      },
+      {
+        "id": 75,
+        "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (a)"
+      },
+      {
+        "id": 78,
+        "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
+      },
+      {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
+      },
+      {
+        "id": 97,
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
+      },
+      {
+        "id": 104,
+        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
+      },
+      {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
+      },
+      {
+        "id": 111,
+        "value": "İSTM.ŞSC.06.d. 577/43b-1"
+      },
+      {
+        "id": 113,
+        "value": "İSTM.ŞSC.06.d. 584/30a-1"
+      },
+      {
+        "id": 141,
+        "value": "İSTM.ŞSC.06.d. 589/56b"
+      }
+    ],
+    "grocerist_id": "utensils_6"
+  },
+  "7": {
+    "id": 7,
+    "order": "8.00000000000000000000",
+    "Name": "Hadde",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 4,
+        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
+      }
+    ],
+    "grocerist_id": "utensils_7"
+  },
+  "8": {
+    "id": 8,
+    "order": "9.00000000000000000000",
+    "Name": "Terazi",
+    "Notes": "Scales",
+    "Active": false,
+    "documents": [
+      {
+        "id": 4,
+        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
+      },
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2"
+      },
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      },
+      {
+        "id": 41,
+        "value": "İSTM.ŞSC.14.d.400 / 55a-1"
+      },
+      {
+        "id": 45,
+        "value": "İSTM.ŞSC.14.d.433 / 74b-2"
+      },
+      {
+        "id": 47,
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
+      },
+      {
+        "id": 52,
+        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+      },
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 76,
+        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+      }
+    ],
+    "grocerist_id": "utensils_8"
+  },
+  "9": {
+    "id": 9,
+    "order": "10.00000000000000000000",
+    "Name": "Dirhem",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 4,
+        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
+      },
+      {
+        "id": 6,
+        "value": "İSTM.ŞSC.14.d.212/ 29a-1"
+      },
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 10,
+        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
+      },
+      {
+        "id": 11,
+        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
+      },
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2"
+      },
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      },
+      {
+        "id": 30,
+        "value": "İSTM.ŞSC.14.d.290 / 73b-2"
+      },
+      {
+        "id": 41,
+        "value": "İSTM.ŞSC.14.d.400 / 55a-1"
+      },
+      {
+        "id": 45,
+        "value": "İSTM.ŞSC.14.d.433 / 74b-2"
+      },
+      {
+        "id": 47,
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
+      },
+      {
+        "id": 52,
+        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 76,
+        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+      },
+      {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      }
+    ],
+    "grocerist_id": "utensils_9"
+  },
+  "10": {
+    "id": 10,
+    "order": "11.00000000000000000000",
+    "Name": "Fıçı",
+    "Notes": "Barrel",
+    "Active": false,
+    "documents": [
+      {
+        "id": 2,
+        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
+      },
+      {
+        "id": 4,
+        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
+      },
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 10,
+        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
+      },
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      },
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1"
+      },
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)"
+      },
+      {
+        "id": 47,
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
+      },
+      {
+        "id": 59,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)"
+      },
+      {
+        "id": 52,
+        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+      },
+      {
+        "id": 60,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
+      },
+      {
+        "id": 61,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
+        "id": 76,
+        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      },
+      {
+        "id": 100,
+        "value": "İSTM.ŞSC.15.d. 205 / 51a-2"
+      },
+      {
+        "id": 102,
+        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
+      },
+      {
+        "id": 113,
+        "value": "İSTM.ŞSC.06.d. 584/30a-1"
+      }
+    ],
+    "grocerist_id": "utensils_10"
+  },
+  "11": {
+    "id": 11,
+    "order": "12.00000000000000000000",
+    "Name": "Tabla",
+    "Notes": "Flat tray",
+    "Active": false,
+    "documents": [
+      {
+        "id": 4,
+        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
+      },
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 10,
+        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
+      },
+      {
+        "id": 11,
+        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
+      },
+      {
+        "id": 14,
+        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
+      },
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      },
+      {
+        "id": 41,
+        "value": "İSTM.ŞSC.14.d.400 / 55a-1"
+      },
+      {
+        "id": 45,
+        "value": "İSTM.ŞSC.14.d.433 / 74b-2"
+      },
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_11"
+  },
+  "12": {
+    "id": 12,
+    "order": "13.00000000000000000000",
+    "Name": "Çömlek",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 4,
+        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
+      },
+      {
+        "id": 5,
+        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
+      },
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 10,
+        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
+      },
+      {
+        "id": 14,
+        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
+      },
+      {
+        "id": 29,
+        "value": "İSTM.ŞSC.14.d.289 / 6b-2"
+      },
+      {
+        "id": 31,
+        "value": "İSTM.ŞSC.14.d.304 / 22b-3"
+      },
+      {
+        "id": 91,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+      },
+      {
+        "id": 65,
+        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+      },
+      {
+        "id": 89,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
+      },
+      {
+        "id": 90,
+        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
+      },
+      {
+        "id": 78,
+        "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
+      },
+      {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
+      },
+      {
+        "id": 104,
+        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
+      }
+    ],
+    "grocerist_id": "utensils_12"
+  },
+  "13": {
+    "id": 13,
+    "order": "14.00000000000000000000",
+    "Name": "Kavanoz",
+    "Notes": "Jar",
+    "Active": false,
+    "documents": [
+      {
+        "id": 6,
+        "value": "İSTM.ŞSC.14.d.212/ 29a-1"
+      },
+      {
+        "id": 11,
+        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
+      },
+      {
+        "id": 12,
+        "value": "İSTM.ŞSC.14.d.237 / 16a-1"
+      },
+      {
+        "id": 13,
+        "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
+      },
+      {
+        "id": 26,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (a)"
+      },
+      {
+        "id": 27,
+        "value": "İSTM.ŞSC.14.d.275 / 76b-1"
+      },
+      {
+        "id": 29,
+        "value": "İSTM.ŞSC.14.d.289 / 6b-2"
+      },
+      {
+        "id": 31,
+        "value": "İSTM.ŞSC.14.d.304 / 22b-3"
+      },
+      {
+        "id": 61,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)"
+      },
+      {
+        "id": 64,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
+      },
+      {
+        "id": 91,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+      },
+      {
+        "id": 77,
+        "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
+      },
+      {
+        "id": 80,
+        "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      },
+      {
+        "id": 104,
+        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
+      }
+    ],
+    "grocerist_id": "utensils_13"
+  },
+  "14": {
+    "id": 14,
+    "order": "15.00000000000000000000",
+    "Name": "Mizan",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 10,
+        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
+      },
+      {
+        "id": 11,
+        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
+      },
+      {
+        "id": 14,
+        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
+      }
+    ],
+    "grocerist_id": "utensils_14"
+  },
+  "15": {
+    "id": 15,
+    "order": "16.00000000000000000000",
+    "Name": "Tekne",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_15"
+  },
+  "16": {
+    "id": 16,
+    "order": "17.00000000000000000000",
+    "Name": "Kova",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 2,
+        "value": "İSTM.ŞSC.14.d.177 / 34b-1"
+      },
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2"
+      },
+      {
+        "id": 62,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_16"
+  },
+  "17": {
+    "id": 17,
+    "order": "18.00000000000000000000",
+    "Name": "Küp",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      },
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2"
+      },
+      {
+        "id": 62,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_17"
+  },
+  "18": {
+    "id": 18,
+    "order": "19.00000000000000000000",
+    "Name": "Potna",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      },
+      {
+        "id": 20,
+        "value": "İSTM.ŞSC.14.d.254 / 3b-1"
+      },
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_18"
+  },
+  "19": {
+    "id": 19,
+    "order": "20.00000000000000000000",
+    "Name": "Sac ayağı",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 8,
+        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+      },
+      {
+        "id": 102,
+        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
+      }
+    ],
+    "grocerist_id": "utensils_19"
+  },
+  "20": {
+    "id": 20,
+    "order": "21.00000000000000000000",
+    "Name": "Sepet",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 10,
+        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_20"
+  },
+  "21": {
+    "id": 21,
+    "order": "22.00000000000000000000",
+    "Name": "Bıçak",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 11,
+        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
+      },
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      },
+      {
+        "id": 107,
+        "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
+      }
+    ],
+    "grocerist_id": "utensils_21"
+  },
+  "22": {
+    "id": 22,
+    "order": "23.00000000000000000000",
+    "Name": "Kutu",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 11,
+        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
+      }
+    ],
+    "grocerist_id": "utensils_22"
+  },
+  "26": {
+    "id": 26,
+    "order": "24.00000000000000000000",
+    "Name": "Seklem",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      }
+    ],
+    "grocerist_id": "utensils_23"
+  },
+  "25": {
+    "id": 25,
+    "order": "26.00000000000000000000",
+    "Name": "Piştahta",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_24"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "Name": "Akçe kesesi",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+      }
+    ],
+    "grocerist_id": "utensils_25"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "Name": "Havan",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 47,
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_26"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "Name": "Yağ tulumu",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 12,
+        "value": "İSTM.ŞSC.14.d.237 / 16a-1"
+      }
+    ],
+    "grocerist_id": "utensils_27"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "Name": "Zeytin yağı tulumu",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 91,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+      }
+    ],
+    "grocerist_id": "utensils_28"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "Name": "Yağ ölçeği",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      }
+    ],
+    "grocerist_id": "utensils_29"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "Name": "Destgah",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 67,
+        "value": "İSTM.ŞSC.06.d.359 / 26a-1"
+      }
+    ],
+    "grocerist_id": "utensils_30"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "Name": "Zeyt yağı bardağı",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 64,
+        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
+      },
+      {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
+      },
+      {
+        "id": 97,
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_31"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "Name": "Zeyt yağı küpü",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 76,
+        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_32"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "Name": "Turşu fıçısı",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 76,
+        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+      }
+    ],
+    "grocerist_id": "utensils_33"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "Name": "Nardeng destisi",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
+      },
+      {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
+      }
+    ],
+    "grocerist_id": "utensils_34"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "Name": "Urgan",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      },
+      {
+        "id": 104,
+        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
+      }
+    ],
+    "grocerist_id": "utensils_35"
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "Name": "Torba",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_36"
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "Name": "Yağ badyesi",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_37"
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "Name": "Şinik",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_38"
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "Name": "Güğüm",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 97,
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_39"
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "Name": "Keyl",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 97,
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_40"
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "Name": "Kahve kutusu",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 97,
+        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_41"
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "Name": "Dikel",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 100,
+        "value": "İSTM.ŞSC.15.d. 205 / 51a-2"
+      }
+    ],
+    "grocerist_id": "utensils_42"
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "Name": "Tabak",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 102,
+        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
+      }
+    ],
+    "grocerist_id": "utensils_43"
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "Name": "Kaşık",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 104,
+        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
+      }
+    ],
+    "grocerist_id": "utensils_44"
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "Name": "Çanak",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 47,
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
+      },
+      {
+        "id": 70,
+        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 84,
+        "value": "İSTM.ŞSC.06.d. 501 / 22b-3"
+      },
+      {
+        "id": 104,
+        "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
+      }
+    ],
+    "grocerist_id": "utensils_45"
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "Name": "Kahve terazisi",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      }
+    ],
+    "grocerist_id": "utensils_46"
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "Name": "Duhan kavanozu",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      }
+    ],
+    "grocerist_id": "utensils_47"
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "Name": "Sandık",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 76,
+        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+      },
+      {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
+      },
+      {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      }
+    ],
+    "grocerist_id": "utensils_48"
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "Name": "Yatağan bıçağı",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 107,
+        "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
+      }
+    ],
+    "grocerist_id": "utensils_49"
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "Name": "Pekmez destisi",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
+      },
+      {
+        "id": 113,
+        "value": "İSTM.ŞSC.06.d. 584/30a-1"
+      }
+    ],
+    "grocerist_id": "utensils_50"
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "Name": "Yoğurt çanağı",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
+      }
+    ],
+    "grocerist_id": "utensils_51"
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "Name": "Kömür terazisi",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_52"
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "Name": "Yağ destisi",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_53"
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "Name": "Zeytun fuçısı",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_54"
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "Name": "Zeyt yağı kovası",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_55"
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "Name": "Kalbur",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_56"
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "Name": "Böğrülce anbarı",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_57"
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "Name": "Sofra",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 102,
+        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
+      }
+    ],
+    "grocerist_id": "utensils_58"
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "Name": "Nişasta fuçısı",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_59"
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "Name": "Balık tabası",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_60"
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "Name": "Tencere",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_61"
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "Name": "Kazgan",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 72,
+        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 96,
+        "value": "İSTM.ŞSC.15.d. 174 / 41a-2"
+      }
+    ],
+    "grocerist_id": "utensils_62"
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "Name": "Huni",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_63"
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "Name": "Yumurta sepeti",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_64"
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "Name": "Tahin çömleği",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_65"
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "Name": "Peynir kutusu",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_66"
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "Name": "Misafir sofrası",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_67"
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "Name": "Pirinç hunisi",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_68"
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "Name": "Tas",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_69"
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "Name": "İbrik",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
+      },
+      {
+        "id": 111,
+        "value": "İSTM.ŞSC.06.d. 577/43b-1"
+      },
+      {
+        "id": 141,
+        "value": "İSTM.ŞSC.06.d. 589/56b"
+      }
+    ],
+    "grocerist_id": "utensils_70"
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "Name": "Vezne",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_71"
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "Name": "Çekmece",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_72"
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "Name": "Biblo kutusu",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_73"
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "Name": "Destere",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_74"
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "Name": "Keser",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_75"
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "Name": "Şamdan",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 47,
+        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 85,
+        "value": "İSTM.ŞSC.06.d.505 / 83a-3"
+      },
+      {
+        "id": 102,
+        "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
+      },
+      {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
+      }
+    ],
+    "grocerist_id": "utensils_76"
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "Name": "Havan",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 76,
+        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+      },
+      {
+        "id": 95,
+        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+      }
+    ],
+    "grocerist_id": "utensils_77"
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "Name": "Kandil",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      },
+      {
+        "id": 109,
+        "value": "İSTM.ŞSC.06.d. 566/92b-1"
+      },
+      {
+        "id": 141,
+        "value": "İSTM.ŞSC.06.d. 589/56b"
+      }
+    ],
+    "grocerist_id": "utensils_78"
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "Name": "Badya",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_79"
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "Name": "Süzek",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_80"
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "Name": "Fenar",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_81"
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "Name": "Dara",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_82"
+  },
+  "85": {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "Name": "İskemle",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_83"
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "Name": "Pirinç kilesi",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_84"
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "Name": "Akçe tahtası",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      },
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_85"
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "Name": "Rende",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_86"
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "Name": "Devad",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_87"
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "Name": "Hokka",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_88"
+  },
+  "91": {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "Name": "Çatal-ı Haliç",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_89"
+  },
+  "92": {
+    "id": 92,
+    "order": "92.00000000000000000000",
+    "Name": "Sirke hunisi",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_90"
+  },
+  "93": {
+    "id": 93,
+    "order": "93.00000000000000000000",
+    "Name": "Mum kutusu",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_91"
+  },
+  "94": {
+    "id": 94,
+    "order": "94.00000000000000000000",
+    "Name": "Yağ malası",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_92"
+  },
+  "95": {
+    "id": 95,
+    "order": "95.00000000000000000000",
+    "Name": "Manula",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_93"
+  },
+  "96": {
+    "id": 96,
+    "order": "96.00000000000000000000",
+    "Name": "Saban",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_94"
+  },
+  "97": {
+    "id": 97,
+    "order": "97.00000000000000000000",
+    "Name": "Dükkan perdesi",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_95"
+  },
+  "98": {
+    "id": 98,
+    "order": "98.00000000000000000000",
+    "Name": "Çengel",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_96"
+  },
+  "99": {
+    "id": 99,
+    "order": "99.00000000000000000000",
+    "Name": "Turşu fuçısı",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 76,
+        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+      }
+    ],
+    "grocerist_id": "utensils_97"
+  },
+  "100": {
+    "id": 100,
+    "order": "100.00000000000000000000",
+    "Name": "Zeytun fuçısı",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 73,
+        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+      }
+    ],
+    "grocerist_id": "utensils_98"
+  },
+  "101": {
+    "id": 101,
+    "order": "101.00000000000000000000",
+    "Name": "Sahan",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 71,
+        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+      }
+    ],
+    "grocerist_id": "utensils_99"
+  },
+  "102": {
+    "id": 102,
+    "order": "102.00000000000000000000",
+    "Name": "Zeytun yağı kapları",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 52,
+        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+      }
+    ],
+    "grocerist_id": "utensils_100"
+  },
+  "103": {
+    "id": 103,
+    "order": "103.00000000000000000000",
+    "Name": "Arşın",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 106,
+        "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
+      }
+    ],
+    "grocerist_id": "utensils_101"
+  },
+  "104": {
+    "id": 104,
+    "order": "104.00000000000000000000",
+    "Name": "Nardeng koğası",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 141,
+        "value": "İSTM.ŞSC.06.d. 589/56b"
+      }
+    ],
+    "grocerist_id": "utensils_102"
+  },
+  "105": {
+    "id": 105,
+    "order": "105.00000000000000000000",
+    "Name": "Asel tulumu",
+    "Notes": "",
+    "Active": false,
+    "documents": [
+      {
+        "id": 141,
+        "value": "İSTM.ŞSC.06.d. 589/56b"
+      }
+    ],
+    "grocerist_id": "utensils_103"
   }
 }
