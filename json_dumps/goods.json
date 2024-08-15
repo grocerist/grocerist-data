@@ -177,12 +177,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 1,
-        "value": "Oil Seeds"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 69,
+        "value": "Nut"
       }
     ]
   },
@@ -272,12 +272,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 1,
-        "value": "Oil Seeds"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 69,
+        "value": "Nut"
       }
     ]
   },
@@ -339,12 +339,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 1,
-        "value": "Oil Seeds"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 69,
+        "value": "Nut"
       }
     ]
   },
@@ -410,12 +410,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 1,
-        "value": "Oil Seeds"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 69,
+        "value": "Nut"
       }
     ]
   },
@@ -625,12 +625,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 3,
-        "value": "Cooking Oils"
+        "id": 47,
+        "value": "Condiments"
       },
       {
-        "id": 4,
-        "value": "Fats"
+        "id": 57,
+        "value": "Olive oil"
       }
     ]
   },
@@ -828,16 +828,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 3,
-        "value": "Cooking Oils"
+        "id": 47,
+        "value": "Condiments"
       },
       {
-        "id": 4,
-        "value": "Fats"
-      },
-      {
-        "id": 5,
-        "value": "Dairy"
+        "id": 67,
+        "value": "Oil assortment"
       }
     ]
   },
@@ -873,16 +869,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 3,
-        "value": "Cooking Oils"
-      },
-      {
-        "id": 4,
-        "value": "Fats"
-      }
-    ]
+    "has_category": []
   },
   "9": {
     "id": 9,
@@ -1026,16 +1013,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
-      },
-      {
-        "id": 7,
-        "value": "Kaşkaval Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -1177,12 +1160,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -1328,12 +1311,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 49,
+        "value": "Produce"
       },
       {
-        "id": 9,
-        "value": "Legumes"
+        "id": 58,
+        "value": "Vegetable"
       }
     ]
   },
@@ -1507,11 +1490,11 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 9,
+        "id": 54,
         "value": "Legumes"
       }
     ]
@@ -1654,11 +1637,11 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 9,
+        "id": 54,
         "value": "Legumes"
       }
     ]
@@ -1889,11 +1872,11 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
       }
     ]
@@ -1968,20 +1951,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
-      },
-      {
-        "id": 12,
-        "value": "Raisin Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -2051,20 +2026,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
-      },
-      {
-        "id": 12,
-        "value": "Raisin Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -2094,20 +2061,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
-      },
-      {
-        "id": 12,
-        "value": "Raisin Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -2165,20 +2124,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
-      },
-      {
-        "id": 12,
-        "value": "Raisin Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -2284,20 +2235,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
-      },
-      {
-        "id": 13,
-        "value": "Fig Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -2351,12 +2294,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
+        "id": 43,
+        "value": "Dry goods"
       }
     ]
   },
@@ -2518,16 +2457,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 15,
-        "value": "Molasses Assortment"
-      },
-      {
-        "id": 16,
-        "value": "Sweeteners"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -2675,12 +2610,7 @@
     "notes": "a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 17,
-        "value": "Beverages"
-      }
-    ]
+    "has_category": []
   },
   "25": {
     "id": 25,
@@ -2832,16 +2762,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 16,
-        "value": "Sweeteners"
-      },
-      {
-        "id": 18,
-        "value": "Honey Assortment"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -2861,16 +2787,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 3,
-        "value": "Cooking Oils"
-      },
-      {
-        "id": 4,
-        "value": "Fats"
-      }
-    ]
+    "has_category": []
   },
   "27": {
     "id": 27,
@@ -3034,11 +2951,7 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 19,
-        "value": "Baking Goods"
-      },
-      {
-        "id": 20,
+        "id": 48,
         "value": "Ingredients"
       }
     ]
@@ -3245,16 +3158,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 21,
-        "value": "Spices and Add Ons"
-      },
-      {
-        "id": 22,
-        "value": "Sour Flavorings"
+        "id": 63,
+        "value": "Sour flavor"
       }
     ]
   },
@@ -3432,12 +3341,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 23,
+        "id": 49,
         "value": "Produce"
       },
       {
-        "id": 24,
-        "value": "Vegetables"
+        "id": 58,
+        "value": "Vegetable"
       }
     ]
   },
@@ -3555,12 +3464,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 20,
-        "value": "Ingredients"
+        "id": 47,
+        "value": "Condiments"
       },
       {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -3658,12 +3567,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 23,
+        "id": 49,
         "value": "Produce"
       },
       {
-        "id": 24,
-        "value": "Vegetables"
+        "id": 58,
+        "value": "Vegetable"
       }
     ]
   },
@@ -3685,12 +3594,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 49,
+        "value": "Produce"
       },
       {
-        "id": 10,
-        "value": "Grains"
+        "id": 58,
+        "value": "Vegetable"
       }
     ]
   },
@@ -3792,16 +3701,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 20,
-        "value": "Ingredients"
-      },
-      {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -3933,16 +3838,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 25,
-        "value": "Olive Assortment"
-      },
-      {
-        "id": 26,
-        "value": "Deli"
-      }
-    ]
+    "has_category": []
   },
   "35": {
     "id": 35,
@@ -3974,8 +3870,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -4129,11 +4025,11 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
       }
     ]
@@ -4160,12 +4056,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 28,
-        "value": "Pickle"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 72,
+        "value": "Pickled fish"
       }
     ]
   },
@@ -4215,12 +4111,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -4248,16 +4144,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 22,
-        "value": "Sour Flavorings"
-      },
-      {
-        "id": 28,
-        "value": "Pickle"
-      }
-    ]
+    "has_category": []
   },
   "41": {
     "id": 41,
@@ -4353,11 +4240,11 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
       }
     ]
@@ -4424,16 +4311,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 20,
-        "value": "Ingredients"
-      },
-      {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -4463,16 +4346,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 20,
-        "value": "Ingredients"
-      },
-      {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -4526,11 +4405,11 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
       }
     ]
@@ -4617,11 +4496,11 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
       }
     ]
@@ -4708,11 +4587,11 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
       }
     ]
@@ -4735,12 +4614,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 28,
-        "value": "Pickle"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 72,
+        "value": "Pickled fish"
       }
     ]
   },
@@ -4770,20 +4649,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
-      },
-      {
-        "id": 12,
-        "value": "Raisin Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -4853,12 +4724,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 26,
-        "value": "Deli"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 71,
+        "value": "Dry meat"
       }
     ]
   },
@@ -4880,12 +4751,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 60,
+        "value": "Spice"
       }
     ]
   },
@@ -4917,12 +4788,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 17,
-        "value": "Beverages"
-      }
-    ]
+    "has_category": []
   },
   "52": {
     "id": 52,
@@ -4946,12 +4812,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 28,
-        "value": "Pickle"
-      },
-      {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       }
     ]
   },
@@ -5029,11 +4891,7 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 19,
-        "value": "Baking Goods"
-      },
-      {
-        "id": 20,
+        "id": 48,
         "value": "Ingredients"
       }
     ]
@@ -5060,16 +4918,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 16,
-        "value": "Sweeteners"
-      },
-      {
-        "id": 18,
-        "value": "Honey Assortment"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -5101,16 +4955,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 3,
-        "value": "Cooking Oils"
-      },
-      {
-        "id": 4,
-        "value": "Fats"
-      }
-    ]
+    "has_category": []
   },
   "56": {
     "id": 56,
@@ -5130,16 +4975,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 28,
-        "value": "Pickle"
-      },
-      {
-        "id": 29,
-        "value": "Fish Assortment"
-      },
-      {
-        "id": 31,
-        "value": "Brine"
+        "id": 46,
+        "value": "Animal food"
       }
     ]
   },
@@ -5197,12 +5034,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 26,
-        "value": "Deli"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 71,
+        "value": "Dry meat"
       }
     ]
   },
@@ -5234,12 +5071,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 21,
-        "value": "Spices and Add Ons"
-      }
-    ]
+    "has_category": []
   },
   "59": {
     "id": 59,
@@ -5277,12 +5109,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 5,
-        "value": "Dairy"
-      }
-    ]
+    "has_category": []
   },
   "60": {
     "id": 60,
@@ -5302,12 +5129,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -5375,16 +5202,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 25,
-        "value": "Olive Assortment"
-      },
-      {
-        "id": 26,
-        "value": "Deli"
-      }
-    ]
+    "has_category": []
   },
   "62": {
     "id": 62,
@@ -5410,16 +5228,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 9,
-        "value": "Legumes"
-      }
-    ]
+    "has_category": []
   },
   "63": {
     "id": 63,
@@ -5465,16 +5274,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 3,
-        "value": "Cooking Oils"
-      },
-      {
-        "id": 4,
-        "value": "Fats"
-      }
-    ]
+    "has_category": []
   },
   "64": {
     "id": 64,
@@ -5534,16 +5334,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 20,
-        "value": "Ingredients"
-      },
-      {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -5579,16 +5375,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 2,
-        "value": "Snacks"
-      },
-      {
-        "id": 8,
-        "value": "Dried Goods"
-      }
-    ]
+    "has_category": []
   },
   "66": {
     "id": 66,
@@ -5608,12 +5395,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -5679,12 +5466,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 60,
+        "value": "Spice"
       }
     ]
   },
@@ -5720,16 +5507,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 27,
-        "value": "Non-foods"
-      },
-      {
-        "id": 32,
-        "value": "Durable Goods"
-      }
-    ]
+    "has_category": []
   },
   "69": {
     "id": 69,
@@ -5747,16 +5525,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 23,
-        "value": "Produce"
-      },
-      {
-        "id": 33,
-        "value": "Fresh Fruits"
-      }
-    ]
+    "has_category": []
   },
   "70": {
     "id": 70,
@@ -5774,16 +5543,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 23,
-        "value": "Produce"
-      },
-      {
-        "id": 33,
-        "value": "Fresh Fruits"
-      }
-    ]
+    "has_category": []
   },
   "71": {
     "id": 71,
@@ -5811,12 +5571,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
-      },
-      {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 46,
+        "value": "Animal food"
       }
     ]
   },
@@ -5838,12 +5594,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -5865,12 +5621,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -5896,12 +5652,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -5923,12 +5679,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -5954,12 +5710,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -5981,16 +5737,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 15,
-        "value": "Molasses Assortment"
-      },
-      {
-        "id": 16,
-        "value": "Sweeteners"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -6018,16 +5770,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 22,
-        "value": "Sour Flavorings"
-      },
-      {
-        "id": 28,
-        "value": "Pickle"
-      }
-    ]
+    "has_category": []
   },
   "79": {
     "id": 79,
@@ -6049,16 +5792,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 25,
-        "value": "Olive Assortment"
-      },
-      {
-        "id": 26,
-        "value": "Deli"
-      }
-    ]
+    "has_category": []
   },
   "80": {
     "id": 80,
@@ -6078,12 +5812,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -6105,12 +5839,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -6132,16 +5866,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 15,
-        "value": "Molasses Assortment"
-      },
-      {
-        "id": 16,
-        "value": "Sweeteners"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -6167,16 +5897,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
-      },
-      {
-        "id": 31,
-        "value": "Brine"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -6196,12 +5922,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 8,
-        "value": "Dried Goods"
-      }
-    ]
+    "has_category": []
   },
   "87": {
     "id": 87,
@@ -6241,12 +5962,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 23,
+        "id": 49,
         "value": "Produce"
       },
       {
-        "id": 24,
-        "value": "Vegetables"
+        "id": 58,
+        "value": "Vegetable"
       }
     ]
   },
@@ -6288,12 +6009,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 23,
+        "id": 49,
         "value": "Produce"
       },
       {
-        "id": 24,
-        "value": "Vegetables"
+        "id": 58,
+        "value": "Vegetable"
       }
     ]
   },
@@ -6323,12 +6044,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -6348,16 +6069,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 25,
-        "value": "Olive Assortment"
-      },
-      {
-        "id": 26,
-        "value": "Deli"
-      }
-    ]
+    "has_category": []
   },
   "91": {
     "id": 91,
@@ -6381,16 +6093,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 16,
-        "value": "Sweeteners"
-      },
-      {
-        "id": 18,
-        "value": "Honey Assortment"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -6410,16 +6118,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 1,
-        "value": "Oil Seeds"
-      },
-      {
-        "id": 2,
-        "value": "Snacks"
-      }
-    ]
+    "has_category": []
   },
   "93": {
     "id": 93,
@@ -6451,16 +6150,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 16,
-        "value": "Sweeteners"
-      },
-      {
-        "id": 18,
-        "value": "Honey Assortment"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -6490,16 +6185,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
-      },
-      {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
+        "id": 43,
+        "value": "Dry goods"
       }
     ]
   },
@@ -6525,8 +6212,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 47,
+        "value": "Condiments"
       }
     ]
   },
@@ -6562,16 +6249,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 2,
-        "value": "Snacks"
-      },
-      {
-        "id": 8,
-        "value": "Dried Goods"
-      }
-    ]
+    "has_category": []
   },
   "97": {
     "id": 97,
@@ -6591,16 +6269,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -6626,20 +6300,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
-      },
-      {
-        "id": 13,
-        "value": "Fig Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -6685,16 +6351,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 22,
-        "value": "Sour Flavorings"
-      },
-      {
-        "id": 23,
+        "id": 49,
         "value": "Produce"
       },
       {
-        "id": 33,
-        "value": "Fresh Fruits"
+        "id": 59,
+        "value": "Fresh fruit"
       }
     ]
   },
@@ -6748,12 +6410,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 49,
+        "value": "Produce"
       },
       {
-        "id": 9,
-        "value": "Legumes"
+        "id": 58,
+        "value": "Vegetable"
       }
     ]
   },
@@ -6783,12 +6445,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -6934,12 +6596,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
-      },
-      {
-        "id": 34,
-        "value": "Soap Assortment"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -7053,8 +6711,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -7084,8 +6742,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -7111,16 +6769,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 16,
-        "value": "Sweeteners"
-      },
-      {
-        "id": 18,
-        "value": "Honey Assortment"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -7190,8 +6844,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -7229,8 +6883,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -7252,12 +6906,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
-      },
-      {
-        "id": 34,
-        "value": "Soap Assortment"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -7283,8 +6933,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -7322,8 +6972,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -7343,12 +6993,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 27,
-        "value": "Non-foods"
-      }
-    ]
+    "has_category": []
   },
   "155": {
     "id": 155,
@@ -7416,12 +7061,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 49,
+        "value": "Produce"
       },
       {
-        "id": 9,
-        "value": "Legumes"
+        "id": 58,
+        "value": "Vegetable"
       }
     ]
   },
@@ -7443,12 +7088,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -7506,8 +7151,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 44,
+        "value": "Cooking oil"
+      },
+      {
+        "id": 67,
+        "value": "Oil assortment"
       }
     ]
   },
@@ -7529,16 +7178,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 15,
-        "value": "Molasses Assortment"
-      },
-      {
-        "id": 16,
-        "value": "Sweeteners"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -7576,20 +7221,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
-      },
-      {
-        "id": 12,
-        "value": "Raisin Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -7611,12 +7248,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -7638,8 +7275,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -7659,16 +7296,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 25,
-        "value": "Olive Assortment"
-      },
-      {
-        "id": 26,
-        "value": "Deli"
-      }
-    ]
+    "has_category": []
   },
   "165": {
     "id": 165,
@@ -7688,8 +7316,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -7719,12 +7347,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -7744,12 +7372,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 27,
-        "value": "Non-foods"
-      }
-    ]
+    "has_category": []
   },
   "170": {
     "id": 170,
@@ -7773,12 +7396,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 23,
+        "id": 49,
         "value": "Produce"
       },
       {
-        "id": 33,
-        "value": "Fresh Fruits"
+        "id": 59,
+        "value": "Fresh fruit"
       }
     ]
   },
@@ -7804,12 +7427,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
-      },
-      {
-        "id": 34,
-        "value": "Soap Assortment"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -7829,16 +7448,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 25,
-        "value": "Olive Assortment"
-      },
-      {
-        "id": 26,
-        "value": "Deli"
-      }
-    ]
+    "has_category": []
   },
   "174": {
     "id": 174,
@@ -7872,16 +7482,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 23,
-        "value": "Produce"
-      },
-      {
-        "id": 31,
-        "value": "Brine"
-      }
-    ]
+    "has_category": []
   },
   "175": {
     "id": 175,
@@ -7911,16 +7512,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 1,
-        "value": "Oil Seeds"
-      },
-      {
-        "id": 2,
-        "value": "Snacks"
-      }
-    ]
+    "has_category": []
   },
   "176": {
     "id": 176,
@@ -7938,16 +7530,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 14,
-        "value": "Condiments"
-      },
-      {
-        "id": 21,
-        "value": "Spices and Add Ons"
-      }
-    ]
+    "has_category": []
   },
   "177": {
     "id": 177,
@@ -7971,16 +7554,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 9,
-        "value": "Legumes"
+        "id": 69,
+        "value": "Nut"
       }
     ]
   },
@@ -8006,12 +7585,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
-        "value": "Condiments"
-      },
-      {
-        "id": 22,
-        "value": "Sour Flavorings"
+        "id": 52,
+        "value": "Beverage"
       }
     ]
   },
@@ -8031,16 +7606,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 23,
-        "value": "Produce"
-      },
-      {
-        "id": 31,
-        "value": "Brine"
-      }
-    ]
+    "has_category": []
   },
   "181": {
     "id": 181,
@@ -8064,16 +7630,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
-        "value": "Condiments"
+        "id": 44,
+        "value": "Cooking oil"
       },
       {
-        "id": 16,
-        "value": "Sweeteners"
-      },
-      {
-        "id": 18,
-        "value": "Honey Assortment"
+        "id": 67,
+        "value": "Oil assortment"
       }
     ]
   },
@@ -8093,16 +7655,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 3,
-        "value": "Cooking Oils"
-      },
-      {
-        "id": 4,
-        "value": "Fats"
-      }
-    ]
+    "has_category": []
   },
   "184": {
     "id": 184,
@@ -8134,12 +7687,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
-        "value": "Dairy"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -8167,20 +7720,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 2,
-        "value": "Snacks"
-      },
-      {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
-      }
-    ]
+    "has_category": []
   },
   "186": {
     "id": 186,
@@ -8204,16 +7744,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -8235,16 +7771,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
-      },
-      {
-        "id": 7,
-        "value": "Kaşkaval Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -8266,8 +7798,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -8293,8 +7825,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       }
     ]
   },
@@ -8320,16 +7852,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
-      },
-      {
-        "id": 7,
-        "value": "Kaşkaval Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -8355,16 +7883,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 11,
-        "value": "Dried Fruits"
-      },
-      {
-        "id": 12,
-        "value": "Raisin Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -8390,8 +7914,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -8417,16 +7941,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 4,
-        "value": "Fats"
-      },
-      {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
-      },
-      {
-        "id": 20,
-        "value": "Ingredients"
       }
     ]
   },
@@ -8452,8 +7968,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -8475,12 +7991,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -8502,7 +8018,7 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       }
     ]
@@ -8510,7 +8026,7 @@
   "199": {
     "id": 199,
     "order": "196.00000000000000000000",
-    "name": "Trablus sabunun",
+    "name": "Trablus sabunu",
     "grocerist_id": "goods__199",
     "documents": [
       {
@@ -8525,12 +8041,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
-      },
-      {
-        "id": 34,
-        "value": "Soap Assortment"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -8560,8 +8072,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -8583,12 +8095,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 23,
+        "id": 49,
         "value": "Produce"
       },
       {
-        "id": 24,
-        "value": "Vegetables"
+        "id": 58,
+        "value": "Vegetable"
       }
     ]
   },
@@ -8614,20 +8126,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
-      },
-      {
-        "id": 13,
-        "value": "Fig Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -8669,12 +8173,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
-      },
-      {
-        "id": 36,
-        "value": "Broom Assortment"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -8696,16 +8196,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 16,
-        "value": "Sweeteners"
-      },
-      {
-        "id": 18,
-        "value": "Honey Assortment"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -8755,8 +8251,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -8778,8 +8274,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 47,
+        "value": "Condiments"
+      },
+      {
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -8801,12 +8301,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 11,
-        "value": "Dried Fruits"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -8826,12 +8326,7 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 31,
-        "value": "Brine"
-      }
-    ]
+    "has_category": []
   },
   "216": {
     "id": 216,
@@ -8855,12 +8350,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
-      },
-      {
-        "id": 36,
-        "value": "Broom Assortment"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -8894,8 +8385,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -8919,12 +8410,7 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 17,
-        "value": "Beverages"
-      }
-    ]
+    "has_category": []
   },
   "227": {
     "id": 227,
@@ -8950,12 +8436,7 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 17,
-        "value": "Beverages"
-      }
-    ]
+    "has_category": []
   },
   "230": {
     "id": 230,
@@ -8979,8 +8460,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -9022,12 +8503,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 3,
-        "value": "Cooking Oils"
+        "id": 44,
+        "value": "Cooking oil"
       },
       {
-        "id": 4,
-        "value": "Fats"
+        "id": 67,
+        "value": "Oil assortment"
       }
     ]
   },
@@ -9049,8 +8530,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -9090,12 +8571,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -9117,8 +8598,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -9144,8 +8625,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 17,
-        "value": "Beverages"
+        "id": 52,
+        "value": "Beverage"
       }
     ]
   },
@@ -9167,8 +8648,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -9190,8 +8671,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -9213,12 +8694,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -9240,8 +8721,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 43,
+        "value": "Dry goods"
+      },
+      {
+        "id": 69,
+        "value": "Nut"
       }
     ]
   },
@@ -9267,8 +8752,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 37,
-        "value": "Oil Assortment"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -9302,12 +8787,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
-      },
-      {
-        "id": 36,
-        "value": "Broom Assortment"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -9329,16 +8810,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 26,
-        "value": "Deli"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 30,
-        "value": "Animal Food"
-      },
-      {
-        "id": 38,
-        "value": "Pastrami Assortment"
+        "id": 71,
+        "value": "Dry meat"
       }
     ]
   },
@@ -9360,16 +8837,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
-      },
-      {
-        "id": 39,
-        "value": "Rice Assortment"
       }
     ]
   },
@@ -9391,16 +8864,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
-      },
-      {
-        "id": 39,
-        "value": "Rice Assortment"
       }
     ]
   },
@@ -9422,16 +8891,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
-      },
-      {
-        "id": 40,
-        "value": "Vermicelli Assortment"
       }
     ]
   },
@@ -9453,16 +8918,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
-      },
-      {
-        "id": 40,
-        "value": "Vermicelli Assortment"
       }
     ]
   },
@@ -9488,8 +8949,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 47,
+        "value": "Condiments"
+      },
+      {
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -9531,8 +8996,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -9558,16 +9023,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
-      },
-      {
-        "id": 7,
-        "value": "Kaşkaval Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -9589,12 +9050,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 3,
-        "value": "Cooking Oils"
+        "id": 44,
+        "value": "Cooking oil"
       },
       {
-        "id": 4,
-        "value": "Fats"
+        "id": 67,
+        "value": "Oil assortment"
       }
     ]
   },
@@ -9616,8 +9077,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 47,
+        "value": "Condiments"
+      },
+      {
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -9634,12 +9099,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 49,
+        "value": "Produce"
       },
       {
-        "id": 9,
-        "value": "Legumes"
+        "id": 58,
+        "value": "Vegetable"
       }
     ]
   },
@@ -9654,12 +9119,7 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 25,
-        "value": "Olive Assortment"
-      }
-    ]
+    "has_category": []
   },
   "269": {
     "id": 269,
@@ -9674,16 +9134,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 3,
-        "value": "Cooking Oils"
+        "id": 44,
+        "value": "Cooking oil"
       },
       {
-        "id": 4,
-        "value": "Fats"
-      },
-      {
-        "id": 5,
-        "value": "Dairy"
+        "id": 67,
+        "value": "Oil assortment"
       }
     ]
   },
@@ -9705,7 +9161,7 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       }
     ]
@@ -9730,12 +9186,7 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 28,
-        "value": "Pickle"
-      }
-    ]
+    "has_category": []
   },
   "275": {
     "id": 275,
@@ -9779,16 +9230,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 11,
-        "value": "Dried Fruits"
-      },
-      {
-        "id": 12,
-        "value": "Raisin Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -9810,12 +9257,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 18,
-        "value": "Honey Assortment"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -9835,12 +9282,7 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 28,
-        "value": "Pickle"
-      }
-    ]
+    "has_category": []
   },
   "324": {
     "id": 324,
@@ -9858,16 +9300,7 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 8,
-        "value": "Dried Goods"
-      },
-      {
-        "id": 11,
-        "value": "Dried Fruits"
-      }
-    ]
+    "has_category": []
   },
   "325": {
     "id": 325,
@@ -9885,12 +9318,7 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 25,
-        "value": "Olive Assortment"
-      }
-    ]
+    "has_category": []
   },
   "326": {
     "id": 326,
@@ -9910,8 +9338,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
+      },
+      {
+        "id": 64,
+        "value": "Oil"
       }
     ]
   },
@@ -9951,8 +9383,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 47,
+        "value": "Condiments"
+      },
+      {
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -10008,16 +9444,7 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 23,
-        "value": "Produce"
-      },
-      {
-        "id": 33,
-        "value": "Fresh Fruits"
-      }
-    ]
+    "has_category": []
   },
   "338": {
     "id": 338,
@@ -10059,12 +9486,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 11,
-        "value": "Dried Fruits"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 12,
-        "value": "Raisin Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -10090,12 +9517,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 16,
-        "value": "Sweeteners"
+        "id": 47,
+        "value": "Condiments"
       },
       {
-        "id": 18,
-        "value": "Honey Assortment"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -10121,12 +9548,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       },
       {
-        "id": 36,
-        "value": "Broom Assortment"
+        "id": 68,
+        "value": "Süpürge"
       }
     ]
   },
@@ -10148,12 +9575,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       },
       {
-        "id": 36,
-        "value": "Broom Assortment"
+        "id": 68,
+        "value": "Süpürge"
       }
     ]
   },
@@ -10179,12 +9606,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -10210,12 +9637,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 26,
-        "value": "Deli"
+        "id": 46,
+        "value": "Animal food"
       },
       {
-        "id": 38,
-        "value": "Pastrami Assortment"
+        "id": 71,
+        "value": "Dry meat"
       }
     ]
   },
@@ -10241,12 +9668,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 23,
+        "id": 49,
         "value": "Produce"
       },
       {
-        "id": 24,
-        "value": "Vegetables"
+        "id": 58,
+        "value": "Vegetable"
       }
     ]
   },
@@ -10272,16 +9699,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 20,
-        "value": "Ingredients"
-      },
-      {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -10303,16 +9726,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
-      },
-      {
-        "id": 40,
-        "value": "Vermicelli Assortment"
       }
     ]
   },
@@ -10338,16 +9757,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 11,
-        "value": "Dried Fruits"
-      },
-      {
-        "id": 12,
-        "value": "Raisin Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -10369,12 +9784,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -10400,11 +9815,7 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 19,
-        "value": "Baking Goods"
-      },
-      {
-        "id": 20,
+        "id": 48,
         "value": "Ingredients"
       }
     ]
@@ -10422,11 +9833,11 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
       }
     ]
@@ -10451,12 +9862,7 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 37,
-        "value": "Oil Assortment"
-      }
-    ]
+    "has_category": []
   },
   "359": {
     "id": 359,
@@ -10476,12 +9882,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 5,
+        "id": 45,
         "value": "Dairy"
       },
       {
-        "id": 6,
-        "value": "Cheese Assortment"
+        "id": 56,
+        "value": "Cheese"
       }
     ]
   },
@@ -10503,16 +9909,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 20,
-        "value": "Ingredients"
-      },
-      {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -10534,8 +9936,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -10561,8 +9963,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 29,
-        "value": "Fish Assortment"
+        "id": 46,
+        "value": "Animal food"
+      },
+      {
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -10584,12 +9990,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
-      },
-      {
-        "id": 36,
-        "value": "Broom Assortment"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -10611,16 +10013,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 20,
-        "value": "Ingredients"
-      },
-      {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -10642,12 +10040,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 11,
-        "value": "Dried Fruits"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 12,
-        "value": "Raisin Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -10669,8 +10067,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 27,
-        "value": "Non-foods"
+        "id": 50,
+        "value": "Non-food"
       }
     ]
   },
@@ -10692,11 +10090,7 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 19,
-        "value": "Baking Goods"
-      },
-      {
-        "id": 20,
+        "id": 48,
         "value": "Ingredients"
       }
     ]
@@ -10719,16 +10113,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 20,
-        "value": "Ingredients"
-      },
-      {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 62,
+        "value": "Salt"
       }
     ]
   },
@@ -10750,12 +10140,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 11,
-        "value": "Dried Fruits"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 12,
-        "value": "Raisin Assortment"
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -10777,12 +10167,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 1,
-        "value": "Oil Seeds"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 2,
-        "value": "Snacks"
+        "id": 69,
+        "value": "Nut"
       }
     ]
   },
@@ -10804,16 +10194,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 8,
-        "value": "Dried Goods"
+        "id": 43,
+        "value": "Dry goods"
       },
       {
-        "id": 10,
+        "id": 53,
         "value": "Grains"
-      },
-      {
-        "id": 40,
-        "value": "Vermicelli Assortment"
       }
     ]
   },
@@ -10835,12 +10221,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 60,
+        "value": "Spice"
       }
     ]
   },
@@ -10862,12 +10248,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 14,
+        "id": 47,
         "value": "Condiments"
       },
       {
-        "id": 21,
-        "value": "Spices and Add Ons"
+        "id": 60,
+        "value": "Spice"
       }
     ]
   }
