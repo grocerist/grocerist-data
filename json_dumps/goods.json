@@ -625,8 +625,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 47,
-        "value": "Condiments"
+        "id": 44,
+        "value": "Cooking oil"
       },
       {
         "id": 57,
@@ -828,8 +828,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 47,
-        "value": "Condiments"
+        "id": 44,
+        "value": "Cooking oil"
       },
       {
         "id": 67,
@@ -869,7 +869,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 44,
+        "value": "Cooking oil"
+      },
+      {
+        "id": 67,
+        "value": "Oil assortment"
+      }
+    ]
   },
   "9": {
     "id": 9,
@@ -1311,12 +1320,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 49,
-        "value": "Produce"
-      },
-      {
-        "id": 58,
-        "value": "Vegetable"
+        "id": 43,
+        "value": "Dry goods"
       }
     ]
   },
@@ -2296,6 +2301,10 @@
       {
         "id": 43,
         "value": "Dry goods"
+      },
+      {
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -2610,7 +2619,12 @@
     "notes": "a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 52,
+        "value": "Beverage"
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -3838,7 +3852,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      },
+      {
+        "id": 75,
+        "value": "Olive"
+      }
+    ]
   },
   "35": {
     "id": 35,
@@ -4113,10 +4136,6 @@
       {
         "id": 46,
         "value": "Animal food"
-      },
-      {
-        "id": 70,
-        "value": "Fish"
       }
     ]
   },
@@ -4144,7 +4163,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      },
+      {
+        "id": 74,
+        "value": "Pickle"
+      }
+    ]
   },
   "41": {
     "id": 41,
@@ -4788,7 +4816,12 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 52,
+        "value": "Beverage"
+      }
+    ]
   },
   "52": {
     "id": 52,
@@ -4955,7 +4988,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 50,
+        "value": "Non-food"
+      },
+      {
+        "id": 64,
+        "value": "Oil"
+      }
+    ]
   },
   "56": {
     "id": 56,
@@ -5071,7 +5113,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 43,
+        "value": "Dry goods"
+      },
+      {
+        "id": 55,
+        "value": "Fruits"
+      }
+    ]
   },
   "59": {
     "id": 59,
@@ -5109,7 +5160,12 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 46,
+        "value": "Animal food"
+      }
+    ]
   },
   "60": {
     "id": 60,
@@ -5202,7 +5258,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      },
+      {
+        "id": 75,
+        "value": "Olive"
+      }
+    ]
   },
   "62": {
     "id": 62,
@@ -5274,7 +5339,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 44,
+        "value": "Cooking oil"
+      },
+      {
+        "id": 67,
+        "value": "Oil assortment"
+      }
+    ]
   },
   "64": {
     "id": 64,
@@ -5375,7 +5449,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 43,
+        "value": "Dry goods"
+      },
+      {
+        "id": 55,
+        "value": "Fruits"
+      }
+    ]
   },
   "66": {
     "id": 66,
@@ -5464,16 +5547,7 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": [
-      {
-        "id": 47,
-        "value": "Condiments"
-      },
-      {
-        "id": 60,
-        "value": "Spice"
-      }
-    ]
+    "has_category": []
   },
   "68": {
     "id": 68,
@@ -5507,7 +5581,12 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 50,
+        "value": "Non-food"
+      }
+    ]
   },
   "69": {
     "id": 69,
@@ -5525,7 +5604,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 49,
+        "value": "Produce"
+      },
+      {
+        "id": 59,
+        "value": "Fresh fruit"
+      }
+    ]
   },
   "70": {
     "id": 70,
@@ -5543,7 +5631,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 49,
+        "value": "Produce"
+      },
+      {
+        "id": 59,
+        "value": "Fresh fruit"
+      }
+    ]
   },
   "71": {
     "id": 71,
@@ -5573,6 +5670,10 @@
       {
         "id": 46,
         "value": "Animal food"
+      },
+      {
+        "id": 70,
+        "value": "Fish"
       }
     ]
   },
@@ -5770,7 +5871,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      },
+      {
+        "id": 74,
+        "value": "Pickle"
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -5792,7 +5902,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      },
+      {
+        "id": 75,
+        "value": "Olive"
+      }
+    ]
   },
   "80": {
     "id": 80,
@@ -5922,7 +6041,12 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 43,
+        "value": "Dry goods"
+      }
+    ]
   },
   "87": {
     "id": 87,
@@ -6069,7 +6193,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      },
+      {
+        "id": 75,
+        "value": "Olive"
+      }
+    ]
   },
   "91": {
     "id": 91,
@@ -6118,7 +6251,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 43,
+        "value": "Dry goods"
+      },
+      {
+        "id": 69,
+        "value": "Nut"
+      }
+    ]
   },
   "93": {
     "id": 93,
@@ -6187,6 +6329,10 @@
       {
         "id": 43,
         "value": "Dry goods"
+      },
+      {
+        "id": 55,
+        "value": "Fruits"
       }
     ]
   },
@@ -6249,7 +6395,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 43,
+        "value": "Dry goods"
+      },
+      {
+        "id": 55,
+        "value": "Fruits"
+      }
+    ]
   },
   "97": {
     "id": 97,
@@ -6993,7 +7148,12 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 50,
+        "value": "Non-food"
+      }
+    ]
   },
   "155": {
     "id": 155,
@@ -7061,12 +7221,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 49,
-        "value": "Produce"
-      },
-      {
-        "id": 58,
-        "value": "Vegetable"
+        "id": 43,
+        "value": "Dry goods"
       }
     ]
   },
@@ -7296,7 +7452,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      },
+      {
+        "id": 75,
+        "value": "Olive"
+      }
+    ]
   },
   "165": {
     "id": 165,
@@ -7372,7 +7537,12 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 50,
+        "value": "Non-food"
+      }
+    ]
   },
   "170": {
     "id": 170,
@@ -7448,7 +7618,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      },
+      {
+        "id": 75,
+        "value": "Olive"
+      }
+    ]
   },
   "174": {
     "id": 174,
@@ -7482,7 +7661,12 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      }
+    ]
   },
   "175": {
     "id": 175,
@@ -7512,7 +7696,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 43,
+        "value": "Dry goods"
+      },
+      {
+        "id": 69,
+        "value": "Nut"
+      }
+    ]
   },
   "176": {
     "id": 176,
@@ -7530,7 +7723,12 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 47,
+        "value": "Condiments"
+      }
+    ]
   },
   "177": {
     "id": 177,
@@ -7606,7 +7804,12 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      }
+    ]
   },
   "181": {
     "id": 181,
@@ -7630,12 +7833,12 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 44,
-        "value": "Cooking oil"
+        "id": 47,
+        "value": "Condiments"
       },
       {
-        "id": 67,
-        "value": "Oil assortment"
+        "id": 61,
+        "value": "Sweetener"
       }
     ]
   },
@@ -7655,7 +7858,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 44,
+        "value": "Cooking oil"
+      },
+      {
+        "id": 67,
+        "value": "Oil assortment"
+      }
+    ]
   },
   "184": {
     "id": 184,
@@ -7720,7 +7932,16 @@
     "notes": null,
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 43,
+        "value": "Dry goods"
+      },
+      {
+        "id": 55,
+        "value": "Fruits"
+      }
+    ]
   },
   "186": {
     "id": 186,
@@ -8175,6 +8396,10 @@
       {
         "id": 50,
         "value": "Non-food"
+      },
+      {
+        "id": 68,
+        "value": "Broom"
       }
     ]
   },
@@ -8326,7 +8551,12 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      }
+    ]
   },
   "216": {
     "id": 216,
@@ -8352,6 +8582,10 @@
       {
         "id": 50,
         "value": "Non-food"
+      },
+      {
+        "id": 68,
+        "value": "Broom"
       }
     ]
   },
@@ -8410,7 +8644,12 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 52,
+        "value": "Beverage"
+      }
+    ]
   },
   "227": {
     "id": 227,
@@ -8436,7 +8675,16 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 47,
+        "value": "Condiments"
+      },
+      {
+        "id": 63,
+        "value": "Sour flavor"
+      }
+    ]
   },
   "230": {
     "id": 230,
@@ -8789,6 +9037,10 @@
       {
         "id": 50,
         "value": "Non-food"
+      },
+      {
+        "id": 68,
+        "value": "Broom"
       }
     ]
   },
@@ -9099,12 +9351,8 @@
     "documents - personal_goods": [],
     "has_category": [
       {
-        "id": 49,
-        "value": "Produce"
-      },
-      {
-        "id": 58,
-        "value": "Vegetable"
+        "id": 43,
+        "value": "Dry goods"
       }
     ]
   },
@@ -9119,7 +9367,16 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      },
+      {
+        "id": 75,
+        "value": "Olive"
+      }
+    ]
   },
   "269": {
     "id": 269,
@@ -9186,7 +9443,12 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      }
+    ]
   },
   "275": {
     "id": 275,
@@ -9282,7 +9544,16 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      },
+      {
+        "id": 74,
+        "value": "Pickle"
+      }
+    ]
   },
   "324": {
     "id": 324,
@@ -9300,7 +9571,16 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 49,
+        "value": "Produce"
+      },
+      {
+        "id": 59,
+        "value": "Fresh fruit"
+      }
+    ]
   },
   "325": {
     "id": 325,
@@ -9318,7 +9598,16 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 73,
+        "value": "Brine"
+      },
+      {
+        "id": 75,
+        "value": "Olive"
+      }
+    ]
   },
   "326": {
     "id": 326,
@@ -9408,7 +9697,12 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 46,
+        "value": "Animal food"
+      }
+    ]
   },
   "336": {
     "id": 336,
@@ -9426,7 +9720,16 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 47,
+        "value": "Condiments"
+      },
+      {
+        "id": 61,
+        "value": "Sweetener"
+      }
+    ]
   },
   "337": {
     "id": 337,
@@ -9444,7 +9747,16 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 49,
+        "value": "Produce"
+      },
+      {
+        "id": 55,
+        "value": "Fruits"
+      }
+    ]
   },
   "338": {
     "id": 338,
@@ -9462,7 +9774,12 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 50,
+        "value": "Non-food"
+      }
+    ]
   },
   "340": {
     "id": 340,
@@ -9553,7 +9870,7 @@
       },
       {
         "id": 68,
-        "value": "Süpürge"
+        "value": "Broom"
       }
     ]
   },
@@ -9580,7 +9897,7 @@
       },
       {
         "id": 68,
-        "value": "Süpürge"
+        "value": "Broom"
       }
     ]
   },
@@ -9862,7 +10179,12 @@
     "notes": "",
     "sophisticated": false,
     "documents - personal_goods": [],
-    "has_category": []
+    "has_category": [
+      {
+        "id": 45,
+        "value": "Dairy"
+      }
+    ]
   },
   "359": {
     "id": 359,
@@ -9992,6 +10314,10 @@
       {
         "id": 50,
         "value": "Non-food"
+      },
+      {
+        "id": 68,
+        "value": "Broom"
       }
     ]
   },
