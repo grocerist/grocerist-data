@@ -4,37 +4,81 @@ import os
 from config import JSON_FOLDER
 
 
-seed_file = os.path.join(JSON_FOLDER, "goods.json")
-source_file = os.path.join(JSON_FOLDER, "documents.json")
-
-with open(seed_file, "r") as f:
-    seed_data = json.load(f)
-
-with open(source_file, "r") as f:
-    source_data = json.load(f)
-
-for key, value in source_data.items():
-    old_values = value["goods"]
-    new_values = []
-    for x in old_values:
-        new_values.append(seed_data[f"{x['id']}"])
-    for x in new_values:
-        x.pop("documents", "")
-    value["goods"] = new_values
+def load_json(file_path):
+    with open(file_path, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 
-seed_file = os.path.join(JSON_FOLDER, "persons.json")
-with open(seed_file, "r") as f:
-    seed_data = json.load(f)
+def save_json(data, file_path):
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
-for key, value in source_data.items():
-    old_values = value["main_person"]
-    new_values = []
-    for x in old_values:
-        new_values.append(seed_data[f"{x['id']}"])
-    for x in new_values:
-        x.pop("documents", "")
-    value["main_person"] = new_values
 
-with open(source_file, "w") as f:
-    json.dump(source_data, f, ensure_ascii=False, indent=4)
+def join_tables(source_data, seed_data, key_name):
+    for key, value in source_data.items():
+        old_values = value[key_name]
+        new_values = [seed_data[f"{x['id']}"] for x in old_values]
+        for item in new_values:
+            item.pop("documents", "")
+        value[key_name] = new_values
+
+
+# Add categories to documents and vice versa
+def join_documents_and_categories(docs_data, cat_data):
+    new_documents = {}
+    cat_dict = {}
+    for key, value in docs_data.items():
+        good_cat_set = set()
+        doc_item = {k: value[k] for k in ["id", "shelfmark", "grocerist_id"]}
+        new_value = value
+        value["good_cat"] = []
+
+        for good in value["goods"]:
+            for cat in good["has_category"]:
+                good_cat_key = "__".join([f"{v}" for k, v in cat.items()])
+                good_cat_set.add(good_cat_key)
+
+        for cat in good_cat_set:
+            if cat not in cat_dict:
+                cat_dict[cat] = []
+            cat_dict[cat].append(doc_item)
+            good_cat_id, good_cat_name = cat.split("__")
+            item = {
+                "id": good_cat_id,
+                "name": good_cat_name,
+                "grocerist_id": f"good_cat__{good_cat_id}",
+            }
+            new_value["good_cat"].append(item)
+        new_documents[key] = new_value
+
+    new_categories = cat_data
+    for key, value in cat_dict.items():
+        cat_id, cat_name = key.split("__")
+        new_value = cat_data[cat_id]
+        new_value["documents"] = value
+        new_categories[cat_id] = new_value
+
+    return new_documents, new_categories
+
+
+# Load JSON files
+goods_data = load_json(os.path.join(JSON_FOLDER, "goods.json"))
+persons_data = load_json(os.path.join(JSON_FOLDER, "persons.json"))
+documents_data = load_json(os.path.join(JSON_FOLDER, "documents.json"))
+categories_data = load_json(os.path.join(JSON_FOLDER, "categories.json"))
+
+# Enrich documents with data from goods and persons
+join_tables(documents_data, goods_data, "goods")
+join_tables(documents_data, persons_data, "main_person")
+
+# Save updated documents data
+save_json(documents_data, os.path.join(JSON_FOLDER, "documents.json"))
+
+# Process documents and categories
+new_documents, new_categories = join_documents_and_categories(
+    documents_data, categories_data
+)
+
+# Save updated documents and categories data
+save_json(new_documents, os.path.join(JSON_FOLDER, "documents.json"))
+save_json(new_categories, os.path.join(JSON_FOLDER, "categories.json"))
