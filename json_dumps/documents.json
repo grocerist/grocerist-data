@@ -641,7 +641,114 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            }
+        ]
     },
     "2": {
         "id": 2,
@@ -1187,6 +1294,123 @@
                 "id": 16,
                 "value": "Kova"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "72",
+                "name": "Pickled fish",
+                "grocerist_id": "good_cat__72"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "70",
+                "name": "Fish",
+                "grocerist_id": "good_cat__70"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "74",
+                "name": "Pickle",
+                "grocerist_id": "good_cat__74"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            }
         ]
     },
     "3": {
@@ -1285,7 +1509,8 @@
         ],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "4": {
         "id": 4,
@@ -2005,6 +2230,103 @@
                 "id": 12,
                 "value": "Çömlek"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            }
         ]
     },
     "5": {
@@ -2592,6 +2914,113 @@
                 "id": 12,
                 "value": "Çömlek"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "72",
+                "name": "Pickled fish",
+                "grocerist_id": "good_cat__72"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            }
         ]
     },
     "6": {
@@ -2908,6 +3337,73 @@
             {
                 "id": 13,
                 "value": "Kavanoz"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
             }
         ]
     },
@@ -3234,6 +3730,88 @@
             {
                 "id": 4,
                 "value": "Kantar"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
             }
         ]
     },
@@ -3744,6 +4322,93 @@
                 "id": 19,
                 "value": "Sac ayağı"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            }
         ]
     },
     "9": {
@@ -3927,7 +4592,34 @@
         ],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": [
+            {
+                "id": "60",
+                "name": "Spice",
+                "grocerist_id": "good_cat__60"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            }
+        ]
     },
     "10": {
         "id": 10,
@@ -4191,6 +4883,48 @@
             {
                 "id": 20,
                 "value": "Sepet"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
             }
         ]
     },
@@ -4742,6 +5476,93 @@
                 "id": 22,
                 "value": "Kutu"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            }
         ]
     },
     "12": {
@@ -4987,6 +5808,68 @@
             {
                 "id": 29,
                 "value": "Yağ tulumu"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
             }
         ]
     },
@@ -5470,6 +6353,108 @@
             {
                 "id": 13,
                 "value": "Kavanoz"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
             }
         ]
     },
@@ -6026,6 +7011,103 @@
             {
                 "id": 14,
                 "value": "Mizan"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
             }
         ]
     },
@@ -6650,6 +7732,113 @@
                 "id": 9,
                 "value": "Dirhem"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "64",
+                "name": "Oil",
+                "grocerist_id": "good_cat__64"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            }
         ]
     },
     "16": {
@@ -6888,6 +8077,33 @@
                 "id": 27,
                 "value": "Akçe kesesi"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            }
         ]
     },
     "17": {
@@ -6970,7 +8186,8 @@
         ],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "18": {
         "id": 18,
@@ -7280,6 +8497,73 @@
                 "id": 17,
                 "value": "Küp"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "59",
+                "name": "Fresh fruit",
+                "grocerist_id": "good_cat__59"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            }
         ]
     },
     "19": {
@@ -7373,7 +8657,8 @@
         ],
         "address": [],
         "creation_date_ISO": "1721-11-16",
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "20": {
         "id": 20,
@@ -7597,6 +8882,58 @@
                 "id": 18,
                 "value": "Potna"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            }
         ]
     },
     "21": {
@@ -7690,7 +9027,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": "1723-04-15",
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "22": {
         "id": 22,
@@ -8271,6 +9609,103 @@
                 "id": 18,
                 "value": "Potna"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
         ]
     },
     "23": {
@@ -8369,7 +9804,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": "1723-09-30",
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "24": {
         "id": 24,
@@ -8963,6 +10399,98 @@
             {
                 "id": 10,
                 "value": "Fıçı"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
             }
         ]
     },
@@ -9849,7 +11377,134 @@
             }
         ],
         "creation_date_ISO": "1730-12-01",
-        "utensils": []
+        "utensils": [],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "59",
+                "name": "Fresh fruit",
+                "grocerist_id": "good_cat__59"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "70",
+                "name": "Fish",
+                "grocerist_id": "good_cat__70"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
+        ]
     },
     "26": {
         "id": 26,
@@ -10379,6 +12034,113 @@
             {
                 "id": 13,
                 "value": "Kavanoz"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
             }
         ]
     },
@@ -11002,6 +12764,113 @@
                 "id": 13,
                 "value": "Kavanoz"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            }
         ]
     },
     "28": {
@@ -11616,7 +13485,114 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": [
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
+        ]
     },
     "29": {
         "id": 29,
@@ -12279,6 +14255,98 @@
                 "id": 13,
                 "value": "Kavanoz"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
         ]
     },
     "30": {
@@ -12679,6 +14747,78 @@
             {
                 "id": 9,
                 "value": "Dirhem"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
             }
         ]
     },
@@ -13393,6 +15533,123 @@
                 "id": 13,
                 "value": "Kavanoz"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "59",
+                "name": "Fresh fruit",
+                "grocerist_id": "good_cat__59"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            }
         ]
     },
     "32": {
@@ -13471,7 +15728,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "33": {
         "id": 33,
@@ -13574,7 +15832,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": "1755-04-16",
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "34": {
         "id": 34,
@@ -13667,7 +15926,8 @@
         ],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "35": {
         "id": 35,
@@ -13775,7 +16035,8 @@
         ],
         "address": [],
         "creation_date_ISO": "1759-10-30",
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "36": {
         "id": 36,
@@ -14290,7 +16551,94 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            }
+        ]
     },
     "37": {
         "id": 37,
@@ -14378,7 +16726,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "38": {
         "id": 38,
@@ -14876,6 +17225,113 @@
                 "id": 6,
                 "value": "Bardak"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            }
         ]
     },
     "39": {
@@ -14948,7 +17404,8 @@
         ],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "41": {
         "id": 41,
@@ -15355,6 +17812,98 @@
                 "id": 11,
                 "value": "Tabla"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "70",
+                "name": "Fish",
+                "grocerist_id": "good_cat__70"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
         ]
     },
     "42": {
@@ -15434,7 +17983,8 @@
         ],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "43": {
         "id": 43,
@@ -15527,7 +18077,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": "1770-10-25",
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "44": {
         "id": 44,
@@ -15640,7 +18191,8 @@
             }
         ],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "45": {
         "id": 45,
@@ -15995,6 +18547,78 @@
             {
                 "id": 11,
                 "value": "Tabla"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
             }
         ]
     },
@@ -16435,6 +19059,93 @@
                 "id": 78,
                 "value": "Şamdan"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            }
         ]
     },
     "48": {
@@ -16523,7 +19234,8 @@
         ],
         "address": [],
         "creation_date_ISO": "1785-02-03",
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "49": {
         "id": 49,
@@ -16625,7 +19337,8 @@
         ],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "117": {
         "id": 117,
@@ -16707,7 +19420,8 @@
         ],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "50": {
         "id": 50,
@@ -16779,7 +19493,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": "1790-11-23",
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "51": {
         "id": 51,
@@ -16872,7 +19587,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "59": {
         "id": 59,
@@ -17210,6 +19926,78 @@
             {
                 "id": 10,
                 "value": "Fıçı"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
             }
         ]
     },
@@ -17557,6 +20345,73 @@
             {
                 "id": 102,
                 "value": "Zeytun yağı kapları"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "64",
+                "name": "Oil",
+                "grocerist_id": "good_cat__64"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "70",
+                "name": "Fish",
+                "grocerist_id": "good_cat__70"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
             }
         ]
     },
@@ -18018,6 +20873,98 @@
                 "id": 10,
                 "value": "Fıçı"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            }
         ]
     },
     "115": {
@@ -18095,7 +21042,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "61": {
         "id": 61,
@@ -18617,6 +21565,78 @@
                 "id": 13,
                 "value": "Kavanoz"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "70",
+                "name": "Fish",
+                "grocerist_id": "good_cat__70"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "74",
+                "name": "Pickle",
+                "grocerist_id": "good_cat__74"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            }
         ]
     },
     "62": {
@@ -18853,6 +21873,48 @@
                 "id": 17,
                 "value": "Küp"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "70",
+                "name": "Fish",
+                "grocerist_id": "good_cat__70"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            }
         ]
     },
     "116": {
@@ -18935,7 +21997,8 @@
             }
         ],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "64": {
         "id": 64,
@@ -19684,6 +22747,118 @@
                 "id": 33,
                 "value": "Zeyt yağı bardağı"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
         ]
     },
     "91": {
@@ -20238,6 +23413,93 @@
             {
                 "id": 30,
                 "value": "Zeytin yağı tulumu"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
             }
         ]
     },
@@ -21453,6 +24715,128 @@
                 "id": 12,
                 "value": "Çömlek"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "64",
+                "name": "Oil",
+                "grocerist_id": "good_cat__64"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
         ]
     },
     "89": {
@@ -22375,6 +25759,118 @@
             {
                 "id": 12,
                 "value": "Çömlek"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "64",
+                "name": "Oil",
+                "grocerist_id": "good_cat__64"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
             }
         ]
     },
@@ -23396,6 +26892,123 @@
                 "id": 12,
                 "value": "Çömlek"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "64",
+                "name": "Oil",
+                "grocerist_id": "good_cat__64"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
         ]
     },
     "66": {
@@ -23489,7 +27102,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "67": {
         "id": 67,
@@ -24085,6 +27699,108 @@
                 "id": 32,
                 "value": "Destgah"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "59",
+                "name": "Fresh fruit",
+                "grocerist_id": "good_cat__59"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            }
         ]
     },
     "68": {
@@ -24188,7 +27904,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "119": {
         "id": 119,
@@ -24270,7 +27987,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "120": {
         "id": 120,
@@ -24352,7 +28070,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "69": {
         "id": 69,
@@ -24440,7 +28159,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "70": {
         "id": 70,
@@ -25083,6 +28803,123 @@
                 "id": 47,
                 "value": "Çanak"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
         ]
     },
     "71": {
@@ -25310,6 +29147,48 @@
             {
                 "id": 101,
                 "value": "Sahan"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
             }
         ]
     },
@@ -26263,6 +30142,128 @@
                 "id": 64,
                 "value": "Kazgan"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "59",
+                "name": "Fresh fruit",
+                "grocerist_id": "good_cat__59"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "74",
+                "name": "Pickle",
+                "grocerist_id": "good_cat__74"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
         ]
     },
     "73": {
@@ -26623,6 +30624,18 @@
                 "id": 100,
                 "value": "Zeytun fuçısı"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            }
         ]
     },
     "74": {
@@ -26716,7 +30729,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "122": {
         "id": 122,
@@ -26793,7 +30807,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "75": {
         "id": 75,
@@ -27027,6 +31042,58 @@
                 "id": 6,
                 "value": "Bardak"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            }
         ]
     },
     "123": {
@@ -27109,7 +31176,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "124": {
         "id": 124,
@@ -27191,7 +31259,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "76": {
         "id": 76,
@@ -27316,7 +31385,8 @@
                 "id": 99,
                 "value": "Turşu fuçısı"
             }
-        ]
+        ],
+        "good_cat": []
     },
     "77": {
         "id": 77,
@@ -28066,6 +32136,128 @@
                 "id": 13,
                 "value": "Kavanoz"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "59",
+                "name": "Fresh fruit",
+                "grocerist_id": "good_cat__59"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "70",
+                "name": "Fish",
+                "grocerist_id": "good_cat__70"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "74",
+                "name": "Pickle",
+                "grocerist_id": "good_cat__74"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            }
         ]
     },
     "78": {
@@ -28590,6 +32782,98 @@
                 "id": 12,
                 "value": "Çömlek"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "68",
+                "name": "Broom",
+                "grocerist_id": "good_cat__68"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            }
         ]
     },
     "79": {
@@ -28688,7 +32972,8 @@
             }
         ],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "125": {
         "id": 125,
@@ -28770,7 +33055,8 @@
             }
         ],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "126": {
         "id": 126,
@@ -28852,7 +33138,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "127": {
         "id": 127,
@@ -28934,7 +33221,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "80": {
         "id": 80,
@@ -29556,6 +33844,113 @@
                 "id": 13,
                 "value": "Kavanoz"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "74",
+                "name": "Pickle",
+                "grocerist_id": "good_cat__74"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            }
         ]
     },
     "81": {
@@ -29649,7 +34044,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": "1776-04-09",
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "82": {
         "id": 82,
@@ -29747,7 +34143,8 @@
             }
         ],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "128": {
         "id": 128,
@@ -29829,7 +34226,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "129": {
         "id": 129,
@@ -29911,7 +34309,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "130": {
         "id": 130,
@@ -29993,7 +34392,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "83": {
         "id": 83,
@@ -30101,7 +34501,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "132": {
         "id": 132,
@@ -30178,7 +34579,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "84": {
         "id": 84,
@@ -30597,6 +34999,88 @@
             {
                 "id": 47,
                 "value": "Çanak"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "68",
+                "name": "Broom",
+                "grocerist_id": "good_cat__68"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
             }
         ]
     },
@@ -31499,6 +35983,128 @@
                 "id": 78,
                 "value": "Şamdan"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "68",
+                "name": "Broom",
+                "grocerist_id": "good_cat__68"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "72",
+                "name": "Pickled fish",
+                "grocerist_id": "good_cat__72"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            }
         ]
     },
     "86": {
@@ -31936,7 +36542,94 @@
             }
         ],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            }
+        ]
     },
     "87": {
         "id": 87,
@@ -32034,7 +36727,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "92": {
         "id": 92,
@@ -32111,7 +36805,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "93": {
         "id": 93,
@@ -32204,7 +36899,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "133": {
         "id": 133,
@@ -32281,7 +36977,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "134": {
         "id": 134,
@@ -32358,7 +37055,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "94": {
         "id": 94,
@@ -32456,7 +37154,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": "1743-03-04",
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "135": {
         "id": 135,
@@ -32533,7 +37232,8 @@
         ],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "95": {
         "id": 95,
@@ -32939,6 +37639,63 @@
                 "id": 79,
                 "value": "Havan"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "68",
+                "name": "Broom",
+                "grocerist_id": "good_cat__68"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            }
         ]
     },
     "136": {
@@ -33021,7 +37778,8 @@
                 "id": 2,
                 "value": "Zenbil"
             }
-        ]
+        ],
+        "good_cat": []
     },
     "96": {
         "id": 96,
@@ -33140,6 +37898,18 @@
             {
                 "id": 64,
                 "value": "Kazgan"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
             }
         ]
     },
@@ -33714,6 +38484,98 @@
                 "id": 43,
                 "value": "Kahve kutusu"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "70",
+                "name": "Fish",
+                "grocerist_id": "good_cat__70"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
         ]
     },
     "137": {
@@ -33796,7 +38658,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "98": {
         "id": 98,
@@ -33869,7 +38732,8 @@
         ],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "100": {
         "id": 100,
@@ -34073,6 +38937,43 @@
                 "id": 44,
                 "value": "Dikel"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            }
         ]
     },
     "101": {
@@ -34166,7 +39067,8 @@
         ],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "138": {
         "id": 138,
@@ -34233,7 +39135,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "102": {
         "id": 102,
@@ -34595,6 +39498,58 @@
             {
                 "id": 78,
                 "value": "Şamdan"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
             }
         ]
     },
@@ -35148,6 +40103,103 @@
                 "id": 47,
                 "value": "Çanak"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            }
         ]
     },
     "105": {
@@ -35241,7 +40293,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "139": {
         "id": 139,
@@ -35318,7 +40371,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "106": {
         "id": 106,
@@ -36051,6 +41105,108 @@
                 "id": 103,
                 "value": "Arşın"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "59",
+                "name": "Fresh fruit",
+                "grocerist_id": "good_cat__59"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            }
         ]
     },
     "107": {
@@ -36338,6 +41494,68 @@
             {
                 "id": 51,
                 "value": "Yatağan bıçağı"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "70",
+                "name": "Fish",
+                "grocerist_id": "good_cat__70"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
             }
         ]
     },
@@ -36684,6 +41902,58 @@
                 "id": 80,
                 "value": "Kandil"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "68",
+                "name": "Broom",
+                "grocerist_id": "good_cat__68"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            }
         ]
     },
     "110": {
@@ -36953,7 +42223,64 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": [
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "68",
+                "name": "Broom",
+                "grocerist_id": "good_cat__68"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            }
+        ]
     },
     "111": {
         "id": 111,
@@ -37366,6 +42693,88 @@
             {
                 "id": 72,
                 "value": "İbrik"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "60",
+                "name": "Spice",
+                "grocerist_id": "good_cat__60"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "68",
+                "name": "Broom",
+                "grocerist_id": "good_cat__68"
+            },
+            {
+                "id": "70",
+                "name": "Fish",
+                "grocerist_id": "good_cat__70"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
             }
         ]
     },
@@ -38050,7 +43459,119 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
+        ]
     },
     "113": {
         "id": 113,
@@ -38994,6 +44515,138 @@
                 "id": 52,
                 "value": "Pekmez destisi"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "68",
+                "name": "Broom",
+                "grocerist_id": "good_cat__68"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "59",
+                "name": "Fresh fruit",
+                "grocerist_id": "good_cat__59"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "57",
+                "name": "Olive oil",
+                "grocerist_id": "good_cat__57"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "70",
+                "name": "Fish",
+                "grocerist_id": "good_cat__70"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "74",
+                "name": "Pickle",
+                "grocerist_id": "good_cat__74"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            }
         ]
     },
     "140": {
@@ -39912,6 +45565,128 @@
                 "id": 5,
                 "value": "Desti"
             }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "68",
+                "name": "Broom",
+                "grocerist_id": "good_cat__68"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "59",
+                "name": "Fresh fruit",
+                "grocerist_id": "good_cat__59"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
         ]
     },
     "141": {
@@ -40344,6 +46119,88 @@
             {
                 "id": 105,
                 "value": "Asel tulumu"
+            }
+        ],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "68",
+                "name": "Broom",
+                "grocerist_id": "good_cat__68"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "62",
+                "name": "Salt",
+                "grocerist_id": "good_cat__62"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
             }
         ]
     },
@@ -41170,7 +47027,124 @@
             }
         ],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": [
+            {
+                "id": "48",
+                "name": "Ingredients",
+                "grocerist_id": "good_cat__48"
+            },
+            {
+                "id": "67",
+                "name": "Oil assortment",
+                "grocerist_id": "good_cat__67"
+            },
+            {
+                "id": "54",
+                "name": "Legumes",
+                "grocerist_id": "good_cat__54"
+            },
+            {
+                "id": "52",
+                "name": "Beverage",
+                "grocerist_id": "good_cat__52"
+            },
+            {
+                "id": "61",
+                "name": "Sweetener",
+                "grocerist_id": "good_cat__61"
+            },
+            {
+                "id": "47",
+                "name": "Condiments",
+                "grocerist_id": "good_cat__47"
+            },
+            {
+                "id": "68",
+                "name": "Broom",
+                "grocerist_id": "good_cat__68"
+            },
+            {
+                "id": "44",
+                "name": "Cooking oil",
+                "grocerist_id": "good_cat__44"
+            },
+            {
+                "id": "69",
+                "name": "Nut",
+                "grocerist_id": "good_cat__69"
+            },
+            {
+                "id": "73",
+                "name": "Brine",
+                "grocerist_id": "good_cat__73"
+            },
+            {
+                "id": "55",
+                "name": "Fruits",
+                "grocerist_id": "good_cat__55"
+            },
+            {
+                "id": "56",
+                "name": "Cheese",
+                "grocerist_id": "good_cat__56"
+            },
+            {
+                "id": "49",
+                "name": "Produce",
+                "grocerist_id": "good_cat__49"
+            },
+            {
+                "id": "59",
+                "name": "Fresh fruit",
+                "grocerist_id": "good_cat__59"
+            },
+            {
+                "id": "63",
+                "name": "Sour flavor",
+                "grocerist_id": "good_cat__63"
+            },
+            {
+                "id": "75",
+                "name": "Olive",
+                "grocerist_id": "good_cat__75"
+            },
+            {
+                "id": "50",
+                "name": "Non-food",
+                "grocerist_id": "good_cat__50"
+            },
+            {
+                "id": "53",
+                "name": "Grains",
+                "grocerist_id": "good_cat__53"
+            },
+            {
+                "id": "43",
+                "name": "Dry goods",
+                "grocerist_id": "good_cat__43"
+            },
+            {
+                "id": "45",
+                "name": "Dairy",
+                "grocerist_id": "good_cat__45"
+            },
+            {
+                "id": "58",
+                "name": "Vegetable",
+                "grocerist_id": "good_cat__58"
+            },
+            {
+                "id": "46",
+                "name": "Animal food",
+                "grocerist_id": "good_cat__46"
+            },
+            {
+                "id": "71",
+                "name": "Dry meat",
+                "grocerist_id": "good_cat__71"
+            }
+        ]
     },
     "143": {
         "id": 143,
@@ -41244,7 +47218,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "144": {
         "id": 144,
@@ -41333,7 +47308,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "145": {
         "id": 145,
@@ -41407,7 +47383,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "146": {
         "id": 146,
@@ -41490,7 +47467,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "147": {
         "id": 147,
@@ -41574,7 +47552,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "148": {
         "id": 148,
@@ -41658,7 +47637,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "149": {
         "id": 149,
@@ -41742,7 +47722,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "150": {
         "id": 150,
@@ -41821,7 +47802,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "151": {
         "id": 151,
@@ -41905,7 +47887,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "152": {
         "id": 152,
@@ -41979,7 +47962,8 @@
             }
         ],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "153": {
         "id": 153,
@@ -42047,7 +48031,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "154": {
         "id": 154,
@@ -42121,7 +48106,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "155": {
         "id": 155,
@@ -42205,7 +48191,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "156": {
         "id": 156,
@@ -42238,7 +48225,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "157": {
         "id": 157,
@@ -42301,7 +48289,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "158": {
         "id": 158,
@@ -42334,7 +48323,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "159": {
         "id": 159,
@@ -42392,7 +48382,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "160": {
         "id": 160,
@@ -42455,7 +48446,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "161": {
         "id": 161,
@@ -42488,7 +48480,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "162": {
         "id": 162,
@@ -42516,7 +48509,8 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     },
     "163": {
         "id": 163,
@@ -42544,6 +48538,7 @@
         "quarter": [],
         "address": [],
         "creation_date_ISO": null,
-        "utensils": []
+        "utensils": [],
+        "good_cat": []
     }
 }
