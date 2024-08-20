@@ -4,7 +4,7 @@
     "order": "1.00000000000000000000",
     "name": "Dry goods",
     "is_main_category": true,
-    "Formel": "category__43",
+    "grocerist_id": "category__43",
     "part_of": [],
     "goods": [
       {
@@ -226,7 +226,7 @@
     "order": "2.00000000000000000000",
     "name": "Cooking oil",
     "is_main_category": true,
-    "Formel": "category__44",
+    "grocerist_id": "category__44",
     "part_of": [],
     "goods": [
       {
@@ -272,7 +272,7 @@
     "order": "3.00000000000000000000",
     "name": "Dairy",
     "is_main_category": true,
-    "Formel": "category__45",
+    "grocerist_id": "category__45",
     "part_of": [],
     "goods": [
       {
@@ -350,7 +350,7 @@
     "order": "4.00000000000000000000",
     "name": "Animal food",
     "is_main_category": true,
-    "Formel": "category__46",
+    "grocerist_id": "category__46",
     "part_of": [],
     "goods": [
       {
@@ -464,7 +464,7 @@
     "order": "5.00000000000000000000",
     "name": "Condiments",
     "is_main_category": true,
-    "Formel": "category__47",
+    "grocerist_id": "category__47",
     "part_of": [],
     "goods": [
       {
@@ -614,7 +614,7 @@
     "order": "6.00000000000000000000",
     "name": "Ingredients",
     "is_main_category": true,
-    "Formel": "category__48",
+    "grocerist_id": "category__48",
     "part_of": [],
     "goods": [
       {
@@ -640,7 +640,7 @@
     "order": "7.00000000000000000000",
     "name": "Produce",
     "is_main_category": true,
-    "Formel": "category__49",
+    "grocerist_id": "category__49",
     "part_of": [],
     "goods": [
       {
@@ -706,7 +706,7 @@
     "order": "7.33333333333333303727",
     "name": "Brine",
     "is_main_category": true,
-    "Formel": "category__73",
+    "grocerist_id": "category__73",
     "part_of": [],
     "goods": [
       {
@@ -776,7 +776,7 @@
     "order": "7.50000000000000000000",
     "name": "Beverage",
     "is_main_category": true,
-    "Formel": "category__52",
+    "grocerist_id": "category__52",
     "part_of": [],
     "goods": [
       {
@@ -806,7 +806,7 @@
     "order": "8.00000000000000000000",
     "name": "Non-food",
     "is_main_category": true,
-    "Formel": "category__50",
+    "grocerist_id": "category__50",
     "part_of": [],
     "goods": [
       {
@@ -976,7 +976,7 @@
     "order": "9.00000000000000000000",
     "name": "Grains",
     "is_main_category": false,
-    "Formel": "category__53",
+    "grocerist_id": "category__53",
     "part_of": [
       {
         "id": 43,
@@ -1043,7 +1043,7 @@
     "order": "10.00000000000000000000",
     "name": "Legumes",
     "is_main_category": false,
-    "Formel": "category__54",
+    "grocerist_id": "category__54",
     "part_of": [
       {
         "id": 43,
@@ -1066,7 +1066,7 @@
     "order": "11.00000000000000000000",
     "name": "Fruits",
     "is_main_category": false,
-    "Formel": "category__55",
+    "grocerist_id": "category__55",
     "part_of": [
       {
         "id": 43,
@@ -1181,7 +1181,7 @@
     "order": "11.50000000000000000000",
     "name": "Nut",
     "is_main_category": false,
-    "Formel": "category__69",
+    "grocerist_id": "category__69",
     "part_of": [
       {
         "id": 43,
@@ -1232,7 +1232,7 @@
     "order": "12.00000000000000000000",
     "name": "Cheese",
     "is_main_category": false,
-    "Formel": "category__56",
+    "grocerist_id": "category__56",
     "part_of": [
       {
         "id": 45,
@@ -1307,7 +1307,7 @@
     "order": "13.00000000000000000000",
     "name": "Olive oil",
     "is_main_category": false,
-    "Formel": "category__57",
+    "grocerist_id": "category__57",
     "part_of": [
       {
         "id": 44,
@@ -1326,7 +1326,7 @@
     "order": "13.50000000000000000000",
     "name": "Oil assortment",
     "is_main_category": false,
-    "Formel": "category__67",
+    "grocerist_id": "category__67",
     "part_of": [
       {
         "id": 44,
@@ -1373,7 +1373,7 @@
     "order": "14.00000000000000000000",
     "name": "Vegetable",
     "is_main_category": false,
-    "Formel": "category__58",
+    "grocerist_id": "category__58",
     "part_of": [
       {
         "id": 49,
@@ -1420,7 +1420,7 @@
     "order": "15.00000000000000000000",
     "name": "Fresh fruit",
     "is_main_category": false,
-    "Formel": "category__59",
+    "grocerist_id": "category__59",
     "part_of": [
       {
         "id": 49,
@@ -1455,7 +1455,7 @@
     "order": "16.00000000000000000000",
     "name": "Spice",
     "is_main_category": false,
-    "Formel": "category__60",
+    "grocerist_id": "category__60",
     "part_of": [
       {
         "id": 47,
@@ -1482,7 +1482,7 @@
     "order": "17.00000000000000000000",
     "name": "Sweetener",
     "is_main_category": false,
-    "Formel": "category__61",
+    "grocerist_id": "category__61",
     "part_of": [
       {
         "id": 47,
@@ -1553,7 +1553,7 @@
     "order": "18.00000000000000000000",
     "name": "Salt",
     "is_main_category": false,
-    "Formel": "category__62",
+    "grocerist_id": "category__62",
     "part_of": [
       {
         "id": 47,
@@ -1620,7 +1620,7 @@
     "order": "19.00000000000000000000",
     "name": "Sour flavor",
     "is_main_category": false,
-    "Formel": "category__63",
+    "grocerist_id": "category__63",
     "part_of": [
       {
         "id": 47,
@@ -1643,7 +1643,7 @@
     "order": "20.00000000000000000000",
     "name": "Oil",
     "is_main_category": false,
-    "Formel": "category__64",
+    "grocerist_id": "category__64",
     "part_of": [
       {
         "id": 50,
@@ -1666,7 +1666,7 @@
     "order": "21.00000000000000000000",
     "name": "Broom",
     "is_main_category": false,
-    "Formel": "category__68",
+    "grocerist_id": "category__68",
     "part_of": [
       {
         "id": 50,
@@ -1705,7 +1705,7 @@
     "order": "22.00000000000000000000",
     "name": "Fish",
     "is_main_category": false,
-    "Formel": "category__70",
+    "grocerist_id": "category__70",
     "part_of": [
       {
         "id": 46,
@@ -1776,7 +1776,7 @@
     "order": "22.50000000000000000000",
     "name": "Pickled fish",
     "is_main_category": false,
-    "Formel": "category__72",
+    "grocerist_id": "category__72",
     "part_of": [
       {
         "id": 46,
@@ -1799,7 +1799,7 @@
     "order": "23.00000000000000000000",
     "name": "Dry meat",
     "is_main_category": false,
-    "Formel": "category__71",
+    "grocerist_id": "category__71",
     "part_of": [
       {
         "id": 46,
@@ -1830,7 +1830,7 @@
     "order": "24.00000000000000000000",
     "name": "Pickle",
     "is_main_category": false,
-    "Formel": "category__74",
+    "grocerist_id": "category__74",
     "part_of": [
       {
         "id": 73,
@@ -1857,7 +1857,7 @@
     "order": "25.00000000000000000000",
     "name": "Olive",
     "is_main_category": false,
-    "Formel": "category__75",
+    "grocerist_id": "category__75",
     "part_of": [
       {
         "id": 73,
