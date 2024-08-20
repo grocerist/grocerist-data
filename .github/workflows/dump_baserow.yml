@@ -27,9 +27,6 @@ jobs:
       - name: join the data
         run: |
           python join_tables.py
-      - name: add category to documents
-        run: |
-          python add_good_cat.py
       - name: filter upper administrative unit lists
         run: |
           python unique_upper_admins.py
