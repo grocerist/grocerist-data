@@ -2,7 +2,7 @@ name: Dump Entities from Baserow
 
 on:
   schedule:
-  - cron: "23 23 * * *"
+    - cron: "23 23 * * *"
   workflow_dispatch:
 
 jobs:
@@ -27,9 +27,6 @@ jobs:
       - name: join the data
         run: |
           python join_tables.py
-      - name: make good category json
-        run: |
-          python make_category_list.py
       - name: add category to documents
         run: |
           python add_good_cat.py
