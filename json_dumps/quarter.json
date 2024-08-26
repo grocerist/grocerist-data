@@ -20,7 +20,20 @@
         "grocerist_id": "quarter__1",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 8,
+                "value": "Dimo v. Lanbo"
+            },
+            {
+                "id": 13,
+                "value": "Bakkāl Hristodaki v. Polhoron"
+            },
+            {
+                "id": 17,
+                "value": "Bakkal Elhac Ahmed b. Resul"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -76,7 +89,36 @@
         "grocerist_id": "quarter__2",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 4,
+                "value": "Yorgi v. Dimitri"
+            },
+            {
+                "id": 16,
+                "value": "Bakkal Ali Beşe b. Mehmed"
+            },
+            {
+                "id": 20,
+                "value": "Bakkal Yanaki v. Yani"
+            },
+            {
+                "id": 27,
+                "value": "Bakkal Nikola v. Dimitri"
+            },
+            {
+                "id": 47,
+                "value": "Yenişehirli Dimitri v. Nikola"
+            },
+            {
+                "id": 48,
+                "value": "Bakkal Elhac Osman b. Halil"
+            },
+            {
+                "id": 49,
+                "value": "Bakkal Trandafil v. Yori"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -115,7 +157,16 @@
         "grocerist_id": "quarter__3",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 19,
+                "value": "Astavor v. Yako"
+            },
+            {
+                "id": 45,
+                "value": "Bakkal Mehmed Beşe b. Salih"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -143,7 +194,12 @@
         "grocerist_id": "quarter__4",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 5,
+                "value": "Yani v. Yorgi"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -191,7 +247,20 @@
         "grocerist_id": "quarter__5",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 12,
+                "value": "Bakkal Dimitri v. Hristo"
+            },
+            {
+                "id": 26,
+                "value": "Bakkal Astavor"
+            },
+            {
+                "id": 34,
+                "value": "Bakkal Hasan Beşe b. Ali"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -219,7 +288,12 @@
         "grocerist_id": "quarter__6",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 29,
+                "value": "Nikola veled-i Ulaş"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -262,7 +336,12 @@
         "grocerist_id": "quarter__8",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 9,
+                "value": "Mustafa Beşe b. Abdullah"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -294,7 +373,16 @@
         "grocerist_id": "quarter__9",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 98,
+                "value": "Bakkal Pavlo v. Dimitri"
+            },
+            {
+                "id": 119,
+                "value": "Bakkal Radovuz veled-i Yovan"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -314,7 +402,12 @@
         "grocerist_id": "quarter__10",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 49,
+                "value": "Bakkal Trandafil v. Yori"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -337,7 +430,12 @@
         "grocerist_id": "quarter__11",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 103,
+                "value": "Bakkal Dimo v. Yorgi"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -385,7 +483,12 @@
         "grocerist_id": "quarter__13",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 71,
+                "value": "Bakkal suhte Ömer"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -413,7 +516,12 @@
         "grocerist_id": "quarter__14",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 15,
+                "value": "Hristo v. Yorgi"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -449,7 +557,16 @@
         "grocerist_id": "quarter__15",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 35,
+                "value": "Bakkal Simal v. Nikola"
+            },
+            {
+                "id": 44,
+                "value": "Bakkal Tanaş veled-i  Hristo"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -485,7 +602,12 @@
         "grocerist_id": "quarter__16",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 42,
+                "value": "Panayot v. Petro"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -513,7 +635,12 @@
         "grocerist_id": "quarter__17",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 52,
+                "value": "Bakkal Yorgi v. Kirikor"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -549,7 +676,12 @@
         "grocerist_id": "quarter__18",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 3,
+                "value": "Bakkal Mustafa Beşe b. Osman"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,
@@ -585,7 +717,12 @@
         "grocerist_id": "quarter__19",
         "geonames_id": "",
         "wikidata_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 96,
+                "value": "Bakkal Rizo v. Aleksan"
+            }
+        ],
         "lat": null,
         "long": null,
         "comments": null,

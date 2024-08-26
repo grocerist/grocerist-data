@@ -43,6 +43,10 @@
                 "value": "Yorgaki v. Manol"
             },
             {
+                "id": 37,
+                "value": "Bakkal Todori"
+            },
+            {
                 "id": 41,
                 "value": "Bakkal Astati v. Yani"
             },
@@ -164,6 +168,10 @@
             {
                 "id": 69,
                 "value": "Bakkal Ali b. Abdullah"
+            },
+            {
+                "id": 120,
+                "value": "Yani v. Yorgi"
             }
         ],
         "grocerist_id": "karye__5",
@@ -283,7 +291,12 @@
                 "value": "İSTM.ŞSC.06.d. 574/51b-1"
             }
         ],
-        "persons": [],
+        "persons": [
+            {
+                "id": 93,
+                "value": "Bakkal Kristo"
+            }
+        ],
         "grocerist_id": "karye__8",
         "lat": "40.9824600000",
         "long": "29.0693400000",
@@ -311,7 +324,12 @@
                 "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
             }
         ],
-        "persons": [],
+        "persons": [
+            {
+                "id": 96,
+                "value": "Bakkal Rizo v. Aleksan"
+            }
+        ],
         "grocerist_id": "karye__9",
         "lat": null,
         "long": null,
@@ -585,7 +603,12 @@
                 "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (b)"
             }
         ],
-        "persons": [],
+        "persons": [
+            {
+                "id": 82,
+                "value": "Bakkal Panayot v. Polinçeron"
+            }
+        ],
         "grocerist_id": "karye__17",
         "lat": null,
         "long": null,
@@ -613,7 +636,12 @@
                 "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (d)"
             }
         ],
-        "persons": [],
+        "persons": [
+            {
+                "id": 82,
+                "value": "Bakkal Panayot v. Polinçeron"
+            }
+        ],
         "grocerist_id": "karye__18",
         "lat": "41.0136100000",
         "long": "29.0200000000",
@@ -645,7 +673,16 @@
                 "value": "İSTM.ŞSC.06.d. 578/44b"
             }
         ],
-        "persons": [],
+        "persons": [
+            {
+                "id": 126,
+                "value": "Alba v. Kostantin"
+            },
+            {
+                "id": 127,
+                "value": "Bakkal Yorgi v. Kostanti"
+            }
+        ],
         "grocerist_id": "karye__19",
         "lat": "41.0926900000",
         "long": "29.0682200000",
@@ -673,7 +710,12 @@
                 "value": "İSTM.ŞSC.06.d. 578/68a"
             }
         ],
-        "persons": [],
+        "persons": [
+            {
+                "id": 129,
+                "value": "Topal Kosta v. Ledke"
+            }
+        ],
         "grocerist_id": "karye__20",
         "lat": null,
         "long": null,
@@ -709,7 +751,20 @@
                 "value": "İSTM.ŞSC.06.d. 591/32b"
             }
         ],
-        "persons": [],
+        "persons": [
+            {
+                "id": 130,
+                "value": "Bakkal Eciryani v. Rifa"
+            },
+            {
+                "id": 131,
+                "value": "Bakkal Kostanti v. Yorgi"
+            },
+            {
+                "id": 135,
+                "value": "Bakkal Yani v. Penayot"
+            }
+        ],
         "grocerist_id": "karye__21",
         "lat": null,
         "long": null,
@@ -737,7 +792,12 @@
                 "value": "İSTM.ŞSC.06.d. 587/62b"
             }
         ],
-        "persons": [],
+        "persons": [
+            {
+                "id": 133,
+                "value": "Bakkal Yorgi v. Dimitri"
+            }
+        ],
         "grocerist_id": "karye__22",
         "lat": "41.0542400000",
         "long": "29.0682500000",
@@ -780,7 +840,12 @@
                 "value": "İSTM.ŞSC.15.d. 174 / 41a-2"
             }
         ],
-        "persons": [],
+        "persons": [
+            {
+                "id": 100,
+                "value": "Bakkal Dimitri v. Hristo"
+            }
+        ],
         "grocerist_id": "karye__24",
         "lat": null,
         "long": null,

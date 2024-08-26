@@ -7,7 +7,40 @@
         "grocerist_id": "nahiye__1",
         "wikidata_id": "",
         "geonames_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 2,
+                "value": "Bakkal Filibi v. Yorgi"
+            },
+            {
+                "id": 3,
+                "value": "Bakkal Mustafa Beşe b. Osman"
+            },
+            {
+                "id": 11,
+                "value": "Yorgi v. Hristo"
+            },
+            {
+                "id": 28,
+                "value": "Bakkal Molla Hasan b. Abdullah"
+            },
+            {
+                "id": 35,
+                "value": "Bakkal Simal v. Nikola"
+            },
+            {
+                "id": 38,
+                "value": "Bakkal Bafi v. Tanaş"
+            },
+            {
+                "id": 44,
+                "value": "Bakkal Tanaş veled-i  Hristo"
+            },
+            {
+                "id": 52,
+                "value": "Bakkal Yorgi v. Kirikor"
+            }
+        ],
         "lat": null,
         "long": null,
         "documents": [
@@ -66,7 +99,28 @@
         "grocerist_id": "nahiye__2",
         "wikidata_id": "",
         "geonames_id": "",
-        "persons": [],
+        "persons": [
+            {
+                "id": 23,
+                "value": "Bakkal Todori v. Dimo"
+            },
+            {
+                "id": 33,
+                "value": "Yorgaki v. Manol"
+            },
+            {
+                "id": 37,
+                "value": "Bakkal Todori"
+            },
+            {
+                "id": 41,
+                "value": "Bakkal Astati v. Yani"
+            },
+            {
+                "id": 51,
+                "value": "Tanaş"
+            }
+        ],
         "lat": null,
         "long": null,
         "documents": [

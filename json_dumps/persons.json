@@ -33,8 +33,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "2": {
     "id": 2,
@@ -68,10 +67,14 @@
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
-    "nahiye": [],
+    "nahiye": [
+      {
+        "id": 1,
+        "value": "İstinye"
+      }
+    ],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "3": {
     "id": 3,
@@ -100,10 +103,19 @@
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
-    "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "nahiye": [
+      {
+        "id": 1,
+        "value": "İstinye"
+      }
+    ],
+    "quarter": [
+      {
+        "id": 18,
+        "value": "Kale-i Boğazkesen"
+      }
+    ],
+    "address": []
   },
   "4": {
     "id": 4,
@@ -143,9 +155,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 2,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "address": []
   },
   "5": {
     "id": 5,
@@ -180,14 +196,15 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": [
+    "quarter": [
       {
-        "ids": {
-          "database_table_1488": 5,
-          "database_table_2978": 14
-        },
+        "id": 4,
+        "value": "Azapkapısı harici"
+      }
+    ],
+    "address": [
+      {
+        "id": 14,
         "value": "Mehmed Paşa Camii Şerifi kurbü"
       }
     ]
@@ -231,8 +248,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "7": {
     "id": 7,
@@ -281,8 +297,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "8": {
     "id": 8,
@@ -317,9 +332,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 1,
+        "value": "Tophane"
+      }
+    ],
+    "address": []
   },
   "9": {
     "id": 9,
@@ -354,9 +373,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 8,
+        "value": "Kurşunlu Mahzen Kapısı dahili"
+      }
+    ],
+    "address": []
   },
   "10": {
     "id": 10,
@@ -397,8 +420,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "11": {
     "id": 11,
@@ -437,10 +459,14 @@
     ],
     "karye": [],
     "occupation": [],
-    "nahiye": [],
+    "nahiye": [
+      {
+        "id": 1,
+        "value": "İstinye"
+      }
+    ],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "12": {
     "id": 12,
@@ -480,9 +506,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 5,
+        "value": "Karaköy Kapısı harici"
+      }
+    ],
+    "address": []
   },
   "13": {
     "id": 13,
@@ -522,9 +552,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 1,
+        "value": "Tophane"
+      }
+    ],
+    "address": []
   },
   "14": {
     "id": 14,
@@ -565,8 +599,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "15": {
     "id": 15,
@@ -601,9 +634,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 14,
+        "value": "Rumeli Hisarı"
+      }
+    ],
+    "address": []
   },
   "16": {
     "id": 16,
@@ -644,9 +681,13 @@
       }
     ],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 2,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "address": []
   },
   "17": {
     "id": 17,
@@ -681,9 +722,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 1,
+        "value": "Tophane"
+      }
+    ],
+    "address": []
   },
   "19": {
     "id": 19,
@@ -723,9 +768,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 3,
+        "value": "Fındıklı"
+      }
+    ],
+    "address": []
   },
   "20": {
     "id": 20,
@@ -760,14 +809,15 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": [
+    "quarter": [
       {
-        "ids": {
-          "database_table_1488": 20,
-          "database_table_2978": 17
-        },
+        "id": 2,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "address": [
+      {
+        "id": 17,
         "value": "Tersane-i Amire"
       }
     ]
@@ -811,8 +861,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "22": {
     "id": 22,
@@ -848,8 +897,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "23": {
     "id": 23,
@@ -888,10 +936,14 @@
     ],
     "karye": [],
     "occupation": [],
-    "nahiye": [],
+    "nahiye": [
+      {
+        "id": 2,
+        "value": "Beşiktaş"
+      }
+    ],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "24": {
     "id": 24,
@@ -934,25 +986,23 @@
         "value": "Galata Harici"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 43,
+        "value": "Dörtyolağzı"
+      },
+      {
+        "id": 72,
+        "value": "Aslanağzı"
+      }
+    ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": [
+    "address": [
       {
-        "ids": {
-          "database_table_1488": 24,
-          "database_table_2978": 4
-        },
-        "value": "Galata Mevlevihanesi kurbü"
-      },
-      {
-        "ids": {
-          "database_table_1488": 59,
-          "database_table_2978": 4
-        },
+        "id": 4,
         "value": "Galata Mevlevihanesi kurbü"
       }
     ]
@@ -991,13 +1041,9 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": [
+    "address": [
       {
-        "ids": {
-          "database_table_1488": 25,
-          "database_table_2978": 15
-        },
+        "id": 15,
         "value": "Ketehorya nam mahal"
       }
     ]
@@ -1047,14 +1093,15 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": [
+    "quarter": [
       {
-        "ids": {
-          "database_table_1488": 116,
-          "database_table_2978": 6
-        },
+        "id": 5,
+        "value": "Karaköy Kapısı harici"
+      }
+    ],
+    "address": [
+      {
+        "id": 6,
         "value": "Camii şerif tahtında"
       }
     ]
@@ -1097,9 +1144,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 2,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "address": []
   },
   "28": {
     "id": 28,
@@ -1128,10 +1179,14 @@
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
-    "nahiye": [],
+    "nahiye": [
+      {
+        "id": 1,
+        "value": "İstinye"
+      }
+    ],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "29": {
     "id": 29,
@@ -1166,9 +1221,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 6,
+        "value": "Karaköy"
+      }
+    ],
+    "address": []
   },
   "30": {
     "id": 30,
@@ -1204,8 +1263,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "31": {
     "id": 31,
@@ -1246,13 +1304,9 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": [
+    "address": [
       {
-        "ids": {
-          "database_table_1488": 31,
-          "database_table_2978": 16
-        },
+        "id": 16,
         "value": "Sandıkçılarbaşı"
       }
     ]
@@ -1291,8 +1345,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "33": {
     "id": 33,
@@ -1331,10 +1384,14 @@
       }
     ],
     "occupation": [],
-    "nahiye": [],
+    "nahiye": [
+      {
+        "id": 2,
+        "value": "Beşiktaş"
+      }
+    ],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "34": {
     "id": 34,
@@ -1369,9 +1426,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 5,
+        "value": "Karaköy Kapısı harici"
+      }
+    ],
+    "address": []
   },
   "35": {
     "id": 35,
@@ -1410,10 +1471,19 @@
     ],
     "karye": [],
     "occupation": [],
-    "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "nahiye": [
+      {
+        "id": 1,
+        "value": "İstinye"
+      }
+    ],
+    "quarter": [
+      {
+        "id": 15,
+        "value": "Yeniköy"
+      }
+    ],
+    "address": []
   },
   "36": {
     "id": 36,
@@ -1449,8 +1519,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "37": {
     "id": 37,
@@ -1482,12 +1551,21 @@
       }
     ],
     "neighbourhood": [],
-    "karye": [],
+    "karye": [
+      {
+        "id": 2,
+        "value": "Arnavud"
+      }
+    ],
     "occupation": [],
-    "nahiye": [],
+    "nahiye": [
+      {
+        "id": 2,
+        "value": "Beşiktaş"
+      }
+    ],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "38": {
     "id": 38,
@@ -1521,10 +1599,14 @@
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
-    "nahiye": [],
+    "nahiye": [
+      {
+        "id": 1,
+        "value": "İstinye"
+      }
+    ],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "39": {
     "id": 39,
@@ -1555,8 +1637,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "41": {
     "id": 41,
@@ -1595,10 +1676,14 @@
       }
     ],
     "occupation": [],
-    "nahiye": [],
+    "nahiye": [
+      {
+        "id": 2,
+        "value": "Beşiktaş"
+      }
+    ],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "42": {
     "id": 42,
@@ -1633,9 +1718,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 16,
+        "value": "Balık Pazarı"
+      }
+    ],
+    "address": []
   },
   "43": {
     "id": 43,
@@ -1676,8 +1765,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "44": {
     "id": 44,
@@ -1716,15 +1804,21 @@
     ],
     "karye": [],
     "occupation": [],
-    "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": [
+    "nahiye": [
       {
-        "ids": {
-          "database_table_1488": 44,
-          "database_table_2978": 5
-        },
+        "id": 1,
+        "value": "İstinye"
+      }
+    ],
+    "quarter": [
+      {
+        "id": 15,
+        "value": "Yeniköy"
+      }
+    ],
+    "address": [
+      {
+        "id": 5,
         "value": "Mahkeme karşısı"
       }
     ]
@@ -1762,9 +1856,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 3,
+        "value": "Fındıklı"
+      }
+    ],
+    "address": []
   },
   "46": {
     "id": 46,
@@ -1785,8 +1883,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "47": {
     "id": 47,
@@ -1826,9 +1923,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 2,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "address": []
   },
   "48": {
     "id": 48,
@@ -1858,9 +1959,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 2,
+        "value": "Kasımpaşa"
+      }
+    ],
+    "address": []
   },
   "49": {
     "id": 49,
@@ -1895,13 +2000,30 @@
         "value": "Galata"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 76,
+        "value": "Kulaksız"
+      },
+      {
+        "id": 77,
+        "value": "Seyyid Ali"
+      }
+    ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 2,
+        "value": "Kasımpaşa"
+      },
+      {
+        "id": 10,
+        "value": "Tatavla"
+      }
+    ],
+    "address": []
   },
   "50": {
     "id": 50,
@@ -1916,13 +2038,17 @@
       }
     ],
     "district": [],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 7,
+        "value": "Hüseyin Ağa"
+      }
+    ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "51": {
     "id": 51,
@@ -1961,10 +2087,14 @@
       }
     ],
     "occupation": [],
-    "nahiye": [],
+    "nahiye": [
+      {
+        "id": 2,
+        "value": "Beşiktaş"
+      }
+    ],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "52": {
     "id": 52,
@@ -2003,10 +2133,19 @@
     ],
     "karye": [],
     "occupation": [],
-    "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "nahiye": [
+      {
+        "id": 1,
+        "value": "İstinye"
+      }
+    ],
+    "quarter": [
+      {
+        "id": 17,
+        "value": "Sarıyer"
+      }
+    ],
+    "address": []
   },
   "64": {
     "id": 64,
@@ -2041,8 +2180,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "65": {
     "id": 65,
@@ -2078,8 +2216,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "66": {
     "id": 66,
@@ -2120,8 +2257,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "67": {
     "id": 67,
@@ -2162,8 +2298,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "68": {
     "id": 68,
@@ -2204,8 +2339,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "69": {
     "id": 69,
@@ -2241,8 +2375,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "70": {
     "id": 70,
@@ -2288,8 +2421,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "71": {
     "id": 71,
@@ -2319,9 +2451,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 13,
+        "value": "Valide-i Cedid Camii"
+      }
+    ],
+    "address": []
   },
   "72": {
     "id": 72,
@@ -2357,8 +2493,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "73": {
     "id": 73,
@@ -2394,8 +2529,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "74": {
     "id": 74,
@@ -2435,8 +2569,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "75": {
     "id": 75,
@@ -2485,8 +2618,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "76": {
     "id": 76,
@@ -2527,8 +2659,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "77": {
     "id": 77,
@@ -2569,13 +2700,9 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": [
+    "address": [
       {
-        "ids": {
-          "database_table_1488": 77,
-          "database_table_2978": 18
-        },
+        "id": 18,
         "value": "Süleyman Ağa mahallesi sukkanı"
       }
     ]
@@ -2614,8 +2741,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "79": {
     "id": 79,
@@ -2658,7 +2784,12 @@
         "value": "Üsküdar"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 42,
+        "value": "Yeni mahalle"
+      }
+    ],
     "karye": [
       {
         "id": 4,
@@ -2668,20 +2799,9 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": [
+    "address": [
       {
-        "ids": {
-          "database_table_1488": 79,
-          "database_table_2978": 8
-        },
-        "value": "Yük İskelesi kurbü"
-      },
-      {
-        "ids": {
-          "database_table_1488": 125,
-          "database_table_2978": 8
-        },
+        "id": 8,
         "value": "Yük İskelesi kurbü"
       }
     ]
@@ -2725,8 +2845,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "81": {
     "id": 81,
@@ -2762,8 +2881,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "82": {
     "id": 82,
@@ -2808,12 +2926,20 @@
         "value": "Yeni mahalle"
       }
     ],
-    "karye": [],
+    "karye": [
+      {
+        "id": 17,
+        "value": "Kulak"
+      },
+      {
+        "id": 18,
+        "value": "Karaca Ahmed Sultan"
+      }
+    ],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "83": {
     "id": 83,
@@ -2846,16 +2972,15 @@
     ],
     "neighbourhood": [
       {
-        "id": 42,
-        "value": "Yeni mahalle"
+        "id": 85,
+        "value": "Dorbalı (Torbalı)"
       }
     ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "84": {
     "id": 84,
@@ -2891,8 +3016,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "85": {
     "id": 85,
@@ -2938,15 +3062,6 @@
         "id": 10,
         "value": "Kasım Ağa Çeşmesi kurbü"
       }
-    ],
-    "Nachschlagen": [
-      {
-        "ids": {
-          "database_table_1488": 85,
-          "database_table_2978": 10
-        },
-        "value": "Kasım Ağa Çeşmesi kurbü"
-      }
     ]
   },
   "86": {
@@ -2983,8 +3098,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "87": {
     "id": 87,
@@ -3015,8 +3129,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "88": {
     "id": 88,
@@ -3052,8 +3165,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "92": {
     "id": 92,
@@ -3079,13 +3191,17 @@
       }
     ],
     "district": [],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 64,
+        "value": "Debbağlar"
+      }
+    ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "93": {
     "id": 93,
@@ -3117,12 +3233,16 @@
       }
     ],
     "neighbourhood": [],
-    "karye": [],
+    "karye": [
+      {
+        "id": 8,
+        "value": "Nerdübanlı"
+      }
+    ],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "94": {
     "id": 94,
@@ -3148,13 +3268,17 @@
       }
     ],
     "district": [],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 52,
+        "value": "Yenimahalle"
+      }
+    ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "95": {
     "id": 95,
@@ -3180,13 +3304,17 @@
       }
     ],
     "district": [],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 95,
+        "value": "Yeniçeşme"
+      }
+    ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "96": {
     "id": 96,
@@ -3221,22 +3349,23 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": [],
+    "karye": [
+      {
+        "id": 9,
+        "value": "Bit Pazarı"
+      }
+    ],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
+    "quarter": [
+      {
+        "id": 19,
+        "value": "At Pazarı dahili"
+      }
+    ],
     "address": [
       {
         "id": 7,
-        "value": "Kolluk karşısında"
-      }
-    ],
-    "Nachschlagen": [
-      {
-        "ids": {
-          "database_table_1488": 89,
-          "database_table_2978": 7
-        },
         "value": "Kolluk karşısında"
       }
     ]
@@ -3278,7 +3407,20 @@
         "value": "Eyüp"
       }
     ],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 87,
+        "value": "Balat Kapısı"
+      },
+      {
+        "id": 88,
+        "value": "Kiremit"
+      },
+      {
+        "id": 91,
+        "value": "Lonca"
+      }
+    ],
     "karye": [
       {
         "id": 10,
@@ -3288,8 +3430,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "98": {
     "id": 98,
@@ -3333,9 +3474,13 @@
     ],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 9,
+        "value": "Yedikule harici"
+      }
+    ],
+    "address": []
   },
   "99": {
     "id": 99,
@@ -3372,6 +3517,10 @@
     ],
     "neighbourhood": [
       {
+        "id": 18,
+        "value": "Elhac Hüsrev"
+      },
+      {
         "id": 67,
         "value": "Yavud"
       }
@@ -3380,8 +3529,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "100": {
     "id": 100,
@@ -3413,12 +3561,16 @@
       }
     ],
     "neighbourhood": [],
-    "karye": [],
+    "karye": [
+      {
+        "id": 24,
+        "value": "Çekmece-i Kebir"
+      }
+    ],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "101": {
     "id": 101,
@@ -3463,8 +3615,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "102": {
     "id": 102,
@@ -3505,8 +3656,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "103": {
     "id": 103,
@@ -3545,9 +3695,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 11,
+        "value": "Edirne Kapısı harici"
+      }
+    ],
+    "address": []
   },
   "104": {
     "id": 104,
@@ -3588,8 +3742,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "105": {
     "id": 105,
@@ -3630,8 +3783,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "106": {
     "id": 106,
@@ -3671,8 +3823,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "107": {
     "id": 107,
@@ -3708,8 +3859,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "108": {
     "id": 108,
@@ -3750,8 +3900,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "109": {
     "id": 109,
@@ -3792,8 +3941,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "110": {
     "id": 110,
@@ -3834,8 +3982,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "111": {
     "id": 111,
@@ -3876,8 +4023,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "112": {
     "id": 112,
@@ -3923,15 +4069,6 @@
         "id": 9,
         "value": "Arasta kurbü"
       }
-    ],
-    "Nachschlagen": [
-      {
-        "ids": {
-          "database_table_1488": 82,
-          "database_table_2978": 9
-        },
-        "value": "Arasta kurbü"
-      }
     ]
   },
   "113": {
@@ -3965,16 +4102,15 @@
     ],
     "neighbourhood": [
       {
-        "id": 52,
-        "value": "Yenimahalle"
+        "id": 84,
+        "value": "Selami"
       }
     ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "114": {
     "id": 114,
@@ -4015,8 +4151,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "115": {
     "id": 115,
@@ -4062,15 +4197,6 @@
         "id": 11,
         "value": "Ağa Hamamı mahali"
       }
-    ],
-    "Nachschlagen": [
-      {
-        "ids": {
-          "database_table_1488": 86,
-          "database_table_2978": 11
-        },
-        "value": "Ağa Hamamı mahali"
-      }
     ]
   },
   "116": {
@@ -4107,8 +4233,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "118": {
     "id": 118,
@@ -4144,8 +4269,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "119": {
     "id": 119,
@@ -4175,9 +4299,13 @@
     "karye": [],
     "occupation": [],
     "nahiye": [],
-    "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "quarter": [
+      {
+        "id": 9,
+        "value": "Yedikule harici"
+      }
+    ],
+    "address": []
   },
   "120": {
     "id": 120,
@@ -4204,12 +4332,16 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": [],
+    "karye": [
+      {
+        "id": 5,
+        "value": "Kadı"
+      }
+    ],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "121": {
     "id": 121,
@@ -4249,22 +4381,6 @@
         "id": 12,
         "value": "Hamam-ı Kebir kurbü"
       }
-    ],
-    "Nachschlagen": [
-      {
-        "ids": {
-          "database_table_1488": 140,
-          "database_table_2978": 12
-        },
-        "value": "Hamam-ı Kebir kurbü"
-      },
-      {
-        "ids": {
-          "database_table_1488": 142,
-          "database_table_2978": 12
-        },
-        "value": "Hamam-ı Kebir kurbü"
-      }
     ]
   },
   "122": {
@@ -4291,13 +4407,17 @@
       }
     ],
     "district": [],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 97,
+        "value": "Kazasker"
+      }
+    ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "123": {
     "id": 123,
@@ -4328,8 +4448,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "124": {
     "id": 124,
@@ -4355,13 +4474,17 @@
       }
     ],
     "district": [],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 52,
+        "value": "Yenimahalle"
+      }
+    ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "125": {
     "id": 125,
@@ -4382,13 +4505,17 @@
       }
     ],
     "district": [],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 98,
+        "value": "Rum Mehmed Paşa"
+      }
+    ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "126": {
     "id": 126,
@@ -4415,12 +4542,16 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": [],
+    "karye": [
+      {
+        "id": 19,
+        "value": "Anadolu Hisarı"
+      }
+    ],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "127": {
     "id": 127,
@@ -4447,12 +4578,16 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": [],
+    "karye": [
+      {
+        "id": 19,
+        "value": "Anadolu Hisarı"
+      }
+    ],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "128": {
     "id": 128,
@@ -4478,13 +4613,17 @@
       }
     ],
     "district": [],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 52,
+        "value": "Yenimahalle"
+      }
+    ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "129": {
     "id": 129,
@@ -4511,12 +4650,16 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": [],
+    "karye": [
+      {
+        "id": 20,
+        "value": "Orta"
+      }
+    ],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "130": {
     "id": 130,
@@ -4538,12 +4681,16 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": [],
+    "karye": [
+      {
+        "id": 21,
+        "value": "Bakkal-ı Kebir"
+      }
+    ],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "131": {
     "id": 131,
@@ -4570,12 +4717,16 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": [],
+    "karye": [
+      {
+        "id": 21,
+        "value": "Bakkal-ı Kebir"
+      }
+    ],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "132": {
     "id": 132,
@@ -4611,15 +4762,6 @@
         "id": 13,
         "value": "Doğancılar nam mahal"
       }
-    ],
-    "Nachschlagen": [
-      {
-        "ids": {
-          "database_table_1488": 152,
-          "database_table_2978": 13
-        },
-        "value": "Doğancılar nam mahal"
-      }
     ]
   },
   "133": {
@@ -4647,12 +4789,16 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": [],
+    "karye": [
+      {
+        "id": 22,
+        "value": "Çengel"
+      }
+    ],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "134": {
     "id": 134,
@@ -4678,8 +4824,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "135": {
     "id": 135,
@@ -4706,12 +4851,16 @@
     ],
     "district": [],
     "neighbourhood": [],
-    "karye": [],
+    "karye": [
+      {
+        "id": 21,
+        "value": "Bakkal-ı Kebir"
+      }
+    ],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "136": {
     "id": 136,
@@ -4732,13 +4881,17 @@
       }
     ],
     "district": [],
-    "neighbourhood": [],
+    "neighbourhood": [
+      {
+        "id": 100,
+        "value": "Gülfem Hatun"
+      }
+    ],
     "karye": [],
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "137": {
     "id": 137,
@@ -4764,8 +4917,7 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   },
   "138": {
     "id": 138,
@@ -4796,7 +4948,6 @@
     "occupation": [],
     "nahiye": [],
     "quarter": [],
-    "address": [],
-    "Nachschlagen": []
+    "address": []
   }
 }
