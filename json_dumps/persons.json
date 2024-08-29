@@ -1821,7 +1821,12 @@
         "value": "İSTM.ŞSC.14.d. 504/ 86a-2"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 5,
+        "value": "Galata Harici"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -1938,7 +1943,12 @@
         "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -2920,7 +2930,12 @@
         "value": "İSTM.ŞSC.06.d. 566/92b-1"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -2987,7 +3002,12 @@
         "value": "İSTM.ŞSC.06.d. 577/43b-1"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -3018,7 +3038,12 @@
         "value": "İSTM.ŞSC.06.d. 578/53b-1"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -3057,7 +3082,12 @@
         "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -3942,7 +3972,12 @@
         "value": "İSTM.ŞSC.15.d. 196 / 15a-2"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 19,
+        "value": "Eyüp"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -3973,7 +4008,12 @@
         "value": "İSTM.ŞSC.06.d. 584/30a-1"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4008,7 +4048,12 @@
         "value": "İSTM.ŞSC.06.d. 591/19b"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4039,7 +4084,12 @@
         "value": "İSTM.ŞSC.06.d. 589/56b"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4101,7 +4151,12 @@
         "value": "İSTM.ŞSC.06.d. 566/51a"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4127,7 +4182,12 @@
         "value": "İSTM.ŞSC.06.d. 567/71a"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4158,7 +4218,12 @@
         "value": "İSTM.ŞSC.06.d. 578/28a"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4189,7 +4254,12 @@
         "value": "İSTM.ŞSC.06.d. 578/44b"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4220,7 +4290,12 @@
         "value": "İSTM.ŞSC.06.d. 578/54a"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4251,7 +4326,12 @@
         "value": "İSTM.ŞSC.06.d. 578/68a"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4269,6 +4349,11 @@
         "id": 6682,
         "value": "Non muslim",
         "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
       }
     ],
     "documents": [
@@ -4277,7 +4362,12 @@
         "value": "İSTM.ŞSC.06.d. 578/78b"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4308,7 +4398,12 @@
         "value": "İSTM.ŞSC.06.d. 581/59b"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4339,7 +4434,12 @@
         "value": "İSTM.ŞSC.06.d. 584/35b"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4370,7 +4470,12 @@
         "value": "İSTM.ŞSC.06.d. 587/62b"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4388,6 +4493,11 @@
         "id": 6682,
         "value": "Non muslim",
         "color": "gray"
+      },
+      {
+        "id": 6705,
+        "value": "Orthodox",
+        "color": "dark-blue"
       }
     ],
     "documents": [
@@ -4396,7 +4506,12 @@
         "value": "İSTM.ŞSC.06.d. 591/8a"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4427,7 +4542,12 @@
         "value": "İSTM.ŞSC.06.d. 591/32b"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4453,7 +4573,12 @@
         "value": "İSTM.ŞSC.06.d. 598/41a"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4479,7 +4604,12 @@
         "value": "İSTM.ŞSC.06.d. 597/54b-1"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
@@ -4510,7 +4640,12 @@
         "value": "İSTM.ŞSC.06.d. 596/6b"
       }
     ],
-    "district": [],
+    "district": [
+      {
+        "id": 16,
+        "value": "Üsküdar"
+      }
+    ],
     "neighbourhood": [],
     "karye": [],
     "occupation": [],
