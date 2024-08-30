@@ -568,10 +568,6 @@
                 "value": "Susam yağı"
             },
             {
-                "id": 158,
-                "value": "Şem-i revgan"
-            },
-            {
                 "id": 183,
                 "value": "Kakırdak"
             },
@@ -858,11 +854,6 @@
                 "id": 107,
                 "shelfmark": "İSTM.ŞSC.15.d. 275 / 99b-1",
                 "grocerist_id": "document__107"
-            },
-            {
-                "id": 111,
-                "shelfmark": "İSTM.ŞSC.06.d. 577/43b-1",
-                "grocerist_id": "document__111"
             },
             {
                 "id": 112,
@@ -3126,6 +3117,10 @@
                 "value": "Şamadıra"
             },
             {
+                "id": 158,
+                "value": "Şem-i revgan"
+            },
+            {
                 "id": 162,
                 "value": "Zift"
             },
@@ -4242,10 +4237,6 @@
             {
                 "id": 275,
                 "value": "İzmir siyahı üzüm"
-            },
-            {
-                "id": 337,
-                "value": "Hunnap"
             },
             {
                 "id": 340,
@@ -5369,10 +5360,6 @@
                 "value": "Susam yağı"
             },
             {
-                "id": 158,
-                "value": "Şem-i revgan"
-            },
-            {
                 "id": 183,
                 "value": "Kakırdak"
             },
@@ -5611,29 +5598,14 @@
                 "grocerist_id": "document__104"
             },
             {
-                "id": 106,
-                "shelfmark": "İSTM.ŞSC.15.d. 272 / 27b-1",
-                "grocerist_id": "document__106"
-            },
-            {
                 "id": 107,
                 "shelfmark": "İSTM.ŞSC.15.d. 275 / 99b-1",
                 "grocerist_id": "document__107"
             },
             {
-                "id": 111,
-                "shelfmark": "İSTM.ŞSC.06.d. 577/43b-1",
-                "grocerist_id": "document__111"
-            },
-            {
                 "id": 112,
                 "shelfmark": "İSTM.ŞSC.06.d. 578/53b-1",
                 "grocerist_id": "document__112"
-            },
-            {
-                "id": 113,
-                "shelfmark": "İSTM.ŞSC.06.d. 584/30a-1",
-                "grocerist_id": "document__113"
             },
             {
                 "id": 140,
@@ -5973,6 +5945,10 @@
             {
                 "id": 324,
                 "value": "Erik"
+            },
+            {
+                "id": 337,
+                "value": "Hunnap"
             }
         ],
         "documents": [
@@ -6982,20 +6958,43 @@
                 "value": "Bezir yağı"
             },
             {
+                "id": 158,
+                "value": "Şem-i revgan"
+            },
+            {
+                "id": 252,
+                "value": "Mum yağı"
+            },
+            {
                 "id": 326,
                 "value": "Kızak yağı"
             }
         ],
         "documents": [
             {
+                "id": 4,
+                "shelfmark": "İSTM.ŞSC.14.d.196 / 19b-1",
+                "grocerist_id": "document__4"
+            },
+            {
                 "id": 15,
                 "shelfmark": "İSTM.ŞSC.14.d.237 / 62b-2",
                 "grocerist_id": "document__15"
             },
             {
+                "id": 36,
+                "shelfmark": "İSTM.ŞSC.14.d.355 / 47b-3",
+                "grocerist_id": "document__36"
+            },
+            {
                 "id": 52,
                 "shelfmark": "İSTM.ŞSC.14.d.528 / 83b-2",
                 "grocerist_id": "document__52"
+            },
+            {
+                "id": 64,
+                "shelfmark": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)",
+                "grocerist_id": "document__64"
             },
             {
                 "id": 65,
@@ -7011,6 +7010,51 @@
                 "id": 90,
                 "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)",
                 "grocerist_id": "document__90"
+            },
+            {
+                "id": 70,
+                "shelfmark": "İSTM.ŞSC.06.d. 394 / 92a-1",
+                "grocerist_id": "document__70"
+            },
+            {
+                "id": 77,
+                "shelfmark": "İSTM.ŞSC.06.d. 456 / 82b-3",
+                "grocerist_id": "document__77"
+            },
+            {
+                "id": 78,
+                "shelfmark": "İSTM.ŞSC.06.d. 465 / 77a-2",
+                "grocerist_id": "document__78"
+            },
+            {
+                "id": 85,
+                "shelfmark": "İSTM.ŞSC.06.d.505 / 83a-3",
+                "grocerist_id": "document__85"
+            },
+            {
+                "id": 106,
+                "shelfmark": "İSTM.ŞSC.15.d. 272 / 27b-1",
+                "grocerist_id": "document__106"
+            },
+            {
+                "id": 109,
+                "shelfmark": "İSTM.ŞSC.06.d. 566/92b-1",
+                "grocerist_id": "document__109"
+            },
+            {
+                "id": 111,
+                "shelfmark": "İSTM.ŞSC.06.d. 577/43b-1",
+                "grocerist_id": "document__111"
+            },
+            {
+                "id": 112,
+                "shelfmark": "İSTM.ŞSC.06.d. 578/53b-1",
+                "grocerist_id": "document__112"
+            },
+            {
+                "id": 113,
+                "shelfmark": "İSTM.ŞSC.06.d. 584/30a-1",
+                "grocerist_id": "document__113"
             }
         ]
     },
@@ -7160,10 +7204,6 @@
                 "value": "Terkoz balığı"
             },
             {
-                "id": 102,
-                "value": "Tuzlu balık"
-            },
-            {
                 "id": 157,
                 "value": "Sade balık"
             },
@@ -7192,16 +7232,6 @@
                 "grocerist_id": "document__25"
             },
             {
-                "id": 41,
-                "shelfmark": "İSTM.ŞSC.14.d.400 / 55a-1",
-                "grocerist_id": "document__41"
-            },
-            {
-                "id": 52,
-                "shelfmark": "İSTM.ŞSC.14.d.528 / 83b-2",
-                "grocerist_id": "document__52"
-            },
-            {
                 "id": 61,
                 "shelfmark": "İSTM.ŞSC.14.d.275 / 45b-3 (b)",
                 "grocerist_id": "document__61"
@@ -7215,11 +7245,6 @@
                 "id": 77,
                 "shelfmark": "İSTM.ŞSC.06.d. 456 / 82b-3",
                 "grocerist_id": "document__77"
-            },
-            {
-                "id": 97,
-                "shelfmark": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)",
-                "grocerist_id": "document__97"
             },
             {
                 "id": 107,
@@ -7258,6 +7283,10 @@
             {
                 "id": 47,
                 "value": "Uskumru balığu turşusu"
+            },
+            {
+                "id": 102,
+                "value": "Tuzlu balık"
             }
         ],
         "documents": [
@@ -7272,9 +7301,24 @@
                 "grocerist_id": "document__5"
             },
             {
+                "id": 41,
+                "shelfmark": "İSTM.ŞSC.14.d.400 / 55a-1",
+                "grocerist_id": "document__41"
+            },
+            {
+                "id": 52,
+                "shelfmark": "İSTM.ŞSC.14.d.528 / 83b-2",
+                "grocerist_id": "document__52"
+            },
+            {
                 "id": 85,
                 "shelfmark": "İSTM.ŞSC.06.d.505 / 83a-3",
                 "grocerist_id": "document__85"
+            },
+            {
+                "id": 97,
+                "shelfmark": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)",
+                "grocerist_id": "document__97"
             }
         ]
     },
@@ -7716,6 +7760,1093 @@
                 "id": 110,
                 "shelfmark": "İSTM.ŞSC.06.d. 574/51b-1",
                 "grocerist_id": "document__110"
+            },
+            {
+                "id": 112,
+                "shelfmark": "İSTM.ŞSC.06.d. 578/53b-1",
+                "grocerist_id": "document__112"
+            },
+            {
+                "id": 113,
+                "shelfmark": "İSTM.ŞSC.06.d. 584/30a-1",
+                "grocerist_id": "document__113"
+            },
+            {
+                "id": 140,
+                "shelfmark": "İSTM.ŞSC.06.d. 589/49a",
+                "grocerist_id": "document__140"
+            },
+            {
+                "id": 142,
+                "shelfmark": "İSTM.ŞSC.06.d. 591/19b",
+                "grocerist_id": "document__142"
+            }
+        ]
+    },
+    "76": {
+        "id": 76,
+        "order": "26.00000000000000000000",
+        "name": "Honey",
+        "is_main_category": false,
+        "grocerist_id": "category__76",
+        "part_of": [
+            {
+                "id": 47,
+                "value": "Condiments"
+            },
+            {
+                "id": 61,
+                "value": "Sweetener"
+            }
+        ],
+        "goods": [
+            {
+                "id": 25,
+                "value": "Bal / Asel"
+            },
+            {
+                "id": 54,
+                "value": "Kuşadası  balı"
+            },
+            {
+                "id": 91,
+                "value": "Akdeniz balı"
+            },
+            {
+                "id": 93,
+                "value": "Gömeç balı"
+            },
+            {
+                "id": 142,
+                "value": "Eflak balı"
+            },
+            {
+                "id": 181,
+                "value": "Revak asel"
+            },
+            {
+                "id": 205,
+                "value": "Karadeniz balı"
+            },
+            {
+                "id": 276,
+                "value": "Kutu balı"
+            },
+            {
+                "id": 342,
+                "value": "Odun asel"
+            }
+        ],
+        "documents": [
+            {
+                "id": 1,
+                "shelfmark": "İSTM.ŞSC.14.d.173 / 9b-2",
+                "grocerist_id": "document__1"
+            },
+            {
+                "id": 4,
+                "shelfmark": "İSTM.ŞSC.14.d.196 / 19b-1",
+                "grocerist_id": "document__4"
+            },
+            {
+                "id": 5,
+                "shelfmark": "İSTM.ŞSC.14.d.196 / 21b-1",
+                "grocerist_id": "document__5"
+            },
+            {
+                "id": 6,
+                "shelfmark": "İSTM.ŞSC.14.d.212/ 29a-1",
+                "grocerist_id": "document__6"
+            },
+            {
+                "id": 8,
+                "shelfmark": "İSTM.ŞSC.14.d.212/ 74b-1",
+                "grocerist_id": "document__8"
+            },
+            {
+                "id": 10,
+                "shelfmark": "İSTM.ŞSC.14.d.222 / 45a-2",
+                "grocerist_id": "document__10"
+            },
+            {
+                "id": 15,
+                "shelfmark": "İSTM.ŞSC.14.d.237 / 62b-2",
+                "grocerist_id": "document__15"
+            },
+            {
+                "id": 18,
+                "shelfmark": "İSTM.ŞSC.14.d.249 / 9b-2",
+                "grocerist_id": "document__18"
+            },
+            {
+                "id": 24,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+                "grocerist_id": "document__24"
+            },
+            {
+                "id": 28,
+                "shelfmark": "İSTM.ŞSC.14.d.276 / 9b-1",
+                "grocerist_id": "document__28"
+            },
+            {
+                "id": 29,
+                "shelfmark": "İSTM.ŞSC.14.d.289 / 6b-2",
+                "grocerist_id": "document__29"
+            },
+            {
+                "id": 30,
+                "shelfmark": "İSTM.ŞSC.14.d.290 / 73b-2",
+                "grocerist_id": "document__30"
+            },
+            {
+                "id": 31,
+                "shelfmark": "İSTM.ŞSC.14.d.304 / 22b-3",
+                "grocerist_id": "document__31"
+            },
+            {
+                "id": 36,
+                "shelfmark": "İSTM.ŞSC.14.d.355 / 47b-3",
+                "grocerist_id": "document__36"
+            },
+            {
+                "id": 41,
+                "shelfmark": "İSTM.ŞSC.14.d.400 / 55a-1",
+                "grocerist_id": "document__41"
+            },
+            {
+                "id": 45,
+                "shelfmark": "İSTM.ŞSC.14.d.433 / 74b-2",
+                "grocerist_id": "document__45"
+            },
+            {
+                "id": 47,
+                "shelfmark": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
+                "grocerist_id": "document__47"
+            },
+            {
+                "id": 59,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1(b)",
+                "grocerist_id": "document__59"
+            },
+            {
+                "id": 60,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1(c)",
+                "grocerist_id": "document__60"
+            },
+            {
+                "id": 64,
+                "shelfmark": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)",
+                "grocerist_id": "document__64"
+            },
+            {
+                "id": 65,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
+                "grocerist_id": "document__65"
+            },
+            {
+                "id": 89,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
+                "grocerist_id": "document__89"
+            },
+            {
+                "id": 90,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)",
+                "grocerist_id": "document__90"
+            },
+            {
+                "id": 70,
+                "shelfmark": "İSTM.ŞSC.06.d. 394 / 92a-1",
+                "grocerist_id": "document__70"
+            },
+            {
+                "id": 72,
+                "shelfmark": "İSTM.ŞSC.06.d. 427 / 50a-2",
+                "grocerist_id": "document__72"
+            },
+            {
+                "id": 75,
+                "shelfmark": "İSTM.ŞSC.06.d. 443 / 11a-1 (a)",
+                "grocerist_id": "document__75"
+            },
+            {
+                "id": 77,
+                "shelfmark": "İSTM.ŞSC.06.d. 456 / 82b-3",
+                "grocerist_id": "document__77"
+            },
+            {
+                "id": 80,
+                "shelfmark": "İSTM.ŞSC.06.d. 491 / 51b-2",
+                "grocerist_id": "document__80"
+            },
+            {
+                "id": 85,
+                "shelfmark": "İSTM.ŞSC.06.d.505 / 83a-3",
+                "grocerist_id": "document__85"
+            },
+            {
+                "id": 86,
+                "shelfmark": "İSTM.ŞSC.06.d. 522 / 21b-4",
+                "grocerist_id": "document__86"
+            },
+            {
+                "id": 109,
+                "shelfmark": "İSTM.ŞSC.06.d. 566/92b-1",
+                "grocerist_id": "document__109"
+            },
+            {
+                "id": 112,
+                "shelfmark": "İSTM.ŞSC.06.d. 578/53b-1",
+                "grocerist_id": "document__112"
+            },
+            {
+                "id": 113,
+                "shelfmark": "İSTM.ŞSC.06.d. 584/30a-1",
+                "grocerist_id": "document__113"
+            },
+            {
+                "id": 140,
+                "shelfmark": "İSTM.ŞSC.06.d. 589/49a",
+                "grocerist_id": "document__140"
+            },
+            {
+                "id": 141,
+                "shelfmark": "İSTM.ŞSC.06.d. 589/56b",
+                "grocerist_id": "document__141"
+            },
+            {
+                "id": 142,
+                "shelfmark": "İSTM.ŞSC.06.d. 591/19b",
+                "grocerist_id": "document__142"
+            }
+        ]
+    },
+    "77": {
+        "id": 77,
+        "order": "27.00000000000000000000",
+        "name": "Molasses",
+        "is_main_category": false,
+        "grocerist_id": "category__77",
+        "part_of": [
+            {
+                "id": 47,
+                "value": "Condiments"
+            },
+            {
+                "id": 61,
+                "value": "Sweetener"
+            }
+        ],
+        "goods": [
+            {
+                "id": 23,
+                "value": "Pekmez"
+            },
+            {
+                "id": 77,
+                "value": "Girit pekmezi"
+            },
+            {
+                "id": 83,
+                "value": "Odun pekmezi"
+            },
+            {
+                "id": 159,
+                "value": "Çorlu pekmezi"
+            }
+        ],
+        "documents": [
+            {
+                "id": 1,
+                "shelfmark": "İSTM.ŞSC.14.d.173 / 9b-2",
+                "grocerist_id": "document__1"
+            },
+            {
+                "id": 2,
+                "shelfmark": "İSTM.ŞSC.14.d.177 / 34b-1",
+                "grocerist_id": "document__2"
+            },
+            {
+                "id": 5,
+                "shelfmark": "İSTM.ŞSC.14.d.196 / 21b-1",
+                "grocerist_id": "document__5"
+            },
+            {
+                "id": 6,
+                "shelfmark": "İSTM.ŞSC.14.d.212/ 29a-1",
+                "grocerist_id": "document__6"
+            },
+            {
+                "id": 7,
+                "shelfmark": "İSTM.ŞSC.14.d.212/ 34b-2",
+                "grocerist_id": "document__7"
+            },
+            {
+                "id": 8,
+                "shelfmark": "İSTM.ŞSC.14.d.212/ 74b-1",
+                "grocerist_id": "document__8"
+            },
+            {
+                "id": 14,
+                "shelfmark": "İSTM.ŞSC.14.d.237 / 39b-1",
+                "grocerist_id": "document__14"
+            },
+            {
+                "id": 15,
+                "shelfmark": "İSTM.ŞSC.14.d.237 / 62b-2",
+                "grocerist_id": "document__15"
+            },
+            {
+                "id": 25,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 37a-4",
+                "grocerist_id": "document__25"
+            },
+            {
+                "id": 27,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 76b-1",
+                "grocerist_id": "document__27"
+            },
+            {
+                "id": 29,
+                "shelfmark": "İSTM.ŞSC.14.d.289 / 6b-2",
+                "grocerist_id": "document__29"
+            },
+            {
+                "id": 31,
+                "shelfmark": "İSTM.ŞSC.14.d.304 / 22b-3",
+                "grocerist_id": "document__31"
+            },
+            {
+                "id": 36,
+                "shelfmark": "İSTM.ŞSC.14.d.355 / 47b-3",
+                "grocerist_id": "document__36"
+            },
+            {
+                "id": 38,
+                "shelfmark": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
+                "grocerist_id": "document__38"
+            },
+            {
+                "id": 41,
+                "shelfmark": "İSTM.ŞSC.14.d.400 / 55a-1",
+                "grocerist_id": "document__41"
+            },
+            {
+                "id": 45,
+                "shelfmark": "İSTM.ŞSC.14.d.433 / 74b-2",
+                "grocerist_id": "document__45"
+            },
+            {
+                "id": 47,
+                "shelfmark": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
+                "grocerist_id": "document__47"
+            },
+            {
+                "id": 60,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1(c)",
+                "grocerist_id": "document__60"
+            },
+            {
+                "id": 61,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 45b-3 (b)",
+                "grocerist_id": "document__61"
+            },
+            {
+                "id": 65,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
+                "grocerist_id": "document__65"
+            },
+            {
+                "id": 89,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
+                "grocerist_id": "document__89"
+            },
+            {
+                "id": 90,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)",
+                "grocerist_id": "document__90"
+            },
+            {
+                "id": 70,
+                "shelfmark": "İSTM.ŞSC.06.d. 394 / 92a-1",
+                "grocerist_id": "document__70"
+            },
+            {
+                "id": 71,
+                "shelfmark": "İSTM.ŞSC.06.d. 405 / 87b-2",
+                "grocerist_id": "document__71"
+            },
+            {
+                "id": 72,
+                "shelfmark": "İSTM.ŞSC.06.d. 427 / 50a-2",
+                "grocerist_id": "document__72"
+            },
+            {
+                "id": 77,
+                "shelfmark": "İSTM.ŞSC.06.d. 456 / 82b-3",
+                "grocerist_id": "document__77"
+            },
+            {
+                "id": 80,
+                "shelfmark": "İSTM.ŞSC.06.d. 491 / 51b-2",
+                "grocerist_id": "document__80"
+            },
+            {
+                "id": 84,
+                "shelfmark": "İSTM.ŞSC.06.d. 501 / 22b-3",
+                "grocerist_id": "document__84"
+            },
+            {
+                "id": 86,
+                "shelfmark": "İSTM.ŞSC.06.d. 522 / 21b-4",
+                "grocerist_id": "document__86"
+            },
+            {
+                "id": 97,
+                "shelfmark": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)",
+                "grocerist_id": "document__97"
+            },
+            {
+                "id": 104,
+                "shelfmark": "İSTM.ŞSC.15.d. 243 / 51a-1",
+                "grocerist_id": "document__104"
+            },
+            {
+                "id": 106,
+                "shelfmark": "İSTM.ŞSC.15.d. 272 / 27b-1",
+                "grocerist_id": "document__106"
+            },
+            {
+                "id": 109,
+                "shelfmark": "İSTM.ŞSC.06.d. 566/92b-1",
+                "grocerist_id": "document__109"
+            },
+            {
+                "id": 112,
+                "shelfmark": "İSTM.ŞSC.06.d. 578/53b-1",
+                "grocerist_id": "document__112"
+            },
+            {
+                "id": 113,
+                "shelfmark": "İSTM.ŞSC.06.d. 584/30a-1",
+                "grocerist_id": "document__113"
+            },
+            {
+                "id": 140,
+                "shelfmark": "İSTM.ŞSC.06.d. 589/49a",
+                "grocerist_id": "document__140"
+            },
+            {
+                "id": 141,
+                "shelfmark": "İSTM.ŞSC.06.d. 589/56b",
+                "grocerist_id": "document__141"
+            },
+            {
+                "id": 142,
+                "shelfmark": "İSTM.ŞSC.06.d. 591/19b",
+                "grocerist_id": "document__142"
+            }
+        ]
+    },
+    "78": {
+        "id": 78,
+        "order": "28.00000000000000000000",
+        "name": "Raisin",
+        "is_main_category": false,
+        "grocerist_id": "category__78",
+        "part_of": [
+            {
+                "id": 43,
+                "value": "Dry goods"
+            },
+            {
+                "id": 55,
+                "value": "Fruits"
+            }
+        ],
+        "goods": [
+            {
+                "id": 17,
+                "value": "Beylerce"
+            },
+            {
+                "id": 18,
+                "value": "Razaki"
+            },
+            {
+                "id": 19,
+                "value": "Kızıl"
+            },
+            {
+                "id": 20,
+                "value": "Siyah"
+            },
+            {
+                "id": 48,
+                "value": "Kuru üzüm"
+            },
+            {
+                "id": 58,
+                "value": "Kuş üzümü"
+            },
+            {
+                "id": 160,
+                "value": "Üzüm"
+            },
+            {
+                "id": 191,
+                "value": "Edremit siyahı üzüm"
+            },
+            {
+                "id": 210,
+                "value": "Edremit siyahı"
+            },
+            {
+                "id": 275,
+                "value": "İzmir siyahı üzüm"
+            },
+            {
+                "id": 340,
+                "value": "Koca üzümü"
+            },
+            {
+                "id": 350,
+                "value": "Kırmızı üzüm"
+            },
+            {
+                "id": 365,
+                "value": "Koca siyah üzüm"
+            },
+            {
+                "id": 369,
+                "value": "Hoşablık üzüm"
+            }
+        ],
+        "documents": [
+            {
+                "id": 1,
+                "shelfmark": "İSTM.ŞSC.14.d.173 / 9b-2",
+                "grocerist_id": "document__1"
+            },
+            {
+                "id": 2,
+                "shelfmark": "İSTM.ŞSC.14.d.177 / 34b-1",
+                "grocerist_id": "document__2"
+            },
+            {
+                "id": 4,
+                "shelfmark": "İSTM.ŞSC.14.d.196 / 19b-1",
+                "grocerist_id": "document__4"
+            },
+            {
+                "id": 5,
+                "shelfmark": "İSTM.ŞSC.14.d.196 / 21b-1",
+                "grocerist_id": "document__5"
+            },
+            {
+                "id": 8,
+                "shelfmark": "İSTM.ŞSC.14.d.212/ 74b-1",
+                "grocerist_id": "document__8"
+            },
+            {
+                "id": 9,
+                "shelfmark": "İSTM.ŞSC.14.d.217 / 59a-2, 60",
+                "grocerist_id": "document__9"
+            },
+            {
+                "id": 10,
+                "shelfmark": "İSTM.ŞSC.14.d.222 / 45a-2",
+                "grocerist_id": "document__10"
+            },
+            {
+                "id": 11,
+                "shelfmark": "İSTM.ŞSC.14.d.226 / 27a-2, 28",
+                "grocerist_id": "document__11"
+            },
+            {
+                "id": 15,
+                "shelfmark": "İSTM.ŞSC.14.d.237 / 62b-2",
+                "grocerist_id": "document__15"
+            },
+            {
+                "id": 18,
+                "shelfmark": "İSTM.ŞSC.14.d.249 / 9b-2",
+                "grocerist_id": "document__18"
+            },
+            {
+                "id": 22,
+                "shelfmark": "İSTM.ŞSC.14.d.254 / 64a-1",
+                "grocerist_id": "document__22"
+            },
+            {
+                "id": 25,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 37a-4",
+                "grocerist_id": "document__25"
+            },
+            {
+                "id": 26,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 45b-3 (a)",
+                "grocerist_id": "document__26"
+            },
+            {
+                "id": 27,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 76b-1",
+                "grocerist_id": "document__27"
+            },
+            {
+                "id": 28,
+                "shelfmark": "İSTM.ŞSC.14.d.276 / 9b-1",
+                "grocerist_id": "document__28"
+            },
+            {
+                "id": 29,
+                "shelfmark": "İSTM.ŞSC.14.d.289 / 6b-2",
+                "grocerist_id": "document__29"
+            },
+            {
+                "id": 36,
+                "shelfmark": "İSTM.ŞSC.14.d.355 / 47b-3",
+                "grocerist_id": "document__36"
+            },
+            {
+                "id": 38,
+                "shelfmark": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
+                "grocerist_id": "document__38"
+            },
+            {
+                "id": 41,
+                "shelfmark": "İSTM.ŞSC.14.d.400 / 55a-1",
+                "grocerist_id": "document__41"
+            },
+            {
+                "id": 64,
+                "shelfmark": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)",
+                "grocerist_id": "document__64"
+            },
+            {
+                "id": 91,
+                "shelfmark": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)",
+                "grocerist_id": "document__91"
+            },
+            {
+                "id": 65,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
+                "grocerist_id": "document__65"
+            },
+            {
+                "id": 89,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
+                "grocerist_id": "document__89"
+            },
+            {
+                "id": 90,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)",
+                "grocerist_id": "document__90"
+            },
+            {
+                "id": 67,
+                "shelfmark": "İSTM.ŞSC.06.d.359 / 26a-1",
+                "grocerist_id": "document__67"
+            },
+            {
+                "id": 70,
+                "shelfmark": "İSTM.ŞSC.06.d. 394 / 92a-1",
+                "grocerist_id": "document__70"
+            },
+            {
+                "id": 72,
+                "shelfmark": "İSTM.ŞSC.06.d. 427 / 50a-2",
+                "grocerist_id": "document__72"
+            },
+            {
+                "id": 78,
+                "shelfmark": "İSTM.ŞSC.06.d. 465 / 77a-2",
+                "grocerist_id": "document__78"
+            },
+            {
+                "id": 80,
+                "shelfmark": "İSTM.ŞSC.06.d. 491 / 51b-2",
+                "grocerist_id": "document__80"
+            },
+            {
+                "id": 84,
+                "shelfmark": "İSTM.ŞSC.06.d. 501 / 22b-3",
+                "grocerist_id": "document__84"
+            },
+            {
+                "id": 85,
+                "shelfmark": "İSTM.ŞSC.06.d.505 / 83a-3",
+                "grocerist_id": "document__85"
+            },
+            {
+                "id": 106,
+                "shelfmark": "İSTM.ŞSC.15.d. 272 / 27b-1",
+                "grocerist_id": "document__106"
+            },
+            {
+                "id": 112,
+                "shelfmark": "İSTM.ŞSC.06.d. 578/53b-1",
+                "grocerist_id": "document__112"
+            },
+            {
+                "id": 113,
+                "shelfmark": "İSTM.ŞSC.06.d. 584/30a-1",
+                "grocerist_id": "document__113"
+            },
+            {
+                "id": 140,
+                "shelfmark": "İSTM.ŞSC.06.d. 589/49a",
+                "grocerist_id": "document__140"
+            },
+            {
+                "id": 142,
+                "shelfmark": "İSTM.ŞSC.06.d. 591/19b",
+                "grocerist_id": "document__142"
+            }
+        ]
+    },
+    "79": {
+        "id": 79,
+        "order": "29.00000000000000000000",
+        "name": "Dried figs",
+        "is_main_category": false,
+        "grocerist_id": "category__79",
+        "part_of": [
+            {
+                "id": 43,
+                "value": "Dry goods"
+            },
+            {
+                "id": 55,
+                "value": "Fruits"
+            }
+        ],
+        "goods": [
+            {
+                "id": 21,
+                "value": "İncir"
+            },
+            {
+                "id": 98,
+                "value": "Sarıca inciri"
+            },
+            {
+                "id": 202,
+                "value": "Lob inciri"
+            }
+        ],
+        "documents": [
+            {
+                "id": 1,
+                "shelfmark": "İSTM.ŞSC.14.d.173 / 9b-2",
+                "grocerist_id": "document__1"
+            },
+            {
+                "id": 2,
+                "shelfmark": "İSTM.ŞSC.14.d.177 / 34b-1",
+                "grocerist_id": "document__2"
+            },
+            {
+                "id": 8,
+                "shelfmark": "İSTM.ŞSC.14.d.212/ 74b-1",
+                "grocerist_id": "document__8"
+            },
+            {
+                "id": 9,
+                "shelfmark": "İSTM.ŞSC.14.d.217 / 59a-2, 60",
+                "grocerist_id": "document__9"
+            },
+            {
+                "id": 11,
+                "shelfmark": "İSTM.ŞSC.14.d.226 / 27a-2, 28",
+                "grocerist_id": "document__11"
+            },
+            {
+                "id": 14,
+                "shelfmark": "İSTM.ŞSC.14.d.237 / 39b-1",
+                "grocerist_id": "document__14"
+            },
+            {
+                "id": 16,
+                "shelfmark": "İSTM.ŞSC.14.d.241 / 3a-1",
+                "grocerist_id": "document__16"
+            },
+            {
+                "id": 18,
+                "shelfmark": "İSTM.ŞSC.14.d.249 / 9b-2",
+                "grocerist_id": "document__18"
+            },
+            {
+                "id": 25,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 37a-4",
+                "grocerist_id": "document__25"
+            },
+            {
+                "id": 28,
+                "shelfmark": "İSTM.ŞSC.14.d.276 / 9b-1",
+                "grocerist_id": "document__28"
+            },
+            {
+                "id": 29,
+                "shelfmark": "İSTM.ŞSC.14.d.289 / 6b-2",
+                "grocerist_id": "document__29"
+            },
+            {
+                "id": 31,
+                "shelfmark": "İSTM.ŞSC.14.d.304 / 22b-3",
+                "grocerist_id": "document__31"
+            },
+            {
+                "id": 36,
+                "shelfmark": "İSTM.ŞSC.14.d.355 / 47b-3",
+                "grocerist_id": "document__36"
+            },
+            {
+                "id": 64,
+                "shelfmark": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)",
+                "grocerist_id": "document__64"
+            },
+            {
+                "id": 65,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
+                "grocerist_id": "document__65"
+            },
+            {
+                "id": 89,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
+                "grocerist_id": "document__89"
+            },
+            {
+                "id": 90,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)",
+                "grocerist_id": "document__90"
+            },
+            {
+                "id": 72,
+                "shelfmark": "İSTM.ŞSC.06.d. 427 / 50a-2",
+                "grocerist_id": "document__72"
+            },
+            {
+                "id": 78,
+                "shelfmark": "İSTM.ŞSC.06.d. 465 / 77a-2",
+                "grocerist_id": "document__78"
+            },
+            {
+                "id": 80,
+                "shelfmark": "İSTM.ŞSC.06.d. 491 / 51b-2",
+                "grocerist_id": "document__80"
+            },
+            {
+                "id": 85,
+                "shelfmark": "İSTM.ŞSC.06.d.505 / 83a-3",
+                "grocerist_id": "document__85"
+            },
+            {
+                "id": 106,
+                "shelfmark": "İSTM.ŞSC.15.d. 272 / 27b-1",
+                "grocerist_id": "document__106"
+            },
+            {
+                "id": 140,
+                "shelfmark": "İSTM.ŞSC.06.d. 589/49a",
+                "grocerist_id": "document__140"
+            },
+            {
+                "id": 141,
+                "shelfmark": "İSTM.ŞSC.06.d. 589/56b",
+                "grocerist_id": "document__141"
+            },
+            {
+                "id": 142,
+                "shelfmark": "İSTM.ŞSC.06.d. 591/19b",
+                "grocerist_id": "document__142"
+            }
+        ]
+    },
+    "80": {
+        "id": 80,
+        "order": "30.00000000000000000000",
+        "name": "Soap",
+        "is_main_category": false,
+        "grocerist_id": "category__80",
+        "part_of": [
+            {
+                "id": 50,
+                "value": "Non-food"
+            }
+        ],
+        "goods": [
+            {
+                "id": 108,
+                "value": "Sabun"
+            },
+            {
+                "id": 148,
+                "value": "Girit sabunu"
+            },
+            {
+                "id": 172,
+                "value": "İzmir sabunu"
+            },
+            {
+                "id": 199,
+                "value": "Trablus sabunu"
+            }
+        ],
+        "documents": [
+            {
+                "id": 1,
+                "shelfmark": "İSTM.ŞSC.14.d.173 / 9b-2",
+                "grocerist_id": "document__1"
+            },
+            {
+                "id": 4,
+                "shelfmark": "İSTM.ŞSC.14.d.196 / 19b-1",
+                "grocerist_id": "document__4"
+            },
+            {
+                "id": 5,
+                "shelfmark": "İSTM.ŞSC.14.d.196 / 21b-1",
+                "grocerist_id": "document__5"
+            },
+            {
+                "id": 6,
+                "shelfmark": "İSTM.ŞSC.14.d.212/ 29a-1",
+                "grocerist_id": "document__6"
+            },
+            {
+                "id": 11,
+                "shelfmark": "İSTM.ŞSC.14.d.226 / 27a-2, 28",
+                "grocerist_id": "document__11"
+            },
+            {
+                "id": 13,
+                "shelfmark": "İSTM.ŞSC.14.d.237 / 27a-2, 28",
+                "grocerist_id": "document__13"
+            },
+            {
+                "id": 14,
+                "shelfmark": "İSTM.ŞSC.14.d.237 / 39b-1",
+                "grocerist_id": "document__14"
+            },
+            {
+                "id": 15,
+                "shelfmark": "İSTM.ŞSC.14.d.237 / 62b-2",
+                "grocerist_id": "document__15"
+            },
+            {
+                "id": 24,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+                "grocerist_id": "document__24"
+            },
+            {
+                "id": 25,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 37a-4",
+                "grocerist_id": "document__25"
+            },
+            {
+                "id": 26,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 45b-3 (a)",
+                "grocerist_id": "document__26"
+            },
+            {
+                "id": 27,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 76b-1",
+                "grocerist_id": "document__27"
+            },
+            {
+                "id": 30,
+                "shelfmark": "İSTM.ŞSC.14.d.290 / 73b-2",
+                "grocerist_id": "document__30"
+            },
+            {
+                "id": 31,
+                "shelfmark": "İSTM.ŞSC.14.d.304 / 22b-3",
+                "grocerist_id": "document__31"
+            },
+            {
+                "id": 36,
+                "shelfmark": "İSTM.ŞSC.14.d.355 / 47b-3",
+                "grocerist_id": "document__36"
+            },
+            {
+                "id": 38,
+                "shelfmark": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
+                "grocerist_id": "document__38"
+            },
+            {
+                "id": 47,
+                "shelfmark": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
+                "grocerist_id": "document__47"
+            },
+            {
+                "id": 60,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1(c)",
+                "grocerist_id": "document__60"
+            },
+            {
+                "id": 64,
+                "shelfmark": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)",
+                "grocerist_id": "document__64"
+            },
+            {
+                "id": 91,
+                "shelfmark": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)",
+                "grocerist_id": "document__91"
+            },
+            {
+                "id": 65,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
+                "grocerist_id": "document__65"
+            },
+            {
+                "id": 89,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
+                "grocerist_id": "document__89"
+            },
+            {
+                "id": 90,
+                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)",
+                "grocerist_id": "document__90"
+            },
+            {
+                "id": 67,
+                "shelfmark": "İSTM.ŞSC.06.d.359 / 26a-1",
+                "grocerist_id": "document__67"
+            },
+            {
+                "id": 70,
+                "shelfmark": "İSTM.ŞSC.06.d. 394 / 92a-1",
+                "grocerist_id": "document__70"
+            },
+            {
+                "id": 72,
+                "shelfmark": "İSTM.ŞSC.06.d. 427 / 50a-2",
+                "grocerist_id": "document__72"
+            },
+            {
+                "id": 77,
+                "shelfmark": "İSTM.ŞSC.06.d. 456 / 82b-3",
+                "grocerist_id": "document__77"
+            },
+            {
+                "id": 85,
+                "shelfmark": "İSTM.ŞSC.06.d.505 / 83a-3",
+                "grocerist_id": "document__85"
+            },
+            {
+                "id": 86,
+                "shelfmark": "İSTM.ŞSC.06.d. 522 / 21b-4",
+                "grocerist_id": "document__86"
+            },
+            {
+                "id": 106,
+                "shelfmark": "İSTM.ŞSC.15.d. 272 / 27b-1",
+                "grocerist_id": "document__106"
+            },
+            {
+                "id": 111,
+                "shelfmark": "İSTM.ŞSC.06.d. 577/43b-1",
+                "grocerist_id": "document__111"
             },
             {
                 "id": 112,
