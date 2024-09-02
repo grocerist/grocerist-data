@@ -308,7 +308,15 @@
         "lat": null,
         "long": null,
         "comments": null,
-        "upper_admin1": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 135,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
         "upper_admin2": []
     },
     "10": {

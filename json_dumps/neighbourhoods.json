@@ -358,7 +358,15 @@
                 "value": "Bakkal Hasan Beşe b. Ali"
             }
         ],
-        "upper_admin1": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 136,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
         "upper_admin2": [],
         "upper_admin3": []
     },
@@ -1825,7 +1833,15 @@
                 "value": "Bakkal Konstantin v. Horosu"
             }
         ],
-        "upper_admin1": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 132,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
         "upper_admin2": [],
         "upper_admin3": []
     },
@@ -1846,7 +1862,15 @@
         ],
         "district_nineteenth_century": [],
         "persons": [],
-        "upper_admin1": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 93,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
         "upper_admin2": [],
         "upper_admin3": []
     },
@@ -1867,7 +1891,15 @@
         ],
         "district_nineteenth_century": [],
         "persons": [],
-        "upper_admin1": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 133,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
         "upper_admin2": [],
         "upper_admin3": []
     },
@@ -1888,7 +1920,15 @@
         ],
         "district_nineteenth_century": [],
         "persons": [],
-        "upper_admin1": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 134,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
         "upper_admin2": [],
         "upper_admin3": []
     },
