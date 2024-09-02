@@ -26,8 +26,8 @@ def join_tables(source_data, seed_data, key_name):
         value[key_name] = new_values
 
 
-def add_lat_long_to_goods(goods_data, docs_data):
-    for key, value in goods_data.items():
+def add_lat_long(source_data, docs_data):
+    for key, value in source_data.items():
         if value["documents"]:
             for doc in value["documents"]:
                 doc["lat"] = docs_data[str(doc["id"])].get("lat")
@@ -78,6 +78,7 @@ goods_data = load_json(os.path.join(JSON_FOLDER, "goods.json"))
 persons_data = load_json(os.path.join(JSON_FOLDER, "persons.json"))
 documents_data = load_json(os.path.join(JSON_FOLDER, "documents.json"))
 categories_data = load_json(os.path.join(JSON_FOLDER, "categories.json"))
+utensils_data = load_json(os.path.join(JSON_FOLDER, "utensils.json"))
 
 
 # Enrich documents with data from goods and persons
@@ -85,7 +86,8 @@ join_tables(documents_data, goods_data, "goods")
 join_tables(documents_data, persons_data, "main_person")
 
 # Add lat, long and date from documents
-add_lat_long_to_goods(goods_data, documents_data)
+add_lat_long(goods_data, documents_data)
+add_lat_long(utensils_data, documents_data)
 
 # Process documents and categories
 new_documents, new_categories = join_documents_and_categories(
@@ -96,3 +98,4 @@ new_documents, new_categories = join_documents_and_categories(
 save_json(new_documents, os.path.join(JSON_FOLDER, "documents.json"))
 save_json(new_categories, os.path.join(JSON_FOLDER, "categories.json"))
 save_json(goods_data, os.path.join(JSON_FOLDER, "goods.json"))
+save_json(utensils_data, os.path.join(JSON_FOLDER, "utensils.json"))
