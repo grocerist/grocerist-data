@@ -910,6 +910,10 @@
                 "value": "Peynir"
             },
             {
+                "id": 184,
+                "value": "Keçi peyniri"
+            },
+            {
                 "id": 187,
                 "value": "Yerli kaşkaval"
             },
@@ -1291,10 +1295,6 @@
                 "value": "Kolyoz balığı"
             },
             {
-                "id": 184,
-                "value": "Keçi peyniri"
-            },
-            {
                 "id": 247,
                 "value": "Balık"
             },
@@ -1410,11 +1410,6 @@
                 "id": 65,
                 "shelfmark": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
                 "grocerist_id": "document__65"
-            },
-            {
-                "id": 89,
-                "shelfmark": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
-                "grocerist_id": "document__89"
             },
             {
                 "id": 90,
@@ -3914,12 +3909,24 @@
         ],
         "goods": [
             {
+                "id": 12,
+                "value": "Böğrülce"
+            },
+            {
                 "id": 13,
                 "value": "Nohut"
             },
             {
                 "id": 14,
                 "value": "Mercimek"
+            },
+            {
+                "id": 155,
+                "value": "Bakla"
+            },
+            {
+                "id": 267,
+                "value": "Alaca bakla"
             }
         ],
         "documents": [
@@ -3944,9 +3951,19 @@
                 "grocerist_id": "document__5"
             },
             {
+                "id": 6,
+                "shelfmark": "İSTM.ŞSC.14.d.212/ 29a-1",
+                "grocerist_id": "document__6"
+            },
+            {
                 "id": 8,
                 "shelfmark": "İSTM.ŞSC.14.d.212/ 74b-1",
                 "grocerist_id": "document__8"
+            },
+            {
+                "id": 10,
+                "shelfmark": "İSTM.ŞSC.14.d.222 / 45a-2",
+                "grocerist_id": "document__10"
             },
             {
                 "id": 11,
@@ -3994,6 +4011,11 @@
                 "grocerist_id": "document__26"
             },
             {
+                "id": 28,
+                "shelfmark": "İSTM.ŞSC.14.d.276 / 9b-1",
+                "grocerist_id": "document__28"
+            },
+            {
                 "id": 29,
                 "shelfmark": "İSTM.ŞSC.14.d.289 / 6b-2",
                 "grocerist_id": "document__29"
@@ -4014,9 +4036,19 @@
                 "grocerist_id": "document__38"
             },
             {
+                "id": 45,
+                "shelfmark": "İSTM.ŞSC.14.d.433 / 74b-2",
+                "grocerist_id": "document__45"
+            },
+            {
                 "id": 47,
                 "shelfmark": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
                 "grocerist_id": "document__47"
+            },
+            {
+                "id": 59,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 8b-1(b)",
+                "grocerist_id": "document__59"
             },
             {
                 "id": 60,
@@ -4104,6 +4136,11 @@
                 "grocerist_id": "document__97"
             },
             {
+                "id": 102,
+                "shelfmark": "İSTM.ŞSC.15.d. 230 / 69a-1",
+                "grocerist_id": "document__102"
+            },
+            {
                 "id": 104,
                 "shelfmark": "İSTM.ŞSC.15.d. 243 / 51a-1",
                 "grocerist_id": "document__104"
@@ -4112,6 +4149,11 @@
                 "id": 106,
                 "shelfmark": "İSTM.ŞSC.15.d. 272 / 27b-1",
                 "grocerist_id": "document__106"
+            },
+            {
+                "id": 109,
+                "shelfmark": "İSTM.ŞSC.06.d. 566/92b-1",
+                "grocerist_id": "document__109"
             },
             {
                 "id": 111,
@@ -7285,6 +7327,14 @@
                 "value": "Uskumru balığu turşusu"
             },
             {
+                "id": 52,
+                "value": "Turşu balığı"
+            },
+            {
+                "id": 56,
+                "value": "Balık salamurası"
+            },
+            {
                 "id": 102,
                 "value": "Tuzlu balık"
             }
@@ -7299,6 +7349,21 @@
                 "id": 5,
                 "shelfmark": "İSTM.ŞSC.14.d.196 / 21b-1",
                 "grocerist_id": "document__5"
+            },
+            {
+                "id": 13,
+                "shelfmark": "İSTM.ŞSC.14.d.237 / 27a-2, 28",
+                "grocerist_id": "document__13"
+            },
+            {
+                "id": 15,
+                "shelfmark": "İSTM.ŞSC.14.d.237 / 62b-2",
+                "grocerist_id": "document__15"
+            },
+            {
+                "id": 25,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 37a-4",
+                "grocerist_id": "document__25"
             },
             {
                 "id": 41,
