@@ -33,7 +33,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 1,
+                    "database_table_1492": 10
+                },
+                "value": "Galata Dahili"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "17"
     },
     "2": {
         "id": 2,
@@ -69,7 +81,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 2,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "3": {
         "id": 3,
@@ -100,7 +124,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 3,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "4": {
         "id": 4,
@@ -141,7 +177,19 @@
                 "value": "Kasımpaşa"
             }
         ],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 4,
+                    "database_table_1492": 5
+                },
+                "value": "Galata Harici"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "5": {
         "id": 5,
@@ -177,7 +225,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 5,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "6": {
         "id": 6,
@@ -218,7 +278,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 6,
+                    "database_table_1492": 5
+                },
+                "value": "Galata Harici"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "7": {
         "id": 7,
@@ -267,7 +339,33 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 7,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 119,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 120,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "8": {
         "id": 8,
@@ -303,7 +401,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 8,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "9": {
         "id": 9,
@@ -339,7 +449,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 9,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "10": {
         "id": 10,
@@ -380,7 +502,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 10,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "11": {
         "id": 11,
@@ -421,7 +555,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 11,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "12": {
         "id": 12,
@@ -462,7 +608,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 12,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "13": {
         "id": 13,
@@ -503,7 +661,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 13,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "14": {
         "id": 14,
@@ -544,7 +714,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 14,
+                    "database_table_1492": 5
+                },
+                "value": "Galata Harici"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "15": {
         "id": 15,
@@ -580,7 +762,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 15,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "16": {
         "id": 16,
@@ -622,7 +816,19 @@
         ],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 16,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "17": {
         "id": 17,
@@ -658,7 +864,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 17,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "19": {
         "id": 19,
@@ -699,7 +917,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 19,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "20": {
         "id": 20,
@@ -735,7 +965,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 20,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "21": {
         "id": 21,
@@ -776,7 +1018,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 21,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "22": {
         "id": 22,
@@ -812,7 +1066,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 22,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "23": {
         "id": 23,
@@ -853,7 +1119,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 23,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "24": {
         "id": 24,
@@ -901,7 +1179,40 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 24,
+                    "database_table_1492": 5
+                },
+                "value": "Galata Harici"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 59,
+                    "database_table_1492": 5
+                },
+                "value": "Galata Harici"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 60,
+                    "database_table_1492": 5
+                },
+                "value": "Galata Harici"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 115,
+                    "database_table_1492": 5
+                },
+                "value": "Galata Harici"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "25": {
         "id": 25,
@@ -937,7 +1248,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 25,
+                    "database_table_1492": 5
+                },
+                "value": "Galata Harici"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "26": {
         "id": 26,
@@ -985,7 +1308,40 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 26,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 61,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 62,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 116,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "27": {
         "id": 27,
@@ -1026,7 +1382,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 27,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "28": {
         "id": 28,
@@ -1057,7 +1425,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 28,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "29": {
         "id": 29,
@@ -1098,7 +1478,19 @@
                 "value": "Karaköy"
             }
         ],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 29,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "30": {
         "id": 30,
@@ -1134,7 +1526,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 30,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "31": {
         "id": 31,
@@ -1175,7 +1579,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 31,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "32": {
         "id": 32,
@@ -1211,7 +1627,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 32,
+                    "database_table_1492": 5
+                },
+                "value": "Galata Harici"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "33": {
         "id": 33,
@@ -1252,7 +1680,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 33,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "34": {
         "id": 34,
@@ -1288,7 +1728,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 34,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "35": {
         "id": 35,
@@ -1329,7 +1781,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 35,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "36": {
         "id": 36,
@@ -1365,7 +1829,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 36,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "37": {
         "id": 37,
@@ -1401,7 +1877,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 37,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "38": {
         "id": 38,
@@ -1437,7 +1925,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 38,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "39": {
         "id": 39,
@@ -1468,7 +1968,11 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "41": {
         "id": 41,
@@ -1509,7 +2013,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 41,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "42": {
         "id": 42,
@@ -1545,7 +2061,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 42,
+                    "database_table_1492": 5
+                },
+                "value": "Galata Harici"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "43": {
         "id": 43,
@@ -1586,7 +2114,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 43,
+                    "database_table_1492": 5
+                },
+                "value": "Galata Harici"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "44": {
         "id": 44,
@@ -1627,7 +2167,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 44,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "45": {
         "id": 45,
@@ -1663,7 +2215,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 45,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "47": {
         "id": 47,
@@ -1704,7 +2268,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 47,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "48": {
         "id": 48,
@@ -1735,7 +2311,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 48,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "49": {
         "id": 49,
@@ -1775,7 +2363,26 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 49,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 117,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "50": {
         "id": 50,
@@ -1811,7 +2418,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 50,
+                    "database_table_1492": 5
+                },
+                "value": "Galata Harici"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "51": {
         "id": 51,
@@ -1852,7 +2471,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 51,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "52": {
         "id": 52,
@@ -1893,7 +2524,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 52,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "64": {
         "id": 64,
@@ -1933,7 +2576,26 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 64,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 91,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "65": {
         "id": 65,
@@ -1969,7 +2631,11 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "66": {
         "id": 66,
@@ -2010,7 +2676,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 66,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "67": {
         "id": 67,
@@ -2051,7 +2729,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 67,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "68": {
         "id": 68,
@@ -2092,7 +2782,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 68,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "69": {
         "id": 69,
@@ -2128,7 +2830,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 69,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "70": {
         "id": 70,
@@ -2174,7 +2888,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 70,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "71": {
         "id": 71,
@@ -2205,7 +2931,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 71,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "72": {
         "id": 72,
@@ -2241,7 +2979,11 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "73": {
         "id": 73,
@@ -2277,7 +3019,11 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "74": {
         "id": 74,
@@ -2317,7 +3063,26 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 74,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 122,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "75": {
         "id": 75,
@@ -2366,7 +3131,33 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 75,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 123,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 124,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "76": {
         "id": 76,
@@ -2407,7 +3198,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 76,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "77": {
         "id": 77,
@@ -2448,7 +3251,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 77,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "78": {
         "id": 78,
@@ -2484,7 +3299,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 78,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "79": {
         "id": 79,
@@ -2537,7 +3364,40 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 79,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 125,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 126,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 127,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "80": {
         "id": 80,
@@ -2578,7 +3438,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 80,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "81": {
         "id": 81,
@@ -2614,7 +3486,11 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "82": {
         "id": 82,
@@ -2663,7 +3539,33 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 128,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 129,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 130,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "83": {
         "id": 83,
@@ -2704,7 +3606,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 132,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "84": {
         "id": 84,
@@ -2740,7 +3654,11 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "85": {
         "id": 85,
@@ -2781,7 +3699,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 85,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "86": {
         "id": 86,
@@ -2817,7 +3747,11 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "87": {
         "id": 87,
@@ -2848,7 +3782,11 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "88": {
         "id": 88,
@@ -2884,7 +3822,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 92,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "92": {
         "id": 92,
@@ -2920,7 +3870,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 109,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "19"
     },
     "93": {
         "id": 93,
@@ -2956,7 +3918,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 110,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "19"
     },
     "94": {
         "id": 94,
@@ -2992,7 +3966,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 111,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "95": {
         "id": 95,
@@ -3028,7 +4014,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 112,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "96": {
         "id": 96,
@@ -3072,7 +4070,33 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 65,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 89,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 90,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "97": {
         "id": 97,
@@ -3121,7 +4145,33 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 93,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 133,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 134,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "98": {
         "id": 98,
@@ -3166,7 +4216,26 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 94,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 135,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "99": {
         "id": 99,
@@ -3206,7 +4275,26 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 95,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 136,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "100": {
         "id": 100,
@@ -3242,7 +4330,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 96,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "101": {
         "id": 101,
@@ -3287,7 +4387,26 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 97,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 137,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "102": {
         "id": 102,
@@ -3328,7 +4447,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 100,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "103": {
         "id": 103,
@@ -3368,7 +4499,26 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 101,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 138,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "104": {
         "id": 104,
@@ -3409,7 +4559,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 102,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "105": {
         "id": 105,
@@ -3450,7 +4612,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 104,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "106": {
         "id": 106,
@@ -3490,7 +4664,26 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 105,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 139,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "107": {
         "id": 107,
@@ -3526,7 +4719,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 106,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "108": {
         "id": 108,
@@ -3567,7 +4772,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 107,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "109": {
         "id": 109,
@@ -3608,7 +4825,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 72,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "110": {
         "id": 110,
@@ -3649,7 +4878,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 73,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "111": {
         "id": 111,
@@ -3690,7 +4931,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 81,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "112": {
         "id": 112,
@@ -3731,7 +4984,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 82,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "113": {
         "id": 113,
@@ -3772,7 +5037,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 83,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "114": {
         "id": 114,
@@ -3813,7 +5090,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 84,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "115": {
         "id": 115,
@@ -3854,7 +5143,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 86,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "116": {
         "id": 116,
@@ -3890,7 +5191,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 87,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "118": {
         "id": 118,
@@ -3926,7 +5239,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 18,
+                    "database_table_1492": 10
+                },
+                "value": "Galata Dahili"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "119": {
         "id": 119,
@@ -3962,7 +5287,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 98,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "18"
     },
     "120": {
         "id": 120,
@@ -3998,7 +5335,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 113,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "121": {
         "id": 121,
@@ -4038,7 +5387,26 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 140,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 142,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "122": {
         "id": 122,
@@ -4074,7 +5442,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 141,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "123": {
         "id": 123,
@@ -4105,7 +5485,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 143,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "19"
     },
     "124": {
         "id": 124,
@@ -4141,7 +5533,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 144,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "19"
     },
     "125": {
         "id": 125,
@@ -4172,7 +5576,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 145,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "126": {
         "id": 126,
@@ -4208,7 +5624,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 146,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "127": {
         "id": 127,
@@ -4244,7 +5672,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 147,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "128": {
         "id": 128,
@@ -4280,7 +5720,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 148,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "129": {
         "id": 129,
@@ -4316,7 +5768,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 149,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "130": {
         "id": 130,
@@ -4352,7 +5816,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 150,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "131": {
         "id": 131,
@@ -4388,7 +5864,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 151,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "132": {
         "id": 132,
@@ -4424,7 +5912,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 152,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "133": {
         "id": 133,
@@ -4460,7 +5960,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 153,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "134": {
         "id": 134,
@@ -4496,7 +6008,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 154,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "135": {
         "id": 135,
@@ -4532,7 +6056,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 155,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "136": {
         "id": 136,
@@ -4563,7 +6099,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 160,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "137": {
         "id": 137,
@@ -4594,7 +6142,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 159,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "138": {
         "id": 138,
@@ -4630,7 +6190,19 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [
+            {
+                "ids": {
+                    "database_table_1488": 157,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     },
     "141": {
         "id": 141,
@@ -4645,6 +6217,10 @@
         "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": []
+        "address": [],
+        "district crosscheck": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN"
     }
 }
