@@ -17,6 +17,10 @@
                 "value": "İSTM.ŞSC.14.d.173 / 9b-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "17",
         "district": [
             {
                 "id": 4,
@@ -30,22 +34,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 1,
-                    "database_table_1492": 10
-                },
-                "value": "Galata Dahili"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "17"
+        "address": []
     },
     "2": {
         "id": 2,
@@ -70,6 +61,10 @@
                 "value": "İSTM.ŞSC.14.d.177 / 34b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -78,22 +73,14 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "nahiye": [
             {
-                "ids": {
-                    "database_table_1488": 2,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 1,
+                "value": "İstinye"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "quarter": [],
+        "address": []
     },
     "3": {
         "id": 3,
@@ -113,6 +100,10 @@
                 "value": "İSTM.ŞSC.14.d. 189 / 5a-3, 6"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -121,22 +112,19 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "nahiye": [
             {
-                "ids": {
-                    "database_table_1488": 3,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 1,
+                "value": "İstinye"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "quarter": [
+            {
+                "id": 18,
+                "value": "Kale-i Boğazkesen"
+            }
+        ],
+        "address": []
     },
     "4": {
         "id": 4,
@@ -161,15 +149,23 @@
                 "value": "İSTM.ŞSC.14.d.196 / 19b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
                 "value": "Galata"
             }
         ],
-        "neighbourhood": [],
+        "neighbourhood": [
+            {
+                "id": 31,
+                "value": "Camii Kebir"
+            }
+        ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [
             {
@@ -177,19 +173,7 @@
                 "value": "Kasımpaşa"
             }
         ],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 4,
-                    "database_table_1492": 5
-                },
-                "value": "Galata Harici"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "5": {
         "id": 5,
@@ -214,6 +198,10 @@
                 "value": "İSTM.ŞSC.14.d.196 / 21b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -222,22 +210,19 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 5,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 4,
+                "value": "Azapkapısı harici"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": [
+            {
+                "id": 14,
+                "value": "Mehmed Paşa Camii Şerifi kurbü"
+            }
+        ]
     },
     "6": {
         "id": 6,
@@ -262,6 +247,10 @@
                 "value": "İSTM.ŞSC.14.d.212/ 29a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -275,22 +264,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 6,
-                    "database_table_1492": 5
-                },
-                "value": "Galata Harici"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "7": {
         "id": 7,
@@ -323,49 +299,39 @@
                 "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (c)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
                 "value": "Galata"
+            },
+            {
+                "id": 16,
+                "value": "Üsküdar"
             }
         ],
         "neighbourhood": [
             {
                 "id": 15,
                 "value": "Sultan Bayezıd "
+            },
+            {
+                "id": 79,
+                "value": "Tenbel"
             }
         ],
-        "karye": [],
-        "occupation": [],
+        "karye": [
+            {
+                "id": 6,
+                "value": "Eski hamam"
+            }
+        ],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 7,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 119,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 120,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "8": {
         "id": 8,
@@ -390,6 +356,10 @@
                 "value": "İSTM.ŞSC.14.d.212/ 74b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -398,22 +368,14 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 8,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 1,
+                "value": "Tophane"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "9": {
         "id": 9,
@@ -433,6 +395,10 @@
                 "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -446,22 +412,14 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 9,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 8,
+                "value": "Kurşunlu Mahzen Kapısı dahili"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "10": {
         "id": 10,
@@ -486,6 +444,10 @@
                 "value": "İSTM.ŞSC.14.d.222 / 45a-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -499,22 +461,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 10,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "11": {
         "id": 11,
@@ -539,6 +488,10 @@
                 "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -552,22 +505,14 @@
             }
         ],
         "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "nahiye": [
             {
-                "ids": {
-                    "database_table_1488": 11,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 1,
+                "value": "İstinye"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "quarter": [],
+        "address": []
     },
     "12": {
         "id": 12,
@@ -592,35 +537,26 @@
                 "value": "İSTM.ŞSC.14.d.237 / 16a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
                 "value": "Galata"
             }
         ],
-        "neighbourhood": [
-            {
-                "id": 15,
-                "value": "Sultan Bayezıd "
-            }
-        ],
+        "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 12,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 5,
+                "value": "Karaköy Kapısı harici"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "13": {
         "id": 13,
@@ -645,35 +581,26 @@
                 "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
                 "value": "Galata"
             }
         ],
-        "neighbourhood": [
-            {
-                "id": 7,
-                "value": "Hüseyin Ağa"
-            }
-        ],
+        "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 13,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 1,
+                "value": "Tophane"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "14": {
         "id": 14,
@@ -698,6 +625,10 @@
                 "value": "İSTM.ŞSC.14.d.237 / 39b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -711,22 +642,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 14,
-                    "database_table_1492": 5
-                },
-                "value": "Galata Harici"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "15": {
         "id": 15,
@@ -751,6 +669,10 @@
                 "value": "İSTM.ŞSC.14.d.237 / 62b-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -759,22 +681,14 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 15,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 14,
+                "value": "Rumeli Hisarı"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "16": {
         "id": 16,
@@ -794,6 +708,16 @@
                 "value": "İSTM.ŞSC.14.d.241 / 3a-1"
             }
         ],
+        "occupation": [
+            {
+                "id": 11464,
+                "value": "Grocer",
+                "color": "green"
+            }
+        ],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -807,28 +731,14 @@
             }
         ],
         "karye": [],
-        "occupation": [
-            {
-                "id": 11464,
-                "value": "Grocer",
-                "color": "green"
-            }
-        ],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 16,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 2,
+                "value": "Kasımpaşa"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "17": {
         "id": 17,
@@ -848,6 +758,10 @@
                 "value": "İSTM.ŞSC.14.d. 241/ 18b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -861,22 +775,14 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 17,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 1,
+                "value": "Tophane"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "19": {
         "id": 19,
@@ -901,6 +807,10 @@
                 "value": "İSTM.ŞSC.14.d. 249/ 79a-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -914,22 +824,14 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 19,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 3,
+                "value": "Fındıklı"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "20": {
         "id": 20,
@@ -954,6 +856,10 @@
                 "value": "İSTM.ŞSC.14.d.254 / 3b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -962,22 +868,19 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 20,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 2,
+                "value": "Kasımpaşa"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": [
+            {
+                "id": 17,
+                "value": "Tersane-i Amire"
+            }
+        ]
     },
     "21": {
         "id": 21,
@@ -1002,6 +905,10 @@
                 "value": "İSTM.ŞSC.14.d.254 / 59a-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -1015,22 +922,9 @@
                 "value": "Karye-i Cedid"
             }
         ],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 21,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "22": {
         "id": 22,
@@ -1055,30 +949,26 @@
                 "value": "İSTM.ŞSC.14.d.254 / 64a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
                 "value": "Galata"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 22,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 19,
+                "value": "Karaköy"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "23": {
         "id": 23,
@@ -1103,6 +993,10 @@
                 "value": "İSTM.ŞSC.14.d.254 / 76b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -1116,22 +1010,14 @@
             }
         ],
         "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "nahiye": [
             {
-                "ids": {
-                    "database_table_1488": 23,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 2,
+                "value": "Beşiktaş"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "quarter": [],
+        "address": []
     },
     "24": {
         "id": 24,
@@ -1168,51 +1054,35 @@
                 "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
                 "value": "Galata"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 24,
-                    "database_table_1492": 5
-                },
-                "value": "Galata Harici"
+                "id": 43,
+                "value": "Dörtyolağzı"
             },
             {
-                "ids": {
-                    "database_table_1488": 59,
-                    "database_table_1492": 5
-                },
-                "value": "Galata Harici"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 60,
-                    "database_table_1492": 5
-                },
-                "value": "Galata Harici"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 115,
-                    "database_table_1492": 5
-                },
-                "value": "Galata Harici"
+                "id": 72,
+                "value": "Aslanağzı"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": [
+            {
+                "id": 4,
+                "value": "Galata Mevlevihanesi kurbü"
+            }
+        ]
     },
     "25": {
         "id": 25,
@@ -1237,6 +1107,10 @@
                 "value": "İSTM.ŞSC.14.d.275 / 37a-4"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -1245,22 +1119,14 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "address": [
             {
-                "ids": {
-                    "database_table_1488": 25,
-                    "database_table_1492": 5
-                },
-                "value": "Galata Harici"
+                "id": 15,
+                "value": "Ketehorya nam mahal"
             }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        ]
     },
     "26": {
         "id": 26,
@@ -1297,6 +1163,10 @@
                 "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -1305,43 +1175,19 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 26,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 61,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 62,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 116,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 5,
+                "value": "Karaköy Kapısı harici"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": [
+            {
+                "id": 6,
+                "value": "Camii şerif tahtında"
+            }
+        ]
     },
     "27": {
         "id": 27,
@@ -1366,6 +1212,10 @@
                 "value": "İSTM.ŞSC.14.d.275 / 76b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -1379,22 +1229,14 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 27,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 2,
+                "value": "Kasımpaşa"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "28": {
         "id": 28,
@@ -1414,6 +1256,10 @@
                 "value": "İSTM.ŞSC.14.d.276 / 9b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -1421,23 +1267,20 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 28,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 25,
+                "value": "Bey Bağçesi"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "nahiye": [
+            {
+                "id": 1,
+                "value": "İstinye"
+            }
+        ],
+        "quarter": [],
+        "address": []
     },
     "29": {
         "id": 29,
@@ -1462,6 +1305,10 @@
                 "value": "İSTM.ŞSC.14.d.289 / 6b-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -1470,7 +1317,6 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [
             {
@@ -1478,19 +1324,7 @@
                 "value": "Karaköy"
             }
         ],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 29,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "30": {
         "id": 30,
@@ -1510,6 +1344,10 @@
                 "value": "İSTM.ŞSC.14.d.290 / 73b-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 4,
@@ -1523,22 +1361,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 30,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
+        "address": []
     },
     "31": {
         "id": 31,
@@ -1563,6 +1388,10 @@
                 "value": "İSTM.ŞSC.14.d.304 / 22b-3"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -1576,22 +1405,14 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "address": [
             {
-                "ids": {
-                    "database_table_1488": 31,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 16,
+                "value": "Sandıkçılarbaşı"
             }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        ]
     },
     "32": {
         "id": 32,
@@ -1616,6 +1437,10 @@
                 "value": "İSTM.ŞSC.14.d. 315/ 30b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -1624,22 +1449,9 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 32,
-                    "database_table_1492": 5
-                },
-                "value": "Galata Harici"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "33": {
         "id": 33,
@@ -1664,6 +1476,10 @@
                 "value": "İSTM.ŞSC.14.d. 332/ 48a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -1677,22 +1493,14 @@
                 "value": "Arnavud"
             }
         ],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "nahiye": [
             {
-                "ids": {
-                    "database_table_1488": 33,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 2,
+                "value": "Beşiktaş"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "quarter": [],
+        "address": []
     },
     "34": {
         "id": 34,
@@ -1712,35 +1520,26 @@
                 "value": "İSTM.ŞSC.14.d. 342/ 60a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 4,
                 "value": "Galata"
             }
         ],
-        "neighbourhood": [
-            {
-                "id": 18,
-                "value": "Elhac Hüsrev"
-            }
-        ],
+        "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 34,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 5,
+                "value": "Karaköy Kapısı harici"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
+        "address": []
     },
     "35": {
         "id": 35,
@@ -1765,6 +1564,10 @@
                 "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -1778,27 +1581,24 @@
             }
         ],
         "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "nahiye": [
             {
-                "ids": {
-                    "database_table_1488": 35,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 1,
+                "value": "İstinye"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "quarter": [
+            {
+                "id": 15,
+                "value": "Yeniköy"
+            }
+        ],
+        "address": []
     },
     "36": {
         "id": 36,
         "order": "36.00000000000000000000",
-        "name": "Bakkal Ahmed Beşe b. Hasan",
+        "name": "Bakkal Ahmed Beşe b. Hüseyin",
         "grocerist_id": "person__36",
         "religion": [
             {
@@ -1813,6 +1613,10 @@
                 "value": "İSTM.ŞSC.14.d.355 / 47b-3"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 4,
@@ -1826,22 +1630,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 36,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
+        "address": []
     },
     "37": {
         "id": 37,
@@ -1866,6 +1657,10 @@
                 "value": "İSTM.ŞSC.14.d. 361/ 58b-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 4,
@@ -1873,23 +1668,20 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 37,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 2,
+                "value": "Arnavud"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
+        "nahiye": [
+            {
+                "id": 2,
+                "value": "Beşiktaş"
+            }
+        ],
+        "quarter": [],
+        "address": []
     },
     "38": {
         "id": 38,
@@ -1914,6 +1706,10 @@
                 "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -1922,22 +1718,14 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "nahiye": [
             {
-                "ids": {
-                    "database_table_1488": 38,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 1,
+                "value": "İstinye"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "quarter": [],
+        "address": []
     },
     "39": {
         "id": 39,
@@ -1962,30 +1750,36 @@
                 "value": "İSTM.ŞSC.14.d. 394/ 59b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
                 "value": "Galata"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 39,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 33,
+                "value": " Aya Nikoli"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "karye": [],
+        "nahiye": [
+            {
+                "id": 1,
+                "value": "İstinye"
+            }
+        ],
+        "quarter": [
+            {
+                "id": 15,
+                "value": "Yeniköy"
+            }
+        ],
+        "address": []
     },
     "41": {
         "id": 41,
@@ -2010,6 +1804,10 @@
                 "value": "İSTM.ŞSC.14.d.400 / 55a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -2023,22 +1821,14 @@
                 "value": "Arnavud"
             }
         ],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "nahiye": [
             {
-                "ids": {
-                    "database_table_1488": 41,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 2,
+                "value": "Beşiktaş"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "quarter": [],
+        "address": []
     },
     "42": {
         "id": 42,
@@ -2063,6 +1853,10 @@
                 "value": "İSTM.ŞSC.14.d. 405/ 37b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 4,
@@ -2071,22 +1865,14 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 42,
-                    "database_table_1492": 5
-                },
-                "value": "Galata Harici"
+                "id": 16,
+                "value": "Balık Pazarı"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
+        "address": []
     },
     "43": {
         "id": 43,
@@ -2111,6 +1897,10 @@
                 "value": "İSTM.ŞSC.14.d. 406/ 27b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -2124,22 +1914,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 43,
-                    "database_table_1492": 5
-                },
-                "value": "Galata Harici"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "44": {
         "id": 44,
@@ -2164,6 +1941,10 @@
                 "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 4,
@@ -2177,22 +1958,24 @@
             }
         ],
         "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "nahiye": [
             {
-                "ids": {
-                    "database_table_1488": 44,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 1,
+                "value": "İstinye"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
+        "quarter": [
+            {
+                "id": 15,
+                "value": "Yeniköy"
+            }
+        ],
+        "address": [
+            {
+                "id": 5,
+                "value": "Mahkeme karşısı"
+            }
+        ]
     },
     "45": {
         "id": 45,
@@ -2212,6 +1995,10 @@
                 "value": "İSTM.ŞSC.14.d.433 / 74b-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -2225,22 +2012,14 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 45,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 3,
+                "value": "Fındıklı"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "47": {
         "id": 47,
@@ -2262,9 +2041,13 @@
         "documents": [
             {
                 "id": 47,
-                "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63"
+                "value": "İSTM.ŞSC.14.d.441 / 55b-3"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 4,
@@ -2278,22 +2061,14 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 47,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 2,
+                "value": "Kasımpaşa"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "address": []
     },
     "48": {
         "id": 48,
@@ -2313,6 +2088,10 @@
                 "value": "İSTM.ŞSC.14.d. 472 / 33b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -2321,22 +2100,14 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 48,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 2,
+                "value": "Kasımpaşa"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "49": {
         "id": 49,
@@ -2365,37 +2136,39 @@
                 "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 4,
                 "value": "Galata"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 49,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 76,
+                "value": "Kulaksız"
             },
             {
-                "ids": {
-                    "database_table_1488": 117,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 77,
+                "value": "Seyyid Ali"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [
+            {
+                "id": 2,
+                "value": "Kasımpaşa"
+            },
+            {
+                "id": 10,
+                "value": "Tatavla"
+            }
+        ],
+        "address": []
     },
     "50": {
         "id": 50,
@@ -2420,30 +2193,26 @@
                 "value": "İSTM.ŞSC.14.d. 504/ 86a-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
                 "value": "Galata"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 50,
-                    "database_table_1492": 5
-                },
-                "value": "Galata Harici"
+                "id": 7,
+                "value": "Hüseyin Ağa"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "18"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "51": {
         "id": 51,
@@ -2468,6 +2237,10 @@
                 "value": "İSTM.ŞSC.14.d. 507/20b-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 4,
@@ -2481,22 +2254,14 @@
                 "value": "Arnavud"
             }
         ],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "nahiye": [
             {
-                "ids": {
-                    "database_table_1488": 51,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 2,
+                "value": "Beşiktaş"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
+        "quarter": [],
+        "address": []
     },
     "52": {
         "id": 52,
@@ -2521,6 +2286,10 @@
                 "value": "İSTM.ŞSC.14.d.528 / 83b-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -2534,22 +2303,19 @@
             }
         ],
         "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "nahiye": [
             {
-                "ids": {
-                    "database_table_1488": 52,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
+                "id": 1,
+                "value": "İstinye"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "quarter": [
+            {
+                "id": 17,
+                "value": "Sarıyer"
+            }
+        ],
+        "address": []
     },
     "64": {
         "id": 64,
@@ -2578,56 +2344,10 @@
                 "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
             }
         ],
-        "district": [
-            {
-                "id": 16,
-                "value": "Üsküdar"
-            }
-        ],
-        "neighbourhood": [],
-        "karye": [],
         "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 64,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 91,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
         "checked": true,
         "same_as": [],
-        "century": "18"
-    },
-    "65": {
-        "id": 65,
-        "order": "66.00000000000000000000",
-        "name": "Bakkāl Rizo v. Aleksan",
-        "grocerist_id": "person__65",
-        "religion": [
-            {
-                "id": 6682,
-                "value": "Non muslim",
-                "color": "gray"
-            },
-            {
-                "id": 6705,
-                "value": "Orthodox",
-                "color": "dark-blue"
-            }
-        ],
-        "documents": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -2636,24 +2356,18 @@
         ],
         "neighbourhood": [
             {
+                "id": 65,
+                "value": "Reis"
+            },
+            {
                 "id": 48,
                 "value": "Kefere"
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [],
-        "checked": false,
-        "same_as": [
-            {
-                "id": 65,
-                "value": "Bakkāl Rizo v. Aleksan"
-            }
-        ],
-        "century": "NaN"
+        "address": []
     },
     "66": {
         "id": 66,
@@ -2678,6 +2392,10 @@
                 "value": "İSTM.ŞSC.06.d. 339 / 94b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -2691,22 +2409,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 66,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "67": {
         "id": 67,
@@ -2731,6 +2436,10 @@
                 "value": "İSTM.ŞSC.06.d.359 / 26a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -2744,22 +2453,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 67,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "68": {
         "id": 68,
@@ -2784,6 +2480,10 @@
                 "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (a)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -2797,22 +2497,9 @@
                 "value": "Kuzguncuk"
             }
         ],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 68,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "69": {
         "id": 69,
@@ -2832,6 +2519,10 @@
                 "value": "İSTM.ŞSC.06.d. 381 / 32b-3"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -2845,22 +2536,9 @@
                 "value": "Kadı"
             }
         ],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 69,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "70": {
         "id": 70,
@@ -2885,6 +2563,10 @@
                 "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -2903,22 +2585,9 @@
                 "value": "Eski hamam"
             }
         ],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 70,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "71": {
         "id": 71,
@@ -2938,6 +2607,10 @@
                 "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -2946,112 +2619,14 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 71,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 13,
+                "value": "Valide-i Cedid Camii"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
-    },
-    "72": {
-        "id": 72,
-        "order": "73.00000000000000000000",
-        "name": "Bakkal Kosta v. Piyo",
-        "grocerist_id": "person__72",
-        "religion": [
-            {
-                "id": 6682,
-                "value": "Non muslim",
-                "color": "gray"
-            },
-            {
-                "id": 6705,
-                "value": "Orthodox",
-                "color": "dark-blue"
-            }
-        ],
-        "documents": [],
-        "district": [
-            {
-                "id": 16,
-                "value": "Üsküdar"
-            }
-        ],
-        "neighbourhood": [
-            {
-                "id": 48,
-                "value": "Kefere"
-            }
-        ],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [],
-        "checked": false,
-        "same_as": [
-            {
-                "id": 72,
-                "value": "Bakkal Kosta v. Piyo"
-            }
-        ],
-        "century": "NaN"
-    },
-    "73": {
-        "id": 73,
-        "order": "74.00000000000000000000",
-        "name": "Bakkal Panayot",
-        "grocerist_id": "person__73",
-        "religion": [
-            {
-                "id": 6682,
-                "value": "Non muslim",
-                "color": "gray"
-            },
-            {
-                "id": 6705,
-                "value": "Orthodox",
-                "color": "dark-blue"
-            }
-        ],
-        "documents": [],
-        "district": [
-            {
-                "id": 16,
-                "value": "Üsküdar"
-            }
-        ],
-        "neighbourhood": [
-            {
-                "id": 52,
-                "value": "Yenimahalle"
-            }
-        ],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [],
-        "checked": false,
-        "same_as": [
-            {
-                "id": 110,
-                "value": "Bakkal Panayot v. İsteradik"
-            }
-        ],
-        "century": "NaN"
+        "address": []
     },
     "74": {
         "id": 74,
@@ -3075,6 +2650,10 @@
                 "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (b)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -3085,32 +2664,16 @@
             {
                 "id": 53,
                 "value": "Kapı ağası"
+            },
+            {
+                "id": 80,
+                "value": "Kefçe"
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 74,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 122,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "75": {
         "id": 75,
@@ -3143,6 +2706,10 @@
                 "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (c)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -3156,36 +2723,9 @@
                 "value": "Yeni Cami"
             }
         ],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 75,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 123,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 124,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "76": {
         "id": 76,
@@ -3210,6 +2750,10 @@
                 "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -3223,22 +2767,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 76,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "77": {
         "id": 77,
@@ -3263,6 +2794,10 @@
                 "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -3276,22 +2811,14 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "address": [
             {
-                "ids": {
-                    "database_table_1488": 77,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 18,
+                "value": "Süleyman Ağa mahallesi sukkanı"
             }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        ]
     },
     "78": {
         "id": 78,
@@ -3305,41 +2832,17 @@
                 "color": "green"
             }
         ],
-        "documents": [
-            {
-                "id": 78,
-                "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
-            }
-        ],
-        "district": [
-            {
-                "id": 16,
-                "value": "Üsküdar"
-            }
-        ],
-        "neighbourhood": [],
-        "karye": [
-            {
-                "id": 7,
-                "value": "Hünkar"
-            }
-        ],
+        "documents": [],
         "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 78,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
         "checked": true,
         "same_as": [],
-        "century": "18"
+        "century": "NaN",
+        "district": [],
+        "neighbourhood": [],
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "79": {
         "id": 79,
@@ -3376,56 +2879,36 @@
                 "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (d)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
                 "value": "Üsküdar"
             }
         ],
-        "neighbourhood": [],
+        "neighbourhood": [
+            {
+                "id": 42,
+                "value": "Yeni mahalle"
+            }
+        ],
         "karye": [
             {
-                "id": 4,
-                "value": "Kuzguncuk"
+                "id": 16,
+                "value": "Kısıklı"
             }
         ],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "address": [
             {
-                "ids": {
-                    "database_table_1488": 79,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 125,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 126,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 127,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 8,
+                "value": "Yük İskelesi kurbü"
             }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
+        ]
     },
     "80": {
         "id": 80,
@@ -3450,6 +2933,10 @@
                 "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -3463,67 +2950,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 80,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
-    },
-    "81": {
-        "id": 81,
-        "order": "82.00000000000000000000",
-        "name": "Bakkal Manok",
-        "grocerist_id": "person__81",
-        "religion": [
-            {
-                "id": 6682,
-                "value": "Non muslim",
-                "color": "gray"
-            },
-            {
-                "id": 6705,
-                "value": "Orthodox",
-                "color": "dark-blue"
-            }
-        ],
-        "documents": [],
-        "district": [
-            {
-                "id": 16,
-                "value": "Üsküdar"
-            }
-        ],
-        "neighbourhood": [
-            {
-                "id": 52,
-                "value": "Yenimahalle"
-            }
-        ],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [],
-        "checked": false,
-        "same_as": [
-            {
-                "id": 111,
-                "value": "Bakkal Manok v. Agik"
-            }
-        ],
-        "century": "NaN"
+        "address": []
     },
     "82": {
         "id": 82,
@@ -3544,6 +2973,10 @@
         ],
         "documents": [
             {
+                "id": 82,
+                "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (a)"
+            },
+            {
                 "id": 128,
                 "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (b)"
             },
@@ -3556,6 +2989,10 @@
                 "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (d)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -3564,41 +3001,28 @@
         ],
         "neighbourhood": [
             {
-                "id": 42,
-                "value": "Yeni mahalle"
+                "id": 15,
+                "value": "Sultan Bayezıd "
             }
         ],
-        "karye": [],
-        "occupation": [],
+        "karye": [
+            {
+                "id": 17,
+                "value": "Kulak"
+            },
+            {
+                "id": 18,
+                "value": "Karaca Ahmed Sultan"
+            }
+        ],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "address": [
             {
-                "ids": {
-                    "database_table_1488": 128,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 129,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 130,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 9,
+                "value": "Arasta kurbü"
             }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
+        ]
     },
     "83": {
         "id": 83,
@@ -3619,10 +3043,18 @@
         ],
         "documents": [
             {
+                "id": 83,
+                "value": "İSTM.ŞSC.06.d.495 / 68a-2 (a)"
+            },
+            {
                 "id": 132,
                 "value": "İSTM.ŞSC.06.d.495 / 68a-2 (b)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -3631,72 +3063,18 @@
         ],
         "neighbourhood": [
             {
+                "id": 84,
+                "value": "Selami"
+            },
+            {
                 "id": 85,
                 "value": "Dorbalı (Torbalı)"
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 132,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
-    },
-    "84": {
-        "id": 84,
-        "order": "85.00000000000000000000",
-        "name": "Bakkal Panko",
-        "grocerist_id": "person__84",
-        "religion": [
-            {
-                "id": 6682,
-                "value": "Non muslim",
-                "color": "gray"
-            },
-            {
-                "id": 6705,
-                "value": "Orthodox",
-                "color": "dark-blue"
-            }
-        ],
-        "documents": [],
-        "district": [
-            {
-                "id": 16,
-                "value": "Üsküdar"
-            }
-        ],
-        "neighbourhood": [],
-        "karye": [
-            {
-                "id": 7,
-                "value": "Hünkar"
-            }
-        ],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [],
-        "checked": false,
-        "same_as": [
-            {
-                "id": 114,
-                "value": "Bakkal Panço v. Dimitri"
-            }
-        ],
-        "century": "NaN"
+        "address": []
     },
     "85": {
         "id": 85,
@@ -3721,6 +3099,10 @@
                 "value": "İSTM.ŞSC.06.d.505 / 83a-3"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -3734,107 +3116,14 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "address": [
             {
-                "ids": {
-                    "database_table_1488": 85,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 10,
+                "value": "Kasım Ağa Çeşmesi kurbü"
             }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
-    },
-    "86": {
-        "id": 86,
-        "order": "87.00000000000000000000",
-        "name": "Dimitri v. Polizo",
-        "grocerist_id": "person__86",
-        "religion": [
-            {
-                "id": 6682,
-                "value": "Non muslim",
-                "color": "gray"
-            },
-            {
-                "id": 6705,
-                "value": "Orthodox",
-                "color": "dark-blue"
-            }
-        ],
-        "documents": [],
-        "district": [
-            {
-                "id": 16,
-                "value": "Üsküdar"
-            }
-        ],
-        "neighbourhood": [
-            {
-                "id": 7,
-                "value": "Hüseyin Ağa"
-            }
-        ],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [],
-        "checked": false,
-        "same_as": [
-            {
-                "id": 115,
-                "value": "Dimitri v. Polizo"
-            }
-        ],
-        "century": "NaN"
-    },
-    "87": {
-        "id": 87,
-        "order": "88.00000000000000000000",
-        "name": "Bakkal Elhac Hasan",
-        "grocerist_id": "person__87",
-        "religion": [
-            {
-                "id": 6681,
-                "value": "Muslim",
-                "color": "green"
-            }
-        ],
-        "documents": [],
-        "district": [
-            {
-                "id": 16,
-                "value": "Üsküdar"
-            }
-        ],
-        "neighbourhood": [
-            {
-                "id": 60,
-                "value": "Bulgurlu"
-            }
-        ],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [],
-        "checked": false,
-        "same_as": [
-            {
-                "id": 116,
-                "value": "Bakkal Elhac Hasan Ağa b. Ali"
-            }
-        ],
-        "century": "NaN"
+        ]
     },
     "88": {
         "id": 88,
@@ -3854,6 +3143,10 @@
                 "value": "İSTM.ŞSC.15.d. 134/ 95a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
@@ -3867,22 +3160,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 92,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "92": {
         "id": 92,
@@ -3907,30 +3187,26 @@
                 "value": "İSTM.ŞSC.06.d. 566/92b-1"
             }
         ],
+        "occupation": [],
+        "checked": false,
+        "same_as": [],
+        "century": "19",
         "district": [
             {
                 "id": 16,
                 "value": "Üsküdar"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 109,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 64,
+                "value": "Debbağlar"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "19"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "93": {
         "id": 93,
@@ -3955,6 +3231,10 @@
                 "value": "İSTM.ŞSC.06.d. 574/51b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "19",
         "district": [
             {
                 "id": 16,
@@ -3962,23 +3242,15 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 110,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 8,
+                "value": "Nerdübanlı"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "19"
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "94": {
         "id": 94,
@@ -4003,30 +3275,26 @@
                 "value": "İSTM.ŞSC.06.d. 577/43b-1"
             }
         ],
+        "occupation": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
                 "value": "Üsküdar"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 111,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 52,
+                "value": "Yenimahalle"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "95": {
         "id": 95,
@@ -4051,30 +3319,26 @@
                 "value": "İSTM.ŞSC.06.d. 578/53b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
                 "value": "Üsküdar"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 112,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 95,
+                "value": "Yeniçeşme"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "96": {
         "id": 96,
@@ -4107,6 +3371,10 @@
                 "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -4114,37 +3382,25 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 65,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 89,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 90,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 9,
+                "value": "Bit Pazarı"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "nahiye": [],
+        "quarter": [
+            {
+                "id": 19,
+                "value": "At Pazarı dahili"
+            }
+        ],
+        "address": [
+            {
+                "id": 7,
+                "value": "Kolluk karşısında"
+            }
+        ]
     },
     "97": {
         "id": 97,
@@ -4177,49 +3433,34 @@
                 "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (c)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
                 "value": "Eyüp"
             }
         ],
-        "neighbourhood": [],
-        "karye": [
+        "neighbourhood": [
             {
-                "id": 10,
-                "value": "Küçük"
+                "id": 87,
+                "value": "Balat Kapısı"
+            },
+            {
+                "id": 88,
+                "value": "Kiremit"
+            },
+            {
+                "id": 91,
+                "value": "Lonca"
             }
         ],
-        "occupation": [],
+        "karye": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 93,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 133,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 134,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "98": {
         "id": 98,
@@ -4248,6 +3489,10 @@
                 "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (b)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
@@ -4261,29 +3506,14 @@
                 "value": "Ayastefanos"
             }
         ],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 94,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 135,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
+                "id": 9,
+                "value": "Yedikule harici"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "99": {
         "id": 99,
@@ -4312,37 +3542,30 @@
                 "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
                 "value": "Eyüp"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 95,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
+                "id": 67,
+                "value": "Yavud"
             },
             {
-                "ids": {
-                    "database_table_1488": 136,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
+                "id": 18,
+                "value": "Elhac Hüsrev"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "100": {
         "id": 100,
@@ -4367,6 +3590,10 @@
                 "value": "İSTM.ŞSC.15.d. 174 / 41a-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
@@ -4374,23 +3601,15 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 96,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
+                "id": 24,
+                "value": "Çekmece-i Kebir"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "101": {
         "id": 101,
@@ -4419,6 +3638,10 @@
                 "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (b)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
@@ -4432,29 +3655,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 97,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 137,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "102": {
         "id": 102,
@@ -4479,6 +3682,10 @@
                 "value": "İSTM.ŞSC.15.d. 205 / 51a-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
@@ -4492,22 +3699,9 @@
                 "value": "Küçük"
             }
         ],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 100,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "103": {
         "id": 103,
@@ -4536,6 +3730,10 @@
                 "value": "İSTM.ŞSC.15.d. 216 / 42a-1 (b)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
@@ -4544,29 +3742,14 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 101,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 138,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
+                "id": 12,
+                "value": "Edirne Kapısı harici"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "104": {
         "id": 104,
@@ -4591,6 +3774,10 @@
                 "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
@@ -4604,22 +3791,9 @@
                 "value": "Terkos"
             }
         ],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 102,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "105": {
         "id": 105,
@@ -4644,6 +3818,10 @@
                 "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
@@ -4657,22 +3835,9 @@
                 "value": "Alibey"
             }
         ],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 104,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "106": {
         "id": 106,
@@ -4696,6 +3861,10 @@
                 "value": "İSTM.ŞSC.15.d. 254 / 8a-2 (b)"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
@@ -4709,29 +3878,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 105,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 139,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "107": {
         "id": 107,
@@ -4751,6 +3900,10 @@
                 "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
@@ -4764,22 +3917,9 @@
                 "value": "Makrahorya"
             }
         ],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 106,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "108": {
         "id": 108,
@@ -4804,6 +3944,10 @@
                 "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
@@ -4817,22 +3961,9 @@
                 "value": "Küçük"
             }
         ],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 107,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "109": {
         "id": 109,
@@ -4857,6 +3988,10 @@
                 "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -4870,22 +4005,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 72,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "110": {
         "id": 110,
@@ -4910,6 +4032,10 @@
                 "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -4923,22 +4049,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 73,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "111": {
         "id": 111,
@@ -4963,59 +4076,10 @@
                 "value": "İSTM.ŞSC.06.d. 494 / 81a-1"
             }
         ],
-        "district": [
-            {
-                "id": 16,
-                "value": "Üsküdar"
-            }
-        ],
-        "neighbourhood": [
-            {
-                "id": 52,
-                "value": "Yenimahalle"
-            }
-        ],
-        "karye": [],
         "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 81,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
         "checked": true,
         "same_as": [],
-        "century": "18"
-    },
-    "112": {
-        "id": 112,
-        "order": "110.00000000000000000000",
-        "name": "Bakkal Panayot v. Polinçeron",
-        "grocerist_id": "person__112",
-        "religion": [
-            {
-                "id": 6682,
-                "value": "Non muslim",
-                "color": "gray"
-            },
-            {
-                "id": 6705,
-                "value": "Orthodox",
-                "color": "dark-blue"
-            }
-        ],
-        "documents": [
-            {
-                "id": 82,
-                "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (a)"
-            }
-        ],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -5029,80 +4093,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 82,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": false,
-        "same_as": [
-            {
-                "id": 112,
-                "value": "Bakkal Panayot v. Polinçeron"
-            }
-        ],
-        "century": "NaN"
-    },
-    "113": {
-        "id": 113,
-        "order": "111.00000000000000000000",
-        "name": "Bakkal Konstantin v. Horosu",
-        "grocerist_id": "person__113",
-        "religion": [
-            {
-                "id": 6682,
-                "value": "Non muslim",
-                "color": "gray"
-            },
-            {
-                "id": 6705,
-                "value": "Orthodox",
-                "color": "dark-blue"
-            }
-        ],
-        "documents": [
-            {
-                "id": 83,
-                "value": "İSTM.ŞSC.06.d.495 / 68a-2 (a)"
-            }
-        ],
-        "district": [
-            {
-                "id": 16,
-                "value": "Üsküdar"
-            }
-        ],
-        "neighbourhood": [
-            {
-                "id": 52,
-                "value": "Yenimahalle"
-            }
-        ],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 83,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "address": []
     },
     "114": {
         "id": 114,
@@ -5127,6 +4120,10 @@
                 "value": "İSTM.ŞSC.06.d. 501 / 22b-3"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 16,
@@ -5140,22 +4137,9 @@
                 "value": "Hünkar"
             }
         ],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 84,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "115": {
         "id": 115,
@@ -5180,6 +4164,10 @@
                 "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -5188,27 +4176,19 @@
         ],
         "neighbourhood": [
             {
-                "id": 7,
+                "id": 59,
                 "value": "Hüseyin Ağa"
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "address": [
             {
-                "ids": {
-                    "database_table_1488": 86,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 11,
+                "value": "Ağa Hamamı mahali"
             }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
+        ]
     },
     "116": {
         "id": 116,
@@ -5228,6 +4208,10 @@
                 "value": "İSTM.ŞSC.06.d. 548 / 43a-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -5241,22 +4225,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 87,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "NaN"
+        "address": []
     },
     "118": {
         "id": 118,
@@ -5276,6 +4247,10 @@
                 "value": "İSTM.ŞSC.14.d.249 / 9b-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 4,
@@ -5289,22 +4264,9 @@
             }
         ],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 18,
-                    "database_table_1492": 10
-                },
-                "value": "Galata Dahili"
-            }
-        ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "119": {
         "id": 119,
@@ -5329,6 +4291,10 @@
                 "value": "İSTM.ŞSC.15.d. 196 / 15a-2"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "18",
         "district": [
             {
                 "id": 19,
@@ -5337,22 +4303,14 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "quarter": [
             {
-                "ids": {
-                    "database_table_1488": 98,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
+                "id": 9,
+                "value": "Yedikule harici"
             }
         ],
-        "checked": true,
-        "same_as": [],
-        "century": "18"
+        "address": []
     },
     "120": {
         "id": 120,
@@ -5377,6 +4335,10 @@
                 "value": "İSTM.ŞSC.06.d. 584/30a-1"
             }
         ],
+        "occupation": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -5384,23 +4346,15 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 113,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 5,
+                "value": "Kadı"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "121": {
         "id": 121,
@@ -5429,6 +4383,10 @@
                 "value": "İSTM.ŞSC.06.d. 591/19b"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -5437,29 +4395,14 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "address": [
             {
-                "ids": {
-                    "database_table_1488": 140,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 142,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 12,
+                "value": "Hamam-ı Kebir kurbü"
             }
-        ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        ]
     },
     "122": {
         "id": 122,
@@ -5484,30 +4427,26 @@
                 "value": "İSTM.ŞSC.06.d. 589/56b"
             }
         ],
+        "occupation": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
                 "value": "Üsküdar"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 141,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 97,
+                "value": "Kazasker"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "123": {
         "id": 123,
@@ -5527,6 +4466,10 @@
                 "value": "İSTM.ŞSC.06.d. 559/13a"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "19",
         "district": [
             {
                 "id": 16,
@@ -5535,22 +4478,9 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 143,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": false,
-        "same_as": [],
-        "century": "19"
+        "address": []
     },
     "124": {
         "id": 124,
@@ -5575,30 +4505,26 @@
                 "value": "İSTM.ŞSC.06.d. 566/51a"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "19",
         "district": [
             {
                 "id": 16,
                 "value": "Üsküdar"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 144,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 52,
+                "value": "Yenimahalle"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "19"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "125": {
         "id": 125,
@@ -5618,30 +4544,26 @@
                 "value": "İSTM.ŞSC.06.d. 567/71a"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
                 "value": "Üsküdar"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 145,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 98,
+                "value": "Rum Mehmed Paşa"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "126": {
         "id": 126,
@@ -5666,6 +4588,10 @@
                 "value": "İSTM.ŞSC.06.d. 578/28a"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -5673,23 +4599,15 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 146,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 19,
+                "value": "Anadolu Hisarı"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "127": {
         "id": 127,
@@ -5714,6 +4632,10 @@
                 "value": "İSTM.ŞSC.06.d. 578/44b"
             }
         ],
+        "occupation": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -5721,23 +4643,15 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 147,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 19,
+                "value": "Anadolu Hisarı"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "128": {
         "id": 128,
@@ -5762,30 +4676,26 @@
                 "value": "İSTM.ŞSC.06.d. 578/54a"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
                 "value": "Üsküdar"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 148,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 52,
+                "value": "Yenimahalle"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "129": {
         "id": 129,
@@ -5810,6 +4720,10 @@
                 "value": "İSTM.ŞSC.06.d. 578/68a"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -5817,23 +4731,15 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 149,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 20,
+                "value": "Orta"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "130": {
         "id": 130,
@@ -5858,6 +4764,10 @@
                 "value": "İSTM.ŞSC.06.d. 578/78b"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -5865,23 +4775,15 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 150,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 21,
+                "value": "Bakkal-ı Kebir"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "131": {
         "id": 131,
@@ -5906,6 +4808,10 @@
                 "value": "İSTM.ŞSC.06.d. 581/59b"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -5913,23 +4819,15 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 151,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 21,
+                "value": "Bakkal-ı Kebir"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "132": {
         "id": 132,
@@ -5954,6 +4852,10 @@
                 "value": "İSTM.ŞSC.06.d. 584/35b"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -5962,22 +4864,14 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "address": [
             {
-                "ids": {
-                    "database_table_1488": 152,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 13,
+                "value": "Doğancılar nam mahal"
             }
-        ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        ]
     },
     "133": {
         "id": 133,
@@ -6002,6 +4896,10 @@
                 "value": "İSTM.ŞSC.06.d. 587/62b"
             }
         ],
+        "occupation": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -6009,23 +4907,15 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 153,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 22,
+                "value": "Çengel"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "134": {
         "id": 134,
@@ -6050,6 +4940,10 @@
                 "value": "İSTM.ŞSC.06.d. 591/8a"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -6058,22 +4952,9 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 154,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "address": []
     },
     "135": {
         "id": 135,
@@ -6098,6 +4979,10 @@
                 "value": "İSTM.ŞSC.06.d. 591/32b"
             }
         ],
+        "occupation": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -6105,23 +4990,15 @@
             }
         ],
         "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "karye": [
             {
-                "ids": {
-                    "database_table_1488": 155,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 21,
+                "value": "Bakkal-ı Kebir"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "136": {
         "id": 136,
@@ -6141,30 +5018,26 @@
                 "value": "İSTM.ŞSC.06.d. 598/41a"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
                 "value": "Üsküdar"
             }
         ],
-        "neighbourhood": [],
-        "karye": [],
-        "occupation": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": [],
-        "district crosscheck": [
+        "neighbourhood": [
             {
-                "ids": {
-                    "database_table_1488": 160,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
+                "id": 100,
+                "value": "Gülfem Hatun"
             }
         ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     },
     "137": {
         "id": 137,
@@ -6184,6 +5057,10 @@
                 "value": "İSTM.ŞSC.06.d. 597/54b-1"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -6192,22 +5069,9 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 159,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "address": []
     },
     "138": {
         "id": 138,
@@ -6232,6 +5096,10 @@
                 "value": "İSTM.ŞSC.06.d. 596/6b"
             }
         ],
+        "occupation": [],
+        "checked": true,
+        "same_as": [],
+        "century": "NaN",
         "district": [
             {
                 "id": 16,
@@ -6240,22 +5108,9 @@
         ],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [
-            {
-                "ids": {
-                    "database_table_1488": 157,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
-        "checked": false,
-        "same_as": [],
-        "century": "NaN"
+        "address": []
     },
     "141": {
         "id": 141,
@@ -6264,16 +5119,48 @@
         "grocerist_id": "person__141",
         "religion": [],
         "documents": [],
+        "occupation": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN",
         "district": [],
         "neighbourhood": [],
         "karye": [],
-        "occupation": [],
         "nahiye": [],
         "quarter": [],
-        "address": [],
-        "district crosscheck": [],
-        "checked": false,
+        "address": []
+    },
+    "142": {
+        "id": 142,
+        "order": "138.00000000000000000000",
+        "name": "Edirneli Anderya",
+        "grocerist_id": "person__142",
+        "religion": [],
+        "documents": [
+            {
+                "id": 78,
+                "value": "İSTM.ŞSC.06.d. 465 / 77a-2"
+            }
+        ],
+        "occupation": [],
+        "checked": true,
         "same_as": [],
-        "century": "NaN"
+        "century": "18",
+        "district": [
+            {
+                "id": 16,
+                "value": "Üsküdar"
+            }
+        ],
+        "neighbourhood": [],
+        "karye": [
+            {
+                "id": 7,
+                "value": "Hünkar"
+            }
+        ],
+        "nahiye": [],
+        "quarter": [],
+        "address": []
     }
 }

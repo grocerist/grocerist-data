@@ -5,7 +5,6 @@
         "name": "Zekeriya",
         "notes": "",
         "documents": [],
-        "persons": [],
         "grocerist_id": "karye__1",
         "lat": "41.1980600000",
         "long": "29.0302800000",
@@ -35,20 +34,6 @@
             {
                 "id": 51,
                 "value": "İSTM.ŞSC.14.d. 507/20b-2"
-            }
-        ],
-        "persons": [
-            {
-                "id": 33,
-                "value": "Yorgaki v. Manol"
-            },
-            {
-                "id": 41,
-                "value": "Bakkal Astati v. Yani"
-            },
-            {
-                "id": 51,
-                "value": "Tanaş"
             }
         ],
         "grocerist_id": "karye__2",
@@ -86,12 +71,6 @@
                 "value": "İSTM.ŞSC.14.d.254 / 59a-2"
             }
         ],
-        "persons": [
-            {
-                "id": 21,
-                "value": "Bakkal Lefter v. Dimitri"
-            }
-        ],
         "grocerist_id": "karye__3",
         "lat": null,
         "long": null,
@@ -117,16 +96,6 @@
             {
                 "id": 68,
                 "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (a)"
-            }
-        ],
-        "persons": [
-            {
-                "id": 68,
-                "value": "Bakkal Dimitri v. Yorgi"
-            },
-            {
-                "id": 79,
-                "value": "Bakkal Manol v. Dimitri"
             }
         ],
         "grocerist_id": "karye__4",
@@ -160,12 +129,6 @@
                 "value": "İSTM.ŞSC.06.d. 584/30a-1"
             }
         ],
-        "persons": [
-            {
-                "id": 69,
-                "value": "Bakkal Ali b. Abdullah"
-            }
-        ],
         "grocerist_id": "karye__5",
         "lat": "40.9910400000",
         "long": "29.0292100000",
@@ -195,12 +158,6 @@
             {
                 "id": 70,
                 "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
-            }
-        ],
-        "persons": [
-            {
-                "id": 70,
-                "value": "Tanaş v. Dimitri"
             }
         ],
         "grocerist_id": "karye__6",
@@ -242,20 +199,6 @@
                 "value": "İSTM.ŞSC.06.d. 501 / 22b-3"
             }
         ],
-        "persons": [
-            {
-                "id": 78,
-                "value": "Esseyid Mustafa b. Ahmed"
-            },
-            {
-                "id": 84,
-                "value": "Bakkal Panko"
-            },
-            {
-                "id": 114,
-                "value": "Bakkal Panço v. Dimitri"
-            }
-        ],
         "grocerist_id": "karye__7",
         "lat": null,
         "long": null,
@@ -283,7 +226,6 @@
                 "value": "İSTM.ŞSC.06.d. 574/51b-1"
             }
         ],
-        "persons": [],
         "grocerist_id": "karye__8",
         "lat": "40.9824600000",
         "long": "29.0693400000",
@@ -311,7 +253,6 @@
                 "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
             }
         ],
-        "persons": [],
         "grocerist_id": "karye__9",
         "lat": null,
         "long": null,
@@ -343,20 +284,6 @@
                 "value": "İSTM.ŞSC.15.d. 275 / 99b-1"
             }
         ],
-        "persons": [
-            {
-                "id": 97,
-                "value": "İşrapo v. Yani"
-            },
-            {
-                "id": 102,
-                "value": "Bakkal Yani v. Aleksi"
-            },
-            {
-                "id": 108,
-                "value": "Bakkal Esper v. Todori"
-            }
-        ],
         "grocerist_id": "karye__10",
         "lat": "41.0772500000",
         "long": "28.9030500000",
@@ -382,12 +309,6 @@
             {
                 "id": 94,
                 "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (a)"
-            }
-        ],
-        "persons": [
-            {
-                "id": 98,
-                "value": "Bakkal Pavlo v. Dimitri"
             }
         ],
         "grocerist_id": "karye__11",
@@ -417,12 +338,6 @@
                 "value": "İSTM.ŞSC.15.d. 230 / 69a-1"
             }
         ],
-        "persons": [
-            {
-                "id": 104,
-                "value": "Tanaş v. Niko"
-            }
-        ],
         "grocerist_id": "karye__12",
         "lat": "41.3057700000",
         "long": "28.6785200000",
@@ -450,12 +365,6 @@
                 "value": "İSTM.ŞSC.15.d. 243 / 51a-1"
             }
         ],
-        "persons": [
-            {
-                "id": 105,
-                "value": "Yorgi"
-            }
-        ],
         "grocerist_id": "karye__13",
         "lat": "41.0792600000",
         "long": "28.9494500000",
@@ -481,12 +390,6 @@
             {
                 "id": 106,
                 "value": "İSTM.ŞSC.15.d. 272 / 27b-1"
-            }
-        ],
-        "persons": [
-            {
-                "id": 107,
-                "value": "Bakkal Esseyid Süleyman Beşe b. Esseyid Mehmed"
             }
         ],
         "grocerist_id": "karye__14",
@@ -524,12 +427,6 @@
                 "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (c)"
             }
         ],
-        "persons": [
-            {
-                "id": 75,
-                "value": "Bakkal Konstantin v. Hristodoli"
-            }
-        ],
         "grocerist_id": "karye__15",
         "lat": null,
         "long": null,
@@ -557,7 +454,6 @@
                 "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (c)"
             }
         ],
-        "persons": [],
         "grocerist_id": "karye__16",
         "lat": "41.0236700000",
         "long": "29.0514500000",
@@ -585,7 +481,6 @@
                 "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (b)"
             }
         ],
-        "persons": [],
         "grocerist_id": "karye__17",
         "lat": null,
         "long": null,
@@ -613,7 +508,6 @@
                 "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (d)"
             }
         ],
-        "persons": [],
         "grocerist_id": "karye__18",
         "lat": "41.0136100000",
         "long": "29.0200000000",
@@ -645,7 +539,6 @@
                 "value": "İSTM.ŞSC.06.d. 578/44b"
             }
         ],
-        "persons": [],
         "grocerist_id": "karye__19",
         "lat": "41.0926900000",
         "long": "29.0682200000",
@@ -673,7 +566,6 @@
                 "value": "İSTM.ŞSC.06.d. 578/68a"
             }
         ],
-        "persons": [],
         "grocerist_id": "karye__20",
         "lat": null,
         "long": null,
@@ -709,7 +601,6 @@
                 "value": "İSTM.ŞSC.06.d. 591/32b"
             }
         ],
-        "persons": [],
         "grocerist_id": "karye__21",
         "lat": null,
         "long": null,
@@ -737,7 +628,6 @@
                 "value": "İSTM.ŞSC.06.d. 587/62b"
             }
         ],
-        "persons": [],
         "grocerist_id": "karye__22",
         "lat": "41.0542400000",
         "long": "29.0682500000",
@@ -760,7 +650,6 @@
         "name": "",
         "notes": "",
         "documents": [],
-        "persons": [],
         "grocerist_id": "karye__23",
         "lat": null,
         "long": null,
@@ -780,7 +669,6 @@
                 "value": "İSTM.ŞSC.15.d. 174 / 41a-2"
             }
         ],
-        "persons": [],
         "grocerist_id": "karye__24",
         "lat": null,
         "long": null,
@@ -808,7 +696,6 @@
                 "value": "İSTM.ŞSC.14.d.276 / 9b-1"
             }
         ],
-        "persons": [],
         "grocerist_id": "karye__25",
         "lat": null,
         "long": null,
