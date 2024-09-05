@@ -36,20 +36,36 @@ def add_lat_long(source_data, docs_data):
 
 
 def add_locations(source_data, documents_data):
-    # add district, neighbourhood, karye, nahiye, quarter and address to each person entry based on the documents they are associated with
     locations = ["district", "neighbourhood", "karye", "nahiye", "quarter", "address"]
-    for item in source_data.values():
+    district_data = load_json(os.path.join(JSON_FOLDER, "districts.json"))
+    neighbourhood_data = load_json(os.path.join(JSON_FOLDER, "neighbourhoods.json"))
+    karye_data = load_json(os.path.join(JSON_FOLDER, "karye.json"))
+    nahiye_data = load_json(os.path.join(JSON_FOLDER, "nahiye.json"))
+    quarter_data = load_json(os.path.join(JSON_FOLDER, "quarter.json"))
+    address_data = load_json(os.path.join(JSON_FOLDER, "address.json"))
+    # add district, neighbourhood, karye, nahiye, quarter and address to each person entry based on the documents they are associated with
+    districts = load_json(os.path.join(JSON_FOLDER, "districts.json"))
+    for person in source_data.values():
         for location_type in locations:
-            item[location_type] = []
+            person[location_type] = []
             locations_set = set()
-        for doc in item["documents"]:
-            doc_data = documents_data[str(doc["id"])]
-            for location_type in locations:
+            for doc in person["documents"]:
+                doc_data = documents_data[str(doc["id"])]
                 if doc_data[location_type]:
                     for location in doc_data[location_type]:
                         if location["value"] not in locations_set:
-                            item[location_type].append(location)
+                            person[location_type].append(location)
                             locations_set.add(location["value"])
+            # open the json file for the location type and add the poersons to the location
+            for location in person[location_type]:
+                location_data = locals()[f"{location_type}_data"]
+                location_data[str(location["id"])]["persons"].append(person)
+    save_json(district_data, os.path.join(JSON_FOLDER, "districts.json"))
+    save_json(neighbourhood_data, os.path.join(JSON_FOLDER, "neighbourhoods.json"))
+    save_json(karye_data, os.path.join(JSON_FOLDER, "karye.json"))
+    save_json(nahiye_data, os.path.join(JSON_FOLDER, "nahiye.json"))
+    save_json(quarter_data, os.path.join(JSON_FOLDER, "quarter.json"))
+    save_json(address_data, os.path.join(JSON_FOLDER, "address.json"))
 
 
 # Add categories to documents and vice versa
@@ -106,7 +122,9 @@ join_tables(documents_data, persons_data, "main_person")
 add_lat_long(goods_data, documents_data)
 add_lat_long(utensils_data, documents_data)
 
+
 add_locations(persons_data, documents_data)
+
 # Process documents and categories
 new_documents, new_categories = join_documents_and_categories(
     documents_data, categories_data
