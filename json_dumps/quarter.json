@@ -32,7 +32,141 @@
                 "value": "Galata"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 8,
+                "order": "8.00000000000000000000",
+                "name": "Dimo v. Lanbo",
+                "grocerist_id": "person__8",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 8,
+                        "value": "İSTM.ŞSC.14.d.212/ 74b-1"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 1,
+                        "value": "Tophane"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 13,
+                "order": "13.00000000000000000000",
+                "name": "Bakkāl Hristodaki v. Polhoron",
+                "grocerist_id": "person__13",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 13,
+                        "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 1,
+                        "value": "Tophane"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 17,
+                "order": "17.00000000000000000000",
+                "name": "Bakkal Elhac Ahmed b. Resul",
+                "grocerist_id": "person__17",
+                "religion": [
+                    {
+                        "id": 6681,
+                        "value": "Muslim",
+                        "color": "green"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 17,
+                        "value": "İSTM.ŞSC.14.d. 241/ 18b-1"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 20,
+                        "value": "Karabaş Mustafa Ağa"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 1,
+                        "value": "Tophane"
+                    }
+                ],
+                "address": []
+            }
+        ]
     },
     "2": {
         "id": 2,
@@ -94,7 +228,355 @@
                 "value": "Galata Harici"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 4,
+                "order": "4.00000000000000000000",
+                "name": "Yorgi v. Dimitri",
+                "grocerist_id": "person__4",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 4,
+                        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 5,
+                        "value": "Galata Harici"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 31,
+                        "value": "Camii Kebir"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "Bakkal Ali Beşe b. Mehmed",
+                "grocerist_id": "person__16",
+                "religion": [
+                    {
+                        "id": 6681,
+                        "value": "Muslim",
+                        "color": "green"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 16,
+                        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+                    }
+                ],
+                "occupation": [
+                    {
+                        "id": 11464,
+                        "value": "Grocer",
+                        "color": "green"
+                    }
+                ],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 12,
+                        "value": "Elhac Hasan"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 20,
+                "order": "20.00000000000000000000",
+                "name": "Bakkal Yanaki v. Yani",
+                "grocerist_id": "person__20",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 20,
+                        "value": "İSTM.ŞSC.14.d.254 / 3b-1"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa"
+                    }
+                ],
+                "address": [
+                    {
+                        "id": 17,
+                        "value": "Tersane-i Amire"
+                    }
+                ]
+            },
+            {
+                "id": 27,
+                "order": "27.00000000000000000000",
+                "name": "Bakkal Nikola v. Dimitri",
+                "grocerist_id": "person__27",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 27,
+                        "value": "İSTM.ŞSC.14.d.275 / 76b-1"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 37,
+                        "value": "Yeldeğirmeni"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 47,
+                "order": "48.99999999999999999999",
+                "name": "Yenişehirli Dimitri v. Nikola",
+                "grocerist_id": "person__47",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 47,
+                        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 13,
+                        "value": "Kadı Mehmed Efendi"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 48,
+                "order": "49.00000000000000000000",
+                "name": "Bakkal Elhac Osman b. Halil",
+                "grocerist_id": "person__48",
+                "religion": [
+                    {
+                        "id": 6681,
+                        "value": "Muslim",
+                        "color": "green"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 48,
+                        "value": "İSTM.ŞSC.14.d. 472 / 33b-1"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 49,
+                "order": "50.00000000000000000000",
+                "name": "Bakkal Trandafil v. Yori",
+                "grocerist_id": "person__49",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 49,
+                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
+                    },
+                    {
+                        "id": 117,
+                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 76,
+                        "value": "Kulaksız"
+                    },
+                    {
+                        "id": 77,
+                        "value": "Seyyid Ali"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Tatavla"
+                    }
+                ],
+                "address": []
+            }
+        ]
     },
     "3": {
         "id": 3,
@@ -125,7 +607,102 @@
                 "value": "Galata"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 19,
+                "order": "19.00000000000000000000",
+                "name": "Astavor v. Yako",
+                "grocerist_id": "person__19",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 19,
+                        "value": "İSTM.ŞSC.14.d. 249/ 79a-2"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 44,
+                        "value": "İbrahim Efendi"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 3,
+                        "value": "Fındıklı"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 45,
+                "order": "46.00000000000000000000",
+                "name": "Bakkal Mehmed Beşe b. Salih",
+                "grocerist_id": "person__45",
+                "religion": [
+                    {
+                        "id": 6681,
+                        "value": "Muslim",
+                        "color": "green"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 45,
+                        "value": "İSTM.ŞSC.14.d.433 / 74b-2"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 40,
+                        "value": "Molla Çelebi"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 3,
+                        "value": "Fındıklı"
+                    }
+                ],
+                "address": []
+            }
+        ]
     },
     "4": {
         "id": 4,
@@ -152,7 +729,58 @@
                 "value": "Galata"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 5,
+                "order": "5.00000000000000000000",
+                "name": "Yani v. Yorgi",
+                "grocerist_id": "person__5",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 5,
+                        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 4,
+                        "value": "Azapkapısı harici"
+                    }
+                ],
+                "address": [
+                    {
+                        "id": 14,
+                        "value": "Mehmed Paşa Camii Şerifi kurbü"
+                    }
+                ]
+            }
+        ]
     },
     "5": {
         "id": 5,
@@ -199,7 +827,153 @@
                 "value": "Galata"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 12,
+                "order": "12.00000000000000000000",
+                "name": "Bakkal Dimitri v. Hristo",
+                "grocerist_id": "person__12",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 12,
+                        "value": "İSTM.ŞSC.14.d.237 / 16a-1"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 5,
+                        "value": "Karaköy Kapısı harici"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 26,
+                "order": "26.00000000000000000000",
+                "name": "Bakkal Astavor",
+                "grocerist_id": "person__26",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 26,
+                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (a)"
+                    },
+                    {
+                        "id": 61,
+                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)"
+                    },
+                    {
+                        "id": 62,
+                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
+                    },
+                    {
+                        "id": 116,
+                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 5,
+                        "value": "Karaköy Kapısı harici"
+                    }
+                ],
+                "address": [
+                    {
+                        "id": 6,
+                        "value": "Camii şerif tahtında"
+                    }
+                ]
+            },
+            {
+                "id": 34,
+                "order": "34.00000000000000000000",
+                "name": "Bakkal Hasan Beşe b. Ali",
+                "grocerist_id": "person__34",
+                "religion": [
+                    {
+                        "id": 6681,
+                        "value": "Muslim",
+                        "color": "green"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 34,
+                        "value": "İSTM.ŞSC.14.d. 342/ 60a-1"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 5,
+                        "value": "Karaköy Kapısı harici"
+                    }
+                ],
+                "address": []
+            }
+        ]
     },
     "6": {
         "id": 6,
@@ -226,7 +1000,53 @@
                 "value": "Galata"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 29,
+                "order": "29.00000000000000000000",
+                "name": "Nikola veled-i Ulaş",
+                "grocerist_id": "person__29",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 29,
+                        "value": "İSTM.ŞSC.14.d.289 / 6b-2"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 6,
+                        "value": "Karaköy"
+                    }
+                ],
+                "address": []
+            }
+        ]
     },
     "7": {
         "id": 7,
@@ -267,7 +1087,53 @@
                 "value": "Galata"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 9,
+                "order": "9.00000000000000000000",
+                "name": "Mustafa Beşe b. Abdullah",
+                "grocerist_id": "person__9",
+                "religion": [
+                    {
+                        "id": 6681,
+                        "value": "Muslim",
+                        "color": "green"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 9,
+                        "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 22,
+                        "value": "Mustafa Paşa "
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 8,
+                        "value": "Kurşunlu Mahzen Kapısı dahili"
+                    }
+                ],
+                "address": []
+            }
+        ]
     },
     "9": {
         "id": 9,
@@ -298,7 +1164,106 @@
                 "value": "Eyüp"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 98,
+                "order": "96.00000000000000000000",
+                "name": "Bakkal Pavlo v. Dimitri",
+                "grocerist_id": "person__98",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 94,
+                        "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (a)"
+                    },
+                    {
+                        "id": 135,
+                        "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (b)"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 19,
+                        "value": "Eyüp"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [
+                    {
+                        "id": 11,
+                        "value": "Ayastefanos"
+                    }
+                ],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 9,
+                        "value": "Yedikule harici"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 119,
+                "order": "116.00000000000000000000",
+                "name": "Bakkal Radovuz veled-i Yovan",
+                "grocerist_id": "person__119",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 98,
+                        "value": "İSTM.ŞSC.15.d. 196 / 15a-2"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 19,
+                        "value": "Eyüp"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 9,
+                        "value": "Yedikule harici"
+                    }
+                ],
+                "address": []
+            }
+        ]
     },
     "10": {
         "id": 10,
@@ -325,7 +1290,70 @@
                 "value": "Galata"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 49,
+                "order": "50.00000000000000000000",
+                "name": "Bakkal Trandafil v. Yori",
+                "grocerist_id": "person__49",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 49,
+                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
+                    },
+                    {
+                        "id": 117,
+                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 76,
+                        "value": "Kulaksız"
+                    },
+                    {
+                        "id": 77,
+                        "value": "Seyyid Ali"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Tatavla"
+                    }
+                ],
+                "address": []
+            }
+        ]
     },
     "11": {
         "id": 11,
@@ -366,7 +1394,57 @@
                 "value": "Eyüp"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 103,
+                "order": "101.00000000000000000000",
+                "name": "Bakkal Dimo v. Yorgi",
+                "grocerist_id": "person__103",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 101,
+                        "value": "İSTM.ŞSC.15.d. 216 / 42a-1 (a)"
+                    },
+                    {
+                        "id": 138,
+                        "value": "İSTM.ŞSC.15.d. 216 / 42a-1 (b)"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 19,
+                        "value": "Eyüp"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 12,
+                        "value": "Edirne Kapısı harici"
+                    }
+                ],
+                "address": []
+            }
+        ]
     },
     "13": {
         "id": 13,
@@ -393,7 +1471,48 @@
                 "value": "Üsküdar"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 71,
+                "order": "72.00000000000000000000",
+                "name": "Bakkal suhte Ömer",
+                "grocerist_id": "person__71",
+                "religion": [
+                    {
+                        "id": 6681,
+                        "value": "Muslim",
+                        "color": "green"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 71,
+                        "value": "İSTM.ŞSC.06.d. 405 / 87b-2"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 16,
+                        "value": "Üsküdar"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 13,
+                        "value": "Valide-i Cedid Camii"
+                    }
+                ],
+                "address": []
+            }
+        ]
     },
     "14": {
         "id": 14,
@@ -420,7 +1539,53 @@
                 "value": "Galata"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 15,
+                "order": "15.00000000000000000000",
+                "name": "Hristo v. Yorgi",
+                "grocerist_id": "person__15",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 15,
+                        "value": "İSTM.ŞSC.14.d.237 / 62b-2"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 14,
+                        "value": "Rumeli Hisarı"
+                    }
+                ],
+                "address": []
+            }
+        ]
     },
     "15": {
         "id": 15,
@@ -463,6 +1628,175 @@
                 },
                 "value": "İstinye"
             }
+        ],
+        "persons": [
+            {
+                "id": 35,
+                "order": "35.00000000000000000000",
+                "name": "Bakkal Simal v. Nikola",
+                "grocerist_id": "person__35",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 35,
+                        "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 66,
+                        "value": "Kürkçü"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [
+                    {
+                        "id": 1,
+                        "value": "İstinye"
+                    }
+                ],
+                "quarter": [
+                    {
+                        "id": 15,
+                        "value": "Yeniköy"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 39,
+                "order": "39.00000000000000000000",
+                "name": "Bakkal Totoş",
+                "grocerist_id": "person__39",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 39,
+                        "value": "İSTM.ŞSC.14.d. 394/ 59b-1"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 33,
+                        "value": " Aya Nikoli"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [
+                    {
+                        "id": 1,
+                        "value": "İstinye"
+                    }
+                ],
+                "quarter": [
+                    {
+                        "id": 15,
+                        "value": "Yeniköy"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 44,
+                "order": "44.00000000000000000000",
+                "name": "Bakkal Tanaş veled-i  Hristo",
+                "grocerist_id": "person__44",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 44,
+                        "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 33,
+                        "value": " Aya Nikoli"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [
+                    {
+                        "id": 1,
+                        "value": "İstinye"
+                    }
+                ],
+                "quarter": [
+                    {
+                        "id": 15,
+                        "value": "Yeniköy"
+                    }
+                ],
+                "address": [
+                    {
+                        "id": 5,
+                        "value": "Mahkeme karşısı"
+                    }
+                ]
+            }
         ]
     },
     "16": {
@@ -490,7 +1824,53 @@
                 "value": "Galata Harici"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 42,
+                "order": "42.00000000000000000000",
+                "name": "Panayot v. Petro",
+                "grocerist_id": "person__42",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 42,
+                        "value": "İSTM.ŞSC.14.d. 405/ 37b-1"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 5,
+                        "value": "Galata Harici"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 16,
+                        "value": "Balık Pazarı"
+                    }
+                ],
+                "address": []
+            }
+        ]
     },
     "17": {
         "id": 17,
@@ -524,6 +1904,62 @@
                     "database_table_2979": 1
                 },
                 "value": "İstinye"
+            }
+        ],
+        "persons": [
+            {
+                "id": 52,
+                "order": "53.00000000000000000000",
+                "name": "Bakkal Yorgi v. Kirikor",
+                "grocerist_id": "person__52",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 52,
+                        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 42,
+                        "value": "Yeni mahalle"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [
+                    {
+                        "id": 1,
+                        "value": "İstinye"
+                    }
+                ],
+                "quarter": [
+                    {
+                        "id": 17,
+                        "value": "Sarıyer"
+                    }
+                ],
+                "address": []
             }
         ]
     },
@@ -560,6 +1996,52 @@
                 },
                 "value": "İstinye"
             }
+        ],
+        "persons": [
+            {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Bakkal Mustafa Beşe b. Osman",
+                "grocerist_id": "person__3",
+                "religion": [
+                    {
+                        "id": 6681,
+                        "value": "Muslim",
+                        "color": "green"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 3,
+                        "value": "İSTM.ŞSC.14.d. 189 / 5a-3, 6"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [
+                    {
+                        "id": 1,
+                        "value": "İstinye"
+                    }
+                ],
+                "quarter": [
+                    {
+                        "id": 18,
+                        "value": "Kale-i Boğazkesen"
+                    }
+                ],
+                "address": []
+            }
         ]
     },
     "19": {
@@ -587,6 +2069,70 @@
                 "value": "Üsküdar"
             }
         ],
-        "upper_admin2": []
+        "upper_admin2": [],
+        "persons": [
+            {
+                "id": 96,
+                "order": "94.00000000000000000000",
+                "name": "Bakkal Rizo v. Aleksan",
+                "grocerist_id": "person__96",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 65,
+                        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+                    },
+                    {
+                        "id": 89,
+                        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
+                    },
+                    {
+                        "id": 90,
+                        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 16,
+                        "value": "Üsküdar"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [
+                    {
+                        "id": 9,
+                        "value": "Bit Pazarı"
+                    }
+                ],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 19,
+                        "value": "At Pazarı dahili"
+                    }
+                ],
+                "address": [
+                    {
+                        "id": 7,
+                        "value": "Kolluk karşısında"
+                    }
+                ]
+            }
+        ]
     }
 }
