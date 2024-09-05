@@ -38,7 +38,7 @@ def add_lat_long(source_data, docs_data):
 def add_locations(source_data, documents_data):
     # add district, neighbourhood, karye, nahiye, quarter and address to each person entry based on the documents they are associated with
     locations = ["district", "neighbourhood", "karye", "nahiye", "quarter", "address"]
-    for key, item in source_data.items():
+    for item in source_data.values():
         for location_type in locations:
             item[location_type] = []
             locations_set = set()
@@ -50,7 +50,6 @@ def add_locations(source_data, documents_data):
                         if location["value"] not in locations_set:
                             item[location_type].append(location)
                             locations_set.add(location["value"])
-    # print(source_data)
 
 
 # Add categories to documents and vice versa
