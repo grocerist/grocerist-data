@@ -225,6 +225,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
+        "part__of": [],
         "documents": [
             {
                 "id": 1,
@@ -594,6 +595,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
+        "part__of": [],
         "documents": [
             {
                 "id": 1,
@@ -973,6 +975,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
+        "part__of": [],
         "documents": [
             {
                 "id": 1,
@@ -1335,6 +1338,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
+        "part__of": [],
         "documents": [
             {
                 "id": 2,
@@ -1667,6 +1671,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
+        "part__of": [],
         "documents": [
             {
                 "id": 1,
@@ -2020,6 +2025,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
+        "part__of": [],
         "documents": [
             {
                 "id": 1,
@@ -2308,6 +2314,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
+        "part__of": [],
         "documents": [
             {
                 "id": 1,
@@ -2635,6 +2642,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
+        "part__of": [],
         "documents": [
             {
                 "id": 1,
@@ -2897,6 +2905,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
+        "part__of": [],
         "documents": [
             {
                 "id": 1,
@@ -3278,6 +3287,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
+        "part__of": [],
         "documents": [
             {
                 "id": 1,
@@ -3642,6 +3652,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 43,
+                "value": "Dry goods"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -3989,6 +4005,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 43,
+                "value": "Dry goods"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -4362,6 +4384,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 43,
+                "value": "Dry goods"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -4625,6 +4653,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 43,
+                "value": "Dry goods"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -4947,6 +4981,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 45,
+                "value": "Dairy"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -5213,6 +5253,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 44,
+                "value": "Cooking oil"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -5503,6 +5549,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 44,
+                "value": "Cooking oil"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -5797,6 +5849,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 49,
+                "value": "Produce"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -6088,6 +6146,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 49,
+                "value": "Produce"
+            }
+        ],
         "documents": [
             {
                 "id": 18,
@@ -6172,6 +6236,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 47,
+                "value": "Condiments"
+            }
+        ],
         "documents": [
             {
                 "id": 9,
@@ -6260,6 +6330,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 47,
+                "value": "Condiments"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -6574,6 +6650,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 47,
+                "value": "Condiments"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -6849,6 +6931,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 47,
+                "value": "Condiments"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -7132,6 +7220,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 50,
+                "value": "Non-food"
+            }
+        ],
         "documents": [
             {
                 "id": 4,
@@ -7263,6 +7357,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 50,
+                "value": "Non-food"
+            }
+        ],
         "documents": [
             {
                 "id": 78,
@@ -7392,6 +7492,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 46,
+                "value": "Animal food"
+            }
+        ],
         "documents": [
             {
                 "id": 2,
@@ -7474,6 +7580,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 46,
+                "value": "Animal food"
+            }
+        ],
         "documents": [
             {
                 "id": 2,
@@ -7557,6 +7669,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 46,
+                "value": "Animal food"
+            }
+        ],
         "documents": [
             {
                 "id": 7,
@@ -7691,6 +7809,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 73,
+                "value": "Brine"
+            }
+        ],
         "documents": [
             {
                 "id": 2,
@@ -7775,6 +7899,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 73,
+                "value": "Brine"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -8006,6 +8136,10 @@
         "grocerist_id": "category__76",
         "part_of": [
             {
+                "id": 47,
+                "value": "Condiments"
+            },
+            {
                 "id": 61,
                 "value": "Sweetener"
             }
@@ -8053,6 +8187,12 @@
             "value": "subsub",
             "color": "dark-red"
         },
+        "part__of": [
+            {
+                "id": 61,
+                "value": "Sweetener"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -8244,6 +8384,10 @@
         "grocerist_id": "category__77",
         "part_of": [
             {
+                "id": 47,
+                "value": "Condiments"
+            },
+            {
                 "id": 61,
                 "value": "Sweetener"
             }
@@ -8271,6 +8415,12 @@
             "value": "subsub",
             "color": "dark-red"
         },
+        "part__of": [
+            {
+                "id": 61,
+                "value": "Sweetener"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -8472,6 +8622,10 @@
         "grocerist_id": "category__78",
         "part_of": [
             {
+                "id": 43,
+                "value": "Dry goods"
+            },
+            {
                 "id": 55,
                 "value": "Fruits"
             }
@@ -8539,6 +8693,12 @@
             "value": "subsub",
             "color": "dark-red"
         },
+        "part__of": [
+            {
+                "id": 55,
+                "value": "Fruits"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -8730,6 +8890,10 @@
         "grocerist_id": "category__79",
         "part_of": [
             {
+                "id": 43,
+                "value": "Dry goods"
+            },
+            {
                 "id": 55,
                 "value": "Fruits"
             }
@@ -8753,6 +8917,12 @@
             "value": "subsub",
             "color": "dark-red"
         },
+        "part__of": [
+            {
+                "id": 55,
+                "value": "Fruits"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -8916,6 +9086,12 @@
             "value": "sub",
             "color": "darker-blue"
         },
+        "part__of": [
+            {
+                "id": 50,
+                "value": "Non-food"
+            }
+        ],
         "documents": [
             {
                 "id": 1,
@@ -9102,6 +9278,7 @@
         "grocerist_id": "category__81",
         "part_of": [],
         "goods": [],
-        "category_type": null
+        "category_type": null,
+        "part__of": []
     }
 }
