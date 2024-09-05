@@ -43,6 +43,19 @@ def add_locations(source_data, documents_data):
     nahiye_data = load_json(os.path.join(JSON_FOLDER, "nahiye.json"))
     quarter_data = load_json(os.path.join(JSON_FOLDER, "quarter.json"))
     address_data = load_json(os.path.join(JSON_FOLDER, "address.json"))
+
+    # Initialize "persons" field for each location
+    for location_data in [
+        district_data,
+        neighbourhood_data,
+        karye_data,
+        nahiye_data,
+        quarter_data,
+        address_data,
+    ]:
+        for location in location_data.values():
+            location.setdefault("persons", [])
+
     # add district, neighbourhood, karye, nahiye, quarter and address to each person entry based on the documents they are associated with
     for person in source_data.values():
         for location_type in locations:
@@ -58,9 +71,7 @@ def add_locations(source_data, documents_data):
             # open the json file for the location type and add the poersons to the location
             for location in person[location_type]:
                 location_data = locals()[f"{location_type}_data"]
-                location_data[str(location["id"])].setdefault("persons", []).append(
-                    person
-                )
+                location_data[str(location["id"])]["persons"].append(person)
     save_json(district_data, os.path.join(JSON_FOLDER, "districts.json"))
     save_json(neighbourhood_data, os.path.join(JSON_FOLDER, "neighbourhoods.json"))
     save_json(karye_data, os.path.join(JSON_FOLDER, "karye.json"))
