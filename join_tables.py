@@ -44,6 +44,7 @@ def add_locations(source_data, documents_data):
     quarter_data = load_json(os.path.join(JSON_FOLDER, "quarter.json"))
     address_data = load_json(os.path.join(JSON_FOLDER, "address.json"))
     for location_type in locations:
+        location_data = locals()[f"{location_type}_data"]
         location_data[str(location["id"])]["persons"] = []
     # add district, neighbourhood, karye, nahiye, quarter and address to each person entry based on the documents they are associated with
     for person in source_data.values():
