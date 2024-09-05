@@ -24,12 +24,12 @@ jobs:
       - name: dump the data
         run: |
           python dump_data.py
-      - name: merge certain districts
-        run: |
-          python merge_districts.py
       - name: join the data
         run: |
           python join_tables.py
+      - name: merge certain districts
+        run: |
+          python merge_districts.py
       - name: filter upper administrative unit lists
         run: |
           python unique_upper_admins.py
