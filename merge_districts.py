@@ -49,6 +49,4 @@ districts_file = os.path.join("json_dumps", "districts.json")
 merge_entries(districts_file, merge_into, entries_to_merge)
 
 documents_file = os.path.join("json_dumps", "documents.json")
-persons_file = os.path.join("json_dumps", "persons.json")
 replace_entries(documents_file, entries_to_merge)
-replace_entries(persons_file, entries_to_merge)
