@@ -35,6 +35,24 @@ def add_lat_long(source_data, docs_data):
                 doc["iso_date"] = docs_data[str(doc["id"])].get("creation_date_ISO")
 
 
+def add_locations(source_data, documents_data):
+    # add district, neighbourhood, karye, nahiye, quarter and address to each person entry based on the documents they are associated with
+    locations = ["district", "neighbourhood", "karye", "nahiye", "quarter", "address"]
+    for key, item in source_data.items():
+        for location_type in locations:
+            item[location_type] = []
+            locations_set = set()
+        for doc in item["documents"]:
+            doc_data = documents_data[str(doc["id"])]
+            for location_type in locations:
+                if doc_data[location_type]:
+                    for location in doc_data[location_type]:
+                        if location["value"] not in locations_set:
+                            item[location_type].append(location)
+                            locations_set.add(location["value"])
+    # print(source_data)
+
+
 # Add categories to documents and vice versa
 def join_documents_and_categories(docs_data, cat_data):
     new_documents = {}
@@ -89,6 +107,7 @@ join_tables(documents_data, persons_data, "main_person")
 add_lat_long(goods_data, documents_data)
 add_lat_long(utensils_data, documents_data)
 
+add_locations(persons_data, documents_data)
 # Process documents and categories
 new_documents, new_categories = join_documents_and_categories(
     documents_data, categories_data
@@ -99,3 +118,4 @@ save_json(new_documents, os.path.join(JSON_FOLDER, "documents.json"))
 save_json(new_categories, os.path.join(JSON_FOLDER, "categories.json"))
 save_json(goods_data, os.path.join(JSON_FOLDER, "goods.json"))
 save_json(utensils_data, os.path.join(JSON_FOLDER, "utensils.json"))
+save_json(persons_data, os.path.join(JSON_FOLDER, "persons.json"))
