@@ -3,9 +3,7 @@
         "id": 43,
         "order": "1.00000000000000000000",
         "name": "Dry goods",
-        "is_main_category": true,
         "grocerist_id": "category__43",
-        "part_of": [],
         "goods": [
             {
                 "id": 1,
@@ -225,7 +223,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
-        "part__of": [],
+        "part_of": [],
         "documents": [
             {
                 "id": 1,
@@ -553,9 +551,7 @@
         "id": 44,
         "order": "2.00000000000000000000",
         "name": "Cooking oil",
-        "is_main_category": true,
         "grocerist_id": "category__44",
-        "part_of": [],
         "goods": [
             {
                 "id": 5,
@@ -595,7 +591,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
-        "part__of": [],
+        "part_of": [],
         "documents": [
             {
                 "id": 1,
@@ -893,9 +889,7 @@
         "id": 45,
         "order": "3.00000000000000000000",
         "name": "Dairy",
-        "is_main_category": true,
         "grocerist_id": "category__45",
-        "part_of": [],
         "goods": [
             {
                 "id": 9,
@@ -975,7 +969,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
-        "part__of": [],
+        "part_of": [],
         "documents": [
             {
                 "id": 1,
@@ -1228,9 +1222,7 @@
         "id": 46,
         "order": "4.00000000000000000000",
         "name": "Animal food",
-        "is_main_category": true,
         "grocerist_id": "category__46",
-        "part_of": [],
         "goods": [
             {
                 "id": 37,
@@ -1338,7 +1330,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
-        "part__of": [],
+        "part_of": [],
         "documents": [
             {
                 "id": 2,
@@ -1521,9 +1513,7 @@
         "id": 47,
         "order": "5.00000000000000000000",
         "name": "Condiments",
-        "is_main_category": true,
         "grocerist_id": "category__47",
-        "part_of": [],
         "goods": [
             {
                 "id": 23,
@@ -1671,7 +1661,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
-        "part__of": [],
+        "part_of": [],
         "documents": [
             {
                 "id": 1,
@@ -1999,9 +1989,7 @@
         "id": 48,
         "order": "6.00000000000000000000",
         "name": "Ingredients",
-        "is_main_category": true,
         "grocerist_id": "category__48",
-        "part_of": [],
         "goods": [
             {
                 "id": 27,
@@ -2025,7 +2013,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
-        "part__of": [],
+        "part_of": [],
         "documents": [
             {
                 "id": 1,
@@ -2248,9 +2236,7 @@
         "id": 49,
         "order": "7.00000000000000000000",
         "name": "Produce",
-        "is_main_category": true,
         "grocerist_id": "category__49",
-        "part_of": [],
         "goods": [
             {
                 "id": 29,
@@ -2314,7 +2300,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
-        "part__of": [],
+        "part_of": [],
         "documents": [
             {
                 "id": 1,
@@ -2572,9 +2558,7 @@
         "id": 73,
         "order": "7.33333333333333303727",
         "name": "Brine",
-        "is_main_category": true,
         "grocerist_id": "category__73",
-        "part_of": [],
         "goods": [
             {
                 "id": 34,
@@ -2642,7 +2626,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
-        "part__of": [],
+        "part_of": [],
         "documents": [
             {
                 "id": 1,
@@ -2875,9 +2859,7 @@
         "id": 52,
         "order": "7.50000000000000000000",
         "name": "Beverage",
-        "is_main_category": true,
         "grocerist_id": "category__52",
-        "part_of": [],
         "goods": [
             {
                 "id": 24,
@@ -2905,7 +2887,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
-        "part__of": [],
+        "part_of": [],
         "documents": [
             {
                 "id": 1,
@@ -3113,9 +3095,7 @@
         "id": 50,
         "order": "8.00000000000000000000",
         "name": "Non-food",
-        "is_main_category": true,
         "grocerist_id": "category__50",
-        "part_of": [],
         "goods": [
             {
                 "id": 35,
@@ -3287,7 +3267,7 @@
             "value": "main",
             "color": "darker-cyan"
         },
-        "part__of": [],
+        "part_of": [],
         "documents": [
             {
                 "id": 1,
@@ -3585,14 +3565,7 @@
         "id": 53,
         "order": "9.00000000000000000000",
         "name": "Grains",
-        "is_main_category": false,
         "grocerist_id": "category__53",
-        "part_of": [
-            {
-                "id": 43,
-                "value": "Dry goods"
-            }
-        ],
         "goods": [
             {
                 "id": 15,
@@ -3652,7 +3625,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 43,
                 "value": "Dry goods"
@@ -3970,14 +3943,7 @@
         "id": 54,
         "order": "10.00000000000000000000",
         "name": "Legumes",
-        "is_main_category": false,
         "grocerist_id": "category__54",
-        "part_of": [
-            {
-                "id": 43,
-                "value": "Dry goods"
-            }
-        ],
         "goods": [
             {
                 "id": 12,
@@ -4005,7 +3971,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 43,
                 "value": "Dry goods"
@@ -4273,14 +4239,7 @@
         "id": 55,
         "order": "11.00000000000000000000",
         "name": "Fruits",
-        "is_main_category": false,
         "grocerist_id": "category__55",
-        "part_of": [
-            {
-                "id": 43,
-                "value": "Dry goods"
-            }
-        ],
         "goods": [
             {
                 "id": 17,
@@ -4384,7 +4343,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 43,
                 "value": "Dry goods"
@@ -4602,14 +4561,7 @@
         "id": 69,
         "order": "11.50000000000000000000",
         "name": "Nut",
-        "is_main_category": false,
         "grocerist_id": "category__69",
-        "part_of": [
-            {
-                "id": 43,
-                "value": "Dry goods"
-            }
-        ],
         "goods": [
             {
                 "id": 1,
@@ -4653,7 +4605,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 43,
                 "value": "Dry goods"
@@ -4906,14 +4858,7 @@
         "id": 56,
         "order": "12.00000000000000000000",
         "name": "Cheese",
-        "is_main_category": false,
         "grocerist_id": "category__56",
-        "part_of": [
-            {
-                "id": 45,
-                "value": "Dairy"
-            }
-        ],
         "goods": [
             {
                 "id": 9,
@@ -4981,7 +4926,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 45,
                 "value": "Dairy"
@@ -5234,14 +5179,7 @@
         "id": 57,
         "order": "13.00000000000000000000",
         "name": "Olive oil",
-        "is_main_category": false,
         "grocerist_id": "category__57",
-        "part_of": [
-            {
-                "id": 44,
-                "value": "Cooking oil"
-            }
-        ],
         "goods": [
             {
                 "id": 5,
@@ -5253,7 +5191,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 44,
                 "value": "Cooking oil"
@@ -5506,14 +5444,7 @@
         "id": 67,
         "order": "13.50000000000000000000",
         "name": "Oil assortment",
-        "is_main_category": false,
         "grocerist_id": "category__67",
-        "part_of": [
-            {
-                "id": 44,
-                "value": "Cooking oil"
-            }
-        ],
         "goods": [
             {
                 "id": 6,
@@ -5549,7 +5480,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 44,
                 "value": "Cooking oil"
@@ -5802,14 +5733,7 @@
         "id": 58,
         "order": "14.00000000000000000000",
         "name": "Vegetable",
-        "is_main_category": false,
         "grocerist_id": "category__58",
-        "part_of": [
-            {
-                "id": 49,
-                "value": "Produce"
-            }
-        ],
         "goods": [
             {
                 "id": 29,
@@ -5849,7 +5773,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 49,
                 "value": "Produce"
@@ -6107,14 +6031,7 @@
         "id": 59,
         "order": "15.00000000000000000000",
         "name": "Fresh fruit",
-        "is_main_category": false,
         "grocerist_id": "category__59",
-        "part_of": [
-            {
-                "id": 49,
-                "value": "Produce"
-            }
-        ],
         "goods": [
             {
                 "id": 69,
@@ -6146,7 +6063,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 49,
                 "value": "Produce"
@@ -6209,14 +6126,7 @@
         "id": 60,
         "order": "16.00000000000000000000",
         "name": "Spice",
-        "is_main_category": false,
         "grocerist_id": "category__60",
-        "part_of": [
-            {
-                "id": 47,
-                "value": "Condiments"
-            }
-        ],
         "goods": [
             {
                 "id": 50,
@@ -6236,7 +6146,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 47,
                 "value": "Condiments"
@@ -6259,14 +6169,7 @@
         "id": 61,
         "order": "17.00000000000000000000",
         "name": "Sweetener",
-        "is_main_category": false,
         "grocerist_id": "category__61",
-        "part_of": [
-            {
-                "id": 47,
-                "value": "Condiments"
-            }
-        ],
         "goods": [
             {
                 "id": 23,
@@ -6330,7 +6233,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 47,
                 "value": "Condiments"
@@ -6583,14 +6486,7 @@
         "id": 62,
         "order": "18.00000000000000000000",
         "name": "Salt",
-        "is_main_category": false,
         "grocerist_id": "category__62",
-        "part_of": [
-            {
-                "id": 47,
-                "value": "Condiments"
-            }
-        ],
         "goods": [
             {
                 "id": 30,
@@ -6650,7 +6546,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 47,
                 "value": "Condiments"
@@ -6908,14 +6804,7 @@
         "id": 63,
         "order": "19.00000000000000000000",
         "name": "Sour flavor",
-        "is_main_category": false,
         "grocerist_id": "category__63",
-        "part_of": [
-            {
-                "id": 47,
-                "value": "Condiments"
-            }
-        ],
         "goods": [
             {
                 "id": 28,
@@ -6931,7 +6820,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 47,
                 "value": "Condiments"
@@ -7189,14 +7078,7 @@
         "id": 64,
         "order": "20.00000000000000000000",
         "name": "Oil",
-        "is_main_category": false,
         "grocerist_id": "category__64",
-        "part_of": [
-            {
-                "id": 50,
-                "value": "Non-food"
-            }
-        ],
         "goods": [
             {
                 "id": 55,
@@ -7220,7 +7102,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 50,
                 "value": "Non-food"
@@ -7318,14 +7200,7 @@
         "id": 68,
         "order": "21.00000000000000000000",
         "name": "Broom",
-        "is_main_category": false,
         "grocerist_id": "category__68",
-        "part_of": [
-            {
-                "id": 50,
-                "value": "Non-food"
-            }
-        ],
         "goods": [
             {
                 "id": 204,
@@ -7357,7 +7232,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 50,
                 "value": "Non-food"
@@ -7425,14 +7300,7 @@
         "id": 70,
         "order": "22.00000000000000000000",
         "name": "Fish",
-        "is_main_category": false,
         "grocerist_id": "category__70",
-        "part_of": [
-            {
-                "id": 46,
-                "value": "Animal food"
-            }
-        ],
         "goods": [
             {
                 "id": 66,
@@ -7492,7 +7360,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 46,
                 "value": "Animal food"
@@ -7545,14 +7413,7 @@
         "id": 72,
         "order": "22.50000000000000000000",
         "name": "Pickled fish",
-        "is_main_category": false,
         "grocerist_id": "category__72",
-        "part_of": [
-            {
-                "id": 46,
-                "value": "Animal food"
-            }
-        ],
         "goods": [
             {
                 "id": 37,
@@ -7580,7 +7441,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 46,
                 "value": "Animal food"
@@ -7638,14 +7499,7 @@
         "id": 71,
         "order": "23.00000000000000000000",
         "name": "Dry meat",
-        "is_main_category": false,
         "grocerist_id": "category__71",
-        "part_of": [
-            {
-                "id": 46,
-                "value": "Animal food"
-            }
-        ],
         "goods": [
             {
                 "id": 49,
@@ -7669,7 +7523,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 46,
                 "value": "Animal food"
@@ -7782,14 +7636,7 @@
         "id": 74,
         "order": "24.00000000000000000000",
         "name": "Pickle",
-        "is_main_category": false,
         "grocerist_id": "category__74",
-        "part_of": [
-            {
-                "id": 73,
-                "value": "Brine"
-            }
-        ],
         "goods": [
             {
                 "id": 40,
@@ -7809,7 +7656,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 73,
                 "value": "Brine"
@@ -7852,14 +7699,7 @@
         "id": 75,
         "order": "25.00000000000000000000",
         "name": "Olive",
-        "is_main_category": false,
         "grocerist_id": "category__75",
-        "part_of": [
-            {
-                "id": 73,
-                "value": "Brine"
-            }
-        ],
         "goods": [
             {
                 "id": 34,
@@ -7899,7 +7739,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 73,
                 "value": "Brine"
@@ -8132,18 +7972,7 @@
         "id": 76,
         "order": "26.00000000000000000000",
         "name": "Honey",
-        "is_main_category": false,
         "grocerist_id": "category__76",
-        "part_of": [
-            {
-                "id": 47,
-                "value": "Condiments"
-            },
-            {
-                "id": 61,
-                "value": "Sweetener"
-            }
-        ],
         "goods": [
             {
                 "id": 25,
@@ -8187,7 +8016,7 @@
             "value": "subsub",
             "color": "dark-red"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 61,
                 "value": "Sweetener"
@@ -8380,18 +8209,7 @@
         "id": 77,
         "order": "27.00000000000000000000",
         "name": "Molasses",
-        "is_main_category": false,
         "grocerist_id": "category__77",
-        "part_of": [
-            {
-                "id": 47,
-                "value": "Condiments"
-            },
-            {
-                "id": 61,
-                "value": "Sweetener"
-            }
-        ],
         "goods": [
             {
                 "id": 23,
@@ -8415,7 +8233,7 @@
             "value": "subsub",
             "color": "dark-red"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 61,
                 "value": "Sweetener"
@@ -8618,18 +8436,7 @@
         "id": 78,
         "order": "28.00000000000000000000",
         "name": "Raisin",
-        "is_main_category": false,
         "grocerist_id": "category__78",
-        "part_of": [
-            {
-                "id": 43,
-                "value": "Dry goods"
-            },
-            {
-                "id": 55,
-                "value": "Fruits"
-            }
-        ],
         "goods": [
             {
                 "id": 17,
@@ -8693,7 +8500,7 @@
             "value": "subsub",
             "color": "dark-red"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 55,
                 "value": "Fruits"
@@ -8886,18 +8693,7 @@
         "id": 79,
         "order": "29.00000000000000000000",
         "name": "Dried figs",
-        "is_main_category": false,
         "grocerist_id": "category__79",
-        "part_of": [
-            {
-                "id": 43,
-                "value": "Dry goods"
-            },
-            {
-                "id": 55,
-                "value": "Fruits"
-            }
-        ],
         "goods": [
             {
                 "id": 21,
@@ -8917,7 +8713,7 @@
             "value": "subsub",
             "color": "dark-red"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 55,
                 "value": "Fruits"
@@ -9055,14 +8851,7 @@
         "id": 80,
         "order": "30.00000000000000000000",
         "name": "Soap",
-        "is_main_category": false,
         "grocerist_id": "category__80",
-        "part_of": [
-            {
-                "id": 50,
-                "value": "Non-food"
-            }
-        ],
         "goods": [
             {
                 "id": 108,
@@ -9086,7 +8875,7 @@
             "value": "sub",
             "color": "darker-blue"
         },
-        "part__of": [
+        "part_of": [
             {
                 "id": 50,
                 "value": "Non-food"
