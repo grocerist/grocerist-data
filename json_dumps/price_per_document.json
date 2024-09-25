@@ -34,5 +34,16 @@
     "unit": null,
     "currency": null,
     "amount_of_units": "5.5"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "grocerist_id": "price__3",
+    "document": [],
+    "good": [],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null
   }
 }
