@@ -14,11 +14,14 @@ jobs:
       BASEROW_USER: ${{secrets.BASEROW_USER}}
       BASEROW_PW: ${{secrets.BASEROW_PW}}
     steps:
-      - name: Perfom Checkout
-        uses: actions/checkout@v3
-      - name: Install Python Packages
-        run: |
-          pip install -r requirements.txt
+      - name: Perform Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+      - run: pip install -r requirements.txt
       - name: enrich the data
         run: python enrich_data.py
       - name: dump the data
