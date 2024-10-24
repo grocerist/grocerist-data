@@ -307,7 +307,8 @@
                 "id": 69,
                 "value": "Nut"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "2": {
         "id": 2,
@@ -456,7 +457,8 @@
                 "id": 69,
                 "value": "Nut"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "3": {
         "id": 3,
@@ -556,7 +558,8 @@
                 "id": 69,
                 "value": "Nut"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "4": {
         "id": 4,
@@ -663,7 +666,8 @@
                 "id": 69,
                 "value": "Nut"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "5": {
         "id": 5,
@@ -1022,7 +1026,8 @@
                 "id": 57,
                 "value": "Olive oil"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "6": {
         "id": 6,
@@ -1360,7 +1365,8 @@
                 "id": 67,
                 "value": "Oil assortment"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "7": {
         "id": 7,
@@ -1418,7 +1424,8 @@
                 "id": 67,
                 "value": "Oil assortment"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "9": {
         "id": 9,
@@ -1665,7 +1672,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "10": {
         "id": 10,
@@ -1905,7 +1913,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "12": {
         "id": 12,
@@ -2152,7 +2161,8 @@
                 "id": 54,
                 "value": "Legumes"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "13": {
         "id": 13,
@@ -2448,7 +2458,8 @@
                 "id": 54,
                 "value": "Legumes"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "14": {
         "id": 14,
@@ -2688,7 +2699,8 @@
                 "id": 54,
                 "value": "Legumes"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "15": {
         "id": 15,
@@ -3082,7 +3094,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "17": {
         "id": 17,
@@ -3207,7 +3220,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "18": {
         "id": 18,
@@ -3325,7 +3339,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "19": {
         "id": 19,
@@ -3373,7 +3388,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "20": {
         "id": 20,
@@ -3470,7 +3486,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "21": {
         "id": 21,
@@ -3651,7 +3668,8 @@
                 "id": 79,
                 "value": "Dried figs"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "22": {
         "id": 22,
@@ -3737,7 +3755,8 @@
                 "id": 55,
                 "value": "Fruits"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "23": {
         "id": 23,
@@ -4016,7 +4035,8 @@
                 "id": 77,
                 "value": "Molasses"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "24": {
         "id": 24,
@@ -4266,7 +4286,8 @@
                 "id": 52,
                 "value": "Beverage"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "25": {
         "id": 25,
@@ -4531,7 +4552,8 @@
                 "id": 76,
                 "value": "Honey"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "26": {
         "id": 26,
@@ -4552,7 +4574,8 @@
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
-        "has_category": []
+        "has_category": [],
+        "broken_or_spoilt": false
     },
     "27": {
         "id": 27,
@@ -4830,7 +4853,8 @@
                 "id": 48,
                 "value": "Ingredients"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "28": {
         "id": 28,
@@ -5182,7 +5206,8 @@
                 "id": 63,
                 "value": "Sour flavor"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "29": {
         "id": 29,
@@ -5485,7 +5510,8 @@
                 "id": 58,
                 "value": "Vegetable"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "30": {
         "id": 30,
@@ -5683,7 +5709,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "31": {
         "id": 31,
@@ -5846,7 +5873,8 @@
                 "id": 58,
                 "value": "Vegetable"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "32": {
         "id": 32,
@@ -5876,7 +5904,8 @@
                 "id": 58,
                 "value": "Vegetable"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "33": {
         "id": 33,
@@ -6046,7 +6075,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "34": {
         "id": 34,
@@ -6272,7 +6302,8 @@
                 "id": 75,
                 "value": "Olive"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "35": {
         "id": 35,
@@ -6319,7 +6350,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "36": {
         "id": 36,
@@ -6580,7 +6612,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "37": {
         "id": 37,
@@ -6617,7 +6650,8 @@
                 "id": 72,
                 "value": "Pickled fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "38": {
         "id": 38,
@@ -6692,7 +6726,8 @@
                 "id": 46,
                 "value": "Animal food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "40": {
         "id": 40,
@@ -6736,7 +6771,8 @@
                 "id": 74,
                 "value": "Pickle"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "41": {
         "id": 41,
@@ -6899,7 +6935,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "42": {
         "id": 42,
@@ -7006,7 +7043,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "43": {
         "id": 43,
@@ -7050,7 +7088,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "44": {
         "id": 44,
@@ -7136,7 +7175,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "45": {
         "id": 45,
@@ -7278,7 +7318,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "46": {
         "id": 46,
@@ -7420,7 +7461,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "47": {
         "id": 47,
@@ -7450,7 +7492,8 @@
                 "id": 72,
                 "value": "Pickled fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "48": {
         "id": 48,
@@ -7498,7 +7541,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "49": {
         "id": 49,
@@ -7612,7 +7656,8 @@
                 "id": 71,
                 "value": "Dry meat"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "50": {
         "id": 50,
@@ -7642,7 +7687,8 @@
                 "id": 60,
                 "value": "Spice"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "51": {
         "id": 51,
@@ -7689,7 +7735,8 @@
                 "id": 52,
                 "value": "Beverage"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "52": {
         "id": 52,
@@ -7726,7 +7773,8 @@
                 "id": 72,
                 "value": "Pickled fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "53": {
         "id": 53,
@@ -7850,7 +7898,8 @@
                 "id": 48,
                 "value": "Ingredients"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "54": {
         "id": 54,
@@ -7891,7 +7940,8 @@
                 "id": 76,
                 "value": "Honey"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "55": {
         "id": 55,
@@ -7942,7 +7992,8 @@
                 "id": 64,
                 "value": "Oil"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "56": {
         "id": 56,
@@ -7972,7 +8023,8 @@
                 "id": 72,
                 "value": "Pickled fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "57": {
         "id": 57,
@@ -8065,7 +8117,8 @@
                 "id": 71,
                 "value": "Dry meat"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "58": {
         "id": 58,
@@ -8120,7 +8173,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "59": {
         "id": 59,
@@ -8181,7 +8235,8 @@
                 "id": 46,
                 "value": "Animal food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "60": {
         "id": 60,
@@ -8211,7 +8266,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "61": {
         "id": 61,
@@ -8325,7 +8381,8 @@
                 "id": 75,
                 "value": "Olive"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "62": {
         "id": 62,
@@ -8360,7 +8417,8 @@
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
-        "has_category": []
+        "has_category": [],
+        "broken_or_spoilt": false
     },
     "63": {
         "id": 63,
@@ -8439,7 +8497,8 @@
                 "id": 67,
                 "value": "Oil assortment"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "64": {
         "id": 64,
@@ -8539,7 +8598,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "65": {
         "id": 65,
@@ -8597,7 +8657,8 @@
                 "id": 55,
                 "value": "Fruits"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "66": {
         "id": 66,
@@ -8627,7 +8688,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "67": {
         "id": 67,
@@ -8725,7 +8787,8 @@
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
-        "has_category": []
+        "has_category": [],
+        "broken_or_spoilt": false
     },
     "68": {
         "id": 68,
@@ -8779,7 +8842,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "69": {
         "id": 69,
@@ -8809,7 +8873,8 @@
                 "id": 59,
                 "value": "Fresh fruit"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "70": {
         "id": 70,
@@ -8839,7 +8904,8 @@
                 "id": 59,
                 "value": "Fresh fruit"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "71": {
         "id": 71,
@@ -8883,7 +8949,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "72": {
         "id": 72,
@@ -8913,7 +8980,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "73": {
         "id": 73,
@@ -8943,7 +9011,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "74": {
         "id": 74,
@@ -8980,7 +9049,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "75": {
         "id": 75,
@@ -9010,7 +9080,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "76": {
         "id": 76,
@@ -9047,7 +9118,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "77": {
         "id": 77,
@@ -9081,7 +9153,8 @@
                 "id": 77,
                 "value": "Molasses"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "78": {
         "id": 78,
@@ -9125,7 +9198,8 @@
                 "id": 74,
                 "value": "Pickle"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "79": {
         "id": 79,
@@ -9162,7 +9236,8 @@
                 "id": 75,
                 "value": "Olive"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "80": {
         "id": 80,
@@ -9192,7 +9267,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "81": {
         "id": 81,
@@ -9222,7 +9298,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "83": {
         "id": 83,
@@ -9256,7 +9333,8 @@
                 "id": 77,
                 "value": "Molasses"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "84": {
         "id": 84,
@@ -9293,7 +9371,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "86": {
         "id": 86,
@@ -9319,7 +9398,8 @@
                 "id": 43,
                 "value": "Dry goods"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "87": {
         "id": 87,
@@ -9384,7 +9464,8 @@
                 "id": 58,
                 "value": "Vegetable"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "88": {
         "id": 88,
@@ -9449,7 +9530,8 @@
                 "id": 58,
                 "value": "Vegetable"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "89": {
         "id": 89,
@@ -9493,7 +9575,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "90": {
         "id": 90,
@@ -9523,7 +9606,8 @@
                 "id": 75,
                 "value": "Olive"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "91": {
         "id": 91,
@@ -9564,7 +9648,8 @@
                 "id": 76,
                 "value": "Honey"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "92": {
         "id": 92,
@@ -9594,7 +9679,8 @@
                 "id": 69,
                 "value": "Nut"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "93": {
         "id": 93,
@@ -9649,7 +9735,8 @@
                 "id": 76,
                 "value": "Honey"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "94": {
         "id": 94,
@@ -9693,7 +9780,8 @@
                 "id": 55,
                 "value": "Fruits"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "95": {
         "id": 95,
@@ -9726,7 +9814,8 @@
                 "id": 47,
                 "value": "Condiments"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "96": {
         "id": 96,
@@ -9784,7 +9873,8 @@
                 "id": 55,
                 "value": "Fruits"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "97": {
         "id": 97,
@@ -9814,7 +9904,8 @@
                 "id": 55,
                 "value": "Fruits"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "98": {
         "id": 98,
@@ -9855,7 +9946,8 @@
                 "id": 79,
                 "value": "Dried figs"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "99": {
         "id": 99,
@@ -9927,7 +10019,8 @@
                 "id": 59,
                 "value": "Fresh fruit"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "101": {
         "id": 101,
@@ -10013,7 +10106,8 @@
                 "id": 58,
                 "value": "Vegetable"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "102": {
         "id": 102,
@@ -10057,7 +10151,8 @@
                 "id": 72,
                 "value": "Pickled fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "108": {
         "id": 108,
@@ -10304,7 +10399,8 @@
                 "id": 80,
                 "value": "Soap"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "112": {
         "id": 112,
@@ -10491,7 +10587,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "113": {
         "id": 113,
@@ -10531,7 +10628,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "142": {
         "id": 142,
@@ -10572,7 +10670,8 @@
                 "id": 76,
                 "value": "Honey"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "146": {
         "id": 146,
@@ -10682,7 +10781,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "147": {
         "id": 147,
@@ -10736,7 +10836,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "148": {
         "id": 148,
@@ -10766,7 +10867,8 @@
                 "id": 80,
                 "value": "Soap"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "150": {
         "id": 150,
@@ -10799,7 +10901,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "151": {
         "id": 151,
@@ -10853,7 +10956,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "152": {
         "id": 152,
@@ -10879,7 +10983,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "155": {
         "id": 155,
@@ -10993,7 +11098,8 @@
                 "id": 54,
                 "value": "Legumes"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "157": {
         "id": 157,
@@ -11023,7 +11129,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "158": {
         "id": 158,
@@ -11116,7 +11223,8 @@
                 "id": 64,
                 "value": "Oil"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "159": {
         "id": 159,
@@ -11150,7 +11258,8 @@
                 "id": 77,
                 "value": "Molasses"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "160": {
         "id": 160,
@@ -11212,7 +11321,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "161": {
         "id": 161,
@@ -11242,7 +11352,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "162": {
         "id": 162,
@@ -11268,7 +11379,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "164": {
         "id": 164,
@@ -11298,7 +11410,8 @@
                 "id": 75,
                 "value": "Olive"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "165": {
         "id": 165,
@@ -11324,7 +11437,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "166": {
         "id": 166,
@@ -11368,7 +11482,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "169": {
         "id": 169,
@@ -11394,7 +11509,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "170": {
         "id": 170,
@@ -11431,7 +11547,8 @@
                 "id": 59,
                 "value": "Fresh fruit"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "172": {
         "id": 172,
@@ -11468,7 +11585,8 @@
                 "id": 80,
                 "value": "Soap"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "173": {
         "id": 173,
@@ -11498,7 +11616,8 @@
                 "id": 75,
                 "value": "Olive"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "174": {
         "id": 174,
@@ -11552,7 +11671,8 @@
                 "id": 73,
                 "value": "Brine"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "175": {
         "id": 175,
@@ -11603,7 +11723,8 @@
                 "id": 69,
                 "value": "Nut"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "176": {
         "id": 176,
@@ -11629,7 +11750,8 @@
                 "id": 47,
                 "value": "Condiments"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "177": {
         "id": 177,
@@ -11666,7 +11788,8 @@
                 "id": 69,
                 "value": "Nut"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "179": {
         "id": 179,
@@ -11699,7 +11822,8 @@
                 "id": 52,
                 "value": "Beverage"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "180": {
         "id": 180,
@@ -11725,7 +11849,8 @@
                 "id": 73,
                 "value": "Brine"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "181": {
         "id": 181,
@@ -11766,7 +11891,8 @@
                 "id": 76,
                 "value": "Honey"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "183": {
         "id": 183,
@@ -11796,7 +11922,8 @@
                 "id": 67,
                 "value": "Oil assortment"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "184": {
         "id": 184,
@@ -11847,7 +11974,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "185": {
         "id": 185,
@@ -11891,7 +12019,8 @@
                 "id": 55,
                 "value": "Fruits"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "186": {
         "id": 186,
@@ -11928,7 +12057,8 @@
                 "id": 55,
                 "value": "Fruits"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "187": {
         "id": 187,
@@ -11958,7 +12088,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "188": {
         "id": 188,
@@ -11984,7 +12115,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "189": {
         "id": 189,
@@ -12017,7 +12149,8 @@
                 "id": 43,
                 "value": "Dry goods"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "190": {
         "id": 190,
@@ -12054,7 +12187,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "191": {
         "id": 191,
@@ -12095,7 +12229,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "192": {
         "id": 192,
@@ -12128,7 +12263,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "193": {
         "id": 193,
@@ -12161,7 +12297,8 @@
                 "id": 47,
                 "value": "Condiments"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "194": {
         "id": 194,
@@ -12194,7 +12331,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "196": {
         "id": 196,
@@ -12224,7 +12362,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "197": {
         "id": 197,
@@ -12250,7 +12389,8 @@
                 "id": 45,
                 "value": "Dairy"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "199": {
         "id": 199,
@@ -12280,7 +12420,8 @@
                 "id": 80,
                 "value": "Soap"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "200": {
         "id": 200,
@@ -12320,7 +12461,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "201": {
         "id": 201,
@@ -12350,7 +12492,8 @@
                 "id": 58,
                 "value": "Vegetable"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "202": {
         "id": 202,
@@ -12391,7 +12534,8 @@
                 "id": 79,
                 "value": "Dried figs"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "204": {
         "id": 204,
@@ -12456,7 +12600,8 @@
                 "id": 68,
                 "value": "Broom"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "205": {
         "id": 205,
@@ -12490,7 +12635,8 @@
                 "id": 76,
                 "value": "Honey"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "206": {
         "id": 206,
@@ -12565,7 +12711,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "209": {
         "id": 209,
@@ -12595,7 +12742,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "210": {
         "id": 210,
@@ -12629,7 +12777,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "211": {
         "id": 211,
@@ -12655,7 +12804,8 @@
                 "id": 73,
                 "value": "Brine"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "216": {
         "id": 216,
@@ -12692,7 +12842,8 @@
                 "id": 68,
                 "value": "Broom"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "219": {
         "id": 219,
@@ -12739,7 +12890,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "226": {
         "id": 226,
@@ -12772,7 +12924,8 @@
                 "id": 52,
                 "value": "Beverage"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "227": {
         "id": 227,
@@ -12816,7 +12969,8 @@
                 "id": 63,
                 "value": "Sour flavor"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "230": {
         "id": 230,
@@ -12849,7 +13003,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "231": {
         "id": 231,
@@ -12914,7 +13069,8 @@
                 "id": 67,
                 "value": "Oil assortment"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "233": {
         "id": 233,
@@ -12940,7 +13096,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "235": {
         "id": 235,
@@ -12961,7 +13118,8 @@
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
-        "has_category": []
+        "has_category": [],
+        "broken_or_spoilt": false
     },
     "236": {
         "id": 236,
@@ -12991,7 +13149,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "237": {
         "id": 237,
@@ -13017,7 +13176,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "239": {
         "id": 239,
@@ -13050,7 +13210,8 @@
                 "id": 52,
                 "value": "Beverage"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "240": {
         "id": 240,
@@ -13076,7 +13237,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "244": {
         "id": 244,
@@ -13102,7 +13264,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "247": {
         "id": 247,
@@ -13132,7 +13295,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "251": {
         "id": 251,
@@ -13162,7 +13326,8 @@
                 "id": 69,
                 "value": "Nut"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "252": {
         "id": 252,
@@ -13199,7 +13364,8 @@
                 "id": 64,
                 "value": "Oil"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "253": {
         "id": 253,
@@ -13250,7 +13416,8 @@
                 "id": 68,
                 "value": "Broom"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "254": {
         "id": 254,
@@ -13280,7 +13447,8 @@
                 "id": 71,
                 "value": "Dry meat"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "255": {
         "id": 255,
@@ -13310,7 +13478,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "256": {
         "id": 256,
@@ -13340,7 +13509,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "257": {
         "id": 257,
@@ -13370,7 +13540,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "258": {
         "id": 258,
@@ -13400,7 +13571,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "259": {
         "id": 259,
@@ -13437,7 +13609,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "260": {
         "id": 260,
@@ -13498,7 +13671,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "261": {
         "id": 261,
@@ -13535,7 +13709,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "262": {
         "id": 262,
@@ -13565,7 +13740,8 @@
                 "id": 67,
                 "value": "Oil assortment"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "265": {
         "id": 265,
@@ -13595,7 +13771,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "267": {
         "id": 267,
@@ -13617,7 +13794,8 @@
                 "id": 54,
                 "value": "Legumes"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "268": {
         "id": 268,
@@ -13639,7 +13817,8 @@
                 "id": 75,
                 "value": "Olive"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "269": {
         "id": 269,
@@ -13661,7 +13840,8 @@
                 "id": 67,
                 "value": "Oil assortment"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "270": {
         "id": 270,
@@ -13687,7 +13867,8 @@
                 "id": 45,
                 "value": "Dairy"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "272": {
         "id": 272,
@@ -13720,7 +13901,8 @@
                 "id": 73,
                 "value": "Brine"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "275": {
         "id": 275,
@@ -13796,7 +13978,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "276": {
         "id": 276,
@@ -13830,7 +14013,8 @@
                 "id": 76,
                 "value": "Honey"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "278": {
         "id": 278,
@@ -13860,7 +14044,8 @@
                 "id": 74,
                 "value": "Pickle"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "324": {
         "id": 324,
@@ -13890,7 +14075,8 @@
                 "id": 59,
                 "value": "Fresh fruit"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "325": {
         "id": 325,
@@ -13920,7 +14106,8 @@
                 "id": 75,
                 "value": "Olive"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "326": {
         "id": 326,
@@ -13950,7 +14137,8 @@
                 "id": 64,
                 "value": "Oil"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "331": {
         "id": 331,
@@ -13971,7 +14159,8 @@
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
-        "has_category": []
+        "has_category": [],
+        "broken_or_spoilt": false
     },
     "334": {
         "id": 334,
@@ -14001,7 +14190,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "335": {
         "id": 335,
@@ -14027,7 +14217,8 @@
                 "id": 46,
                 "value": "Animal food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "336": {
         "id": 336,
@@ -14057,7 +14248,8 @@
                 "id": 61,
                 "value": "Sweetener"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "337": {
         "id": 337,
@@ -14087,7 +14279,8 @@
                 "id": 59,
                 "value": "Fresh fruit"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "338": {
         "id": 338,
@@ -14113,7 +14306,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "340": {
         "id": 340,
@@ -14154,7 +14348,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "342": {
         "id": 342,
@@ -14195,7 +14390,8 @@
                 "id": 76,
                 "value": "Honey"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "343": {
         "id": 343,
@@ -14232,7 +14428,8 @@
                 "id": 68,
                 "value": "Broom"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "344": {
         "id": 344,
@@ -14262,7 +14459,8 @@
                 "id": 68,
                 "value": "Broom"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "345": {
         "id": 345,
@@ -14299,7 +14497,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "346": {
         "id": 346,
@@ -14336,7 +14535,8 @@
                 "id": 71,
                 "value": "Dry meat"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "347": {
         "id": 347,
@@ -14373,7 +14573,8 @@
                 "id": 58,
                 "value": "Vegetable"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "348": {
         "id": 348,
@@ -14410,7 +14611,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "349": {
         "id": 349,
@@ -14440,7 +14642,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "350": {
         "id": 350,
@@ -14481,7 +14684,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "351": {
         "id": 351,
@@ -14511,7 +14715,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "355": {
         "id": 355,
@@ -14544,7 +14749,8 @@
                 "id": 48,
                 "value": "Ingredients"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "356": {
         "id": 356,
@@ -14566,7 +14772,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "358": {
         "id": 358,
@@ -14599,7 +14806,8 @@
                 "id": 45,
                 "value": "Dairy"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "359": {
         "id": 359,
@@ -14629,7 +14837,8 @@
                 "id": 56,
                 "value": "Cheese"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "360": {
         "id": 360,
@@ -14659,7 +14868,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "361": {
         "id": 361,
@@ -14685,7 +14895,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "362": {
         "id": 362,
@@ -14722,7 +14933,8 @@
                 "id": 70,
                 "value": "Fish"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "363": {
         "id": 363,
@@ -14752,7 +14964,8 @@
                 "id": 68,
                 "value": "Broom"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "364": {
         "id": 364,
@@ -14782,7 +14995,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "365": {
         "id": 365,
@@ -14816,7 +15030,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "366": {
         "id": 366,
@@ -14842,7 +15057,8 @@
                 "id": 50,
                 "value": "Non-food"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "367": {
         "id": 367,
@@ -14868,7 +15084,8 @@
                 "id": 48,
                 "value": "Ingredients"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "368": {
         "id": 368,
@@ -14898,7 +15115,8 @@
                 "id": 62,
                 "value": "Salt"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "369": {
         "id": 369,
@@ -14932,7 +15150,8 @@
                 "id": 78,
                 "value": "Raisin"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "370": {
         "id": 370,
@@ -14962,7 +15181,8 @@
                 "id": 69,
                 "value": "Nut"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "372": {
         "id": 372,
@@ -14992,7 +15212,8 @@
                 "id": 53,
                 "value": "Grains"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "373": {
         "id": 373,
@@ -15022,7 +15243,8 @@
                 "id": 60,
                 "value": "Spice"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     },
     "375": {
         "id": 375,
@@ -15052,6 +15274,7 @@
                 "id": 60,
                 "value": "Spice"
             }
-        ]
+        ],
+        "broken_or_spoilt": false
     }
 }
