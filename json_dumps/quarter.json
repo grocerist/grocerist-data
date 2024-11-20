@@ -199,11 +199,7 @@
             },
             {
                 "id": 49,
-                "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
-            },
-            {
-                "id": 117,
-                "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
+                "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
             }
         ],
         "grocerist_id": "quarter__2",
@@ -535,11 +531,7 @@
                 "documents": [
                     {
                         "id": 49,
-                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
-                    },
-                    {
-                        "id": 117,
-                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
+                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
                     }
                 ],
                 "occupation": [],
@@ -556,10 +548,6 @@
                     {
                         "id": 76,
                         "value": "Kulaksız"
-                    },
-                    {
-                        "id": 77,
-                        "value": "Seyyid Ali"
                     }
                 ],
                 "karye": [],
@@ -1127,10 +1115,6 @@
         "name": "Yedikule harici",
         "documents": [
             {
-                "id": 135,
-                "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (b)"
-            },
-            {
                 "id": 98,
                 "value": "İSTM.ŞSC.15.d. 196 / 15a-2"
             }
@@ -1144,7 +1128,7 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 135,
+                    "database_table_1488": 98,
                     "database_table_1492": 19
                 },
                 "value": "Eyüp"
@@ -1152,59 +1136,6 @@
         ],
         "upper_admin2": [],
         "persons": [
-            {
-                "id": 98,
-                "order": "96.00000000000000000000",
-                "name": "Bakkal Pavlo v. Dimitri",
-                "grocerist_id": "person__98",
-                "religion": [
-                    {
-                        "id": 6682,
-                        "value": "Non muslim",
-                        "color": "gray"
-                    },
-                    {
-                        "id": 6705,
-                        "value": "Orthodox",
-                        "color": "dark-blue"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 94,
-                        "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (a)"
-                    },
-                    {
-                        "id": 135,
-                        "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (b)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "18",
-                "district": [
-                    {
-                        "id": 19,
-                        "value": "Eyüp"
-                    }
-                ],
-                "neighbourhood": [],
-                "karye": [
-                    {
-                        "id": 11,
-                        "value": "Ayastefanos"
-                    }
-                ],
-                "nahiye": [],
-                "quarter": [
-                    {
-                        "id": 9,
-                        "value": "Yedikule harici"
-                    }
-                ],
-                "address": []
-            },
             {
                 "id": 119,
                 "order": "116.00000000000000000000",
@@ -1258,7 +1189,7 @@
         "documents": [
             {
                 "id": 49,
-                "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
+                "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
             }
         ],
         "grocerist_id": "quarter__10",
@@ -1298,11 +1229,7 @@
                 "documents": [
                     {
                         "id": 49,
-                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
-                    },
-                    {
-                        "id": 117,
-                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
+                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
                     }
                 ],
                 "occupation": [],
@@ -1319,10 +1246,6 @@
                     {
                         "id": 76,
                         "value": "Kulaksız"
-                    },
-                    {
-                        "id": 77,
-                        "value": "Seyyid Ali"
                     }
                 ],
                 "karye": [],
@@ -1348,7 +1271,7 @@
         "documents": [
             {
                 "id": 101,
-                "value": "İSTM.ŞSC.15.d. 216 / 42a-1 (a)"
+                "value": "İSTM.ŞSC.15.d. 216 / 42a-1"
             }
         ],
         "grocerist_id": "quarter__12",
@@ -1388,11 +1311,7 @@
                 "documents": [
                     {
                         "id": 101,
-                        "value": "İSTM.ŞSC.15.d. 216 / 42a-1 (a)"
-                    },
-                    {
-                        "id": 138,
-                        "value": "İSTM.ŞSC.15.d. 216 / 42a-1 (b)"
+                        "value": "İSTM.ŞSC.15.d. 216 / 42a-1"
                     }
                 ],
                 "occupation": [],

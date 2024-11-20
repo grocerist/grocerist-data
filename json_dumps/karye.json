@@ -340,7 +340,7 @@
         "documents": [
             {
                 "id": 68,
-                "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (a)"
+                "value": "İSTM.ŞSC.06.d. 359 / 27a-1"
             }
         ],
         "grocerist_id": "karye__4",
@@ -379,7 +379,7 @@
                 "documents": [
                     {
                         "id": 68,
-                        "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (a)"
+                        "value": "İSTM.ŞSC.06.d. 359 / 27a-1"
                     }
                 ],
                 "occupation": [],
@@ -528,10 +528,6 @@
         "notes": "",
         "documents": [
             {
-                "id": 119,
-                "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (b)"
-            },
-            {
                 "id": 70,
                 "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
             }
@@ -543,7 +539,7 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 119,
+                    "database_table_1488": 70,
                     "database_table_1492": 16
                 },
                 "value": "Üsküdar"
@@ -560,71 +556,6 @@
             }
         ],
         "persons": [
-            {
-                "id": 7,
-                "order": "7.00000000000000000000",
-                "name": "Bakkal Dimitri v. Yorgi",
-                "grocerist_id": "person__7",
-                "religion": [
-                    {
-                        "id": 6682,
-                        "value": "Non muslim",
-                        "color": "gray"
-                    },
-                    {
-                        "id": 6705,
-                        "value": "Orthodox",
-                        "color": "dark-blue"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 7,
-                        "value": "İSTM.ŞSC.14.d.212/ 34b-2"
-                    },
-                    {
-                        "id": 119,
-                        "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (b)"
-                    },
-                    {
-                        "id": 120,
-                        "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (c)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "18",
-                "district": [
-                    {
-                        "id": 4,
-                        "value": "Galata"
-                    },
-                    {
-                        "id": 16,
-                        "value": "Üsküdar"
-                    }
-                ],
-                "neighbourhood": [
-                    {
-                        "id": 15,
-                        "value": "Sultan Bayezıd "
-                    },
-                    {
-                        "id": 79,
-                        "value": "Tenbel"
-                    }
-                ],
-                "karye": [
-                    {
-                        "id": 6,
-                        "value": "Eski hamam"
-                    }
-                ],
-                "nahiye": [],
-                "quarter": [],
-                "address": []
-            },
             {
                 "id": 70,
                 "order": "71.00000000000000000000",
@@ -1079,7 +1010,7 @@
         "documents": [
             {
                 "id": 94,
-                "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (a)"
+                "value": "İSTM.ŞSC.15.d. 170 / 111b-3"
             }
         ],
         "grocerist_id": "karye__11",
@@ -1118,11 +1049,7 @@
                 "documents": [
                     {
                         "id": 94,
-                        "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (a)"
-                    },
-                    {
-                        "id": 135,
-                        "value": "İSTM.ŞSC.15.d. 170 / 111b-3 (b)"
+                        "value": "İSTM.ŞSC.15.d. 170 / 111b-3"
                     }
                 ],
                 "occupation": [],
@@ -1143,12 +1070,7 @@
                     }
                 ],
                 "nahiye": [],
-                "quarter": [
-                    {
-                        "id": 9,
-                        "value": "Yedikule harici"
-                    }
-                ],
+                "quarter": [],
                 "address": []
             }
         ]
@@ -1461,293 +1383,45 @@
         "order": "16.00000000000000000000",
         "name": "Kısıklı",
         "notes": "",
-        "documents": [
-            {
-                "id": 126,
-                "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (c)"
-            }
-        ],
+        "documents": [],
         "grocerist_id": "karye__16",
         "lat": "41.0236700000",
         "long": "29.0514500000",
         "upper_admin2": [],
-        "upper_admin1": [
-            {
-                "ids": {
-                    "database_table_1488": 126,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
+        "upper_admin1": [],
         "upper_admin3": [],
         "upper_admin4": [],
-        "persons": [
-            {
-                "id": 79,
-                "order": "80.00000000000000000000",
-                "name": "Bakkal Manol v. Dimitri",
-                "grocerist_id": "person__79",
-                "religion": [
-                    {
-                        "id": 6682,
-                        "value": "Non muslim",
-                        "color": "gray"
-                    },
-                    {
-                        "id": 6705,
-                        "value": "Orthodox",
-                        "color": "dark-blue"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 79,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (a)"
-                    },
-                    {
-                        "id": 125,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (b)"
-                    },
-                    {
-                        "id": 126,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (c)"
-                    },
-                    {
-                        "id": 127,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (d)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "NaN",
-                "district": [
-                    {
-                        "id": 16,
-                        "value": "Üsküdar"
-                    }
-                ],
-                "neighbourhood": [
-                    {
-                        "id": 42,
-                        "value": "Yeni mahalle"
-                    }
-                ],
-                "karye": [
-                    {
-                        "id": 16,
-                        "value": "Kısıklı"
-                    }
-                ],
-                "nahiye": [],
-                "quarter": [],
-                "address": [
-                    {
-                        "id": 8,
-                        "value": "Yük İskelesi kurbü"
-                    }
-                ]
-            }
-        ]
+        "persons": []
     },
     "17": {
         "id": 17,
         "order": "17.00000000000000000000",
         "name": "Kulak",
         "notes": "",
-        "documents": [
-            {
-                "id": 128,
-                "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (b)"
-            }
-        ],
+        "documents": [],
         "grocerist_id": "karye__17",
         "lat": null,
         "long": null,
         "upper_admin2": [],
-        "upper_admin1": [
-            {
-                "ids": {
-                    "database_table_1488": 128,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
+        "upper_admin1": [],
         "upper_admin3": [],
         "upper_admin4": [],
-        "persons": [
-            {
-                "id": 82,
-                "order": "83.00000000000000000000",
-                "name": "Bakkal Panayot v. Polinçeron",
-                "grocerist_id": "person__82",
-                "religion": [
-                    {
-                        "id": 6682,
-                        "value": "Non muslim",
-                        "color": "gray"
-                    },
-                    {
-                        "id": 6705,
-                        "value": "Orthodox",
-                        "color": "dark-blue"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 82,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (a)"
-                    },
-                    {
-                        "id": 128,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (b)"
-                    },
-                    {
-                        "id": 129,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (c)"
-                    },
-                    {
-                        "id": 130,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (d)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "NaN",
-                "district": [
-                    {
-                        "id": 16,
-                        "value": "Üsküdar"
-                    }
-                ],
-                "neighbourhood": [
-                    {
-                        "id": 15,
-                        "value": "Sultan Bayezıd "
-                    }
-                ],
-                "karye": [
-                    {
-                        "id": 17,
-                        "value": "Kulak"
-                    },
-                    {
-                        "id": 18,
-                        "value": "Karaca Ahmed Sultan"
-                    }
-                ],
-                "nahiye": [],
-                "quarter": [],
-                "address": [
-                    {
-                        "id": 9,
-                        "value": "Arasta kurbü"
-                    }
-                ]
-            }
-        ]
+        "persons": []
     },
     "18": {
         "id": 18,
         "order": "18.00000000000000000000",
         "name": "Karaca Ahmed Sultan",
         "notes": "",
-        "documents": [
-            {
-                "id": 130,
-                "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (d)"
-            }
-        ],
+        "documents": [],
         "grocerist_id": "karye__18",
         "lat": "41.0136100000",
         "long": "29.0200000000",
         "upper_admin2": [],
-        "upper_admin1": [
-            {
-                "ids": {
-                    "database_table_1488": 130,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
+        "upper_admin1": [],
         "upper_admin3": [],
         "upper_admin4": [],
-        "persons": [
-            {
-                "id": 82,
-                "order": "83.00000000000000000000",
-                "name": "Bakkal Panayot v. Polinçeron",
-                "grocerist_id": "person__82",
-                "religion": [
-                    {
-                        "id": 6682,
-                        "value": "Non muslim",
-                        "color": "gray"
-                    },
-                    {
-                        "id": 6705,
-                        "value": "Orthodox",
-                        "color": "dark-blue"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 82,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (a)"
-                    },
-                    {
-                        "id": 128,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (b)"
-                    },
-                    {
-                        "id": 129,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (c)"
-                    },
-                    {
-                        "id": 130,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (d)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "NaN",
-                "district": [
-                    {
-                        "id": 16,
-                        "value": "Üsküdar"
-                    }
-                ],
-                "neighbourhood": [
-                    {
-                        "id": 15,
-                        "value": "Sultan Bayezıd "
-                    }
-                ],
-                "karye": [
-                    {
-                        "id": 17,
-                        "value": "Kulak"
-                    },
-                    {
-                        "id": 18,
-                        "value": "Karaca Ahmed Sultan"
-                    }
-                ],
-                "nahiye": [],
-                "quarter": [],
-                "address": [
-                    {
-                        "id": 9,
-                        "value": "Arasta kurbü"
-                    }
-                ]
-            }
-        ]
+        "persons": []
     },
     "19": {
         "id": 19,

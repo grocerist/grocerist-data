@@ -472,11 +472,7 @@
         "documents": [
             {
                 "id": 79,
-                "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (a)"
-            },
-            {
-                "id": 125,
-                "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (b)"
+                "value": "İSTM.ŞSC.06.d. 490 / 74a-2"
             }
         ],
         "grocerist_id": "address__8",
@@ -518,19 +514,7 @@
                 "documents": [
                     {
                         "id": 79,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (a)"
-                    },
-                    {
-                        "id": 125,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (b)"
-                    },
-                    {
-                        "id": 126,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (c)"
-                    },
-                    {
-                        "id": 127,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (d)"
+                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2"
                     }
                 ],
                 "occupation": [],
@@ -543,18 +527,8 @@
                         "value": "Üsküdar"
                     }
                 ],
-                "neighbourhood": [
-                    {
-                        "id": 42,
-                        "value": "Yeni mahalle"
-                    }
-                ],
-                "karye": [
-                    {
-                        "id": 16,
-                        "value": "Kısıklı"
-                    }
-                ],
+                "neighbourhood": [],
+                "karye": [],
                 "nahiye": [],
                 "quarter": [],
                 "address": [
@@ -574,7 +548,7 @@
         "documents": [
             {
                 "id": 82,
-                "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (a)"
+                "value": "İSTM.ŞSC.06.d. 495 / 25a-1"
             }
         ],
         "grocerist_id": "address__9",
@@ -616,19 +590,7 @@
                 "documents": [
                     {
                         "id": 82,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (a)"
-                    },
-                    {
-                        "id": 128,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (b)"
-                    },
-                    {
-                        "id": 129,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (c)"
-                    },
-                    {
-                        "id": 130,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (d)"
+                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1"
                     }
                 ],
                 "occupation": [],
@@ -641,22 +603,8 @@
                         "value": "Üsküdar"
                     }
                 ],
-                "neighbourhood": [
-                    {
-                        "id": 15,
-                        "value": "Sultan Bayezıd "
-                    }
-                ],
-                "karye": [
-                    {
-                        "id": 17,
-                        "value": "Kulak"
-                    },
-                    {
-                        "id": 18,
-                        "value": "Karaca Ahmed Sultan"
-                    }
-                ],
+                "neighbourhood": [],
+                "karye": [],
                 "nahiye": [],
                 "quarter": [],
                 "address": [

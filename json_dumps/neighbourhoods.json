@@ -492,10 +492,6 @@
             {
                 "id": 10,
                 "value": "İSTM.ŞSC.14.d.222 / 45a-2"
-            },
-            {
-                "id": 129,
-                "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (c)"
             }
         ],
         "district_nineteenth_century": [],
@@ -506,13 +502,6 @@
                     "database_table_1492": 4
                 },
                 "value": "Galata"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 129,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
             }
         ],
         "upper_admin2": [],
@@ -539,14 +528,6 @@
                     {
                         "id": 7,
                         "value": "İSTM.ŞSC.14.d.212/ 34b-2"
-                    },
-                    {
-                        "id": 119,
-                        "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (b)"
-                    },
-                    {
-                        "id": 120,
-                        "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (c)"
                     }
                 ],
                 "occupation": [],
@@ -557,28 +538,15 @@
                     {
                         "id": 4,
                         "value": "Galata"
-                    },
-                    {
-                        "id": 16,
-                        "value": "Üsküdar"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 15,
                         "value": "Sultan Bayezıd "
-                    },
-                    {
-                        "id": 79,
-                        "value": "Tenbel"
                     }
                 ],
-                "karye": [
-                    {
-                        "id": 6,
-                        "value": "Eski hamam"
-                    }
-                ],
+                "karye": [],
                 "nahiye": [],
                 "quarter": [],
                 "address": []
@@ -626,76 +594,6 @@
                 "nahiye": [],
                 "quarter": [],
                 "address": []
-            },
-            {
-                "id": 82,
-                "order": "83.00000000000000000000",
-                "name": "Bakkal Panayot v. Polinçeron",
-                "grocerist_id": "person__82",
-                "religion": [
-                    {
-                        "id": 6682,
-                        "value": "Non muslim",
-                        "color": "gray"
-                    },
-                    {
-                        "id": 6705,
-                        "value": "Orthodox",
-                        "color": "dark-blue"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 82,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (a)"
-                    },
-                    {
-                        "id": 128,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (b)"
-                    },
-                    {
-                        "id": 129,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (c)"
-                    },
-                    {
-                        "id": 130,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1 (d)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "NaN",
-                "district": [
-                    {
-                        "id": 16,
-                        "value": "Üsküdar"
-                    }
-                ],
-                "neighbourhood": [
-                    {
-                        "id": 15,
-                        "value": "Sultan Bayezıd "
-                    }
-                ],
-                "karye": [
-                    {
-                        "id": 17,
-                        "value": "Kulak"
-                    },
-                    {
-                        "id": 18,
-                        "value": "Karaca Ahmed Sultan"
-                    }
-                ],
-                "nahiye": [],
-                "quarter": [],
-                "address": [
-                    {
-                        "id": 9,
-                        "value": "Arasta kurbü"
-                    }
-                ]
             }
         ]
     },
@@ -1269,11 +1167,7 @@
             },
             {
                 "id": 105,
-                "value": "İSTM.ŞSC.15.d. 254 / 8a-2 (a)"
-            },
-            {
-                "id": 139,
-                "value": "İSTM.ŞSC.15.d. 254 / 8a-2 (b)"
+                "value": "İSTM.ŞSC.15.d. 254 / 8a-2"
             }
         ],
         "district_nineteenth_century": [],
@@ -1414,11 +1308,7 @@
                 "documents": [
                     {
                         "id": 105,
-                        "value": "İSTM.ŞSC.15.d. 254 / 8a-2 (a)"
-                    },
-                    {
-                        "id": 139,
-                        "value": "İSTM.ŞSC.15.d. 254 / 8a-2 (b)"
+                        "value": "İSTM.ŞSC.15.d. 254 / 8a-2"
                     }
                 ],
                 "occupation": [],
@@ -1789,10 +1679,6 @@
             {
                 "id": 52,
                 "value": "İSTM.ŞSC.14.d.528 / 83b-2"
-            },
-            {
-                "id": 127,
-                "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (d)"
             }
         ],
         "district_nineteenth_century": [],
@@ -1803,13 +1689,6 @@
                     "database_table_1492": 4
                 },
                 "value": "Galata"
-            },
-            {
-                "ids": {
-                    "database_table_1488": 127,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
             }
         ],
         "upper_admin2": [
@@ -1884,72 +1763,6 @@
                     }
                 ],
                 "address": []
-            },
-            {
-                "id": 79,
-                "order": "80.00000000000000000000",
-                "name": "Bakkal Manol v. Dimitri",
-                "grocerist_id": "person__79",
-                "religion": [
-                    {
-                        "id": 6682,
-                        "value": "Non muslim",
-                        "color": "gray"
-                    },
-                    {
-                        "id": 6705,
-                        "value": "Orthodox",
-                        "color": "dark-blue"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 79,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (a)"
-                    },
-                    {
-                        "id": 125,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (b)"
-                    },
-                    {
-                        "id": 126,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (c)"
-                    },
-                    {
-                        "id": 127,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2 (d)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "NaN",
-                "district": [
-                    {
-                        "id": 16,
-                        "value": "Üsküdar"
-                    }
-                ],
-                "neighbourhood": [
-                    {
-                        "id": 42,
-                        "value": "Yeni mahalle"
-                    }
-                ],
-                "karye": [
-                    {
-                        "id": 16,
-                        "value": "Kısıklı"
-                    }
-                ],
-                "nahiye": [],
-                "quarter": [],
-                "address": [
-                    {
-                        "id": 8,
-                        "value": "Yük İskelesi kurbü"
-                    }
-                ]
             }
         ]
     },
@@ -2805,7 +2618,7 @@
         "documents": [
             {
                 "id": 74,
-                "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (a)"
+                "value": "İSTM.ŞSC.06.d. 442 / 20a-2"
             }
         ],
         "district_nineteenth_century": [],
@@ -2836,11 +2649,7 @@
                 "documents": [
                     {
                         "id": 74,
-                        "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (a)"
-                    },
-                    {
-                        "id": 122,
-                        "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (b)"
+                        "value": "İSTM.ŞSC.06.d. 442 / 20a-2"
                     }
                 ],
                 "occupation": [],
@@ -2857,10 +2666,6 @@
                     {
                         "id": 53,
                         "value": "Kapı ağası"
-                    },
-                    {
-                        "id": 80,
-                        "value": "Kefçe"
                     }
                 ],
                 "karye": [],
@@ -3748,11 +3553,7 @@
         "documents": [
             {
                 "id": 97,
-                "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
-            },
-            {
-                "id": 137,
-                "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (b)"
+                "value": "İSTM.ŞSC.15.d. 194 / 10b-1"
             }
         ],
         "district_nineteenth_century": [],
@@ -3788,11 +3589,7 @@
                 "documents": [
                     {
                         "id": 97,
-                        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (a)"
-                    },
-                    {
-                        "id": 137,
-                        "value": "İSTM.ŞSC.15.d. 194 / 10b-1 (b)"
+                        "value": "İSTM.ŞSC.15.d. 194 / 10b-1"
                     }
                 ],
                 "occupation": [],
@@ -4047,7 +3844,7 @@
         "documents": [
             {
                 "id": 49,
-                "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
+                "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
             }
         ],
         "district_nineteenth_century": [],
@@ -4098,11 +3895,7 @@
                 "documents": [
                     {
                         "id": 49,
-                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
-                    },
-                    {
-                        "id": 117,
-                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
+                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
                     }
                 ],
                 "occupation": [],
@@ -4119,10 +3912,6 @@
                     {
                         "id": 76,
                         "value": "Kulaksız"
-                    },
-                    {
-                        "id": 77,
-                        "value": "Seyyid Ali"
                     }
                 ],
                 "karye": [],
@@ -4150,95 +3939,12 @@
         "geonames_id": "",
         "lat": null,
         "long": null,
-        "documents": [
-            {
-                "id": 117,
-                "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
-            }
-        ],
+        "documents": [],
         "district_nineteenth_century": [],
-        "upper_admin1": [
-            {
-                "ids": {
-                    "database_table_1488": 117,
-                    "database_table_1492": 4
-                },
-                "value": "Galata"
-            }
-        ],
+        "upper_admin1": [],
         "upper_admin2": [],
-        "upper_admin3": [
-            {
-                "ids": {
-                    "database_table_1488": 117,
-                    "database_table_2977": 2
-                },
-                "value": "Kasımpaşa"
-            }
-        ],
-        "persons": [
-            {
-                "id": 49,
-                "order": "50.00000000000000000000",
-                "name": "Bakkal Trandafil v. Yori",
-                "grocerist_id": "person__49",
-                "religion": [
-                    {
-                        "id": 6682,
-                        "value": "Non muslim",
-                        "color": "gray"
-                    },
-                    {
-                        "id": 6705,
-                        "value": "Orthodox",
-                        "color": "dark-blue"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 49,
-                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (a)"
-                    },
-                    {
-                        "id": 117,
-                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3 (b)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "NaN",
-                "district": [
-                    {
-                        "id": 4,
-                        "value": "Galata"
-                    }
-                ],
-                "neighbourhood": [
-                    {
-                        "id": 76,
-                        "value": "Kulaksız"
-                    },
-                    {
-                        "id": 77,
-                        "value": "Seyyid Ali"
-                    }
-                ],
-                "karye": [],
-                "nahiye": [],
-                "quarter": [
-                    {
-                        "id": 2,
-                        "value": "Kasımpaşa"
-                    },
-                    {
-                        "id": 10,
-                        "value": "Tatavla"
-                    }
-                ],
-                "address": []
-            }
-        ]
+        "upper_admin3": [],
+        "persons": []
     },
     "79": {
         "id": 79,
@@ -4249,91 +3955,12 @@
         "geonames_id": "",
         "lat": null,
         "long": null,
-        "documents": [
-            {
-                "id": 120,
-                "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (c)"
-            }
-        ],
+        "documents": [],
         "district_nineteenth_century": [],
-        "upper_admin1": [
-            {
-                "ids": {
-                    "database_table_1488": 120,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
+        "upper_admin1": [],
         "upper_admin2": [],
         "upper_admin3": [],
-        "persons": [
-            {
-                "id": 7,
-                "order": "7.00000000000000000000",
-                "name": "Bakkal Dimitri v. Yorgi",
-                "grocerist_id": "person__7",
-                "religion": [
-                    {
-                        "id": 6682,
-                        "value": "Non muslim",
-                        "color": "gray"
-                    },
-                    {
-                        "id": 6705,
-                        "value": "Orthodox",
-                        "color": "dark-blue"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 7,
-                        "value": "İSTM.ŞSC.14.d.212/ 34b-2"
-                    },
-                    {
-                        "id": 119,
-                        "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (b)"
-                    },
-                    {
-                        "id": 120,
-                        "value": "İSTM.ŞSC.06.d. 359 / 27a-1 (c)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "18",
-                "district": [
-                    {
-                        "id": 4,
-                        "value": "Galata"
-                    },
-                    {
-                        "id": 16,
-                        "value": "Üsküdar"
-                    }
-                ],
-                "neighbourhood": [
-                    {
-                        "id": 15,
-                        "value": "Sultan Bayezıd "
-                    },
-                    {
-                        "id": 79,
-                        "value": "Tenbel"
-                    }
-                ],
-                "karye": [
-                    {
-                        "id": 6,
-                        "value": "Eski hamam"
-                    }
-                ],
-                "nahiye": [],
-                "quarter": [],
-                "address": []
-            }
-        ]
+        "persons": []
     },
     "80": {
         "id": 80,
@@ -4344,73 +3971,12 @@
         "geonames_id": "",
         "lat": null,
         "long": null,
-        "documents": [
-            {
-                "id": 122,
-                "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (b)"
-            }
-        ],
+        "documents": [],
         "district_nineteenth_century": [],
-        "upper_admin1": [
-            {
-                "ids": {
-                    "database_table_1488": 122,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
+        "upper_admin1": [],
         "upper_admin2": [],
         "upper_admin3": [],
-        "persons": [
-            {
-                "id": 74,
-                "order": "75.00000000000000000000",
-                "name": "Elhac Mahmud Ağa b. Hasan",
-                "grocerist_id": "person__74",
-                "religion": [
-                    {
-                        "id": 6681,
-                        "value": "Muslim",
-                        "color": "green"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 74,
-                        "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (a)"
-                    },
-                    {
-                        "id": 122,
-                        "value": "İSTM.ŞSC.06.d. 442 / 20a-2 (b)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "18",
-                "district": [
-                    {
-                        "id": 16,
-                        "value": "Üsküdar"
-                    }
-                ],
-                "neighbourhood": [
-                    {
-                        "id": 53,
-                        "value": "Kapı ağası"
-                    },
-                    {
-                        "id": 80,
-                        "value": "Kefçe"
-                    }
-                ],
-                "karye": [],
-                "nahiye": [],
-                "quarter": [],
-                "address": []
-            }
-        ]
+        "persons": []
     },
     "81": {
         "id": 81,
@@ -4440,7 +4006,7 @@
         "documents": [
             {
                 "id": 83,
-                "value": "İSTM.ŞSC.06.d. 495 / 68a-2 (a)"
+                "value": "İSTM.ŞSC.06.d. 495 / 68a-2"
             }
         ],
         "district_nineteenth_century": [],
@@ -4476,11 +4042,7 @@
                 "documents": [
                     {
                         "id": 83,
-                        "value": "İSTM.ŞSC.06.d. 495 / 68a-2 (a)"
-                    },
-                    {
-                        "id": 132,
-                        "value": "İSTM.ŞSC.06.d. 495 / 68a-2 (b)"
+                        "value": "İSTM.ŞSC.06.d. 495 / 68a-2"
                     }
                 ],
                 "occupation": [],
@@ -4497,10 +4059,6 @@
                     {
                         "id": 84,
                         "value": "Selami"
-                    },
-                    {
-                        "id": 85,
-                        "value": "Dorbalı (Torbalı)"
                     }
                 ],
                 "karye": [],
@@ -4519,78 +4077,12 @@
         "geonames_id": "",
         "lat": "41.0226200000",
         "long": "29.0234300000",
-        "documents": [
-            {
-                "id": 132,
-                "value": "İSTM.ŞSC.06.d. 495 / 68a-2 (b)"
-            }
-        ],
+        "documents": [],
         "district_nineteenth_century": [],
-        "upper_admin1": [
-            {
-                "ids": {
-                    "database_table_1488": 132,
-                    "database_table_1492": 16
-                },
-                "value": "Üsküdar"
-            }
-        ],
+        "upper_admin1": [],
         "upper_admin2": [],
         "upper_admin3": [],
-        "persons": [
-            {
-                "id": 83,
-                "order": "84.00000000000000000000",
-                "name": "Bakkal Konstantin v. Horosu",
-                "grocerist_id": "person__83",
-                "religion": [
-                    {
-                        "id": 6682,
-                        "value": "Non muslim",
-                        "color": "gray"
-                    },
-                    {
-                        "id": 6705,
-                        "value": "Orthodox",
-                        "color": "dark-blue"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 83,
-                        "value": "İSTM.ŞSC.06.d. 495 / 68a-2 (a)"
-                    },
-                    {
-                        "id": 132,
-                        "value": "İSTM.ŞSC.06.d. 495 / 68a-2 (b)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "NaN",
-                "district": [
-                    {
-                        "id": 16,
-                        "value": "Üsküdar"
-                    }
-                ],
-                "neighbourhood": [
-                    {
-                        "id": 84,
-                        "value": "Selami"
-                    },
-                    {
-                        "id": 85,
-                        "value": "Dorbalı (Torbalı)"
-                    }
-                ],
-                "karye": [],
-                "nahiye": [],
-                "quarter": [],
-                "address": []
-            }
-        ]
+        "persons": []
     },
     "87": {
         "id": 87,
@@ -4604,7 +4096,7 @@
         "documents": [
             {
                 "id": 93,
-                "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (a)"
+                "value": "İSTM.ŞSC.15.d. 164 / 8b-1"
             }
         ],
         "district_nineteenth_century": [],
@@ -4640,15 +4132,7 @@
                 "documents": [
                     {
                         "id": 93,
-                        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (a)"
-                    },
-                    {
-                        "id": 133,
-                        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (b)"
-                    },
-                    {
-                        "id": 134,
-                        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (c)"
+                        "value": "İSTM.ŞSC.15.d. 164 / 8b-1"
                     }
                 ],
                 "occupation": [],
@@ -4665,14 +4149,6 @@
                     {
                         "id": 87,
                         "value": "Balat Kapısı"
-                    },
-                    {
-                        "id": 88,
-                        "value": "Kiremit"
-                    },
-                    {
-                        "id": 91,
-                        "value": "Lonca"
                     }
                 ],
                 "karye": [],
@@ -4691,86 +4167,12 @@
         "geonames_id": "",
         "lat": "41.0299600000",
         "long": "28.9475100000",
-        "documents": [
-            {
-                "id": 133,
-                "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (b)"
-            }
-        ],
+        "documents": [],
         "district_nineteenth_century": [],
-        "upper_admin1": [
-            {
-                "ids": {
-                    "database_table_1488": 133,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            }
-        ],
+        "upper_admin1": [],
         "upper_admin2": [],
         "upper_admin3": [],
-        "persons": [
-            {
-                "id": 97,
-                "order": "95.00000000000000000000",
-                "name": "İşrapo v. Yani",
-                "grocerist_id": "person__97",
-                "religion": [
-                    {
-                        "id": 6682,
-                        "value": "Non muslim",
-                        "color": "gray"
-                    },
-                    {
-                        "id": 6705,
-                        "value": "Orthodox",
-                        "color": "dark-blue"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 93,
-                        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (a)"
-                    },
-                    {
-                        "id": 133,
-                        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (b)"
-                    },
-                    {
-                        "id": 134,
-                        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (c)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "18",
-                "district": [
-                    {
-                        "id": 19,
-                        "value": "Eyüp"
-                    }
-                ],
-                "neighbourhood": [
-                    {
-                        "id": 87,
-                        "value": "Balat Kapısı"
-                    },
-                    {
-                        "id": 88,
-                        "value": "Kiremit"
-                    },
-                    {
-                        "id": 91,
-                        "value": "Lonca"
-                    }
-                ],
-                "karye": [],
-                "nahiye": [],
-                "quarter": [],
-                "address": []
-            }
-        ]
+        "persons": []
     },
     "91": {
         "id": 91,
@@ -4781,86 +4183,12 @@
         "geonames_id": "",
         "lat": "41.0327500000",
         "long": null,
-        "documents": [
-            {
-                "id": 134,
-                "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (c)"
-            }
-        ],
+        "documents": [],
         "district_nineteenth_century": [],
-        "upper_admin1": [
-            {
-                "ids": {
-                    "database_table_1488": 134,
-                    "database_table_1492": 19
-                },
-                "value": "Eyüp"
-            }
-        ],
+        "upper_admin1": [],
         "upper_admin2": [],
         "upper_admin3": [],
-        "persons": [
-            {
-                "id": 97,
-                "order": "95.00000000000000000000",
-                "name": "İşrapo v. Yani",
-                "grocerist_id": "person__97",
-                "religion": [
-                    {
-                        "id": 6682,
-                        "value": "Non muslim",
-                        "color": "gray"
-                    },
-                    {
-                        "id": 6705,
-                        "value": "Orthodox",
-                        "color": "dark-blue"
-                    }
-                ],
-                "documents": [
-                    {
-                        "id": 93,
-                        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (a)"
-                    },
-                    {
-                        "id": 133,
-                        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (b)"
-                    },
-                    {
-                        "id": 134,
-                        "value": "İSTM.ŞSC.15.d. 164 / 8b-1 (c)"
-                    }
-                ],
-                "occupation": [],
-                "checked": true,
-                "same_as": [],
-                "century": "18",
-                "district": [
-                    {
-                        "id": 19,
-                        "value": "Eyüp"
-                    }
-                ],
-                "neighbourhood": [
-                    {
-                        "id": 87,
-                        "value": "Balat Kapısı"
-                    },
-                    {
-                        "id": 88,
-                        "value": "Kiremit"
-                    },
-                    {
-                        "id": 91,
-                        "value": "Lonca"
-                    }
-                ],
-                "karye": [],
-                "nahiye": [],
-                "quarter": [],
-                "address": []
-            }
-        ]
+        "persons": []
     },
     "95": {
         "id": 95,
