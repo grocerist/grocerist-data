@@ -133,6 +133,7 @@ join_tables(documents_data, persons_data, "main_person")
 # Add lat, long and date from documents
 add_lat_long(goods_data, documents_data)
 add_lat_long(utensils_data, documents_data)
+add_lat_long(persons_data, documents_data)
 
 
 add_locations(persons_data, documents_data)
