@@ -7,215 +7,268 @@
         "goods": [
             {
                 "id": 1,
-                "value": "Fındık"
+                "value": "Fındık",
+                "order": "1.00000000000000000000"
             },
             {
                 "id": 2,
-                "value": "Fıstık"
+                "value": "Fıstık",
+                "order": "2.00000000000000000000"
             },
             {
                 "id": 3,
-                "value": "Badem"
+                "value": "Badem",
+                "order": "3.00000000000000000000"
             },
             {
                 "id": 4,
-                "value": "Ceviz"
+                "value": "Ceviz",
+                "order": "4.00000000000000000000"
             },
             {
                 "id": 12,
-                "value": "Böğrülce"
+                "value": "Böğrülce",
+                "order": "12.00000000000000000000"
             },
             {
                 "id": 13,
-                "value": "Nohut"
+                "value": "Nohut",
+                "order": "13.00000000000000000000"
             },
             {
                 "id": 14,
-                "value": "Mercimek"
+                "value": "Mercimek",
+                "order": "14.00000000000000000000"
             },
             {
                 "id": 15,
-                "value": "Pirinç"
+                "value": "Pirinç",
+                "order": "15.00000000000000000000"
             },
             {
                 "id": 17,
-                "value": "Beylerce"
+                "value": "Beylerce",
+                "order": "17.00000000000000000000"
             },
             {
                 "id": 18,
-                "value": "Razaki"
+                "value": "Razaki",
+                "order": "18.00000000000000000000"
             },
             {
                 "id": 19,
-                "value": "Kızıl"
+                "value": "Kızıl",
+                "order": "19.00000000000000000000"
             },
             {
                 "id": 20,
-                "value": "Siyah"
+                "value": "Siyah",
+                "order": "20.00000000000000000000"
             },
             {
                 "id": 21,
-                "value": "İncir"
+                "value": "İncir",
+                "order": "21.00000000000000000000"
             },
             {
                 "id": 22,
-                "value": "Keçiboynuzu / Harnup"
+                "value": "Keçiboynuzu / Harnup",
+                "order": "22.00000000000000000000"
             },
             {
                 "id": 36,
-                "value": "Şariye"
+                "value": "Şariye",
+                "order": "36.00000000000000000000"
             },
             {
                 "id": 41,
-                "value": "Daru"
+                "value": "Daru",
+                "order": "41.00000000000000000000"
             },
             {
                 "id": 44,
-                "value": "Buğday"
+                "value": "Buğday",
+                "order": "44.00000000000000000000"
             },
             {
                 "id": 45,
-                "value": "Bulgur"
+                "value": "Bulgur",
+                "order": "45.00000000000000000000"
             },
             {
                 "id": 46,
-                "value": "Şair"
+                "value": "Şair",
+                "order": "46.00000000000000000000"
             },
             {
                 "id": 48,
-                "value": "Kuru üzüm"
+                "value": "Kuru üzüm",
+                "order": "48.00000000000000000000"
             },
             {
                 "id": 58,
-                "value": "Kuş üzümü"
+                "value": "Kuş üzümü",
+                "order": "58.00000000000000000000"
             },
             {
                 "id": 65,
-                "value": "Küfter"
+                "value": "Küfter",
+                "order": "65.00000000000000000000"
             },
             {
                 "id": 86,
-                "value": "Peksimet"
+                "value": "Peksimet",
+                "order": "86.00000000000000000000"
             },
             {
                 "id": 92,
-                "value": "Kabuklu acıbadem"
+                "value": "Kabuklu acıbadem",
+                "order": "92.00000000000000000000"
             },
             {
                 "id": 94,
-                "value": "Kızılcık kurusu"
+                "value": "Kızılcık kurusu",
+                "order": "94.00000000000000000000"
             },
             {
                 "id": 96,
-                "value": "Pestil"
+                "value": "Pestil",
+                "order": "96.00000000000000000000"
             },
             {
                 "id": 97,
-                "value": "Kiraz kurusu"
+                "value": "Kiraz kurusu",
+                "order": "97.00000000000000000000"
             },
             {
                 "id": 98,
-                "value": "Sarıca inciri"
+                "value": "Sarıca inciri",
+                "order": "98.00000000000000000000"
             },
             {
                 "id": 155,
-                "value": "Bakla"
+                "value": "Bakla",
+                "order": "154.00000000000000000000"
             },
             {
                 "id": 160,
-                "value": "Üzüm"
+                "value": "Üzüm",
+                "order": "158.00000000000000000000"
             },
             {
                 "id": 175,
-                "value": "Kestane"
+                "value": "Kestane",
+                "order": "172.00000000000000000000"
             },
             {
                 "id": 177,
-                "value": "Leblebi"
+                "value": "Leblebi",
+                "order": "174.00000000000000000000"
             },
             {
                 "id": 185,
-                "value": "İğde"
+                "value": "İğde",
+                "order": "182.00000000000000000000"
             },
             {
                 "id": 186,
-                "value": "Armut kurusu"
+                "value": "Armut kurusu",
+                "order": "183.00000000000000000000"
             },
             {
                 "id": 189,
-                "value": "Tarhana"
+                "value": "Tarhana",
+                "order": "186.00000000000000000000"
             },
             {
                 "id": 191,
-                "value": "Edremit siyahı üzüm"
+                "value": "Edremit siyahı üzüm",
+                "order": "188.00000000000000000000"
             },
             {
                 "id": 202,
-                "value": "Lob inciri"
+                "value": "Lob inciri",
+                "order": "199.00000000000000000000"
             },
             {
                 "id": 210,
-                "value": "Edremit siyahı"
+                "value": "Edremit siyahı",
+                "order": "206.00000000000000000000"
             },
             {
                 "id": 251,
-                "value": "Kabuklu badem"
+                "value": "Kabuklu badem",
+                "order": "244.00000000000000000000"
             },
             {
                 "id": 255,
-                "value": "Mısır pirinci"
+                "value": "Mısır pirinci",
+                "order": "248.00000000000000000000"
             },
             {
                 "id": 256,
-                "value": "Anadolu pirinci"
+                "value": "Anadolu pirinci",
+                "order": "249.00000000000000000000"
             },
             {
                 "id": 257,
-                "value": "Kızıl Şariyye"
+                "value": "Kızıl Şariyye",
+                "order": "250.00000000000000000000"
             },
             {
                 "id": 258,
-                "value": "Döğülmiş Şariyye"
+                "value": "Döğülmiş Şariyye",
+                "order": "251.00000000000000000000"
             },
             {
                 "id": 267,
-                "value": "Alaca bakla"
+                "value": "Alaca bakla",
+                "order": "260.00000000000000000000"
             },
             {
                 "id": 275,
-                "value": "İzmir siyahı üzüm"
+                "value": "İzmir siyahı üzüm",
+                "order": "268.00000000000000000000"
             },
             {
                 "id": 340,
-                "value": "Koca üzümü"
+                "value": "Koca üzümü",
+                "order": "333.00000000000000000000"
             },
             {
                 "id": 349,
-                "value": "Şorbalık şariye"
+                "value": "Şorbalık şariye",
+                "order": "341.00000000000000000000"
             },
             {
                 "id": 350,
-                "value": "Kırmızı üzüm"
+                "value": "Kırmızı üzüm",
+                "order": "342.00000000000000000000"
             },
             {
                 "id": 356,
-                "value": "Şorbalık arpa"
+                "value": "Şorbalık arpa",
+                "order": "348.00000000000000000000"
             },
             {
                 "id": 365,
-                "value": "Koca siyah üzüm"
+                "value": "Koca siyah üzüm",
+                "order": "357.00000000000000000000"
             },
             {
                 "id": 369,
-                "value": "Hoşablık üzüm"
+                "value": "Hoşablık üzüm",
+                "order": "361.00000000000000000000"
             },
             {
                 "id": 370,
-                "value": "Fındık içi"
+                "value": "Fındık içi",
+                "order": "362.00000000000000000000"
             },
             {
                 "id": 372,
-                "value": "Arpa şariye"
+                "value": "Arpa şariye",
+                "order": "363.00000000000000000000"
             }
         ],
         "category_type": {
@@ -555,35 +608,43 @@
         "goods": [
             {
                 "id": 5,
-                "value": "Zeytin yağı"
+                "value": "Zeytin yağı",
+                "order": "5.00000000000000000000"
             },
             {
                 "id": 6,
-                "value": "Sadeyağ"
+                "value": "Sadeyağ",
+                "order": "6.00000000000000000000"
             },
             {
                 "id": 7,
-                "value": "Don yağı"
+                "value": "Don yağı",
+                "order": "7.00000000000000000000"
             },
             {
                 "id": 63,
-                "value": "Susam yağı"
+                "value": "Susam yağı",
+                "order": "63.00000000000000000000"
             },
             {
                 "id": 183,
-                "value": "Kakırdak"
+                "value": "Kakırdak",
+                "order": "180.00000000000000000000"
             },
             {
                 "id": 231,
-                "value": "Revgan-ı çerviş"
+                "value": "Revgan-ı çerviş",
+                "order": "225.00000000000000000000"
             },
             {
                 "id": 262,
-                "value": "Revgan-ı Leh"
+                "value": "Revgan-ı Leh",
+                "order": "255.00000000000000000000"
             },
             {
                 "id": 269,
-                "value": "Çalgı revgan-ı sade"
+                "value": "Çalgı revgan-ı sade",
+                "order": "262.00000000000000000000"
             }
         ],
         "category_type": {
@@ -893,75 +954,93 @@
         "goods": [
             {
                 "id": 9,
-                "value": "Kaşkaval"
+                "value": "Kaşkaval",
+                "order": "9.00000000000000000000"
             },
             {
                 "id": 10,
-                "value": "Tulum peyniri"
+                "value": "Tulum peyniri",
+                "order": "10.00000000000000000000"
             },
             {
                 "id": 60,
-                "value": "Taze peynir"
+                "value": "Taze peynir",
+                "order": "60.00000000000000000000"
             },
             {
                 "id": 84,
-                "value": "Salamura peynir"
+                "value": "Salamura peynir",
+                "order": "84.00000000000000000000"
             },
             {
                 "id": 89,
-                "value": "Çorlu peyniri"
+                "value": "Çorlu peyniri",
+                "order": "89.00000000000000000000"
             },
             {
                 "id": 166,
-                "value": "Peynir"
+                "value": "Peynir",
+                "order": "163.00000000000000000000"
             },
             {
                 "id": 184,
-                "value": "Keçi peyniri"
+                "value": "Keçi peyniri",
+                "order": "181.00000000000000000000"
             },
             {
                 "id": 187,
-                "value": "Yerli kaşkaval"
+                "value": "Yerli kaşkaval",
+                "order": "184.00000000000000000000"
             },
             {
                 "id": 190,
-                "value": "Çorlu kaşkavalı"
+                "value": "Çorlu kaşkavalı",
+                "order": "187.00000000000000000000"
             },
             {
                 "id": 196,
-                "value": "Dil peyniri"
+                "value": "Dil peyniri",
+                "order": "193.00000000000000000000"
             },
             {
                 "id": 197,
-                "value": "Yoğurt"
+                "value": "Yoğurt",
+                "order": "194.00000000000000000000"
             },
             {
                 "id": 236,
-                "value": "Mudurnu peyniri"
+                "value": "Mudurnu peyniri",
+                "order": "230.00000000000000000000"
             },
             {
                 "id": 261,
-                "value": "Leh kaşkavalı"
+                "value": "Leh kaşkavalı",
+                "order": "254.00000000000000000000"
             },
             {
                 "id": 270,
-                "value": "Torba yoğurt"
+                "value": "Torba yoğurt",
+                "order": "263.00000000000000000000"
             },
             {
                 "id": 345,
-                "value": "Kaşar peyniri"
+                "value": "Kaşar peyniri",
+                "order": "337.00000000000000000000"
             },
             {
                 "id": 351,
-                "value": "Balkan cheese"
+                "value": "Balkan cheese",
+                "order": "343.00000000000000000000"
             },
             {
                 "id": 358,
-                "value": "Peynir yağı"
+                "value": "Peynir yağı",
+                "order": "350.00000000000000000000"
             },
             {
                 "id": 359,
-                "value": "Karagümrük tulum peyniri"
+                "value": "Karagümrük tulum peyniri",
+                "order": "351.00000000000000000000"
             }
         ],
         "category_type": {
@@ -1226,103 +1305,128 @@
         "goods": [
             {
                 "id": 37,
-                "value": "Balık turşusu"
+                "value": "Balık turşusu",
+                "order": "37.00000000000000000000"
             },
             {
                 "id": 38,
-                "value": "Havyar"
+                "value": "Havyar",
+                "order": "38.00000000000000000000"
             },
             {
                 "id": 47,
-                "value": "Uskumru balığu turşusu"
+                "value": "Uskumru balığu turşusu",
+                "order": "47.00000000000000000000"
             },
             {
                 "id": 49,
-                "value": "Sucuk"
+                "value": "Sucuk",
+                "order": "49.00000000000000000000"
             },
             {
                 "id": 52,
-                "value": "Turşu balığı"
+                "value": "Turşu balığı",
+                "order": "52.00000000000000000000"
             },
             {
                 "id": 56,
-                "value": "Balık salamurası"
+                "value": "Balık salamurası",
+                "order": "56.00000000000000000000"
             },
             {
                 "id": 57,
-                "value": "Pastırma"
+                "value": "Pastırma",
+                "order": "57.00000000000000000000"
             },
             {
                 "id": 59,
-                "value": "Yumurta"
+                "value": "Yumurta",
+                "order": "59.00000000000000000000"
             },
             {
                 "id": 66,
-                "value": "Lakerda balığı"
+                "value": "Lakerda balığı",
+                "order": "66.00000000000000000000"
             },
             {
                 "id": 71,
-                "value": "Sardalya"
+                "value": "Sardalya",
+                "order": "71.00000000000000000000"
             },
             {
                 "id": 72,
-                "value": "Uskumru balığı"
+                "value": "Uskumru balığı",
+                "order": "72.00000000000000000000"
             },
             {
                 "id": 73,
-                "value": "Kolyarudya balığı"
+                "value": "Kolyarudya balığı",
+                "order": "73.00000000000000000000"
             },
             {
                 "id": 74,
-                "value": "Mersin balığı"
+                "value": "Mersin balığı",
+                "order": "74.00000000000000000000"
             },
             {
                 "id": 75,
-                "value": "Çiroz balığı"
+                "value": "Çiroz balığı",
+                "order": "75.00000000000000000000"
             },
             {
                 "id": 76,
-                "value": "Çütre balığı"
+                "value": "Çütre balığı",
+                "order": "76.00000000000000000000"
             },
             {
                 "id": 80,
-                "value": "Morina balığı"
+                "value": "Morina balığı",
+                "order": "80.00000000000000000000"
             },
             {
                 "id": 81,
-                "value": "Terkoz balığı"
+                "value": "Terkoz balığı",
+                "order": "81.00000000000000000000"
             },
             {
                 "id": 102,
-                "value": "Tuzlu balık"
+                "value": "Tuzlu balık",
+                "order": "102.00000000000000000000"
             },
             {
                 "id": 157,
-                "value": "Sade balık"
+                "value": "Sade balık",
+                "order": "155.00000000000000000000"
             },
             {
                 "id": 161,
-                "value": "Kolyoz balığı"
+                "value": "Kolyoz balığı",
+                "order": "159.00000000000000000000"
             },
             {
                 "id": 247,
-                "value": "Balık"
+                "value": "Balık",
+                "order": "240.00000000000000000000"
             },
             {
                 "id": 254,
-                "value": "Kayseriye pastırması"
+                "value": "Kayseriye pastırması",
+                "order": "247.00000000000000000000"
             },
             {
                 "id": 335,
-                "value": "Horoz"
+                "value": "Horoz",
+                "order": "328.00000000000000000000"
             },
             {
                 "id": 346,
-                "value": "Rumeli sucuğu pastırması"
+                "value": "Rumeli sucuğu pastırması",
+                "order": "338.00000000000000000000"
             },
             {
                 "id": 362,
-                "value": "Uskumru balığı tuzlaması"
+                "value": "Uskumru balığı tuzlaması",
+                "order": "354.00000000000000000000"
             }
         ],
         "category_type": {
@@ -1517,143 +1621,178 @@
         "goods": [
             {
                 "id": 23,
-                "value": "Pekmez"
+                "value": "Pekmez",
+                "order": "23.00000000000000000000"
             },
             {
                 "id": 25,
-                "value": "Bal / Asel"
+                "value": "Bal / Asel",
+                "order": "25.00000000000000000000"
             },
             {
                 "id": 28,
-                "value": "Sirke"
+                "value": "Sirke",
+                "order": "28.00000000000000000000"
             },
             {
                 "id": 30,
-                "value": "Tuz"
+                "value": "Tuz",
+                "order": "30.00000000000000000000"
             },
             {
                 "id": 33,
-                "value": "Kefe tuzu"
+                "value": "Kefe tuzu",
+                "order": "33.00000000000000000000"
             },
             {
                 "id": 42,
-                "value": "Eflak tuzu"
+                "value": "Eflak tuzu",
+                "order": "42.00000000000000000000"
             },
             {
                 "id": 43,
-                "value": "Hurda tuz"
+                "value": "Hurda tuz",
+                "order": "43.00000000000000000000"
             },
             {
                 "id": 50,
-                "value": "Sumak"
+                "value": "Sumak",
+                "order": "50.00000000000000000000"
             },
             {
                 "id": 54,
-                "value": "Kuşadası  balı"
+                "value": "Kuşadası  balı",
+                "order": "54.00000000000000000000"
             },
             {
                 "id": 64,
-                "value": "Döğülmüş tuz"
+                "value": "Döğülmüş tuz",
+                "order": "64.00000000000000000000"
             },
             {
                 "id": 77,
-                "value": "Girit pekmezi"
+                "value": "Girit pekmezi",
+                "order": "77.00000000000000000000"
             },
             {
                 "id": 83,
-                "value": "Odun pekmezi"
+                "value": "Odun pekmezi",
+                "order": "83.00000000000000000000"
             },
             {
                 "id": 91,
-                "value": "Akdeniz balı"
+                "value": "Akdeniz balı",
+                "order": "91.00000000000000000000"
             },
             {
                 "id": 93,
-                "value": "Gömeç balı"
+                "value": "Gömeç balı",
+                "order": "93.00000000000000000000"
             },
             {
                 "id": 95,
-                "value": "Çörek otu"
+                "value": "Çörek otu",
+                "order": "95.00000000000000000000"
             },
             {
                 "id": 142,
-                "value": "Eflak balı"
+                "value": "Eflak balı",
+                "order": "142.00000000000000000000"
             },
             {
                 "id": 159,
-                "value": "Çorlu pekmezi"
+                "value": "Çorlu pekmezi",
+                "order": "157.00000000000000000000"
             },
             {
                 "id": 176,
-                "value": "Anason"
+                "value": "Anason",
+                "order": "173.00000000000000000000"
             },
             {
                 "id": 181,
-                "value": "Revak asel"
+                "value": "Revak asel",
+                "order": "178.00000000000000000000"
             },
             {
                 "id": 193,
-                "value": "Tahin"
+                "value": "Tahin",
+                "order": "190.00000000000000000000"
             },
             {
                 "id": 205,
-                "value": "Karadeniz balı"
+                "value": "Karadeniz balı",
+                "order": "202.00000000000000000000"
             },
             {
                 "id": 209,
-                "value": "Gemlik tuzu"
+                "value": "Gemlik tuzu",
+                "order": "205.00000000000000000000"
             },
             {
                 "id": 227,
-                "value": "Ham sirke"
+                "value": "Ham sirke",
+                "order": "221.00000000000000000000"
             },
             {
                 "id": 259,
-                "value": "Leh tuzu"
+                "value": "Leh tuzu",
+                "order": "252.00000000000000000000"
             },
             {
                 "id": 265,
-                "value": "Döğülmüş Leh tuzu"
+                "value": "Döğülmüş Leh tuzu",
+                "order": "258.00000000000000000000"
             },
             {
                 "id": 276,
-                "value": "Kutu balı"
+                "value": "Kutu balı",
+                "order": "269.00000000000000000000"
             },
             {
                 "id": 334,
-                "value": "Kaya tuzu"
+                "value": "Kaya tuzu",
+                "order": "327.00000000000000000000"
             },
             {
                 "id": 336,
-                "value": "Kahve şekeri"
+                "value": "Kahve şekeri",
+                "order": "329.00000000000000000000"
             },
             {
                 "id": 342,
-                "value": "Odun asel"
+                "value": "Odun asel",
+                "order": "334.00000000000000000000"
             },
             {
                 "id": 348,
-                "value": "İnce tuz"
+                "value": "İnce tuz",
+                "order": "340.00000000000000000000"
             },
             {
                 "id": 360,
-                "value": "Yaprak tuzu"
+                "value": "Yaprak tuzu",
+                "order": "352.00000000000000000000"
             },
             {
                 "id": 364,
-                "value": "Kalın tuz"
+                "value": "Kalın tuz",
+                "order": "356.00000000000000000000"
             },
             {
                 "id": 368,
-                "value": "Köy tuzu"
+                "value": "Köy tuzu",
+                "order": "360.00000000000000000000"
             },
             {
                 "id": 373,
-                "value": "Kırmızı biber"
+                "value": "Kırmızı biber",
+                "order": "364.00000000000000000000"
             },
             {
                 "id": 375,
-                "value": "Peppercorn"
+                "value": "Peppercorn",
+                "order": "365.00000000000000000000"
             }
         ],
         "category_type": {
@@ -1993,19 +2132,23 @@
         "goods": [
             {
                 "id": 27,
-                "value": "Nişasta"
+                "value": "Nişasta",
+                "order": "27.00000000000000000000"
             },
             {
                 "id": 53,
-                "value": "Un / Dakik"
+                "value": "Un / Dakik",
+                "order": "53.00000000000000000000"
             },
             {
                 "id": 355,
-                "value": "Dakik-i has"
+                "value": "Dakik-i has",
+                "order": "347.00000000000000000000"
             },
             {
                 "id": 367,
-                "value": "Dakik-i vasat"
+                "value": "Dakik-i vasat",
+                "order": "359.00000000000000000000"
             }
         ],
         "category_type": {
@@ -2240,59 +2383,73 @@
         "goods": [
             {
                 "id": 29,
-                "value": "Soğan"
+                "value": "Soğan",
+                "order": "29.00000000000000000000"
             },
             {
                 "id": 31,
-                "value": "Sarımsak"
+                "value": "Sarımsak",
+                "order": "31.00000000000000000000"
             },
             {
                 "id": 32,
-                "value": "Karadeniz mısırı"
+                "value": "Karadeniz mısırı",
+                "order": "32.00000000000000000000"
             },
             {
                 "id": 69,
-                "value": "Elma"
+                "value": "Elma",
+                "order": "69.00000000000000000000"
             },
             {
                 "id": 70,
-                "value": "Nar"
+                "value": "Nar",
+                "order": "70.00000000000000000000"
             },
             {
                 "id": 87,
-                "value": "Kaba soğan"
+                "value": "Kaba soğan",
+                "order": "87.00000000000000000000"
             },
             {
                 "id": 88,
-                "value": "Arpacık soğanı"
+                "value": "Arpacık soğanı",
+                "order": "88.00000000000000000000"
             },
             {
                 "id": 99,
-                "value": "Limon"
+                "value": "Limon",
+                "order": "99.00000000000000000000"
             },
             {
                 "id": 101,
-                "value": "Fasulye"
+                "value": "Fasulye",
+                "order": "101.00000000000000000000"
             },
             {
                 "id": 170,
-                "value": "Karpuz"
+                "value": "Karpuz",
+                "order": "167.00000000000000000000"
             },
             {
                 "id": 201,
-                "value": "Turp"
+                "value": "Turp",
+                "order": "198.00000000000000000000"
             },
             {
                 "id": 324,
-                "value": "Erik"
+                "value": "Erik",
+                "order": "317.00000000000000000000"
             },
             {
                 "id": 337,
-                "value": "Hunnap"
+                "value": "Hunnap",
+                "order": "330.00000000000000000000"
             },
             {
                 "id": 347,
-                "value": "Saplı sarımsak"
+                "value": "Saplı sarımsak",
+                "order": "339.00000000000000000000"
             }
         ],
         "category_type": {
@@ -2562,63 +2719,78 @@
         "goods": [
             {
                 "id": 34,
-                "value": "Zeytin"
+                "value": "Zeytin",
+                "order": "34.00000000000000000000"
             },
             {
                 "id": 40,
-                "value": "Lahana turşusu"
+                "value": "Lahana turşusu",
+                "order": "40.00000000000000000000"
             },
             {
                 "id": 61,
-                "value": "Trilye zeytini"
+                "value": "Trilye zeytini",
+                "order": "61.00000000000000000000"
             },
             {
                 "id": 78,
-                "value": "Biber turşusu"
+                "value": "Biber turşusu",
+                "order": "78.00000000000000000000"
             },
             {
                 "id": 79,
-                "value": "Karamürsel zeytini"
+                "value": "Karamürsel zeytini",
+                "order": "79.00000000000000000000"
             },
             {
                 "id": 90,
-                "value": "Gemlik zeytini"
+                "value": "Gemlik zeytini",
+                "order": "90.00000000000000000000"
             },
             {
                 "id": 164,
-                "value": "Girit zeytini"
+                "value": "Girit zeytini",
+                "order": "161.00000000000000000000"
             },
             {
                 "id": 173,
-                "value": "Kırmızı sele zeytini"
+                "value": "Kırmızı sele zeytini",
+                "order": "170.00000000000000000000"
             },
             {
                 "id": 174,
-                "value": "Turşu yaprağı"
+                "value": "Turşu yaprağı",
+                "order": "171.00000000000000000000"
             },
             {
                 "id": 180,
-                "value": "Dolmalık yaprak"
+                "value": "Dolmalık yaprak",
+                "order": "177.00000000000000000000"
             },
             {
                 "id": 211,
-                "value": "Asma yaprağı"
+                "value": "Asma yaprağı",
+                "order": "207.00000000000000000000"
             },
             {
                 "id": 268,
-                "value": "Çürük zeytun"
+                "value": "Çürük zeytun",
+                "order": "261.00000000000000000000"
             },
             {
                 "id": 272,
-                "value": "Turşu yaprağı"
+                "value": "Turşu yaprağı",
+                "order": "265.00000000000000000000"
             },
             {
                 "id": 278,
-                "value": "Turşu"
+                "value": "Turşu",
+                "order": "271.00000000000000000000"
             },
             {
                 "id": 325,
-                "value": "Küflenmiş zeytun"
+                "value": "Küflenmiş zeytun",
+                "order": "318.00000000000000000000"
             }
         ],
         "category_type": {
@@ -2863,23 +3035,28 @@
         "goods": [
             {
                 "id": 24,
-                "value": "Nardeng"
+                "value": "Nardeng",
+                "order": "24.00000000000000000000"
             },
             {
                 "id": 51,
-                "value": "Ihlamur"
+                "value": "Ihlamur",
+                "order": "51.00000000000000000000"
             },
             {
                 "id": 179,
-                "value": "Limon suyu / Ab-ı limon"
+                "value": "Limon suyu / Ab-ı limon",
+                "order": "176.00000000000000000000"
             },
             {
                 "id": 226,
-                "value": "Arak"
+                "value": "Arak",
+                "order": "220.00000000000000000000"
             },
             {
                 "id": 239,
-                "value": "Kahve"
+                "value": "Kahve",
+                "order": "232.00000000000000000000"
             }
         ],
         "category_type": {
@@ -3099,167 +3276,208 @@
         "goods": [
             {
                 "id": 35,
-                "value": "Tütün"
+                "value": "Tütün",
+                "order": "35.00000000000000000000"
             },
             {
                 "id": 55,
-                "value": "Bezir yağı"
+                "value": "Bezir yağı",
+                "order": "55.00000000000000000000"
             },
             {
                 "id": 68,
-                "value": "Lüle"
+                "value": "Lüle",
+                "order": "68.00000000000000000000"
             },
             {
                 "id": 108,
-                "value": "Sabun"
+                "value": "Sabun",
+                "order": "108.00000000000000000000"
             },
             {
                 "id": 112,
-                "value": "Mum"
+                "value": "Mum",
+                "order": "112.00000000000000000000"
             },
             {
                 "id": 113,
-                "value": "Çarçube kağıdı"
+                "value": "Çarçube kağıdı",
+                "order": "113.00000000000000000000"
             },
             {
                 "id": 146,
-                "value": "Hatab"
+                "value": "Hatab",
+                "order": "146.00000000000000000000"
             },
             {
                 "id": 147,
-                "value": "Kömür"
+                "value": "Kömür",
+                "order": "147.00000000000000000000"
             },
             {
                 "id": 148,
-                "value": "Girit sabunu"
+                "value": "Girit sabunu",
+                "order": "148.00000000000000000000"
             },
             {
                 "id": 150,
-                "value": "Çıra"
+                "value": "Çıra",
+                "order": "150.00000000000000000000"
             },
             {
                 "id": 151,
-                "value": "Sicim"
+                "value": "Sicim",
+                "order": "151.00000000000000000000"
             },
             {
                 "id": 152,
-                "value": "Şamadıra"
+                "value": "Şamadıra",
+                "order": "152.00000000000000000000"
             },
             {
                 "id": 158,
-                "value": "Şem-i revgan"
+                "value": "Şem-i revgan",
+                "order": "156.00000000000000000000"
             },
             {
                 "id": 162,
-                "value": "Zift"
+                "value": "Zift",
+                "order": "160.00000000000000000000"
             },
             {
                 "id": 165,
-                "value": "Kil"
+                "value": "Kil",
+                "order": "162.00000000000000000000"
             },
             {
                 "id": 169,
-                "value": "Kav"
+                "value": "Kav",
+                "order": "166.00000000000000000000"
             },
             {
                 "id": 172,
-                "value": "İzmir sabunu"
+                "value": "İzmir sabunu",
+                "order": "169.00000000000000000000"
             },
             {
                 "id": 188,
-                "value": "Tuğla tozu"
+                "value": "Tuğla tozu",
+                "order": "185.00000000000000000000"
             },
             {
                 "id": 192,
-                "value": "Çakmak tozu"
+                "value": "Çakmak tozu",
+                "order": "189.00000000000000000000"
             },
             {
                 "id": 194,
-                "value": "Yapağı yün"
+                "value": "Yapağı yün",
+                "order": "191.00000000000000000000"
             },
             {
                 "id": 199,
-                "value": "Trablus sabunu"
+                "value": "Trablus sabunu",
+                "order": "196.00000000000000000000"
             },
             {
                 "id": 200,
-                "value": "Kağıt"
+                "value": "Kağıt",
+                "order": "197.00000000000000000000"
             },
             {
                 "id": 204,
-                "value": "Süpürge"
+                "value": "Süpürge",
+                "order": "201.00000000000000000000"
             },
             {
                 "id": 206,
-                "value": "Temür hurdası"
+                "value": "Temür hurdası",
+                "order": "203.00000000000000000000"
             },
             {
                 "id": 216,
-                "value": "Meydan süpürgesi"
+                "value": "Meydan süpürgesi",
+                "order": "211.00000000000000000000"
             },
             {
                 "id": 219,
-                "value": "Katran"
+                "value": "Katran",
+                "order": "214.00000000000000000000"
             },
             {
                 "id": 230,
-                "value": "Saman"
+                "value": "Saman",
+                "order": "224.00000000000000000000"
             },
             {
                 "id": 233,
-                "value": "Çakmak"
+                "value": "Çakmak",
+                "order": "227.00000000000000000000"
             },
             {
                 "id": 237,
-                "value": "Yazı kağıdı"
+                "value": "Yazı kağıdı",
+                "order": "231.00000000000000000000"
             },
             {
                 "id": 240,
-                "value": "Enfiye"
+                "value": "Enfiye",
+                "order": "233.00000000000000000000"
             },
             {
                 "id": 244,
-                "value": "Mısır ipliği"
+                "value": "Mısır ipliği",
+                "order": "237.00000000000000000000"
             },
             {
                 "id": 252,
-                "value": "Mum yağı"
+                "value": "Mum yağı",
+                "order": "245.00000000000000000000"
             },
             {
                 "id": 253,
-                "value": "Hasır Süpürgesi"
+                "value": "Hasır Süpürgesi",
+                "order": "246.00000000000000000000"
             },
             {
                 "id": 260,
-                "value": "Demet odunu"
+                "value": "Demet odunu",
+                "order": "253.00000000000000000000"
             },
             {
                 "id": 326,
-                "value": "Kızak yağı"
+                "value": "Kızak yağı",
+                "order": "319.00000000000000000000"
             },
             {
                 "id": 338,
-                "value": "Sünbül"
+                "value": "Sünbül",
+                "order": "331.00000000000000000000"
             },
             {
                 "id": 343,
-                "value": "Çalı süpürgesi"
+                "value": "Çalı süpürgesi",
+                "order": "335.00000000000000000000"
             },
             {
                 "id": 344,
-                "value": "Adi süpürge"
+                "value": "Adi süpürge",
+                "order": "336.00000000000000000000"
             },
             {
                 "id": 361,
-                "value": "Balmumu"
+                "value": "Balmumu",
+                "order": "353.00000000000000000000"
             },
             {
                 "id": 363,
-                "value": "Çingane süpürgesi"
+                "value": "Çingane süpürgesi",
+                "order": "355.00000000000000000000"
             },
             {
                 "id": 366,
-                "value": "Şişe mum"
+                "value": "Şişe mum",
+                "order": "358.00000000000000000000"
             }
         ],
         "category_type": {
@@ -3569,55 +3787,68 @@
         "goods": [
             {
                 "id": 15,
-                "value": "Pirinç"
+                "value": "Pirinç",
+                "order": "15.00000000000000000000"
             },
             {
                 "id": 36,
-                "value": "Şariye"
+                "value": "Şariye",
+                "order": "36.00000000000000000000"
             },
             {
                 "id": 41,
-                "value": "Daru"
+                "value": "Daru",
+                "order": "41.00000000000000000000"
             },
             {
                 "id": 44,
-                "value": "Buğday"
+                "value": "Buğday",
+                "order": "44.00000000000000000000"
             },
             {
                 "id": 45,
-                "value": "Bulgur"
+                "value": "Bulgur",
+                "order": "45.00000000000000000000"
             },
             {
                 "id": 46,
-                "value": "Şair"
+                "value": "Şair",
+                "order": "46.00000000000000000000"
             },
             {
                 "id": 255,
-                "value": "Mısır pirinci"
+                "value": "Mısır pirinci",
+                "order": "248.00000000000000000000"
             },
             {
                 "id": 256,
-                "value": "Anadolu pirinci"
+                "value": "Anadolu pirinci",
+                "order": "249.00000000000000000000"
             },
             {
                 "id": 257,
-                "value": "Kızıl Şariyye"
+                "value": "Kızıl Şariyye",
+                "order": "250.00000000000000000000"
             },
             {
                 "id": 258,
-                "value": "Döğülmiş Şariyye"
+                "value": "Döğülmiş Şariyye",
+                "order": "251.00000000000000000000"
             },
             {
                 "id": 349,
-                "value": "Şorbalık şariye"
+                "value": "Şorbalık şariye",
+                "order": "341.00000000000000000000"
             },
             {
                 "id": 356,
-                "value": "Şorbalık arpa"
+                "value": "Şorbalık arpa",
+                "order": "348.00000000000000000000"
             },
             {
                 "id": 372,
-                "value": "Arpa şariye"
+                "value": "Arpa şariye",
+                "order": "363.00000000000000000000"
             }
         ],
         "category_type": {
@@ -3628,7 +3859,8 @@
         "part_of": [
             {
                 "id": 43,
-                "value": "Dry goods"
+                "value": "Dry goods",
+                "order": "1.00000000000000000000"
             }
         ],
         "documents": [
@@ -3947,23 +4179,28 @@
         "goods": [
             {
                 "id": 12,
-                "value": "Böğrülce"
+                "value": "Böğrülce",
+                "order": "12.00000000000000000000"
             },
             {
                 "id": 13,
-                "value": "Nohut"
+                "value": "Nohut",
+                "order": "13.00000000000000000000"
             },
             {
                 "id": 14,
-                "value": "Mercimek"
+                "value": "Mercimek",
+                "order": "14.00000000000000000000"
             },
             {
                 "id": 155,
-                "value": "Bakla"
+                "value": "Bakla",
+                "order": "154.00000000000000000000"
             },
             {
                 "id": 267,
-                "value": "Alaca bakla"
+                "value": "Alaca bakla",
+                "order": "260.00000000000000000000"
             }
         ],
         "category_type": {
@@ -3974,7 +4211,8 @@
         "part_of": [
             {
                 "id": 43,
-                "value": "Dry goods"
+                "value": "Dry goods",
+                "order": "1.00000000000000000000"
             }
         ],
         "documents": [
@@ -4243,99 +4481,123 @@
         "goods": [
             {
                 "id": 17,
-                "value": "Beylerce"
+                "value": "Beylerce",
+                "order": "17.00000000000000000000"
             },
             {
                 "id": 18,
-                "value": "Razaki"
+                "value": "Razaki",
+                "order": "18.00000000000000000000"
             },
             {
                 "id": 19,
-                "value": "Kızıl"
+                "value": "Kızıl",
+                "order": "19.00000000000000000000"
             },
             {
                 "id": 20,
-                "value": "Siyah"
+                "value": "Siyah",
+                "order": "20.00000000000000000000"
             },
             {
                 "id": 21,
-                "value": "İncir"
+                "value": "İncir",
+                "order": "21.00000000000000000000"
             },
             {
                 "id": 22,
-                "value": "Keçiboynuzu / Harnup"
+                "value": "Keçiboynuzu / Harnup",
+                "order": "22.00000000000000000000"
             },
             {
                 "id": 48,
-                "value": "Kuru üzüm"
+                "value": "Kuru üzüm",
+                "order": "48.00000000000000000000"
             },
             {
                 "id": 58,
-                "value": "Kuş üzümü"
+                "value": "Kuş üzümü",
+                "order": "58.00000000000000000000"
             },
             {
                 "id": 65,
-                "value": "Küfter"
+                "value": "Küfter",
+                "order": "65.00000000000000000000"
             },
             {
                 "id": 94,
-                "value": "Kızılcık kurusu"
+                "value": "Kızılcık kurusu",
+                "order": "94.00000000000000000000"
             },
             {
                 "id": 96,
-                "value": "Pestil"
+                "value": "Pestil",
+                "order": "96.00000000000000000000"
             },
             {
                 "id": 97,
-                "value": "Kiraz kurusu"
+                "value": "Kiraz kurusu",
+                "order": "97.00000000000000000000"
             },
             {
                 "id": 98,
-                "value": "Sarıca inciri"
+                "value": "Sarıca inciri",
+                "order": "98.00000000000000000000"
             },
             {
                 "id": 160,
-                "value": "Üzüm"
+                "value": "Üzüm",
+                "order": "158.00000000000000000000"
             },
             {
                 "id": 185,
-                "value": "İğde"
+                "value": "İğde",
+                "order": "182.00000000000000000000"
             },
             {
                 "id": 186,
-                "value": "Armut kurusu"
+                "value": "Armut kurusu",
+                "order": "183.00000000000000000000"
             },
             {
                 "id": 191,
-                "value": "Edremit siyahı üzüm"
+                "value": "Edremit siyahı üzüm",
+                "order": "188.00000000000000000000"
             },
             {
                 "id": 202,
-                "value": "Lob inciri"
+                "value": "Lob inciri",
+                "order": "199.00000000000000000000"
             },
             {
                 "id": 210,
-                "value": "Edremit siyahı"
+                "value": "Edremit siyahı",
+                "order": "206.00000000000000000000"
             },
             {
                 "id": 275,
-                "value": "İzmir siyahı üzüm"
+                "value": "İzmir siyahı üzüm",
+                "order": "268.00000000000000000000"
             },
             {
                 "id": 340,
-                "value": "Koca üzümü"
+                "value": "Koca üzümü",
+                "order": "333.00000000000000000000"
             },
             {
                 "id": 350,
-                "value": "Kırmızı üzüm"
+                "value": "Kırmızı üzüm",
+                "order": "342.00000000000000000000"
             },
             {
                 "id": 365,
-                "value": "Koca siyah üzüm"
+                "value": "Koca siyah üzüm",
+                "order": "357.00000000000000000000"
             },
             {
                 "id": 369,
-                "value": "Hoşablık üzüm"
+                "value": "Hoşablık üzüm",
+                "order": "361.00000000000000000000"
             }
         ],
         "category_type": {
@@ -4346,7 +4608,8 @@
         "part_of": [
             {
                 "id": 43,
-                "value": "Dry goods"
+                "value": "Dry goods",
+                "order": "1.00000000000000000000"
             }
         ],
         "documents": [
@@ -4565,39 +4828,48 @@
         "goods": [
             {
                 "id": 1,
-                "value": "Fındık"
+                "value": "Fındık",
+                "order": "1.00000000000000000000"
             },
             {
                 "id": 2,
-                "value": "Fıstık"
+                "value": "Fıstık",
+                "order": "2.00000000000000000000"
             },
             {
                 "id": 3,
-                "value": "Badem"
+                "value": "Badem",
+                "order": "3.00000000000000000000"
             },
             {
                 "id": 4,
-                "value": "Ceviz"
+                "value": "Ceviz",
+                "order": "4.00000000000000000000"
             },
             {
                 "id": 92,
-                "value": "Kabuklu acıbadem"
+                "value": "Kabuklu acıbadem",
+                "order": "92.00000000000000000000"
             },
             {
                 "id": 175,
-                "value": "Kestane"
+                "value": "Kestane",
+                "order": "172.00000000000000000000"
             },
             {
                 "id": 177,
-                "value": "Leblebi"
+                "value": "Leblebi",
+                "order": "174.00000000000000000000"
             },
             {
                 "id": 251,
-                "value": "Kabuklu badem"
+                "value": "Kabuklu badem",
+                "order": "244.00000000000000000000"
             },
             {
                 "id": 370,
-                "value": "Fındık içi"
+                "value": "Fındık içi",
+                "order": "362.00000000000000000000"
             }
         ],
         "category_type": {
@@ -4608,7 +4880,8 @@
         "part_of": [
             {
                 "id": 43,
-                "value": "Dry goods"
+                "value": "Dry goods",
+                "order": "1.00000000000000000000"
             }
         ],
         "documents": [
@@ -4862,63 +5135,78 @@
         "goods": [
             {
                 "id": 9,
-                "value": "Kaşkaval"
+                "value": "Kaşkaval",
+                "order": "9.00000000000000000000"
             },
             {
                 "id": 10,
-                "value": "Tulum peyniri"
+                "value": "Tulum peyniri",
+                "order": "10.00000000000000000000"
             },
             {
                 "id": 60,
-                "value": "Taze peynir"
+                "value": "Taze peynir",
+                "order": "60.00000000000000000000"
             },
             {
                 "id": 84,
-                "value": "Salamura peynir"
+                "value": "Salamura peynir",
+                "order": "84.00000000000000000000"
             },
             {
                 "id": 89,
-                "value": "Çorlu peyniri"
+                "value": "Çorlu peyniri",
+                "order": "89.00000000000000000000"
             },
             {
                 "id": 166,
-                "value": "Peynir"
+                "value": "Peynir",
+                "order": "163.00000000000000000000"
             },
             {
                 "id": 184,
-                "value": "Keçi peyniri"
+                "value": "Keçi peyniri",
+                "order": "181.00000000000000000000"
             },
             {
                 "id": 187,
-                "value": "Yerli kaşkaval"
+                "value": "Yerli kaşkaval",
+                "order": "184.00000000000000000000"
             },
             {
                 "id": 190,
-                "value": "Çorlu kaşkavalı"
+                "value": "Çorlu kaşkavalı",
+                "order": "187.00000000000000000000"
             },
             {
                 "id": 196,
-                "value": "Dil peyniri"
+                "value": "Dil peyniri",
+                "order": "193.00000000000000000000"
             },
             {
                 "id": 236,
-                "value": "Mudurnu peyniri"
+                "value": "Mudurnu peyniri",
+                "order": "230.00000000000000000000"
             },
             {
                 "id": 261,
-                "value": "Leh kaşkavalı"
+                "value": "Leh kaşkavalı",
+                "order": "254.00000000000000000000"
             },
             {
                 "id": 345,
-                "value": "Kaşar peyniri"
+                "value": "Kaşar peyniri",
+                "order": "337.00000000000000000000"
             },
             {
                 "id": 351,
-                "value": "Balkan cheese"
+                "value": "Balkan cheese",
+                "order": "343.00000000000000000000"
             },
             {
                 "id": 359,
-                "value": "Karagümrük tulum peyniri"
+                "value": "Karagümrük tulum peyniri",
+                "order": "351.00000000000000000000"
             }
         ],
         "category_type": {
@@ -4929,7 +5217,8 @@
         "part_of": [
             {
                 "id": 45,
-                "value": "Dairy"
+                "value": "Dairy",
+                "order": "3.00000000000000000000"
             }
         ],
         "documents": [
@@ -5183,7 +5472,8 @@
         "goods": [
             {
                 "id": 5,
-                "value": "Zeytin yağı"
+                "value": "Zeytin yağı",
+                "order": "5.00000000000000000000"
             }
         ],
         "category_type": {
@@ -5194,7 +5484,8 @@
         "part_of": [
             {
                 "id": 44,
-                "value": "Cooking oil"
+                "value": "Cooking oil",
+                "order": "2.00000000000000000000"
             }
         ],
         "documents": [
@@ -5448,31 +5739,38 @@
         "goods": [
             {
                 "id": 6,
-                "value": "Sadeyağ"
+                "value": "Sadeyağ",
+                "order": "6.00000000000000000000"
             },
             {
                 "id": 7,
-                "value": "Don yağı"
+                "value": "Don yağı",
+                "order": "7.00000000000000000000"
             },
             {
                 "id": 63,
-                "value": "Susam yağı"
+                "value": "Susam yağı",
+                "order": "63.00000000000000000000"
             },
             {
                 "id": 183,
-                "value": "Kakırdak"
+                "value": "Kakırdak",
+                "order": "180.00000000000000000000"
             },
             {
                 "id": 231,
-                "value": "Revgan-ı çerviş"
+                "value": "Revgan-ı çerviş",
+                "order": "225.00000000000000000000"
             },
             {
                 "id": 262,
-                "value": "Revgan-ı Leh"
+                "value": "Revgan-ı Leh",
+                "order": "255.00000000000000000000"
             },
             {
                 "id": 269,
-                "value": "Çalgı revgan-ı sade"
+                "value": "Çalgı revgan-ı sade",
+                "order": "262.00000000000000000000"
             }
         ],
         "category_type": {
@@ -5483,7 +5781,8 @@
         "part_of": [
             {
                 "id": 44,
-                "value": "Cooking oil"
+                "value": "Cooking oil",
+                "order": "2.00000000000000000000"
             }
         ],
         "documents": [
@@ -5737,35 +6036,43 @@
         "goods": [
             {
                 "id": 29,
-                "value": "Soğan"
+                "value": "Soğan",
+                "order": "29.00000000000000000000"
             },
             {
                 "id": 31,
-                "value": "Sarımsak"
+                "value": "Sarımsak",
+                "order": "31.00000000000000000000"
             },
             {
                 "id": 32,
-                "value": "Karadeniz mısırı"
+                "value": "Karadeniz mısırı",
+                "order": "32.00000000000000000000"
             },
             {
                 "id": 87,
-                "value": "Kaba soğan"
+                "value": "Kaba soğan",
+                "order": "87.00000000000000000000"
             },
             {
                 "id": 88,
-                "value": "Arpacık soğanı"
+                "value": "Arpacık soğanı",
+                "order": "88.00000000000000000000"
             },
             {
                 "id": 101,
-                "value": "Fasulye"
+                "value": "Fasulye",
+                "order": "101.00000000000000000000"
             },
             {
                 "id": 201,
-                "value": "Turp"
+                "value": "Turp",
+                "order": "198.00000000000000000000"
             },
             {
                 "id": 347,
-                "value": "Saplı sarımsak"
+                "value": "Saplı sarımsak",
+                "order": "339.00000000000000000000"
             }
         ],
         "category_type": {
@@ -5776,7 +6083,8 @@
         "part_of": [
             {
                 "id": 49,
-                "value": "Produce"
+                "value": "Produce",
+                "order": "7.00000000000000000000"
             }
         ],
         "documents": [
@@ -6035,27 +6343,33 @@
         "goods": [
             {
                 "id": 69,
-                "value": "Elma"
+                "value": "Elma",
+                "order": "69.00000000000000000000"
             },
             {
                 "id": 70,
-                "value": "Nar"
+                "value": "Nar",
+                "order": "70.00000000000000000000"
             },
             {
                 "id": 99,
-                "value": "Limon"
+                "value": "Limon",
+                "order": "99.00000000000000000000"
             },
             {
                 "id": 170,
-                "value": "Karpuz"
+                "value": "Karpuz",
+                "order": "167.00000000000000000000"
             },
             {
                 "id": 324,
-                "value": "Erik"
+                "value": "Erik",
+                "order": "317.00000000000000000000"
             },
             {
                 "id": 337,
-                "value": "Hunnap"
+                "value": "Hunnap",
+                "order": "330.00000000000000000000"
             }
         ],
         "category_type": {
@@ -6066,7 +6380,8 @@
         "part_of": [
             {
                 "id": 49,
-                "value": "Produce"
+                "value": "Produce",
+                "order": "7.00000000000000000000"
             }
         ],
         "documents": [
@@ -6130,15 +6445,18 @@
         "goods": [
             {
                 "id": 50,
-                "value": "Sumak"
+                "value": "Sumak",
+                "order": "50.00000000000000000000"
             },
             {
                 "id": 373,
-                "value": "Kırmızı biber"
+                "value": "Kırmızı biber",
+                "order": "364.00000000000000000000"
             },
             {
                 "id": 375,
-                "value": "Peppercorn"
+                "value": "Peppercorn",
+                "order": "365.00000000000000000000"
             }
         ],
         "category_type": {
@@ -6149,7 +6467,8 @@
         "part_of": [
             {
                 "id": 47,
-                "value": "Condiments"
+                "value": "Condiments",
+                "order": "5.00000000000000000000"
             }
         ],
         "documents": [
@@ -6173,59 +6492,73 @@
         "goods": [
             {
                 "id": 23,
-                "value": "Pekmez"
+                "value": "Pekmez",
+                "order": "23.00000000000000000000"
             },
             {
                 "id": 25,
-                "value": "Bal / Asel"
+                "value": "Bal / Asel",
+                "order": "25.00000000000000000000"
             },
             {
                 "id": 54,
-                "value": "Kuşadası  balı"
+                "value": "Kuşadası  balı",
+                "order": "54.00000000000000000000"
             },
             {
                 "id": 77,
-                "value": "Girit pekmezi"
+                "value": "Girit pekmezi",
+                "order": "77.00000000000000000000"
             },
             {
                 "id": 83,
-                "value": "Odun pekmezi"
+                "value": "Odun pekmezi",
+                "order": "83.00000000000000000000"
             },
             {
                 "id": 91,
-                "value": "Akdeniz balı"
+                "value": "Akdeniz balı",
+                "order": "91.00000000000000000000"
             },
             {
                 "id": 93,
-                "value": "Gömeç balı"
+                "value": "Gömeç balı",
+                "order": "93.00000000000000000000"
             },
             {
                 "id": 142,
-                "value": "Eflak balı"
+                "value": "Eflak balı",
+                "order": "142.00000000000000000000"
             },
             {
                 "id": 159,
-                "value": "Çorlu pekmezi"
+                "value": "Çorlu pekmezi",
+                "order": "157.00000000000000000000"
             },
             {
                 "id": 181,
-                "value": "Revak asel"
+                "value": "Revak asel",
+                "order": "178.00000000000000000000"
             },
             {
                 "id": 205,
-                "value": "Karadeniz balı"
+                "value": "Karadeniz balı",
+                "order": "202.00000000000000000000"
             },
             {
                 "id": 276,
-                "value": "Kutu balı"
+                "value": "Kutu balı",
+                "order": "269.00000000000000000000"
             },
             {
                 "id": 336,
-                "value": "Kahve şekeri"
+                "value": "Kahve şekeri",
+                "order": "329.00000000000000000000"
             },
             {
                 "id": 342,
-                "value": "Odun asel"
+                "value": "Odun asel",
+                "order": "334.00000000000000000000"
             }
         ],
         "category_type": {
@@ -6236,7 +6569,8 @@
         "part_of": [
             {
                 "id": 47,
-                "value": "Condiments"
+                "value": "Condiments",
+                "order": "5.00000000000000000000"
             }
         ],
         "documents": [
@@ -6490,55 +6824,68 @@
         "goods": [
             {
                 "id": 30,
-                "value": "Tuz"
+                "value": "Tuz",
+                "order": "30.00000000000000000000"
             },
             {
                 "id": 33,
-                "value": "Kefe tuzu"
+                "value": "Kefe tuzu",
+                "order": "33.00000000000000000000"
             },
             {
                 "id": 42,
-                "value": "Eflak tuzu"
+                "value": "Eflak tuzu",
+                "order": "42.00000000000000000000"
             },
             {
                 "id": 43,
-                "value": "Hurda tuz"
+                "value": "Hurda tuz",
+                "order": "43.00000000000000000000"
             },
             {
                 "id": 64,
-                "value": "Döğülmüş tuz"
+                "value": "Döğülmüş tuz",
+                "order": "64.00000000000000000000"
             },
             {
                 "id": 209,
-                "value": "Gemlik tuzu"
+                "value": "Gemlik tuzu",
+                "order": "205.00000000000000000000"
             },
             {
                 "id": 259,
-                "value": "Leh tuzu"
+                "value": "Leh tuzu",
+                "order": "252.00000000000000000000"
             },
             {
                 "id": 265,
-                "value": "Döğülmüş Leh tuzu"
+                "value": "Döğülmüş Leh tuzu",
+                "order": "258.00000000000000000000"
             },
             {
                 "id": 334,
-                "value": "Kaya tuzu"
+                "value": "Kaya tuzu",
+                "order": "327.00000000000000000000"
             },
             {
                 "id": 348,
-                "value": "İnce tuz"
+                "value": "İnce tuz",
+                "order": "340.00000000000000000000"
             },
             {
                 "id": 360,
-                "value": "Yaprak tuzu"
+                "value": "Yaprak tuzu",
+                "order": "352.00000000000000000000"
             },
             {
                 "id": 364,
-                "value": "Kalın tuz"
+                "value": "Kalın tuz",
+                "order": "356.00000000000000000000"
             },
             {
                 "id": 368,
-                "value": "Köy tuzu"
+                "value": "Köy tuzu",
+                "order": "360.00000000000000000000"
             }
         ],
         "category_type": {
@@ -6549,7 +6896,8 @@
         "part_of": [
             {
                 "id": 47,
-                "value": "Condiments"
+                "value": "Condiments",
+                "order": "5.00000000000000000000"
             }
         ],
         "documents": [
@@ -6808,11 +7156,13 @@
         "goods": [
             {
                 "id": 28,
-                "value": "Sirke"
+                "value": "Sirke",
+                "order": "28.00000000000000000000"
             },
             {
                 "id": 227,
-                "value": "Ham sirke"
+                "value": "Ham sirke",
+                "order": "221.00000000000000000000"
             }
         ],
         "category_type": {
@@ -6823,7 +7173,8 @@
         "part_of": [
             {
                 "id": 47,
-                "value": "Condiments"
+                "value": "Condiments",
+                "order": "5.00000000000000000000"
             }
         ],
         "documents": [
@@ -7082,19 +7433,23 @@
         "goods": [
             {
                 "id": 55,
-                "value": "Bezir yağı"
+                "value": "Bezir yağı",
+                "order": "55.00000000000000000000"
             },
             {
                 "id": 158,
-                "value": "Şem-i revgan"
+                "value": "Şem-i revgan",
+                "order": "156.00000000000000000000"
             },
             {
                 "id": 252,
-                "value": "Mum yağı"
+                "value": "Mum yağı",
+                "order": "245.00000000000000000000"
             },
             {
                 "id": 326,
-                "value": "Kızak yağı"
+                "value": "Kızak yağı",
+                "order": "319.00000000000000000000"
             }
         ],
         "category_type": {
@@ -7105,7 +7460,8 @@
         "part_of": [
             {
                 "id": 50,
-                "value": "Non-food"
+                "value": "Non-food",
+                "order": "8.00000000000000000000"
             }
         ],
         "documents": [
@@ -7204,27 +7560,33 @@
         "goods": [
             {
                 "id": 204,
-                "value": "Süpürge"
+                "value": "Süpürge",
+                "order": "201.00000000000000000000"
             },
             {
                 "id": 216,
-                "value": "Meydan süpürgesi"
+                "value": "Meydan süpürgesi",
+                "order": "211.00000000000000000000"
             },
             {
                 "id": 253,
-                "value": "Hasır Süpürgesi"
+                "value": "Hasır Süpürgesi",
+                "order": "246.00000000000000000000"
             },
             {
                 "id": 343,
-                "value": "Çalı süpürgesi"
+                "value": "Çalı süpürgesi",
+                "order": "335.00000000000000000000"
             },
             {
                 "id": 344,
-                "value": "Adi süpürge"
+                "value": "Adi süpürge",
+                "order": "336.00000000000000000000"
             },
             {
                 "id": 363,
-                "value": "Çingane süpürgesi"
+                "value": "Çingane süpürgesi",
+                "order": "355.00000000000000000000"
             }
         ],
         "category_type": {
@@ -7235,7 +7597,8 @@
         "part_of": [
             {
                 "id": 50,
-                "value": "Non-food"
+                "value": "Non-food",
+                "order": "8.00000000000000000000"
             }
         ],
         "documents": [
@@ -7304,55 +7667,68 @@
         "goods": [
             {
                 "id": 66,
-                "value": "Lakerda balığı"
+                "value": "Lakerda balığı",
+                "order": "66.00000000000000000000"
             },
             {
                 "id": 71,
-                "value": "Sardalya"
+                "value": "Sardalya",
+                "order": "71.00000000000000000000"
             },
             {
                 "id": 72,
-                "value": "Uskumru balığı"
+                "value": "Uskumru balığı",
+                "order": "72.00000000000000000000"
             },
             {
                 "id": 73,
-                "value": "Kolyarudya balığı"
+                "value": "Kolyarudya balığı",
+                "order": "73.00000000000000000000"
             },
             {
                 "id": 74,
-                "value": "Mersin balığı"
+                "value": "Mersin balığı",
+                "order": "74.00000000000000000000"
             },
             {
                 "id": 75,
-                "value": "Çiroz balığı"
+                "value": "Çiroz balığı",
+                "order": "75.00000000000000000000"
             },
             {
                 "id": 76,
-                "value": "Çütre balığı"
+                "value": "Çütre balığı",
+                "order": "76.00000000000000000000"
             },
             {
                 "id": 80,
-                "value": "Morina balığı"
+                "value": "Morina balığı",
+                "order": "80.00000000000000000000"
             },
             {
                 "id": 81,
-                "value": "Terkoz balığı"
+                "value": "Terkoz balığı",
+                "order": "81.00000000000000000000"
             },
             {
                 "id": 157,
-                "value": "Sade balık"
+                "value": "Sade balık",
+                "order": "155.00000000000000000000"
             },
             {
                 "id": 161,
-                "value": "Kolyoz balığı"
+                "value": "Kolyoz balığı",
+                "order": "159.00000000000000000000"
             },
             {
                 "id": 247,
-                "value": "Balık"
+                "value": "Balık",
+                "order": "240.00000000000000000000"
             },
             {
                 "id": 362,
-                "value": "Uskumru balığı tuzlaması"
+                "value": "Uskumru balığı tuzlaması",
+                "order": "354.00000000000000000000"
             }
         ],
         "category_type": {
@@ -7363,7 +7739,8 @@
         "part_of": [
             {
                 "id": 46,
-                "value": "Animal food"
+                "value": "Animal food",
+                "order": "4.00000000000000000000"
             }
         ],
         "documents": [
@@ -7417,23 +7794,28 @@
         "goods": [
             {
                 "id": 37,
-                "value": "Balık turşusu"
+                "value": "Balık turşusu",
+                "order": "37.00000000000000000000"
             },
             {
                 "id": 47,
-                "value": "Uskumru balığu turşusu"
+                "value": "Uskumru balığu turşusu",
+                "order": "47.00000000000000000000"
             },
             {
                 "id": 52,
-                "value": "Turşu balığı"
+                "value": "Turşu balığı",
+                "order": "52.00000000000000000000"
             },
             {
                 "id": 56,
-                "value": "Balık salamurası"
+                "value": "Balık salamurası",
+                "order": "56.00000000000000000000"
             },
             {
                 "id": 102,
-                "value": "Tuzlu balık"
+                "value": "Tuzlu balık",
+                "order": "102.00000000000000000000"
             }
         ],
         "category_type": {
@@ -7444,7 +7826,8 @@
         "part_of": [
             {
                 "id": 46,
-                "value": "Animal food"
+                "value": "Animal food",
+                "order": "4.00000000000000000000"
             }
         ],
         "documents": [
@@ -7503,19 +7886,23 @@
         "goods": [
             {
                 "id": 49,
-                "value": "Sucuk"
+                "value": "Sucuk",
+                "order": "49.00000000000000000000"
             },
             {
                 "id": 57,
-                "value": "Pastırma"
+                "value": "Pastırma",
+                "order": "57.00000000000000000000"
             },
             {
                 "id": 254,
-                "value": "Kayseriye pastırması"
+                "value": "Kayseriye pastırması",
+                "order": "247.00000000000000000000"
             },
             {
                 "id": 346,
-                "value": "Rumeli sucuğu pastırması"
+                "value": "Rumeli sucuğu pastırması",
+                "order": "338.00000000000000000000"
             }
         ],
         "category_type": {
@@ -7526,7 +7913,8 @@
         "part_of": [
             {
                 "id": 46,
-                "value": "Animal food"
+                "value": "Animal food",
+                "order": "4.00000000000000000000"
             }
         ],
         "documents": [
@@ -7640,15 +8028,18 @@
         "goods": [
             {
                 "id": 40,
-                "value": "Lahana turşusu"
+                "value": "Lahana turşusu",
+                "order": "40.00000000000000000000"
             },
             {
                 "id": 78,
-                "value": "Biber turşusu"
+                "value": "Biber turşusu",
+                "order": "78.00000000000000000000"
             },
             {
                 "id": 278,
-                "value": "Turşu"
+                "value": "Turşu",
+                "order": "271.00000000000000000000"
             }
         ],
         "category_type": {
@@ -7659,7 +8050,8 @@
         "part_of": [
             {
                 "id": 73,
-                "value": "Brine"
+                "value": "Brine",
+                "order": "7.33333333333333303727"
             }
         ],
         "documents": [
@@ -7703,35 +8095,43 @@
         "goods": [
             {
                 "id": 34,
-                "value": "Zeytin"
+                "value": "Zeytin",
+                "order": "34.00000000000000000000"
             },
             {
                 "id": 61,
-                "value": "Trilye zeytini"
+                "value": "Trilye zeytini",
+                "order": "61.00000000000000000000"
             },
             {
                 "id": 79,
-                "value": "Karamürsel zeytini"
+                "value": "Karamürsel zeytini",
+                "order": "79.00000000000000000000"
             },
             {
                 "id": 90,
-                "value": "Gemlik zeytini"
+                "value": "Gemlik zeytini",
+                "order": "90.00000000000000000000"
             },
             {
                 "id": 164,
-                "value": "Girit zeytini"
+                "value": "Girit zeytini",
+                "order": "161.00000000000000000000"
             },
             {
                 "id": 173,
-                "value": "Kırmızı sele zeytini"
+                "value": "Kırmızı sele zeytini",
+                "order": "170.00000000000000000000"
             },
             {
                 "id": 268,
-                "value": "Çürük zeytun"
+                "value": "Çürük zeytun",
+                "order": "261.00000000000000000000"
             },
             {
                 "id": 325,
-                "value": "Küflenmiş zeytun"
+                "value": "Küflenmiş zeytun",
+                "order": "318.00000000000000000000"
             }
         ],
         "category_type": {
@@ -7742,7 +8142,8 @@
         "part_of": [
             {
                 "id": 73,
-                "value": "Brine"
+                "value": "Brine",
+                "order": "7.33333333333333303727"
             }
         ],
         "documents": [
@@ -7976,39 +8377,48 @@
         "goods": [
             {
                 "id": 25,
-                "value": "Bal / Asel"
+                "value": "Bal / Asel",
+                "order": "25.00000000000000000000"
             },
             {
                 "id": 54,
-                "value": "Kuşadası  balı"
+                "value": "Kuşadası  balı",
+                "order": "54.00000000000000000000"
             },
             {
                 "id": 91,
-                "value": "Akdeniz balı"
+                "value": "Akdeniz balı",
+                "order": "91.00000000000000000000"
             },
             {
                 "id": 93,
-                "value": "Gömeç balı"
+                "value": "Gömeç balı",
+                "order": "93.00000000000000000000"
             },
             {
                 "id": 142,
-                "value": "Eflak balı"
+                "value": "Eflak balı",
+                "order": "142.00000000000000000000"
             },
             {
                 "id": 181,
-                "value": "Revak asel"
+                "value": "Revak asel",
+                "order": "178.00000000000000000000"
             },
             {
                 "id": 205,
-                "value": "Karadeniz balı"
+                "value": "Karadeniz balı",
+                "order": "202.00000000000000000000"
             },
             {
                 "id": 276,
-                "value": "Kutu balı"
+                "value": "Kutu balı",
+                "order": "269.00000000000000000000"
             },
             {
                 "id": 342,
-                "value": "Odun asel"
+                "value": "Odun asel",
+                "order": "334.00000000000000000000"
             }
         ],
         "category_type": {
@@ -8019,7 +8429,8 @@
         "part_of": [
             {
                 "id": 61,
-                "value": "Sweetener"
+                "value": "Sweetener",
+                "order": "17.00000000000000000000"
             }
         ],
         "documents": [
@@ -8213,19 +8624,23 @@
         "goods": [
             {
                 "id": 23,
-                "value": "Pekmez"
+                "value": "Pekmez",
+                "order": "23.00000000000000000000"
             },
             {
                 "id": 77,
-                "value": "Girit pekmezi"
+                "value": "Girit pekmezi",
+                "order": "77.00000000000000000000"
             },
             {
                 "id": 83,
-                "value": "Odun pekmezi"
+                "value": "Odun pekmezi",
+                "order": "83.00000000000000000000"
             },
             {
                 "id": 159,
-                "value": "Çorlu pekmezi"
+                "value": "Çorlu pekmezi",
+                "order": "157.00000000000000000000"
             }
         ],
         "category_type": {
@@ -8236,7 +8651,8 @@
         "part_of": [
             {
                 "id": 61,
-                "value": "Sweetener"
+                "value": "Sweetener",
+                "order": "17.00000000000000000000"
             }
         ],
         "documents": [
@@ -8440,59 +8856,73 @@
         "goods": [
             {
                 "id": 17,
-                "value": "Beylerce"
+                "value": "Beylerce",
+                "order": "17.00000000000000000000"
             },
             {
                 "id": 18,
-                "value": "Razaki"
+                "value": "Razaki",
+                "order": "18.00000000000000000000"
             },
             {
                 "id": 19,
-                "value": "Kızıl"
+                "value": "Kızıl",
+                "order": "19.00000000000000000000"
             },
             {
                 "id": 20,
-                "value": "Siyah"
+                "value": "Siyah",
+                "order": "20.00000000000000000000"
             },
             {
                 "id": 48,
-                "value": "Kuru üzüm"
+                "value": "Kuru üzüm",
+                "order": "48.00000000000000000000"
             },
             {
                 "id": 58,
-                "value": "Kuş üzümü"
+                "value": "Kuş üzümü",
+                "order": "58.00000000000000000000"
             },
             {
                 "id": 160,
-                "value": "Üzüm"
+                "value": "Üzüm",
+                "order": "158.00000000000000000000"
             },
             {
                 "id": 191,
-                "value": "Edremit siyahı üzüm"
+                "value": "Edremit siyahı üzüm",
+                "order": "188.00000000000000000000"
             },
             {
                 "id": 210,
-                "value": "Edremit siyahı"
+                "value": "Edremit siyahı",
+                "order": "206.00000000000000000000"
             },
             {
                 "id": 275,
-                "value": "İzmir siyahı üzüm"
+                "value": "İzmir siyahı üzüm",
+                "order": "268.00000000000000000000"
             },
             {
                 "id": 340,
-                "value": "Koca üzümü"
+                "value": "Koca üzümü",
+                "order": "333.00000000000000000000"
             },
             {
                 "id": 350,
-                "value": "Kırmızı üzüm"
+                "value": "Kırmızı üzüm",
+                "order": "342.00000000000000000000"
             },
             {
                 "id": 365,
-                "value": "Koca siyah üzüm"
+                "value": "Koca siyah üzüm",
+                "order": "357.00000000000000000000"
             },
             {
                 "id": 369,
-                "value": "Hoşablık üzüm"
+                "value": "Hoşablık üzüm",
+                "order": "361.00000000000000000000"
             }
         ],
         "category_type": {
@@ -8503,7 +8933,8 @@
         "part_of": [
             {
                 "id": 55,
-                "value": "Fruits"
+                "value": "Fruits",
+                "order": "11.00000000000000000000"
             }
         ],
         "documents": [
@@ -8697,15 +9128,18 @@
         "goods": [
             {
                 "id": 21,
-                "value": "İncir"
+                "value": "İncir",
+                "order": "21.00000000000000000000"
             },
             {
                 "id": 98,
-                "value": "Sarıca inciri"
+                "value": "Sarıca inciri",
+                "order": "98.00000000000000000000"
             },
             {
                 "id": 202,
-                "value": "Lob inciri"
+                "value": "Lob inciri",
+                "order": "199.00000000000000000000"
             }
         ],
         "category_type": {
@@ -8716,7 +9150,8 @@
         "part_of": [
             {
                 "id": 55,
-                "value": "Fruits"
+                "value": "Fruits",
+                "order": "11.00000000000000000000"
             }
         ],
         "documents": [
@@ -8855,19 +9290,23 @@
         "goods": [
             {
                 "id": 108,
-                "value": "Sabun"
+                "value": "Sabun",
+                "order": "108.00000000000000000000"
             },
             {
                 "id": 148,
-                "value": "Girit sabunu"
+                "value": "Girit sabunu",
+                "order": "148.00000000000000000000"
             },
             {
                 "id": 172,
-                "value": "İzmir sabunu"
+                "value": "İzmir sabunu",
+                "order": "169.00000000000000000000"
             },
             {
                 "id": 199,
-                "value": "Trablus sabunu"
+                "value": "Trablus sabunu",
+                "order": "196.00000000000000000000"
             }
         ],
         "category_type": {
@@ -8878,7 +9317,8 @@
         "part_of": [
             {
                 "id": 50,
-                "value": "Non-food"
+                "value": "Non-food",
+                "order": "8.00000000000000000000"
             }
         ],
         "documents": [

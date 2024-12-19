@@ -61,11 +61,13 @@
         "documents": [
             {
                 "id": 24,
-                "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)"
+                "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+                "order": "24.00000000000000000000"
             },
             {
                 "id": 59,
-                "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)"
+                "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)",
+                "order": "54.00000000000000000000"
             }
         ],
         "grocerist_id": "address__4",
@@ -107,19 +109,35 @@
                 "documents": [
                     {
                         "id": 24,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)"
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+                        "order": "24.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1728-09-25"
                     },
                     {
                         "id": 59,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)"
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)",
+                        "order": "54.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1728-09-25"
                     },
                     {
                         "id": 60,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)",
+                        "order": "55.00000000000000000000",
+                        "lat": "41.03073",
+                        "long": "28.97406",
+                        "iso_date": "1728-09-25"
                     },
                     {
                         "id": 115,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)"
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)",
+                        "order": "55.99999999999999999999",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1728-09-25"
                     }
                 ],
                 "occupation": [],
@@ -129,17 +147,20 @@
                 "district": [
                     {
                         "id": 5,
-                        "value": "Galata Harici"
+                        "value": "Galata Harici",
+                        "order": "0.99999999999999999990"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 43,
-                        "value": "Dörtyolağzı"
+                        "value": "Dörtyolağzı",
+                        "order": "42.00000000000000000000"
                     },
                     {
                         "id": 72,
-                        "value": "Aslanağzı"
+                        "value": "Aslanağzı",
+                        "order": "70.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -148,7 +169,8 @@
                 "address": [
                     {
                         "id": 4,
-                        "value": "Galata Mevlevihanesi kurbü"
+                        "value": "Galata Mevlevihanesi kurbü",
+                        "order": "4.00000000000000000000"
                     }
                 ]
             }
@@ -162,7 +184,8 @@
         "documents": [
             {
                 "id": 44,
-                "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
+                "value": "İSTM.ŞSC.14.d. 433/ 21a-3",
+                "order": "44.00000000000000000000"
             }
         ],
         "grocerist_id": "address__5",
@@ -228,7 +251,11 @@
                 "documents": [
                     {
                         "id": 44,
-                        "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
+                        "value": "İSTM.ŞSC.14.d. 433/ 21a-3",
+                        "order": "44.00000000000000000000",
+                        "lat": "41.12070",
+                        "long": "29.06818",
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -238,32 +265,37 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 33,
-                        "value": " Aya Nikoli"
+                        "value": " Aya Nikoli",
+                        "order": "33.00000000000000000000"
                     }
                 ],
                 "karye": [],
                 "nahiye": [
                     {
                         "id": 1,
-                        "value": "İstinye"
+                        "value": "İstinye",
+                        "order": "1.00000000000000000000"
                     }
                 ],
                 "quarter": [
                     {
                         "id": 15,
-                        "value": "Yeniköy"
+                        "value": "Yeniköy",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "address": [
                     {
                         "id": 5,
-                        "value": "Mahkeme karşısı"
+                        "value": "Mahkeme karşısı",
+                        "order": "5.00000000000000000000"
                     }
                 ]
             }
@@ -277,7 +309,8 @@
         "documents": [
             {
                 "id": 116,
-                "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)"
+                "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)",
+                "order": "57.99999999999999999999"
             }
         ],
         "grocerist_id": "address__6",
@@ -327,19 +360,35 @@
                 "documents": [
                     {
                         "id": 26,
-                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (a)"
+                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (a)",
+                        "order": "26.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1730-12-26"
                     },
                     {
                         "id": 61,
-                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)"
+                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)",
+                        "order": "56.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1730-12-26"
                     },
                     {
                         "id": 62,
-                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)"
+                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (c)",
+                        "order": "57.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1730-12-26"
                     },
                     {
                         "id": 116,
-                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)"
+                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)",
+                        "order": "57.99999999999999999999",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1730-12-26"
                     }
                 ],
                 "occupation": [],
@@ -349,7 +398,8 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [],
@@ -358,13 +408,15 @@
                 "quarter": [
                     {
                         "id": 5,
-                        "value": "Karaköy Kapısı harici"
+                        "value": "Karaköy Kapısı harici",
+                        "order": "5.00000000000000000000"
                     }
                 ],
                 "address": [
                     {
                         "id": 6,
-                        "value": "Camii şerif tahtında"
+                        "value": "Camii şerif tahtında",
+                        "order": "6.00000000000000000000"
                     }
                 ]
             }
@@ -378,7 +430,8 @@
         "documents": [
             {
                 "id": 89,
-                "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
+                "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
+                "order": "59.99999999999999999998"
             }
         ],
         "grocerist_id": "address__7",
@@ -420,15 +473,27 @@
                 "documents": [
                     {
                         "id": 65,
-                        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)"
+                        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
+                        "order": "59.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1709-01-30"
                     },
                     {
                         "id": 89,
-                        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)"
+                        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
+                        "order": "59.99999999999999999998",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1709-01-30"
                     },
                     {
                         "id": 90,
-                        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)"
+                        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)",
+                        "order": "59.99999999999999999999",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1709-01-30"
                     }
                 ],
                 "occupation": [],
@@ -438,27 +503,31 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [],
                 "karye": [
                     {
                         "id": 9,
-                        "value": "Bit Pazarı"
+                        "value": "Bit Pazarı",
+                        "order": "9.00000000000000000000"
                     }
                 ],
                 "nahiye": [],
                 "quarter": [
                     {
                         "id": 19,
-                        "value": "At Pazarı dahili"
+                        "value": "At Pazarı dahili",
+                        "order": "19.00000000000000000000"
                     }
                 ],
                 "address": [
                     {
                         "id": 7,
-                        "value": "Kolluk karşısında"
+                        "value": "Kolluk karşısında",
+                        "order": "7.00000000000000000000"
                     }
                 ]
             }
@@ -472,7 +541,8 @@
         "documents": [
             {
                 "id": 79,
-                "value": "İSTM.ŞSC.06.d. 490 / 74a-2"
+                "value": "İSTM.ŞSC.06.d. 490 / 74a-2",
+                "order": "73.00000000000000000000"
             }
         ],
         "grocerist_id": "address__8",
@@ -514,7 +584,11 @@
                 "documents": [
                     {
                         "id": 79,
-                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2"
+                        "value": "İSTM.ŞSC.06.d. 490 / 74a-2",
+                        "order": "73.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -524,7 +598,8 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [],
@@ -534,7 +609,8 @@
                 "address": [
                     {
                         "id": 8,
-                        "value": "Yük İskelesi kurbü"
+                        "value": "Yük İskelesi kurbü",
+                        "order": "8.00000000000000000000"
                     }
                 ]
             }
@@ -548,7 +624,8 @@
         "documents": [
             {
                 "id": 82,
-                "value": "İSTM.ŞSC.06.d. 495 / 25a-1"
+                "value": "İSTM.ŞSC.06.d. 495 / 25a-1",
+                "order": "76.00000000000000000000"
             }
         ],
         "grocerist_id": "address__9",
@@ -590,7 +667,11 @@
                 "documents": [
                     {
                         "id": 82,
-                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1"
+                        "value": "İSTM.ŞSC.06.d. 495 / 25a-1",
+                        "order": "76.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -600,7 +681,8 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [],
@@ -610,7 +692,8 @@
                 "address": [
                     {
                         "id": 9,
-                        "value": "Arasta kurbü"
+                        "value": "Arasta kurbü",
+                        "order": "9.00000000000000000000"
                     }
                 ]
             }
@@ -624,7 +707,8 @@
         "documents": [
             {
                 "id": 85,
-                "value": "İSTM.ŞSC.06.d. 505 / 83a-3"
+                "value": "İSTM.ŞSC.06.d. 505 / 83a-3",
+                "order": "79.00000000000000000000"
             }
         ],
         "grocerist_id": "address__10",
@@ -674,7 +758,11 @@
                 "documents": [
                     {
                         "id": 85,
-                        "value": "İSTM.ŞSC.06.d. 505 / 83a-3"
+                        "value": "İSTM.ŞSC.06.d. 505 / 83a-3",
+                        "order": "79.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1780-04-15"
                     }
                 ],
                 "occupation": [],
@@ -684,13 +772,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 58,
-                        "value": "Arakiyeci Elhac Mehmed"
+                        "value": "Arakiyeci Elhac Mehmed",
+                        "order": "56.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -699,7 +789,8 @@
                 "address": [
                     {
                         "id": 10,
-                        "value": "Kasım Ağa Çeşmesi kurbü"
+                        "value": "Kasım Ağa Çeşmesi kurbü",
+                        "order": "10.00000000000000000000"
                     }
                 ]
             }
@@ -713,7 +804,8 @@
         "documents": [
             {
                 "id": 86,
-                "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
+                "value": "İSTM.ŞSC.06.d. 522 / 21b-4",
+                "order": "80.00000000000000000000"
             }
         ],
         "grocerist_id": "address__11",
@@ -763,7 +855,11 @@
                 "documents": [
                     {
                         "id": 86,
-                        "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
+                        "value": "İSTM.ŞSC.06.d. 522 / 21b-4",
+                        "order": "80.00000000000000000000",
+                        "lat": "41.00960",
+                        "long": "28.96874",
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -773,13 +869,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 59,
-                        "value": "Hüseyin Ağa"
+                        "value": "Hüseyin Ağa",
+                        "order": "57.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -788,7 +886,8 @@
                 "address": [
                     {
                         "id": 11,
-                        "value": "Ağa Hamamı mahali"
+                        "value": "Ağa Hamamı mahali",
+                        "order": "11.00000000000000000000"
                     }
                 ]
             }
@@ -802,11 +901,13 @@
         "documents": [
             {
                 "id": 140,
-                "value": "İSTM.ŞSC.06.d. 589/49a"
+                "value": "İSTM.ŞSC.06.d. 589/49a",
+                "order": "107.00000000000000000000"
             },
             {
                 "id": 142,
-                "value": "İSTM.ŞSC.06.d. 591/19b"
+                "value": "İSTM.ŞSC.06.d. 591/19b",
+                "order": "109.00000000000000000000"
             }
         ],
         "grocerist_id": "address__12",
@@ -848,11 +949,19 @@
                 "documents": [
                     {
                         "id": 140,
-                        "value": "İSTM.ŞSC.06.d. 589/49a"
+                        "value": "İSTM.ŞSC.06.d. 589/49a",
+                        "order": "107.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
                     },
                     {
                         "id": 142,
-                        "value": "İSTM.ŞSC.06.d. 591/19b"
+                        "value": "İSTM.ŞSC.06.d. 591/19b",
+                        "order": "109.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -862,7 +971,8 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [],
@@ -872,7 +982,8 @@
                 "address": [
                     {
                         "id": 12,
-                        "value": "Hamam-ı Kebir kurbü"
+                        "value": "Hamam-ı Kebir kurbü",
+                        "order": "12.00000000000000000000"
                     }
                 ]
             }
@@ -886,7 +997,8 @@
         "documents": [
             {
                 "id": 152,
-                "value": "İSTM.ŞSC.06.d. 584/35b"
+                "value": "İSTM.ŞSC.06.d. 584/35b",
+                "order": "119.00000000000000000000"
             }
         ],
         "grocerist_id": "address__13",
@@ -928,7 +1040,11 @@
                 "documents": [
                     {
                         "id": 152,
-                        "value": "İSTM.ŞSC.06.d. 584/35b"
+                        "value": "İSTM.ŞSC.06.d. 584/35b",
+                        "order": "119.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -938,7 +1054,8 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [],
@@ -948,7 +1065,8 @@
                 "address": [
                     {
                         "id": 13,
-                        "value": "Doğancılar nam mahal"
+                        "value": "Doğancılar nam mahal",
+                        "order": "13.00000000000000000000"
                     }
                 ]
             }
@@ -962,7 +1080,8 @@
         "documents": [
             {
                 "id": 5,
-                "value": "İSTM.ŞSC.14.d.196 / 21b-1"
+                "value": "İSTM.ŞSC.14.d.196 / 21b-1",
+                "order": "5.00000000000000000000"
             }
         ],
         "grocerist_id": "address__14",
@@ -1012,7 +1131,11 @@
                 "documents": [
                     {
                         "id": 5,
-                        "value": "İSTM.ŞSC.14.d.196 / 21b-1"
+                        "value": "İSTM.ŞSC.14.d.196 / 21b-1",
+                        "order": "5.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1703-08-10"
                     }
                 ],
                 "occupation": [],
@@ -1022,7 +1145,8 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [],
@@ -1031,13 +1155,15 @@
                 "quarter": [
                     {
                         "id": 4,
-                        "value": "Azapkapısı harici"
+                        "value": "Azapkapısı harici",
+                        "order": "4.00000000000000000000"
                     }
                 ],
                 "address": [
                     {
                         "id": 14,
-                        "value": "Mehmed Paşa Camii Şerifi kurbü"
+                        "value": "Mehmed Paşa Camii Şerifi kurbü",
+                        "order": "14.00000000000000000000"
                     }
                 ]
             }
@@ -1051,7 +1177,8 @@
         "documents": [
             {
                 "id": 25,
-                "value": "İSTM.ŞSC.14.d.275 / 37a-4"
+                "value": "İSTM.ŞSC.14.d.275 / 37a-4",
+                "order": "25.00000000000000000000"
             }
         ],
         "grocerist_id": "address__15",
@@ -1093,7 +1220,11 @@
                 "documents": [
                     {
                         "id": 25,
-                        "value": "İSTM.ŞSC.14.d.275 / 37a-4"
+                        "value": "İSTM.ŞSC.14.d.275 / 37a-4",
+                        "order": "25.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1730-01-12"
                     }
                 ],
                 "occupation": [],
@@ -1103,7 +1234,8 @@
                 "district": [
                     {
                         "id": 5,
-                        "value": "Galata Harici"
+                        "value": "Galata Harici",
+                        "order": "0.99999999999999999990"
                     }
                 ],
                 "neighbourhood": [],
@@ -1113,7 +1245,8 @@
                 "address": [
                     {
                         "id": 15,
-                        "value": "Ketehorya nam mahal"
+                        "value": "Ketehorya nam mahal",
+                        "order": "15.00000000000000000000"
                     }
                 ]
             }
@@ -1127,7 +1260,8 @@
         "documents": [
             {
                 "id": 31,
-                "value": "İSTM.ŞSC.14.d.304 / 22b-3"
+                "value": "İSTM.ŞSC.14.d.304 / 22b-3",
+                "order": "31.00000000000000000000"
             }
         ],
         "grocerist_id": "address__16",
@@ -1177,7 +1311,11 @@
                 "documents": [
                     {
                         "id": 31,
-                        "value": "İSTM.ŞSC.14.d.304 / 22b-3"
+                        "value": "İSTM.ŞSC.14.d.304 / 22b-3",
+                        "order": "31.00000000000000000000",
+                        "lat": "41.02321",
+                        "long": "28.97695",
+                        "iso_date": "1740-02-13"
                     }
                 ],
                 "occupation": [],
@@ -1187,13 +1325,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 74,
-                        "value": "Kemankeş Kara Mustafa Paşa"
+                        "value": "Kemankeş Kara Mustafa Paşa",
+                        "order": "72.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -1202,7 +1342,8 @@
                 "address": [
                     {
                         "id": 16,
-                        "value": "Sandıkçılarbaşı"
+                        "value": "Sandıkçılarbaşı",
+                        "order": "16.00000000000000000000"
                     }
                 ]
             }
@@ -1216,7 +1357,8 @@
         "documents": [
             {
                 "id": 20,
-                "value": "İSTM.ŞSC.14.d.254 / 3b-1"
+                "value": "İSTM.ŞSC.14.d.254 / 3b-1",
+                "order": "20.00000000000000000000"
             }
         ],
         "grocerist_id": "address__17",
@@ -1266,7 +1408,11 @@
                 "documents": [
                     {
                         "id": 20,
-                        "value": "İSTM.ŞSC.14.d.254 / 3b-1"
+                        "value": "İSTM.ŞSC.14.d.254 / 3b-1",
+                        "order": "20.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1721-07-22"
                     }
                 ],
                 "occupation": [],
@@ -1276,7 +1422,8 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [],
@@ -1285,13 +1432,15 @@
                 "quarter": [
                     {
                         "id": 2,
-                        "value": "Kasımpaşa"
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
                     }
                 ],
                 "address": [
                     {
                         "id": 17,
-                        "value": "Tersane-i Amire"
+                        "value": "Tersane-i Amire",
+                        "order": "17.00000000000000000000"
                     }
                 ]
             }
@@ -1305,7 +1454,8 @@
         "documents": [
             {
                 "id": 77,
-                "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
+                "value": "İSTM.ŞSC.06.d. 456 / 82b-3",
+                "order": "71.00000000000000000000"
             }
         ],
         "grocerist_id": "address__18",
@@ -1355,7 +1505,11 @@
                 "documents": [
                     {
                         "id": 77,
-                        "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
+                        "value": "İSTM.ŞSC.06.d. 456 / 82b-3",
+                        "order": "71.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1761-09-25"
                     }
                 ],
                 "occupation": [],
@@ -1365,13 +1519,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 57,
-                        "value": "Köprübaşı"
+                        "value": "Köprübaşı",
+                        "order": "55.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -1380,7 +1536,8 @@
                 "address": [
                     {
                         "id": 18,
-                        "value": "Süleyman Ağa mahallesi sukkanı"
+                        "value": "Süleyman Ağa mahallesi sukkanı",
+                        "order": "18.00000000000000000000"
                     }
                 ]
             }

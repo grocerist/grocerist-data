@@ -7,7 +7,8 @@
         "district_eighteenth_century": [
             {
                 "id": 5,
-                "value": "Galata Harici"
+                "value": "Galata Harici",
+                "order": "0.99999999999999999990"
             }
         ],
         "geonames_id": "https://www.geonames.org/750640/beyoglu.html",
@@ -16,7 +17,8 @@
         "documents": [
             {
                 "id": 14,
-                "value": "İSTM.ŞSC.14.d.237 / 39b-1"
+                "value": "İSTM.ŞSC.14.d.237 / 39b-1",
+                "order": "14.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -52,7 +54,11 @@
                 "documents": [
                     {
                         "id": 14,
-                        "value": "İSTM.ŞSC.14.d.237 / 39b-1"
+                        "value": "İSTM.ŞSC.14.d.237 / 39b-1",
+                        "order": "14.00000000000000000000",
+                        "lat": "41.03694",
+                        "long": "28.97750",
+                        "iso_date": "1717-01-20"
                     }
                 ],
                 "occupation": [],
@@ -62,13 +68,15 @@
                 "district": [
                     {
                         "id": 5,
-                        "value": "Galata Harici"
+                        "value": "Galata Harici",
+                        "order": "0.99999999999999999990"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 5,
-                        "value": "Beyoğlu"
+                        "value": "Beyoğlu",
+                        "order": "5.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -90,7 +98,8 @@
         "documents": [
             {
                 "id": 1,
-                "value": "İSTM.ŞSC.14.d.173 / 9b-2"
+                "value": "İSTM.ŞSC.14.d.173 / 9b-2",
+                "order": "1.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -121,7 +130,11 @@
                 "documents": [
                     {
                         "id": 1,
-                        "value": "İSTM.ŞSC.14.d.173 / 9b-2"
+                        "value": "İSTM.ŞSC.14.d.173 / 9b-2",
+                        "order": "1.00000000000000000000",
+                        "lat": "41.02639",
+                        "long": "28.97300",
+                        "iso_date": "1697-11-10"
                     }
                 ],
                 "occupation": [],
@@ -131,13 +144,15 @@
                 "district": [
                     {
                         "id": 10,
-                        "value": "Galata Dahili"
+                        "value": "Galata Dahili",
+                        "order": "0.99999999999999999989"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 6,
-                        "value": "Şehsuvar"
+                        "value": "Şehsuvar",
+                        "order": "6.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -159,7 +174,8 @@
         "documents": [
             {
                 "id": 50,
-                "value": "İSTM.ŞSC.14.d. 504/ 86a-2"
+                "value": "İSTM.ŞSC.14.d. 504/ 86a-2",
+                "order": "50.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -195,7 +211,11 @@
                 "documents": [
                     {
                         "id": 50,
-                        "value": "İSTM.ŞSC.14.d. 504/ 86a-2"
+                        "value": "İSTM.ŞSC.14.d. 504/ 86a-2",
+                        "order": "50.00000000000000000000",
+                        "lat": "41.03528",
+                        "long": "28.97919",
+                        "iso_date": "1790-11-23"
                     }
                 ],
                 "occupation": [],
@@ -205,13 +225,15 @@
                 "district": [
                     {
                         "id": 5,
-                        "value": "Galata Harici"
+                        "value": "Galata Harici",
+                        "order": "0.99999999999999999990"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 7,
-                        "value": "Hüseyin Ağa"
+                        "value": "Hüseyin Ağa",
+                        "order": "7.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -229,7 +251,8 @@
         "district_eighteenth_century": [
             {
                 "id": 5,
-                "value": "Galata Harici"
+                "value": "Galata Harici",
+                "order": "0.99999999999999999990"
             }
         ],
         "geonames_id": "",
@@ -238,7 +261,8 @@
         "documents": [
             {
                 "id": 6,
-                "value": "İSTM.ŞSC.14.d.212/ 29a-1"
+                "value": "İSTM.ŞSC.14.d.212/ 29a-1",
+                "order": "6.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -274,7 +298,11 @@
                 "documents": [
                     {
                         "id": 6,
-                        "value": "İSTM.ŞSC.14.d.212/ 29a-1"
+                        "value": "İSTM.ŞSC.14.d.212/ 29a-1",
+                        "order": "6.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1711-09-15"
                     }
                 ],
                 "occupation": [],
@@ -284,13 +312,15 @@
                 "district": [
                     {
                         "id": 5,
-                        "value": "Galata Harici"
+                        "value": "Galata Harici",
+                        "order": "0.99999999999999999990"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 9,
-                        "value": "Hasan Ağa "
+                        "value": "Hasan Ağa ",
+                        "order": "9.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -312,7 +342,8 @@
         "documents": [
             {
                 "id": 16,
-                "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+                "value": "İSTM.ŞSC.14.d.241 / 3a-1",
+                "order": "16.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -351,7 +382,11 @@
                 "documents": [
                     {
                         "id": 16,
-                        "value": "İSTM.ŞSC.14.d.241 / 3a-1"
+                        "value": "İSTM.ŞSC.14.d.241 / 3a-1",
+                        "order": "16.00000000000000000000",
+                        "lat": "41.02106",
+                        "long": "28.95494",
+                        "iso_date": "1718-02-01"
                     }
                 ],
                 "occupation": [
@@ -367,13 +402,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 12,
-                        "value": "Elhac Hasan"
+                        "value": "Elhac Hasan",
+                        "order": "12.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -381,7 +418,8 @@
                 "quarter": [
                     {
                         "id": 2,
-                        "value": "Kasımpaşa"
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
                     }
                 ],
                 "address": []
@@ -400,7 +438,8 @@
         "documents": [
             {
                 "id": 47,
-                "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+                "value": "İSTM.ŞSC.14.d.441 / 55b-3",
+                "order": "47.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -444,7 +483,11 @@
                 "documents": [
                     {
                         "id": 47,
-                        "value": "İSTM.ŞSC.14.d.441 / 55b-3"
+                        "value": "İSTM.ŞSC.14.d.441 / 55b-3",
+                        "order": "47.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -454,13 +497,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 13,
-                        "value": "Kadı Mehmed Efendi"
+                        "value": "Kadı Mehmed Efendi",
+                        "order": "13.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -468,7 +513,8 @@
                 "quarter": [
                     {
                         "id": 2,
-                        "value": "Kasımpaşa"
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
                     }
                 ],
                 "address": []
@@ -487,11 +533,13 @@
         "documents": [
             {
                 "id": 7,
-                "value": "İSTM.ŞSC.14.d.212/ 34b-2"
+                "value": "İSTM.ŞSC.14.d.212/ 34b-2",
+                "order": "7.00000000000000000000"
             },
             {
                 "id": 10,
-                "value": "İSTM.ŞSC.14.d.222 / 45a-2"
+                "value": "İSTM.ŞSC.14.d.222 / 45a-2",
+                "order": "10.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -527,7 +575,11 @@
                 "documents": [
                     {
                         "id": 7,
-                        "value": "İSTM.ŞSC.14.d.212/ 34b-2"
+                        "value": "İSTM.ŞSC.14.d.212/ 34b-2",
+                        "order": "7.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1711-11-07"
                     }
                 ],
                 "occupation": [],
@@ -537,13 +589,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 15,
-                        "value": "Sultan Bayezıd "
+                        "value": "Sultan Bayezıd ",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -571,7 +625,11 @@
                 "documents": [
                     {
                         "id": 10,
-                        "value": "İSTM.ŞSC.14.d.222 / 45a-2"
+                        "value": "İSTM.ŞSC.14.d.222 / 45a-2",
+                        "order": "10.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1713-05-16"
                     }
                 ],
                 "occupation": [],
@@ -581,13 +639,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 15,
-                        "value": "Sultan Bayezıd "
+                        "value": "Sultan Bayezıd ",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -609,7 +669,8 @@
         "documents": [
             {
                 "id": 23,
-                "value": "İSTM.ŞSC.14.d.254 / 76b-1"
+                "value": "İSTM.ŞSC.14.d.254 / 76b-1",
+                "order": "23.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -653,7 +714,11 @@
                 "documents": [
                     {
                         "id": 23,
-                        "value": "İSTM.ŞSC.14.d.254 / 76b-1"
+                        "value": "İSTM.ŞSC.14.d.254 / 76b-1",
+                        "order": "23.00000000000000000000",
+                        "lat": "41.04241",
+                        "long": "29.00626",
+                        "iso_date": "1723-09-30"
                     }
                 ],
                 "occupation": [],
@@ -663,20 +728,23 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 17,
-                        "value": "Sinan Paşa-i Kebir"
+                        "value": "Sinan Paşa-i Kebir",
+                        "order": "17.00000000000000000000"
                     }
                 ],
                 "karye": [],
                 "nahiye": [
                     {
                         "id": 2,
-                        "value": "Beşiktaş"
+                        "value": "Beşiktaş",
+                        "order": "2.00000000000000000000"
                     }
                 ],
                 "quarter": [],
@@ -696,7 +764,8 @@
         "documents": [
             {
                 "id": 136,
-                "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)"
+                "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)",
+                "order": "89.99999999999999999999"
             }
         ],
         "district_nineteenth_century": [],
@@ -732,11 +801,19 @@
                 "documents": [
                     {
                         "id": 95,
-                        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+                        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)",
+                        "order": "89.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1744-08-20"
                     },
                     {
                         "id": 136,
-                        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)"
+                        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)",
+                        "order": "89.99999999999999999999",
+                        "lat": "41.04037",
+                        "long": "28.96921",
+                        "iso_date": "1744-08-20"
                     }
                 ],
                 "occupation": [],
@@ -746,17 +823,20 @@
                 "district": [
                     {
                         "id": 19,
-                        "value": "Eyüp"
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 67,
-                        "value": "Yavud"
+                        "value": "Yavud",
+                        "order": "65.00000000000000000000"
                     },
                     {
                         "id": 18,
-                        "value": "Elhac Hüsrev"
+                        "value": "Elhac Hüsrev",
+                        "order": "18.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -778,7 +858,8 @@
         "documents": [
             {
                 "id": 22,
-                "value": "İSTM.ŞSC.14.d.254 / 64a-1"
+                "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+                "order": "22.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -814,7 +895,11 @@
                 "documents": [
                     {
                         "id": 22,
-                        "value": "İSTM.ŞSC.14.d.254 / 64a-1"
+                        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+                        "order": "22.00000000000000000000",
+                        "lat": "41.02255",
+                        "long": "28.97764",
+                        "iso_date": "1723-05-23"
                     }
                 ],
                 "occupation": [],
@@ -824,13 +909,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 19,
-                        "value": "Karaköy"
+                        "value": "Karaköy",
+                        "order": "19.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -852,7 +939,8 @@
         "documents": [
             {
                 "id": 17,
-                "value": "İSTM.ŞSC.14.d. 241/ 18b-1"
+                "value": "İSTM.ŞSC.14.d. 241/ 18b-1",
+                "order": "17.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -891,7 +979,11 @@
                 "documents": [
                     {
                         "id": 17,
-                        "value": "İSTM.ŞSC.14.d. 241/ 18b-1"
+                        "value": "İSTM.ŞSC.14.d. 241/ 18b-1",
+                        "order": "17.00000000000000000000",
+                        "lat": "41.02744",
+                        "long": "28.98037",
+                        "iso_date": "1718-03-03"
                     }
                 ],
                 "occupation": [],
@@ -901,13 +993,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 20,
-                        "value": "Karabaş Mustafa Ağa"
+                        "value": "Karabaş Mustafa Ağa",
+                        "order": "20.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -915,7 +1009,8 @@
                 "quarter": [
                     {
                         "id": 1,
-                        "value": "Tophane"
+                        "value": "Tophane",
+                        "order": "1.00000000000000000000"
                     }
                 ],
                 "address": []
@@ -934,7 +1029,8 @@
         "documents": [
             {
                 "id": 9,
-                "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60"
+                "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60",
+                "order": "9.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -973,7 +1069,11 @@
                 "documents": [
                     {
                         "id": 9,
-                        "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60"
+                        "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60",
+                        "order": "9.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1713-04-29"
                     }
                 ],
                 "occupation": [],
@@ -983,13 +1083,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 22,
-                        "value": "Mustafa Paşa "
+                        "value": "Mustafa Paşa ",
+                        "order": "22.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -997,7 +1099,8 @@
                 "quarter": [
                     {
                         "id": 8,
-                        "value": "Kurşunlu Mahzen Kapısı dahili"
+                        "value": "Kurşunlu Mahzen Kapısı dahili",
+                        "order": "8.00000000000000000000"
                     }
                 ],
                 "address": []
@@ -1016,7 +1119,8 @@
         "documents": [
             {
                 "id": 43,
-                "value": "İSTM.ŞSC.14.d. 406/ 27b-1"
+                "value": "İSTM.ŞSC.14.d. 406/ 27b-1",
+                "order": "43.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -1052,7 +1156,11 @@
                 "documents": [
                     {
                         "id": 43,
-                        "value": "İSTM.ŞSC.14.d. 406/ 27b-1"
+                        "value": "İSTM.ŞSC.14.d. 406/ 27b-1",
+                        "order": "43.00000000000000000000",
+                        "lat": "41.04391",
+                        "long": "28.95329",
+                        "iso_date": "1770-10-25"
                     }
                 ],
                 "occupation": [],
@@ -1062,13 +1170,15 @@
                 "district": [
                     {
                         "id": 5,
-                        "value": "Galata Harici"
+                        "value": "Galata Harici",
+                        "order": "0.99999999999999999990"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 24,
-                        "value": "Kalafatçıbaşı"
+                        "value": "Kalafatçıbaşı",
+                        "order": "24.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -1090,7 +1200,8 @@
         "documents": [
             {
                 "id": 18,
-                "value": "İSTM.ŞSC.14.d.249 / 9b-2"
+                "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+                "order": "18.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -1121,7 +1232,11 @@
                 "documents": [
                     {
                         "id": 18,
-                        "value": "İSTM.ŞSC.14.d.249 / 9b-2"
+                        "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+                        "order": "18.00000000000000000000",
+                        "lat": "41.02562",
+                        "long": "28.97014",
+                        "iso_date": "1720-12-03"
                     }
                 ],
                 "occupation": [],
@@ -1131,13 +1246,15 @@
                 "district": [
                     {
                         "id": 10,
-                        "value": "Galata Dahili"
+                        "value": "Galata Dahili",
+                        "order": "0.99999999999999999989"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 27,
-                        "value": "Emekyemez"
+                        "value": "Emekyemez",
+                        "order": "27.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -1159,15 +1276,18 @@
         "documents": [
             {
                 "id": 4,
-                "value": "İSTM.ŞSC.14.d.196 / 19b-1"
+                "value": "İSTM.ŞSC.14.d.196 / 19b-1",
+                "order": "4.00000000000000000000"
             },
             {
                 "id": 30,
-                "value": "İSTM.ŞSC.14.d.290 / 73b-2"
+                "value": "İSTM.ŞSC.14.d.290 / 73b-2",
+                "order": "30.00000000000000000000"
             },
             {
                 "id": 105,
-                "value": "İSTM.ŞSC.15.d. 254 / 8a-2"
+                "value": "İSTM.ŞSC.15.d. 254 / 8a-2",
+                "order": "99.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -1225,7 +1345,11 @@
                 "documents": [
                     {
                         "id": 4,
-                        "value": "İSTM.ŞSC.14.d.196 / 19b-1"
+                        "value": "İSTM.ŞSC.14.d.196 / 19b-1",
+                        "order": "4.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1703-06-09"
                     }
                 ],
                 "occupation": [],
@@ -1235,13 +1359,15 @@
                 "district": [
                     {
                         "id": 5,
-                        "value": "Galata Harici"
+                        "value": "Galata Harici",
+                        "order": "0.99999999999999999990"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 31,
-                        "value": "Camii Kebir"
+                        "value": "Camii Kebir",
+                        "order": "31.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -1249,7 +1375,8 @@
                 "quarter": [
                     {
                         "id": 2,
-                        "value": "Kasımpaşa"
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
                     }
                 ],
                 "address": []
@@ -1269,7 +1396,11 @@
                 "documents": [
                     {
                         "id": 30,
-                        "value": "İSTM.ŞSC.14.d.290 / 73b-2"
+                        "value": "İSTM.ŞSC.14.d.290 / 73b-2",
+                        "order": "30.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -1279,13 +1410,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 31,
-                        "value": "Camii Kebir"
+                        "value": "Camii Kebir",
+                        "order": "31.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -1308,7 +1441,11 @@
                 "documents": [
                     {
                         "id": 105,
-                        "value": "İSTM.ŞSC.15.d. 254 / 8a-2"
+                        "value": "İSTM.ŞSC.15.d. 254 / 8a-2",
+                        "order": "99.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1764-12-08"
                     }
                 ],
                 "occupation": [],
@@ -1318,13 +1455,15 @@
                 "district": [
                     {
                         "id": 19,
-                        "value": "Eyüp"
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 31,
-                        "value": "Camii Kebir"
+                        "value": "Camii Kebir",
+                        "order": "31.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -1346,11 +1485,13 @@
         "documents": [
             {
                 "id": 39,
-                "value": "İSTM.ŞSC.14.d. 394/ 59b-1"
+                "value": "İSTM.ŞSC.14.d. 394/ 59b-1",
+                "order": "39.00000000000000000000"
             },
             {
                 "id": 44,
-                "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
+                "value": "İSTM.ŞSC.14.d. 433/ 21a-3",
+                "order": "44.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -1402,7 +1543,11 @@
                 "documents": [
                     {
                         "id": 39,
-                        "value": "İSTM.ŞSC.14.d. 394/ 59b-1"
+                        "value": "İSTM.ŞSC.14.d. 394/ 59b-1",
+                        "order": "39.00000000000000000000",
+                        "lat": "41.12070",
+                        "long": "29.06818",
+                        "iso_date": "1768-11-10"
                     }
                 ],
                 "occupation": [],
@@ -1412,26 +1557,30 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 33,
-                        "value": " Aya Nikoli"
+                        "value": " Aya Nikoli",
+                        "order": "33.00000000000000000000"
                     }
                 ],
                 "karye": [],
                 "nahiye": [
                     {
                         "id": 1,
-                        "value": "İstinye"
+                        "value": "İstinye",
+                        "order": "1.00000000000000000000"
                     }
                 ],
                 "quarter": [
                     {
                         "id": 15,
-                        "value": "Yeniköy"
+                        "value": "Yeniköy",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "address": []
@@ -1456,7 +1605,11 @@
                 "documents": [
                     {
                         "id": 44,
-                        "value": "İSTM.ŞSC.14.d. 433/ 21a-3"
+                        "value": "İSTM.ŞSC.14.d. 433/ 21a-3",
+                        "order": "44.00000000000000000000",
+                        "lat": "41.12070",
+                        "long": "29.06818",
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -1466,32 +1619,37 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 33,
-                        "value": " Aya Nikoli"
+                        "value": " Aya Nikoli",
+                        "order": "33.00000000000000000000"
                     }
                 ],
                 "karye": [],
                 "nahiye": [
                     {
                         "id": 1,
-                        "value": "İstinye"
+                        "value": "İstinye",
+                        "order": "1.00000000000000000000"
                     }
                 ],
                 "quarter": [
                     {
                         "id": 15,
-                        "value": "Yeniköy"
+                        "value": "Yeniköy",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "address": [
                     {
                         "id": 5,
-                        "value": "Mahkeme karşısı"
+                        "value": "Mahkeme karşısı",
+                        "order": "5.00000000000000000000"
                     }
                 ]
             }
@@ -1509,7 +1667,8 @@
         "documents": [
             {
                 "id": 27,
-                "value": "İSTM.ŞSC.14.d.275 / 76b-1"
+                "value": "İSTM.ŞSC.14.d.275 / 76b-1",
+                "order": "27.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -1553,7 +1712,11 @@
                 "documents": [
                     {
                         "id": 27,
-                        "value": "İSTM.ŞSC.14.d.275 / 76b-1"
+                        "value": "İSTM.ŞSC.14.d.275 / 76b-1",
+                        "order": "27.00000000000000000000",
+                        "lat": "41.03460",
+                        "long": "28.96231",
+                        "iso_date": "1732-08-26"
                     }
                 ],
                 "occupation": [],
@@ -1563,13 +1726,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 37,
-                        "value": "Yeldeğirmeni"
+                        "value": "Yeldeğirmeni",
+                        "order": "36.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -1577,7 +1742,8 @@
                 "quarter": [
                     {
                         "id": 2,
-                        "value": "Kasımpaşa"
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
                     }
                 ],
                 "address": []
@@ -1596,7 +1762,8 @@
         "documents": [
             {
                 "id": 45,
-                "value": "İSTM.ŞSC.14.d.433 / 74b-2"
+                "value": "İSTM.ŞSC.14.d.433 / 74b-2",
+                "order": "45.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -1635,7 +1802,11 @@
                 "documents": [
                     {
                         "id": 45,
-                        "value": "İSTM.ŞSC.14.d.433 / 74b-2"
+                        "value": "İSTM.ŞSC.14.d.433 / 74b-2",
+                        "order": "45.00000000000000000000",
+                        "lat": "41.03351",
+                        "long": "28.99034",
+                        "iso_date": "1777-02-26"
                     }
                 ],
                 "occupation": [],
@@ -1645,13 +1816,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 40,
-                        "value": "Molla Çelebi"
+                        "value": "Molla Çelebi",
+                        "order": "39.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -1659,7 +1832,8 @@
                 "quarter": [
                     {
                         "id": 3,
-                        "value": "Fındıklı"
+                        "value": "Fındıklı",
+                        "order": "3.00000000000000000000"
                     }
                 ],
                 "address": []
@@ -1678,7 +1852,8 @@
         "documents": [
             {
                 "id": 52,
-                "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+                "value": "İSTM.ŞSC.14.d.528 / 83b-2",
+                "order": "54.50000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -1730,7 +1905,11 @@
                 "documents": [
                     {
                         "id": 52,
-                        "value": "İSTM.ŞSC.14.d.528 / 83b-2"
+                        "value": "İSTM.ŞSC.14.d.528 / 83b-2",
+                        "order": "54.50000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1795-11-24"
                     }
                 ],
                 "occupation": [],
@@ -1740,26 +1919,30 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 42,
-                        "value": "Yeni mahalle"
+                        "value": "Yeni mahalle",
+                        "order": "41.00000000000000000000"
                     }
                 ],
                 "karye": [],
                 "nahiye": [
                     {
                         "id": 1,
-                        "value": "İstinye"
+                        "value": "İstinye",
+                        "order": "1.00000000000000000000"
                     }
                 ],
                 "quarter": [
                     {
                         "id": 17,
-                        "value": "Sarıyer"
+                        "value": "Sarıyer",
+                        "order": "17.00000000000000000000"
                     }
                 ],
                 "address": []
@@ -1778,7 +1961,8 @@
         "documents": [
             {
                 "id": 60,
-                "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
+                "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)",
+                "order": "55.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -1814,19 +1998,35 @@
                 "documents": [
                     {
                         "id": 24,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)"
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+                        "order": "24.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1728-09-25"
                     },
                     {
                         "id": 59,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)"
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)",
+                        "order": "54.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1728-09-25"
                     },
                     {
                         "id": 60,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)",
+                        "order": "55.00000000000000000000",
+                        "lat": "41.03073",
+                        "long": "28.97406",
+                        "iso_date": "1728-09-25"
                     },
                     {
                         "id": 115,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)"
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)",
+                        "order": "55.99999999999999999999",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1728-09-25"
                     }
                 ],
                 "occupation": [],
@@ -1836,17 +2036,20 @@
                 "district": [
                     {
                         "id": 5,
-                        "value": "Galata Harici"
+                        "value": "Galata Harici",
+                        "order": "0.99999999999999999990"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 43,
-                        "value": "Dörtyolağzı"
+                        "value": "Dörtyolağzı",
+                        "order": "42.00000000000000000000"
                     },
                     {
                         "id": 72,
-                        "value": "Aslanağzı"
+                        "value": "Aslanağzı",
+                        "order": "70.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -1855,7 +2058,8 @@
                 "address": [
                     {
                         "id": 4,
-                        "value": "Galata Mevlevihanesi kurbü"
+                        "value": "Galata Mevlevihanesi kurbü",
+                        "order": "4.00000000000000000000"
                     }
                 ]
             }
@@ -1873,7 +2077,8 @@
         "documents": [
             {
                 "id": 19,
-                "value": "İSTM.ŞSC.14.d. 249/ 79a-2"
+                "value": "İSTM.ŞSC.14.d. 249/ 79a-2",
+                "order": "19.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -1917,7 +2122,11 @@
                 "documents": [
                     {
                         "id": 19,
-                        "value": "İSTM.ŞSC.14.d. 249/ 79a-2"
+                        "value": "İSTM.ŞSC.14.d. 249/ 79a-2",
+                        "order": "19.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1721-11-16"
                     }
                 ],
                 "occupation": [],
@@ -1927,13 +2136,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 44,
-                        "value": "İbrahim Efendi"
+                        "value": "İbrahim Efendi",
+                        "order": "43.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -1941,7 +2152,8 @@
                 "quarter": [
                     {
                         "id": 3,
-                        "value": "Fındıklı"
+                        "value": "Fındıklı",
+                        "order": "3.00000000000000000000"
                     }
                 ],
                 "address": []
@@ -1960,7 +2172,8 @@
         "documents": [
             {
                 "id": 11,
-                "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
+                "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28",
+                "order": "11.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -2004,7 +2217,11 @@
                 "documents": [
                     {
                         "id": 11,
-                        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28"
+                        "value": "İSTM.ŞSC.14.d.226 / 27a-2, 28",
+                        "order": "11.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1714-09-04"
                     }
                 ],
                 "occupation": [],
@@ -2014,20 +2231,23 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 46,
-                        "value": "Rumeli kazası"
+                        "value": "Rumeli kazası",
+                        "order": "44.00000000000000000000"
                     }
                 ],
                 "karye": [],
                 "nahiye": [
                     {
                         "id": 1,
-                        "value": "İstinye"
+                        "value": "İstinye",
+                        "order": "1.00000000000000000000"
                     }
                 ],
                 "quarter": [],
@@ -2047,19 +2267,23 @@
         "documents": [
             {
                 "id": 91,
-                "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+                "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)",
+                "order": "58.99999999999999999999"
             },
             {
                 "id": 66,
-                "value": "İSTM.ŞSC.06.d. 339 / 94b-1"
+                "value": "İSTM.ŞSC.06.d. 339 / 94b-1",
+                "order": "60.00000000000000000000"
             },
             {
                 "id": 67,
-                "value": "İSTM.ŞSC.06.d. 359 / 26a-1"
+                "value": "İSTM.ŞSC.06.d. 359 / 26a-1",
+                "order": "61.00000000000000000000"
             },
             {
                 "id": 72,
-                "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+                "value": "İSTM.ŞSC.06.d. 427 / 50a-2",
+                "order": "66.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -2095,11 +2319,19 @@
                 "documents": [
                     {
                         "id": 64,
-                        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
+                        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)",
+                        "order": "58.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1708-10-13"
                     },
                     {
                         "id": 91,
-                        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+                        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)",
+                        "order": "58.99999999999999999999",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1708-10-13"
                     }
                 ],
                 "occupation": [],
@@ -2109,17 +2341,20 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 65,
-                        "value": "Reis"
+                        "value": "Reis",
+                        "order": "63.00000000000000000000"
                     },
                     {
                         "id": 48,
-                        "value": "Kefere"
+                        "value": "Kefere",
+                        "order": "46.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2147,7 +2382,11 @@
                 "documents": [
                     {
                         "id": 66,
-                        "value": "İSTM.ŞSC.06.d. 339 / 94b-1"
+                        "value": "İSTM.ŞSC.06.d. 339 / 94b-1",
+                        "order": "60.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1709-05-21"
                     }
                 ],
                 "occupation": [],
@@ -2157,13 +2396,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 48,
-                        "value": "Kefere"
+                        "value": "Kefere",
+                        "order": "46.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2191,7 +2432,11 @@
                 "documents": [
                     {
                         "id": 67,
-                        "value": "İSTM.ŞSC.06.d. 359 / 26a-1"
+                        "value": "İSTM.ŞSC.06.d. 359 / 26a-1",
+                        "order": "61.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1716-12-20"
                     }
                 ],
                 "occupation": [],
@@ -2201,13 +2446,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 48,
-                        "value": "Kefere"
+                        "value": "Kefere",
+                        "order": "46.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2235,7 +2482,11 @@
                 "documents": [
                     {
                         "id": 72,
-                        "value": "İSTM.ŞSC.06.d. 427 / 50a-2"
+                        "value": "İSTM.ŞSC.06.d. 427 / 50a-2",
+                        "order": "66.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1750-02-17"
                     }
                 ],
                 "occupation": [],
@@ -2245,13 +2496,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 48,
-                        "value": "Kefere"
+                        "value": "Kefere",
+                        "order": "46.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2273,7 +2526,8 @@
         "documents": [
             {
                 "id": 70,
-                "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+                "value": "İSTM.ŞSC.06.d. 394 / 92a-1",
+                "order": "64.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -2309,7 +2563,11 @@
                 "documents": [
                     {
                         "id": 70,
-                        "value": "İSTM.ŞSC.06.d. 394 / 92a-1"
+                        "value": "İSTM.ŞSC.06.d. 394 / 92a-1",
+                        "order": "64.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1736-05-23"
                     }
                 ],
                 "occupation": [],
@@ -2319,19 +2577,22 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 51,
-                        "value": "Mehmed Paşa"
+                        "value": "Mehmed Paşa",
+                        "order": "49.00000000000000000000"
                     }
                 ],
                 "karye": [
                     {
                         "id": 6,
-                        "value": "Eski hamam"
+                        "value": "Eski hamam",
+                        "order": "6.00000000000000000000"
                     }
                 ],
                 "nahiye": [],
@@ -2352,23 +2613,28 @@
         "documents": [
             {
                 "id": 73,
-                "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+                "value": "İSTM.ŞSC.06.d. 440 / 24b-1",
+                "order": "67.00000000000000000000"
             },
             {
                 "id": 81,
-                "value": "İSTM.ŞSC.06.d. 494 / 81a-1"
+                "value": "İSTM.ŞSC.06.d. 494 / 81a-1",
+                "order": "75.00000000000000000000"
             },
             {
                 "id": 111,
-                "value": "İSTM.ŞSC.06.d. 577/43b-1"
+                "value": "İSTM.ŞSC.06.d. 577/43b-1",
+                "order": "104.00000000000000000000"
             },
             {
                 "id": 144,
-                "value": "İSTM.ŞSC.06.d. 566/51a"
+                "value": "İSTM.ŞSC.06.d. 566/51a",
+                "order": "111.00000000000000000000"
             },
             {
                 "id": 148,
-                "value": "İSTM.ŞSC.06.d. 578/54a"
+                "value": "İSTM.ŞSC.06.d. 578/54a",
+                "order": "115.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -2404,7 +2670,11 @@
                 "documents": [
                     {
                         "id": 111,
-                        "value": "İSTM.ŞSC.06.d. 577/43b-1"
+                        "value": "İSTM.ŞSC.06.d. 577/43b-1",
+                        "order": "104.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -2414,13 +2684,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 52,
-                        "value": "Yenimahalle"
+                        "value": "Yenimahalle",
+                        "order": "50.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2448,7 +2720,11 @@
                 "documents": [
                     {
                         "id": 73,
-                        "value": "İSTM.ŞSC.06.d. 440 / 24b-1"
+                        "value": "İSTM.ŞSC.06.d. 440 / 24b-1",
+                        "order": "67.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1755-04-21"
                     }
                 ],
                 "occupation": [],
@@ -2458,13 +2734,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 52,
-                        "value": "Yenimahalle"
+                        "value": "Yenimahalle",
+                        "order": "50.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2492,7 +2770,11 @@
                 "documents": [
                     {
                         "id": 81,
-                        "value": "İSTM.ŞSC.06.d. 494 / 81a-1"
+                        "value": "İSTM.ŞSC.06.d. 494 / 81a-1",
+                        "order": "75.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1776-04-09"
                     }
                 ],
                 "occupation": [],
@@ -2502,13 +2784,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 52,
-                        "value": "Yenimahalle"
+                        "value": "Yenimahalle",
+                        "order": "50.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2536,7 +2820,11 @@
                 "documents": [
                     {
                         "id": 144,
-                        "value": "İSTM.ŞSC.06.d. 566/51a"
+                        "value": "İSTM.ŞSC.06.d. 566/51a",
+                        "order": "111.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1807-12-08"
                     }
                 ],
                 "occupation": [],
@@ -2546,13 +2834,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 52,
-                        "value": "Yenimahalle"
+                        "value": "Yenimahalle",
+                        "order": "50.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2580,7 +2870,11 @@
                 "documents": [
                     {
                         "id": 148,
-                        "value": "İSTM.ŞSC.06.d. 578/54a"
+                        "value": "İSTM.ŞSC.06.d. 578/54a",
+                        "order": "115.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -2590,13 +2884,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 52,
-                        "value": "Yenimahalle"
+                        "value": "Yenimahalle",
+                        "order": "50.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2618,7 +2914,8 @@
         "documents": [
             {
                 "id": 74,
-                "value": "İSTM.ŞSC.06.d. 442 / 20a-2"
+                "value": "İSTM.ŞSC.06.d. 442 / 20a-2",
+                "order": "68.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -2649,7 +2946,11 @@
                 "documents": [
                     {
                         "id": 74,
-                        "value": "İSTM.ŞSC.06.d. 442 / 20a-2"
+                        "value": "İSTM.ŞSC.06.d. 442 / 20a-2",
+                        "order": "68.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1756-04-03"
                     }
                 ],
                 "occupation": [],
@@ -2659,13 +2960,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 53,
-                        "value": "Kapı ağası"
+                        "value": "Kapı ağası",
+                        "order": "51.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2687,7 +2990,8 @@
         "documents": [
             {
                 "id": 76,
-                "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+                "value": "İSTM.ŞSC.06.d. 455 / 38a-1",
+                "order": "70.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -2723,7 +3027,11 @@
                 "documents": [
                     {
                         "id": 76,
-                        "value": "İSTM.ŞSC.06.d. 455 / 38a-1"
+                        "value": "İSTM.ŞSC.06.d. 455 / 38a-1",
+                        "order": "70.00000000000000000000",
+                        "lat": "40.99618",
+                        "long": "28.92857",
+                        "iso_date": "1760-11-05"
                     }
                 ],
                 "occupation": [],
@@ -2733,13 +3041,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 54,
-                        "value": "Mirahor"
+                        "value": "Mirahor",
+                        "order": "52.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2761,7 +3071,8 @@
         "documents": [
             {
                 "id": 77,
-                "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
+                "value": "İSTM.ŞSC.06.d. 456 / 82b-3",
+                "order": "71.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -2797,7 +3108,11 @@
                 "documents": [
                     {
                         "id": 77,
-                        "value": "İSTM.ŞSC.06.d. 456 / 82b-3"
+                        "value": "İSTM.ŞSC.06.d. 456 / 82b-3",
+                        "order": "71.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1761-09-25"
                     }
                 ],
                 "occupation": [],
@@ -2807,13 +3122,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 57,
-                        "value": "Köprübaşı"
+                        "value": "Köprübaşı",
+                        "order": "55.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2822,7 +3139,8 @@
                 "address": [
                     {
                         "id": 18,
-                        "value": "Süleyman Ağa mahallesi sukkanı"
+                        "value": "Süleyman Ağa mahallesi sukkanı",
+                        "order": "18.00000000000000000000"
                     }
                 ]
             }
@@ -2840,7 +3158,8 @@
         "documents": [
             {
                 "id": 85,
-                "value": "İSTM.ŞSC.06.d. 505 / 83a-3"
+                "value": "İSTM.ŞSC.06.d. 505 / 83a-3",
+                "order": "79.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -2876,7 +3195,11 @@
                 "documents": [
                     {
                         "id": 85,
-                        "value": "İSTM.ŞSC.06.d. 505 / 83a-3"
+                        "value": "İSTM.ŞSC.06.d. 505 / 83a-3",
+                        "order": "79.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1780-04-15"
                     }
                 ],
                 "occupation": [],
@@ -2886,13 +3209,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 58,
-                        "value": "Arakiyeci Elhac Mehmed"
+                        "value": "Arakiyeci Elhac Mehmed",
+                        "order": "56.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2901,7 +3226,8 @@
                 "address": [
                     {
                         "id": 10,
-                        "value": "Kasım Ağa Çeşmesi kurbü"
+                        "value": "Kasım Ağa Çeşmesi kurbü",
+                        "order": "10.00000000000000000000"
                     }
                 ]
             }
@@ -2919,7 +3245,8 @@
         "documents": [
             {
                 "id": 86,
-                "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
+                "value": "İSTM.ŞSC.06.d. 522 / 21b-4",
+                "order": "80.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -2955,7 +3282,11 @@
                 "documents": [
                     {
                         "id": 86,
-                        "value": "İSTM.ŞSC.06.d. 522 / 21b-4"
+                        "value": "İSTM.ŞSC.06.d. 522 / 21b-4",
+                        "order": "80.00000000000000000000",
+                        "lat": "41.00960",
+                        "long": "28.96874",
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -2965,13 +3296,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 59,
-                        "value": "Hüseyin Ağa"
+                        "value": "Hüseyin Ağa",
+                        "order": "57.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -2980,7 +3313,8 @@
                 "address": [
                     {
                         "id": 11,
-                        "value": "Ağa Hamamı mahali"
+                        "value": "Ağa Hamamı mahali",
+                        "order": "11.00000000000000000000"
                     }
                 ]
             }
@@ -2998,7 +3332,8 @@
         "documents": [
             {
                 "id": 87,
-                "value": "İSTM.ŞSC.06.d. 548 / 43a-2"
+                "value": "İSTM.ŞSC.06.d. 548 / 43a-2",
+                "order": "81.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -3029,7 +3364,11 @@
                 "documents": [
                     {
                         "id": 87,
-                        "value": "İSTM.ŞSC.06.d. 548 / 43a-2"
+                        "value": "İSTM.ŞSC.06.d. 548 / 43a-2",
+                        "order": "81.00000000000000000000",
+                        "lat": "41.01883",
+                        "long": "29.07617",
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -3039,13 +3378,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 60,
-                        "value": "Bulgurlu"
+                        "value": "Bulgurlu",
+                        "order": "58.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -3067,7 +3408,8 @@
         "documents": [
             {
                 "id": 80,
-                "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
+                "value": "İSTM.ŞSC.06.d. 491 / 51b-2",
+                "order": "74.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -3103,7 +3445,11 @@
                 "documents": [
                     {
                         "id": 80,
-                        "value": "İSTM.ŞSC.06.d. 491 / 51b-2"
+                        "value": "İSTM.ŞSC.06.d. 491 / 51b-2",
+                        "order": "74.00000000000000000000",
+                        "lat": "41.02492",
+                        "long": "29.01859",
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -3113,13 +3459,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 62,
-                        "value": "Tenbel Elhac Mehmed"
+                        "value": "Tenbel Elhac Mehmed",
+                        "order": "60.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -3141,7 +3489,8 @@
         "documents": [
             {
                 "id": 92,
-                "value": "İSTM.ŞSC.15.d. 134/ 95a-1"
+                "value": "İSTM.ŞSC.15.d. 134/ 95a-1",
+                "order": "86.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -3172,7 +3521,11 @@
                 "documents": [
                     {
                         "id": 92,
-                        "value": "İSTM.ŞSC.15.d. 134/ 95a-1"
+                        "value": "İSTM.ŞSC.15.d. 134/ 95a-1",
+                        "order": "86.00000000000000000000",
+                        "lat": "41.01844",
+                        "long": "28.95582",
+                        "iso_date": "1716-12-10"
                     }
                 ],
                 "occupation": [],
@@ -3182,13 +3535,15 @@
                 "district": [
                     {
                         "id": 19,
-                        "value": "Eyüp"
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 63,
-                        "value": "Şah Sultan"
+                        "value": "Şah Sultan",
+                        "order": "61.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -3210,13 +3565,15 @@
         "documents": [
             {
                 "id": 109,
-                "value": "İSTM.ŞSC.06.d. 566/92b-1"
+                "value": "İSTM.ŞSC.06.d. 566/92b-1",
+                "order": "102.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [
             {
                 "id": 16,
-                "value": "Üsküdar"
+                "value": "Üsküdar",
+                "order": "15.00000000000000000000"
             }
         ],
         "upper_admin1": [
@@ -3251,7 +3608,11 @@
                 "documents": [
                     {
                         "id": 109,
-                        "value": "İSTM.ŞSC.06.d. 566/92b-1"
+                        "value": "İSTM.ŞSC.06.d. 566/92b-1",
+                        "order": "102.00000000000000000000",
+                        "lat": "41.01779",
+                        "long": "29.02026",
+                        "iso_date": "1808-06-04"
                     }
                 ],
                 "occupation": [],
@@ -3261,13 +3622,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 64,
-                        "value": "Debbağlar"
+                        "value": "Debbağlar",
+                        "order": "62.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -3289,7 +3652,8 @@
         "documents": [
             {
                 "id": 64,
-                "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
+                "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)",
+                "order": "58.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -3325,11 +3689,19 @@
                 "documents": [
                     {
                         "id": 64,
-                        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)"
+                        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)",
+                        "order": "58.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1708-10-13"
                     },
                     {
                         "id": 91,
-                        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)"
+                        "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)",
+                        "order": "58.99999999999999999999",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1708-10-13"
                     }
                 ],
                 "occupation": [],
@@ -3339,17 +3711,20 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 65,
-                        "value": "Reis"
+                        "value": "Reis",
+                        "order": "63.00000000000000000000"
                     },
                     {
                         "id": 48,
-                        "value": "Kefere"
+                        "value": "Kefere",
+                        "order": "46.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -3371,7 +3746,8 @@
         "documents": [
             {
                 "id": 35,
-                "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
+                "value": "İSTM.ŞSC.14.d. 352/ 6a-1",
+                "order": "35.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -3423,7 +3799,11 @@
                 "documents": [
                     {
                         "id": 35,
-                        "value": "İSTM.ŞSC.14.d. 352/ 6a-1"
+                        "value": "İSTM.ŞSC.14.d. 352/ 6a-1",
+                        "order": "35.00000000000000000000",
+                        "lat": "41.03539",
+                        "long": "28.96464",
+                        "iso_date": "1759-10-30"
                     }
                 ],
                 "occupation": [],
@@ -3433,26 +3813,30 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 66,
-                        "value": "Kürkçü"
+                        "value": "Kürkçü",
+                        "order": "64.00000000000000000000"
                     }
                 ],
                 "karye": [],
                 "nahiye": [
                     {
                         "id": 1,
-                        "value": "İstinye"
+                        "value": "İstinye",
+                        "order": "1.00000000000000000000"
                     }
                 ],
                 "quarter": [
                     {
                         "id": 15,
-                        "value": "Yeniköy"
+                        "value": "Yeniköy",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "address": []
@@ -3471,7 +3855,8 @@
         "documents": [
             {
                 "id": 95,
-                "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+                "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)",
+                "order": "89.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -3507,11 +3892,19 @@
                 "documents": [
                     {
                         "id": 95,
-                        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)"
+                        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)",
+                        "order": "89.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1744-08-20"
                     },
                     {
                         "id": 136,
-                        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)"
+                        "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)",
+                        "order": "89.99999999999999999999",
+                        "lat": "41.04037",
+                        "long": "28.96921",
+                        "iso_date": "1744-08-20"
                     }
                 ],
                 "occupation": [],
@@ -3521,17 +3914,20 @@
                 "district": [
                     {
                         "id": 19,
-                        "value": "Eyüp"
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 67,
-                        "value": "Yavud"
+                        "value": "Yavud",
+                        "order": "65.00000000000000000000"
                     },
                     {
                         "id": 18,
-                        "value": "Elhac Hüsrev"
+                        "value": "Elhac Hüsrev",
+                        "order": "18.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -3553,7 +3949,8 @@
         "documents": [
             {
                 "id": 97,
-                "value": "İSTM.ŞSC.15.d. 194 / 10b-1"
+                "value": "İSTM.ŞSC.15.d. 194 / 10b-1",
+                "order": "91.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -3589,7 +3986,11 @@
                 "documents": [
                     {
                         "id": 97,
-                        "value": "İSTM.ŞSC.15.d. 194 / 10b-1"
+                        "value": "İSTM.ŞSC.15.d. 194 / 10b-1",
+                        "order": "91.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1754-11-26"
                     }
                 ],
                 "occupation": [],
@@ -3599,13 +4000,15 @@
                 "district": [
                     {
                         "id": 19,
-                        "value": "Eyüp"
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 69,
-                        "value": "Otakçı"
+                        "value": "Otakçı",
+                        "order": "67.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -3627,7 +4030,8 @@
         "documents": [
             {
                 "id": 115,
-                "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)"
+                "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)",
+                "order": "55.99999999999999999999"
             }
         ],
         "district_nineteenth_century": [],
@@ -3663,19 +4067,35 @@
                 "documents": [
                     {
                         "id": 24,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)"
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+                        "order": "24.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1728-09-25"
                     },
                     {
                         "id": 59,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)"
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)",
+                        "order": "54.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1728-09-25"
                     },
                     {
                         "id": 60,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)"
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)",
+                        "order": "55.00000000000000000000",
+                        "lat": "41.03073",
+                        "long": "28.97406",
+                        "iso_date": "1728-09-25"
                     },
                     {
                         "id": 115,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)"
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)",
+                        "order": "55.99999999999999999999",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1728-09-25"
                     }
                 ],
                 "occupation": [],
@@ -3685,17 +4105,20 @@
                 "district": [
                     {
                         "id": 5,
-                        "value": "Galata Harici"
+                        "value": "Galata Harici",
+                        "order": "0.99999999999999999990"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 43,
-                        "value": "Dörtyolağzı"
+                        "value": "Dörtyolağzı",
+                        "order": "42.00000000000000000000"
                     },
                     {
                         "id": 72,
-                        "value": "Aslanağzı"
+                        "value": "Aslanağzı",
+                        "order": "70.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -3704,7 +4127,8 @@
                 "address": [
                     {
                         "id": 4,
-                        "value": "Galata Mevlevihanesi kurbü"
+                        "value": "Galata Mevlevihanesi kurbü",
+                        "order": "4.00000000000000000000"
                     }
                 ]
             }
@@ -3722,11 +4146,13 @@
         "documents": [
             {
                 "id": 31,
-                "value": "İSTM.ŞSC.14.d.304 / 22b-3"
+                "value": "İSTM.ŞSC.14.d.304 / 22b-3",
+                "order": "31.00000000000000000000"
             },
             {
                 "id": 36,
-                "value": "İSTM.ŞSC.14.d.355 / 47b-3"
+                "value": "İSTM.ŞSC.14.d.355 / 47b-3",
+                "order": "36.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -3762,7 +4188,11 @@
                 "documents": [
                     {
                         "id": 31,
-                        "value": "İSTM.ŞSC.14.d.304 / 22b-3"
+                        "value": "İSTM.ŞSC.14.d.304 / 22b-3",
+                        "order": "31.00000000000000000000",
+                        "lat": "41.02321",
+                        "long": "28.97695",
+                        "iso_date": "1740-02-13"
                     }
                 ],
                 "occupation": [],
@@ -3772,13 +4202,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 74,
-                        "value": "Kemankeş Kara Mustafa Paşa"
+                        "value": "Kemankeş Kara Mustafa Paşa",
+                        "order": "72.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -3787,7 +4219,8 @@
                 "address": [
                     {
                         "id": 16,
-                        "value": "Sandıkçılarbaşı"
+                        "value": "Sandıkçılarbaşı",
+                        "order": "16.00000000000000000000"
                     }
                 ]
             },
@@ -3806,7 +4239,11 @@
                 "documents": [
                     {
                         "id": 36,
-                        "value": "İSTM.ŞSC.14.d.355 / 47b-3"
+                        "value": "İSTM.ŞSC.14.d.355 / 47b-3",
+                        "order": "36.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -3816,13 +4253,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 74,
-                        "value": "Kemankeş Kara Mustafa Paşa"
+                        "value": "Kemankeş Kara Mustafa Paşa",
+                        "order": "72.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -3844,7 +4283,8 @@
         "documents": [
             {
                 "id": 49,
-                "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
+                "value": "İSTM.ŞSC.14.d. 496 / 35b-3",
+                "order": "49.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -3895,7 +4335,11 @@
                 "documents": [
                     {
                         "id": 49,
-                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3"
+                        "value": "İSTM.ŞSC.14.d. 496 / 35b-3",
+                        "order": "49.00000000000000000000",
+                        "lat": "41.04044",
+                        "long": "28.96119",
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -3905,13 +4349,15 @@
                 "district": [
                     {
                         "id": 4,
-                        "value": "Galata"
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 76,
-                        "value": "Kulaksız"
+                        "value": "Kulaksız",
+                        "order": "74.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -3919,11 +4365,13 @@
                 "quarter": [
                     {
                         "id": 2,
-                        "value": "Kasımpaşa"
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
                     },
                     {
                         "id": 10,
-                        "value": "Tatavla"
+                        "value": "Tatavla",
+                        "order": "10.00000000000000000000"
                     }
                 ],
                 "address": []
@@ -4006,7 +4454,8 @@
         "documents": [
             {
                 "id": 83,
-                "value": "İSTM.ŞSC.06.d. 495 / 68a-2"
+                "value": "İSTM.ŞSC.06.d. 495 / 68a-2",
+                "order": "77.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -4042,7 +4491,11 @@
                 "documents": [
                     {
                         "id": 83,
-                        "value": "İSTM.ŞSC.06.d. 495 / 68a-2"
+                        "value": "İSTM.ŞSC.06.d. 495 / 68a-2",
+                        "order": "77.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -4052,13 +4505,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 84,
-                        "value": "Selami"
+                        "value": "Selami",
+                        "order": "82.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -4096,7 +4551,8 @@
         "documents": [
             {
                 "id": 93,
-                "value": "İSTM.ŞSC.15.d. 164 / 8b-1"
+                "value": "İSTM.ŞSC.15.d. 164 / 8b-1",
+                "order": "87.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -4132,7 +4588,11 @@
                 "documents": [
                     {
                         "id": 93,
-                        "value": "İSTM.ŞSC.15.d. 164 / 8b-1"
+                        "value": "İSTM.ŞSC.15.d. 164 / 8b-1",
+                        "order": "87.00000000000000000000",
+                        "lat": "41.03443",
+                        "long": "28.94669",
+                        "iso_date": "1736-07-29"
                     }
                 ],
                 "occupation": [],
@@ -4142,13 +4602,15 @@
                 "district": [
                     {
                         "id": 19,
-                        "value": "Eyüp"
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 87,
-                        "value": "Balat Kapısı"
+                        "value": "Balat Kapısı",
+                        "order": "85.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -4202,13 +4664,15 @@
         "documents": [
             {
                 "id": 112,
-                "value": "İSTM.ŞSC.06.d. 578/53b-1"
+                "value": "İSTM.ŞSC.06.d. 578/53b-1",
+                "order": "105.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [
             {
                 "id": 16,
-                "value": "Üsküdar"
+                "value": "Üsküdar",
+                "order": "15.00000000000000000000"
             }
         ],
         "upper_admin1": [
@@ -4243,7 +4707,11 @@
                 "documents": [
                     {
                         "id": 112,
-                        "value": "İSTM.ŞSC.06.d. 578/53b-1"
+                        "value": "İSTM.ŞSC.06.d. 578/53b-1",
+                        "order": "105.00000000000000000000",
+                        "lat": "40.98895",
+                        "long": "29.02270",
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -4253,13 +4721,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 95,
-                        "value": "Yeniçeşme"
+                        "value": "Yeniçeşme",
+                        "order": "91.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -4281,13 +4751,15 @@
         "documents": [
             {
                 "id": 141,
-                "value": "İSTM.ŞSC.06.d. 589/56b"
+                "value": "İSTM.ŞSC.06.d. 589/56b",
+                "order": "108.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [
             {
                 "id": 16,
-                "value": "Üsküdar"
+                "value": "Üsküdar",
+                "order": "15.00000000000000000000"
             }
         ],
         "upper_admin1": [
@@ -4322,7 +4794,11 @@
                 "documents": [
                     {
                         "id": 141,
-                        "value": "İSTM.ŞSC.06.d. 589/56b"
+                        "value": "İSTM.ŞSC.06.d. 589/56b",
+                        "order": "108.00000000000000000000",
+                        "lat": "40.99002",
+                        "long": "29.02721",
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -4332,13 +4808,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 97,
-                        "value": "Kazasker"
+                        "value": "Kazasker",
+                        "order": "93.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -4360,7 +4838,8 @@
         "documents": [
             {
                 "id": 145,
-                "value": "İSTM.ŞSC.06.d. 567/71a"
+                "value": "İSTM.ŞSC.06.d. 567/71a",
+                "order": "112.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -4391,7 +4870,11 @@
                 "documents": [
                     {
                         "id": 145,
-                        "value": "İSTM.ŞSC.06.d. 567/71a"
+                        "value": "İSTM.ŞSC.06.d. 567/71a",
+                        "order": "112.00000000000000000000",
+                        "lat": "41.02504",
+                        "long": "29.01077",
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -4401,13 +4884,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 98,
-                        "value": "Rum Mehmed Paşa"
+                        "value": "Rum Mehmed Paşa",
+                        "order": "94.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -4429,7 +4914,8 @@
         "documents": [
             {
                 "id": 160,
-                "value": "İSTM.ŞSC.06.d. 598/41a"
+                "value": "İSTM.ŞSC.06.d. 598/41a",
+                "order": "131.00000000000000000000"
             }
         ],
         "district_nineteenth_century": [],
@@ -4460,7 +4946,11 @@
                 "documents": [
                     {
                         "id": 160,
-                        "value": "İSTM.ŞSC.06.d. 598/41a"
+                        "value": "İSTM.ŞSC.06.d. 598/41a",
+                        "order": "131.00000000000000000000",
+                        "lat": "41.02376",
+                        "long": "29.01497",
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -4470,13 +4960,15 @@
                 "district": [
                     {
                         "id": 16,
-                        "value": "Üsküdar"
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
                     {
                         "id": 100,
-                        "value": "Gülfem Hatun"
+                        "value": "Gülfem Hatun",
+                        "order": "96.00000000000000000000"
                     }
                 ],
                 "karye": [],
