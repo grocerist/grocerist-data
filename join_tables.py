@@ -92,6 +92,8 @@ def join_documents_and_categories(docs_data, cat_data):
 
         for good in value["goods"]:
             for cat in good["has_category"]:
+                # Remove the "order" key if it exists
+                cat.pop("order", None)
                 good_cat_key = "__".join([f"{v}" for k, v in cat.items()])
                 good_cat_set.add(good_cat_key)
 
