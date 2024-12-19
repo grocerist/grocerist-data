@@ -5900,7 +5900,13 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "good": [],
+    "good": [
+      {
+        "id": 5,
+        "value": "Zeytin yağı",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -5911,8 +5917,20 @@
     "id": 256,
     "order": "245.00000000000000000000",
     "grocerist_id": "price__256",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 54,
+        "value": "Kuşadası  balı",
+        "order": "54.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -5923,8 +5941,20 @@
     "id": 257,
     "order": "246.00000000000000000000",
     "grocerist_id": "price__257",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 181,
+        "value": "Revak asel",
+        "order": "178.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -5935,8 +5965,20 @@
     "id": 258,
     "order": "247.00000000000000000000",
     "grocerist_id": "price__258",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 10,
+        "value": "Tulum peyniri",
+        "order": "10.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -5947,8 +5989,20 @@
     "id": 259,
     "order": "248.00000000000000000000",
     "grocerist_id": "price__259",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 24,
+        "value": "Nardeng",
+        "order": "24.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -5959,8 +6013,20 @@
     "id": 260,
     "order": "249.00000000000000000000",
     "grocerist_id": "price__260",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 23,
+        "value": "Pekmez",
+        "order": "23.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -5971,8 +6037,20 @@
     "id": 261,
     "order": "250.00000000000000000000",
     "grocerist_id": "price__261",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 108,
+        "value": "Sabun",
+        "order": "108.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -5983,8 +6061,20 @@
     "id": 262,
     "order": "251.00000000000000000000",
     "grocerist_id": "price__262",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 27,
+        "value": "Nişasta",
+        "order": "27.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -5995,8 +6085,20 @@
     "id": 263,
     "order": "252.00000000000000000000",
     "grocerist_id": "price__263",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 142,
+        "value": "Eflak balı",
+        "order": "142.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6007,8 +6109,20 @@
     "id": 264,
     "order": "253.00000000000000000000",
     "grocerist_id": "price__264",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 17,
+        "value": "Beylerce",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6019,8 +6133,20 @@
     "id": 265,
     "order": "254.00000000000000000000",
     "grocerist_id": "price__265",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 42,
+        "value": "Eflak tuzu",
+        "order": "42.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6031,8 +6157,20 @@
     "id": 266,
     "order": "255.00000000000000000000",
     "grocerist_id": "price__266",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 28,
+        "value": "Sirke",
+        "order": "28.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6043,8 +6181,20 @@
     "id": 267,
     "order": "256.00000000000000000000",
     "grocerist_id": "price__267",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 9,
+        "value": "Kaşkaval",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6055,8 +6205,20 @@
     "id": 268,
     "order": "257.00000000000000000000",
     "grocerist_id": "price__268",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 1,
+        "value": "Fındık",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6067,8 +6229,20 @@
     "id": 269,
     "order": "258.00000000000000000000",
     "grocerist_id": "price__269",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 12,
+        "value": "Böğrülce",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6079,8 +6253,20 @@
     "id": 270,
     "order": "259.00000000000000000000",
     "grocerist_id": "price__270",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 15,
+        "value": "Pirinç",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6091,8 +6277,20 @@
     "id": 271,
     "order": "260.00000000000000000000",
     "grocerist_id": "price__271",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 41,
+        "value": "Daru",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6103,8 +6301,20 @@
     "id": 272,
     "order": "261.00000000000000000000",
     "grocerist_id": "price__272",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 36,
+        "value": "Şariye",
+        "order": "36.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6115,8 +6325,20 @@
     "id": 273,
     "order": "262.00000000000000000000",
     "grocerist_id": "price__273",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 13,
+        "value": "Nohut",
+        "order": "13.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6127,8 +6349,20 @@
     "id": 274,
     "order": "263.00000000000000000000",
     "grocerist_id": "price__274",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 14,
+        "value": "Mercimek",
+        "order": "14.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6139,8 +6373,20 @@
     "id": 275,
     "order": "264.00000000000000000000",
     "grocerist_id": "price__275",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 33,
+        "value": "Kefe tuzu",
+        "order": "33.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6151,8 +6397,20 @@
     "id": 276,
     "order": "265.00000000000000000000",
     "grocerist_id": "price__276",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 46,
+        "value": "Şair",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6163,8 +6421,20 @@
     "id": 277,
     "order": "266.00000000000000000000",
     "grocerist_id": "price__277",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 5,
+        "value": "Zeytin yağı",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6175,8 +6445,20 @@
     "id": 278,
     "order": "267.00000000000000000000",
     "grocerist_id": "price__278",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 55,
+        "value": "Bezir yağı",
+        "order": "55.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6187,8 +6469,20 @@
     "id": 279,
     "order": "268.00000000000000000000",
     "grocerist_id": "price__279",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 34,
+        "value": "Zeytin",
+        "order": "34.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6199,8 +6493,20 @@
     "id": 280,
     "order": "269.00000000000000000000",
     "grocerist_id": "price__280",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 15,
+        "value": "İSTM.ŞSC.14.d.237 / 62b-2",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 56,
+        "value": "Balık salamurası",
+        "order": "56.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6211,8 +6517,20 @@
     "id": 281,
     "order": "270.00000000000000000000",
     "grocerist_id": "price__281",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 9,
+        "value": "Kaşkaval",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6223,8 +6541,20 @@
     "id": 282,
     "order": "271.00000000000000000000",
     "grocerist_id": "price__282",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 1,
+        "value": "Fındık",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6235,8 +6565,20 @@
     "id": 283,
     "order": "272.00000000000000000000",
     "grocerist_id": "price__283",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 21,
+        "value": "İncir",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6247,8 +6589,20 @@
     "id": 284,
     "order": "273.00000000000000000000",
     "grocerist_id": "price__284",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 10,
+        "value": "Tulum peyniri",
+        "order": "10.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6259,8 +6613,20 @@
     "id": 285,
     "order": "274.00000000000000000000",
     "grocerist_id": "price__285",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 16,
+        "value": "İSTM.ŞSC.14.d.241 / 3a-1",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 160,
+        "value": "Üzüm",
+        "order": "158.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6271,8 +6637,20 @@
     "id": 286,
     "order": "275.00000000000000000000",
     "grocerist_id": "price__286",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 170,
+        "value": "Karpuz",
+        "order": "167.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6283,8 +6661,20 @@
     "id": 287,
     "order": "276.00000000000000000000",
     "grocerist_id": "price__287",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 166,
+        "value": "Peynir",
+        "order": "163.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6295,8 +6685,20 @@
     "id": 288,
     "order": "277.00000000000000000000",
     "grocerist_id": "price__288",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 21,
+        "value": "İncir",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6307,8 +6709,20 @@
     "id": 289,
     "order": "278.00000000000000000000",
     "grocerist_id": "price__289",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 15,
+        "value": "Pirinç",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6319,8 +6733,20 @@
     "id": 290,
     "order": "279.00000000000000000000",
     "grocerist_id": "price__290",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 5,
+        "value": "Zeytin yağı",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6331,8 +6757,20 @@
     "id": 291,
     "order": "280.00000000000000000000",
     "grocerist_id": "price__291",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 25,
+        "value": "Bal / Asel",
+        "order": "25.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6343,8 +6781,20 @@
     "id": 292,
     "order": "281.00000000000000000000",
     "grocerist_id": "price__292",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 1,
+        "value": "Fındık",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6355,8 +6805,20 @@
     "id": 293,
     "order": "282.00000000000000000000",
     "grocerist_id": "price__293",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 1,
+        "value": "Fındık",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6367,8 +6829,20 @@
     "id": 294,
     "order": "283.00000000000000000000",
     "grocerist_id": "price__294",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 1,
+        "value": "Fındık",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6379,8 +6853,20 @@
     "id": 295,
     "order": "284.00000000000000000000",
     "grocerist_id": "price__295",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 18,
+        "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 25,
+        "value": "Bal / Asel",
+        "order": "25.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6391,8 +6877,20 @@
     "id": 296,
     "order": "285.00000000000000000000",
     "grocerist_id": "price__296",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 20,
+        "value": "İSTM.ŞSC.14.d.254 / 3b-1",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 28,
+        "value": "Sirke",
+        "order": "28.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6403,8 +6901,20 @@
     "id": 297,
     "order": "286.00000000000000000000",
     "grocerist_id": "price__297",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 20,
+        "value": "İSTM.ŞSC.14.d.254 / 3b-1",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 5,
+        "value": "Zeytin yağı",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6415,8 +6925,20 @@
     "id": 298,
     "order": "287.00000000000000000000",
     "grocerist_id": "price__298",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 20,
+        "value": "İSTM.ŞSC.14.d.254 / 3b-1",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 6,
+        "value": "Sadeyağ",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6427,8 +6949,20 @@
     "id": 299,
     "order": "288.00000000000000000000",
     "grocerist_id": "price__299",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 20,
+        "value": "İSTM.ŞSC.14.d.254 / 3b-1",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 14,
+        "value": "Mercimek",
+        "order": "14.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6439,8 +6973,20 @@
     "id": 300,
     "order": "289.00000000000000000000",
     "grocerist_id": "price__300",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 49,
+        "value": "Sucuk",
+        "order": "49.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6451,8 +6997,20 @@
     "id": 301,
     "order": "290.00000000000000000000",
     "grocerist_id": "price__301",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 2,
+        "value": "Fıstık",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6463,8 +7021,20 @@
     "id": 302,
     "order": "291.00000000000000000000",
     "grocerist_id": "price__302",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 58,
+        "value": "Kuş üzümü",
+        "order": "58.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6475,8 +7045,20 @@
     "id": 303,
     "order": "292.00000000000000000000",
     "grocerist_id": "price__303",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 17,
+        "value": "Beylerce",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6487,8 +7069,20 @@
     "id": 304,
     "order": "293.00000000000000000000",
     "grocerist_id": "price__304",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 4,
+        "value": "Ceviz",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6499,8 +7093,20 @@
     "id": 305,
     "order": "294.00000000000000000000",
     "grocerist_id": "price__305",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 59,
+        "value": "Yumurta",
+        "order": "59.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6511,8 +7117,20 @@
     "id": 306,
     "order": "295.00000000000000000000",
     "grocerist_id": "price__306",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 60,
+        "value": "Taze peynir",
+        "order": "60.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6523,8 +7141,20 @@
     "id": 307,
     "order": "296.00000000000000000000",
     "grocerist_id": "price__307",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 9,
+        "value": "Kaşkaval",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6535,8 +7165,20 @@
     "id": 308,
     "order": "297.00000000000000000000",
     "grocerist_id": "price__308",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 3,
+        "value": "Badem",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6547,8 +7189,20 @@
     "id": 309,
     "order": "298.00000000000000000000",
     "grocerist_id": "price__309",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 20,
+        "value": "Siyah",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6559,8 +7213,20 @@
     "id": 310,
     "order": "299.00000000000000000000",
     "grocerist_id": "price__310",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 1,
+        "value": "Fındık",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6571,8 +7237,20 @@
     "id": 311,
     "order": "300.00000000000000000000",
     "grocerist_id": "price__311",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 45,
+        "value": "Bulgur",
+        "order": "45.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6583,8 +7261,20 @@
     "id": 312,
     "order": "301.00000000000000000000",
     "grocerist_id": "price__312",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 12,
+        "value": "Böğrülce",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6595,8 +7285,20 @@
     "id": 313,
     "order": "302.00000000000000000000",
     "grocerist_id": "price__313",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 36,
+        "value": "Şariye",
+        "order": "36.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6607,8 +7309,20 @@
     "id": 314,
     "order": "303.00000000000000000000",
     "grocerist_id": "price__314",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 27,
+        "value": "Nişasta",
+        "order": "27.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6619,8 +7333,20 @@
     "id": 315,
     "order": "304.00000000000000000000",
     "grocerist_id": "price__315",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 53,
+        "value": "Un / Dakik",
+        "order": "53.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6631,8 +7357,20 @@
     "id": 316,
     "order": "305.00000000000000000000",
     "grocerist_id": "price__316",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 112,
+        "value": "Mum",
+        "order": "112.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6643,8 +7381,20 @@
     "id": 317,
     "order": "306.00000000000000000000",
     "grocerist_id": "price__317",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 15,
+        "value": "Pirinç",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6655,8 +7405,20 @@
     "id": 318,
     "order": "307.00000000000000000000",
     "grocerist_id": "price__318",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 34,
+        "value": "Zeytin",
+        "order": "34.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6667,8 +7429,20 @@
     "id": 319,
     "order": "308.00000000000000000000",
     "grocerist_id": "price__319",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 5,
+        "value": "Zeytin yağı",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6679,8 +7453,20 @@
     "id": 320,
     "order": "309.00000000000000000000",
     "grocerist_id": "price__320",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 33,
+        "value": "Kefe tuzu",
+        "order": "33.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6691,8 +7477,20 @@
     "id": 321,
     "order": "310.00000000000000000000",
     "grocerist_id": "price__321",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 13,
+        "value": "Nohut",
+        "order": "13.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6703,8 +7501,20 @@
     "id": 322,
     "order": "311.00000000000000000000",
     "grocerist_id": "price__322",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 22,
+        "value": "İSTM.ŞSC.14.d.254 / 64a-1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 29,
+        "value": "Soğan",
+        "order": "29.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6715,8 +7525,20 @@
     "id": 323,
     "order": "312.00000000000000000000",
     "grocerist_id": "price__323",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 36,
+        "value": "Şariye",
+        "order": "36.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6727,8 +7549,20 @@
     "id": 324,
     "order": "313.00000000000000000000",
     "grocerist_id": "price__324",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 15,
+        "value": "Pirinç",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6739,8 +7573,20 @@
     "id": 325,
     "order": "314.00000000000000000000",
     "grocerist_id": "price__325",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 62,
+        "value": "Kenevir tohumu",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6751,8 +7597,20 @@
     "id": 326,
     "order": "315.00000000000000000000",
     "grocerist_id": "price__326",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 13,
+        "value": "Nohut",
+        "order": "13.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6763,8 +7621,20 @@
     "id": 327,
     "order": "316.00000000000000000000",
     "grocerist_id": "price__327",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 27,
+        "value": "Nişasta",
+        "order": "27.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6775,8 +7645,20 @@
     "id": 328,
     "order": "317.00000000000000000000",
     "grocerist_id": "price__328",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 1,
+        "value": "Fındık",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6787,8 +7669,20 @@
     "id": 329,
     "order": "318.00000000000000000000",
     "grocerist_id": "price__329",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 12,
+        "value": "Böğrülce",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6799,8 +7693,20 @@
     "id": 330,
     "order": "319.00000000000000000000",
     "grocerist_id": "price__330",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 4,
+        "value": "Ceviz",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6811,8 +7717,20 @@
     "id": 331,
     "order": "320.00000000000000000000",
     "grocerist_id": "price__331",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 42,
+        "value": "Eflak tuzu",
+        "order": "42.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6823,8 +7741,20 @@
     "id": 332,
     "order": "321.00000000000000000000",
     "grocerist_id": "price__332",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 2,
+        "value": "Fıstık",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6835,8 +7765,20 @@
     "id": 333,
     "order": "322.00000000000000000000",
     "grocerist_id": "price__333",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 24,
+        "value": "Nardeng",
+        "order": "24.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6847,8 +7789,20 @@
     "id": 334,
     "order": "323.00000000000000000000",
     "grocerist_id": "price__334",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 25,
+        "value": "Bal / Asel",
+        "order": "25.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6859,8 +7813,20 @@
     "id": 335,
     "order": "324.00000000000000000000",
     "grocerist_id": "price__335",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 46,
+        "value": "Şair",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6871,8 +7837,20 @@
     "id": 336,
     "order": "325.00000000000000000000",
     "grocerist_id": "price__336",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 112,
+        "value": "Mum",
+        "order": "112.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6883,8 +7861,20 @@
     "id": 337,
     "order": "326.00000000000000000000",
     "grocerist_id": "price__337",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 41,
+        "value": "Daru",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6895,8 +7885,20 @@
     "id": 338,
     "order": "327.00000000000000000000",
     "grocerist_id": "price__338",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 6,
+        "value": "Sadeyağ",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6907,8 +7909,20 @@
     "id": 339,
     "order": "328.00000000000000000000",
     "grocerist_id": "price__339",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 14,
+        "value": "Mercimek",
+        "order": "14.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6919,8 +7933,20 @@
     "id": 340,
     "order": "329.00000000000000000000",
     "grocerist_id": "price__340",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 28,
+        "value": "Sirke",
+        "order": "28.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6931,8 +7957,20 @@
     "id": 341,
     "order": "330.00000000000000000000",
     "grocerist_id": "price__341",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 61,
+        "value": "Trilye zeytini",
+        "order": "61.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6943,8 +7981,20 @@
     "id": 342,
     "order": "331.00000000000000000000",
     "grocerist_id": "price__342",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 29,
+        "value": "Soğan",
+        "order": "29.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6955,8 +8005,20 @@
     "id": 343,
     "order": "332.00000000000000000000",
     "grocerist_id": "price__343",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 5,
+        "value": "Zeytin yağı",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6967,8 +8029,20 @@
     "id": 344,
     "order": "333.00000000000000000000",
     "grocerist_id": "price__344",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 108,
+        "value": "Sabun",
+        "order": "108.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6979,8 +8053,20 @@
     "id": 345,
     "order": "334.00000000000000000000",
     "grocerist_id": "price__345",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 63,
+        "value": "Susam yağı",
+        "order": "63.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -6991,8 +8077,20 @@
     "id": 347,
     "order": "336.00000000000000000000",
     "grocerist_id": "price__347",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 31,
+        "value": "Sarımsak",
+        "order": "31.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -7003,8 +8101,20 @@
     "id": 351,
     "order": "339.00000000000000000000",
     "grocerist_id": "price__351",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 27,
+        "value": "Nişasta",
+        "order": "27.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -7015,8 +8125,20 @@
     "id": 352,
     "order": "340.00000000000000000000",
     "grocerist_id": "price__352",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 36,
+        "value": "Şariye",
+        "order": "36.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -7027,8 +8149,20 @@
     "id": 353,
     "order": "341.00000000000000000000",
     "grocerist_id": "price__353",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 29,
+        "value": "Soğan",
+        "order": "29.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -7039,8 +8173,20 @@
     "id": 354,
     "order": "342.00000000000000000000",
     "grocerist_id": "price__354",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 61,
+        "value": "Trilye zeytini",
+        "order": "61.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -7051,8 +8197,20 @@
     "id": 355,
     "order": "343.00000000000000000000",
     "grocerist_id": "price__355",
-    "document": [],
-    "good": [],
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 12,
+        "value": "Böğrülce",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
@@ -7063,12 +8221,672 @@
     "id": 356,
     "order": "344.00000000000000000000",
     "grocerist_id": "price__356",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 6,
+        "value": "Sadeyağ",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": "0.0"
+  },
+  "357": {
+    "id": 357,
+    "order": "345.00000000000000000000",
+    "grocerist_id": "price__357",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 5,
+        "value": "Zeytin yağı",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "358": {
+    "id": 358,
+    "order": "346.00000000000000000000",
+    "grocerist_id": "price__358",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 9,
+        "value": "Kaşkaval",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "359": {
+    "id": 359,
+    "order": "347.00000000000000000000",
+    "grocerist_id": "price__359",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 33,
+        "value": "Kefe tuzu",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "360": {
+    "id": 360,
+    "order": "348.00000000000000000000",
+    "grocerist_id": "price__360",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 42,
+        "value": "Eflak tuzu",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "361": {
+    "id": 361,
+    "order": "349.00000000000000000000",
+    "grocerist_id": "price__361",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 25,
+        "value": "Bal / Asel",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "362": {
+    "id": 362,
+    "order": "350.00000000000000000000",
+    "grocerist_id": "price__362",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 24,
+        "value": "Nardeng",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "363": {
+    "id": 363,
+    "order": "351.00000000000000000000",
+    "grocerist_id": "price__363",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 112,
+        "value": "Mum",
+        "order": "112.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "364": {
+    "id": 364,
+    "order": "352.00000000000000000000",
+    "grocerist_id": "price__364",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 36,
+        "value": "Şariye",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "365": {
+    "id": 365,
+    "order": "353.00000000000000000000",
+    "grocerist_id": "price__365",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 15,
+        "value": "Pirinç",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "366": {
+    "id": 366,
+    "order": "354.00000000000000000000",
+    "grocerist_id": "price__366",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 29,
+        "value": "Soğan",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "367": {
+    "id": 367,
+    "order": "355.00000000000000000000",
+    "grocerist_id": "price__367",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 13,
+        "value": "Nohut",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "368": {
+    "id": 368,
+    "order": "356.00000000000000000000",
+    "grocerist_id": "price__368",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 4,
+        "value": "Ceviz",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "369": {
+    "id": 369,
+    "order": "357.00000000000000000000",
+    "grocerist_id": "price__369",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 9,
+        "value": "Kaşkaval",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "370": {
+    "id": 370,
+    "order": "358.00000000000000000000",
+    "grocerist_id": "price__370",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 41,
+        "value": "Daru",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "371": {
+    "id": 371,
+    "order": "359.00000000000000000000",
+    "grocerist_id": "price__371",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 62,
+        "value": "Kenevir tohumu",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "372": {
+    "id": 372,
+    "order": "360.00000000000000000000",
+    "grocerist_id": "price__372",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 6,
+        "value": "Sadeyağ",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "373": {
+    "id": 373,
+    "order": "361.00000000000000000000",
+    "grocerist_id": "price__373",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 23,
+        "value": "Pekmez",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "374": {
+    "id": 374,
+    "order": "362.00000000000000000000",
+    "grocerist_id": "price__374",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 25,
+        "value": "Bal / Asel",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "375": {
+    "id": 375,
+    "order": "363.00000000000000000000",
+    "grocerist_id": "price__375",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 27,
+        "value": "Nişasta",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "376": {
+    "id": 376,
+    "order": "364.00000000000000000000",
+    "grocerist_id": "price__376",
     "document": [],
     "good": [],
     "price": null,
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": null
+  },
+  "377": {
+    "id": 377,
+    "order": "365.00000000000000000000",
+    "grocerist_id": "price__377",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 5,
+        "value": "Zeytin yağı",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "378": {
+    "id": 378,
+    "order": "366.00000000000000000000",
+    "grocerist_id": "price__378",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 61,
+        "value": "Trilye zeytini",
+        "order": "61.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "379": {
+    "id": 379,
+    "order": "367.00000000000000000000",
+    "grocerist_id": "price__379",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 33,
+        "value": "Kefe tuzu",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "380": {
+    "id": 380,
+    "order": "368.00000000000000000000",
+    "grocerist_id": "price__380",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 112,
+        "value": "Mum",
+        "order": "112.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "381": {
+    "id": 381,
+    "order": "369.00000000000000000000",
+    "grocerist_id": "price__381",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 63,
+        "value": "Susam yağı",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "382": {
+    "id": 382,
+    "order": "370.00000000000000000000",
+    "grocerist_id": "price__382",
+    "document": [
+      {
+        "id": 24,
+        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 108,
+        "value": "Sabun",
+        "order": "108.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "383": {
+    "id": 383,
+    "order": "371.00000000000000000000",
+    "grocerist_id": "price__383",
+    "document": [],
+    "good": [],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "384": {
+    "id": 384,
+    "order": "372.00000000000000000000",
+    "grocerist_id": "price__384",
+    "document": [],
+    "good": [],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
+  },
+  "385": {
+    "id": 385,
+    "order": "373.00000000000000000000",
+    "grocerist_id": "price__385",
+    "document": [],
+    "good": [],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "Total Value": null
   }
 }
