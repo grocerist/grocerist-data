@@ -973,7 +973,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "33.0"
   },
   "48": {
     "id": 48,
@@ -997,7 +997,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "120.0"
   },
   "49": {
     "id": 49,
@@ -1021,7 +1021,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "120.0"
   },
   "50": {
     "id": 50,
@@ -1045,7 +1045,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "102.0"
   },
   "51": {
     "id": 51,
@@ -1069,7 +1069,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "108.0"
   },
   "52": {
     "id": 52,
@@ -1093,7 +1093,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "21.0"
   },
   "53": {
     "id": 53,
@@ -1117,7 +1117,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "45.0"
   },
   "54": {
     "id": 54,
@@ -1141,7 +1141,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "30.0"
   },
   "55": {
     "id": 55,
@@ -1165,7 +1165,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "114.0"
   },
   "56": {
     "id": 56,
@@ -1189,7 +1189,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "120.0"
   },
   "57": {
     "id": 57,
@@ -1213,7 +1213,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "99.0"
   },
   "58": {
     "id": 58,
@@ -1237,7 +1237,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "195.0"
   },
   "59": {
     "id": 59,
@@ -1261,7 +1261,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "60.0"
   },
   "60": {
     "id": 60,
@@ -1281,11 +1281,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "5.0",
+    "Total Value": "15.0"
   },
   "61": {
     "id": 61,
@@ -1309,7 +1313,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "48.0"
   },
   "62": {
     "id": 62,
@@ -1333,7 +1337,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "186.0"
   },
   "63": {
     "id": 63,
@@ -1357,7 +1361,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "15.0"
   },
   "64": {
     "id": 64,
@@ -1381,7 +1385,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "105.0"
   },
   "65": {
     "id": 65,
@@ -1405,7 +1409,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "180.0"
   },
   "66": {
     "id": 66,
@@ -1429,7 +1433,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "15.0"
   },
   "67": {
     "id": 67,
@@ -1453,7 +1457,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "165.0"
   },
   "68": {
     "id": 68,
@@ -1477,7 +1481,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "360.0"
   },
   "69": {
     "id": 69,
@@ -1501,7 +1505,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "60.0"
   },
   "70": {
     "id": 70,
@@ -1525,7 +1529,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "105.0"
   },
   "71": {
     "id": 71,
@@ -1549,7 +1553,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "61.0"
   },
   "72": {
     "id": 72,
@@ -1573,7 +1577,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "2400.0"
   },
   "73": {
     "id": 73,
@@ -1593,11 +1597,15 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "15.0",
+    "Total Value": "225.0"
   },
   "74": {
     "id": 74,
@@ -1617,11 +1625,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "70.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "4.0",
+    "Total Value": "280.0"
   },
   "75": {
     "id": 75,
@@ -1659,11 +1671,15 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "24.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "148.0",
+    "Total Value": "3552.0"
   },
   "77": {
     "id": 77,
@@ -1683,11 +1699,15 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "44.0",
+    "Total Value": "308.0"
   },
   "78": {
     "id": 78,
@@ -1707,11 +1727,15 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "16.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "8.0",
+    "Total Value": "128.0"
   },
   "79": {
     "id": 79,
@@ -1731,11 +1755,15 @@
         "order": "156.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "16.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "10.5",
+    "Total Value": "168.0"
   },
   "80": {
     "id": 80,
@@ -1755,11 +1783,15 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "16.00",
+    "unit": {
+      "id": 17416,
+      "value": "kantar",
+      "color": "dark-blue"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "70.0",
+    "Total Value": "1120.0"
   },
   "81": {
     "id": 81,
@@ -1779,11 +1811,15 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "14.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "11.0",
+    "Total Value": "154.0"
   },
   "82": {
     "id": 82,
@@ -1803,11 +1839,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "70.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "8.0",
+    "Total Value": "560.0"
   },
   "83": {
     "id": 83,
@@ -1827,11 +1867,15 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "60.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.0",
+    "Total Value": "120.0"
   },
   "84": {
     "id": 84,
@@ -1851,11 +1895,15 @@
         "order": "108.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "21.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "66.0",
+    "Total Value": "1386.0"
   },
   "85": {
     "id": 85,
@@ -1875,11 +1923,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "22.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "67.0",
+    "Total Value": "1474.0"
   },
   "86": {
     "id": 86,
@@ -1899,11 +1951,15 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "20.0",
+    "Total Value": "80.0"
   },
   "87": {
     "id": 87,
@@ -1923,11 +1979,15 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "70.0",
+    "Total Value": "140.0"
   },
   "88": {
     "id": 88,
@@ -1947,11 +2007,15 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "150.0",
+    "Total Value": "450.0"
   },
   "89": {
     "id": 89,
@@ -1971,11 +2035,15 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "8.0",
+    "Total Value": "240.0"
   },
   "90": {
     "id": 90,
@@ -1995,11 +2063,15 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "8.0",
+    "Total Value": "80.0"
   },
   "91": {
     "id": 91,
@@ -2019,11 +2091,15 @@
         "order": "42.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "1.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "6.0",
+    "Total Value": "6.0"
   },
   "92": {
     "id": 92,
@@ -2043,11 +2119,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "12.0",
+    "Total Value": "180.0"
   },
   "93": {
     "id": 93,
@@ -2067,11 +2147,15 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "1.40",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "200.0",
+    "Total Value": "280.0"
   },
   "94": {
     "id": 94,
@@ -2095,7 +2179,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "100.0"
   },
   "95": {
     "id": 95,
@@ -2115,11 +2199,15 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "24.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "203.5",
+    "Total Value": "2872.0"
   },
   "96": {
     "id": 96,
@@ -2139,11 +2227,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "25.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "129.0",
+    "Total Value": "3225.0"
   },
   "97": {
     "id": 97,
@@ -2163,11 +2255,15 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "12.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "407.0",
+    "Total Value": "4884.0"
   },
   "98": {
     "id": 98,
@@ -2187,11 +2283,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "70.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "65.5",
+    "Total Value": "4585.0"
   },
   "99": {
     "id": 99,
@@ -2211,11 +2311,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "80.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.5",
+    "Total Value": "200.0"
   },
   "100": {
     "id": 100,
@@ -2235,11 +2339,15 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "57.14",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "3.5",
+    "Total Value": "200.0"
   },
   "101": {
     "id": 101,
@@ -2259,11 +2367,15 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "80.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "1.5",
+    "Total Value": "120.0"
   },
   "102": {
     "id": 102,
@@ -2283,11 +2395,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "12.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "88.0",
+    "Total Value": "1584.0"
   },
   "103": {
     "id": 103,
@@ -2307,11 +2423,15 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "108.0",
+    "Total Value": "1080.0"
   },
   "104": {
     "id": 104,
@@ -2331,11 +2451,15 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "118.0",
+    "Total Value": "472.0"
   },
   "105": {
     "id": 105,
@@ -2355,11 +2479,15 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "72.0",
+    "Total Value": "432.0"
   },
   "106": {
     "id": 106,
@@ -2379,11 +2507,15 @@
         "order": "108.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "65.0",
+    "Total Value": "1300.0"
   },
   "107": {
     "id": 107,
@@ -2403,11 +2535,15 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "28.0",
+    "Total Value": "420.0"
   },
   "108": {
     "id": 108,
@@ -2427,11 +2563,15 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "14.0",
+    "Total Value": "210.0"
   },
   "109": {
     "id": 109,
@@ -2451,11 +2591,15 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "340.0",
+    "Total Value": "1360.0"
   },
   "110": {
     "id": 110,
@@ -2475,11 +2619,15 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "16.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "284.5",
+    "Total Value": "4552.0"
   },
   "111": {
     "id": 111,
@@ -2499,11 +2647,15 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "9.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "16.0",
+    "Total Value": "144.0"
   },
   "112": {
     "id": 112,
@@ -2524,10 +2676,14 @@
       }
     ],
     "price": null,
-    "unit": null,
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2500.0",
+    "Total Value": "300.0"
   },
   "113": {
     "id": 113,
@@ -2565,11 +2721,15 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "1.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "86.0",
+    "Total Value": "86.0"
   },
   "115": {
     "id": 115,
@@ -2589,11 +2749,15 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "63.0",
+    "Total Value": "378.0"
   },
   "116": {
     "id": 116,
@@ -2614,10 +2778,14 @@
       }
     ],
     "price": null,
-    "unit": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "840.0",
+    "Total Value": "288.0"
   },
   "117": {
     "id": 117,
@@ -2638,10 +2806,14 @@
       }
     ],
     "price": null,
-    "unit": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "1007.0",
+    "Total Value": "1208.0"
   },
   "118": {
     "id": 118,
@@ -2661,11 +2833,15 @@
         "order": "43.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "1.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "380.0",
+    "Total Value": "380.0"
   },
   "119": {
     "id": 119,
@@ -2685,11 +2861,15 @@
         "order": "48.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "17.0",
+    "Total Value": "106.0"
   },
   "120": {
     "id": 120,
@@ -2709,11 +2889,15 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "1.50",
+    "unit": {
+      "id": 18176,
+      "value": "dirhem",
+      "color": "dark-cyan"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "50.0",
+    "Total Value": "180.0"
   },
   "121": {
     "id": 121,
@@ -2733,11 +2917,15 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "35.0",
+    "Total Value": "210.0"
   },
   "122": {
     "id": 122,
@@ -2757,11 +2945,15 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "30.0",
+    "Total Value": "90.0"
   },
   "123": {
     "id": 123,
@@ -2781,11 +2973,15 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "4.0",
+    "Total Value": "120.0"
   },
   "124": {
     "id": 124,
@@ -2805,11 +3001,15 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "10.0",
+    "Total Value": "60.0"
   },
   "125": {
     "id": 125,
@@ -2829,11 +3029,15 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "15.0",
+    "Total Value": "60.0"
   },
   "126": {
     "id": 126,
@@ -2853,11 +3057,15 @@
         "order": "157.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "18.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "23.0",
+    "Total Value": "414.0"
   },
   "127": {
     "id": 127,
@@ -2877,11 +3085,15 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "40.0",
+    "Total Value": "400.0"
   },
   "128": {
     "id": 128,
@@ -2901,11 +3113,15 @@
         "order": "108.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "18.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "59.0",
+    "Total Value": "1062.0"
   },
   "129": {
     "id": 129,
@@ -2925,11 +3141,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "18.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "30.0",
+    "Total Value": "540.0"
   },
   "130": {
     "id": 130,
@@ -2949,11 +3169,15 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "15.0",
+    "Total Value": "45.0"
   },
   "132": {
     "id": 132,
@@ -2973,11 +3197,15 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "190.0",
+    "Total Value": "380.0"
   },
   "133": {
     "id": 133,
@@ -2997,11 +3225,15 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "100.0",
+    "Total Value": "400.0"
   },
   "134": {
     "id": 134,
@@ -3021,11 +3253,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "40.0",
+    "Total Value": "800.0"
   },
   "135": {
     "id": 135,
@@ -3045,11 +3281,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "40.0",
+    "Total Value": "800.0"
   },
   "136": {
     "id": 136,
@@ -3069,11 +3309,15 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "40.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "10.0",
+    "Total Value": "400.0"
   },
   "137": {
     "id": 137,
@@ -3093,11 +3337,15 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "20.0",
+    "Total Value": "300.0"
   },
   "138": {
     "id": 138,
@@ -3117,11 +3365,15 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "60.0",
+    "Total Value": "300.0"
   },
   "139": {
     "id": 139,
@@ -3141,11 +3393,15 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "100.0",
+    "Total Value": "200.0"
   },
   "140": {
     "id": 140,
@@ -3165,11 +3421,15 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "50.0",
+    "Total Value": "400.0"
   },
   "141": {
     "id": 141,
@@ -3189,11 +3449,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "150.0",
+    "Total Value": "1200.0"
   },
   "142": {
     "id": 142,
@@ -3213,11 +3477,15 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "140.0",
+    "Total Value": "840.0"
   },
   "143": {
     "id": 143,
@@ -3237,11 +3505,15 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "12.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "120.0",
+    "Total Value": "1440.0"
   },
   "144": {
     "id": 144,
@@ -3261,11 +3533,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "23.0",
+    "Total Value": "138.0"
   },
   "145": {
     "id": 145,
@@ -3285,11 +3561,15 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "12.0",
+    "Total Value": "74.0"
   },
   "146": {
     "id": 146,
@@ -3309,11 +3589,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "14.0",
+    "Total Value": "64.0"
   },
   "147": {
     "id": 147,
@@ -3333,11 +3617,15 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "69.0",
+    "Total Value": "414.0"
   },
   "148": {
     "id": 148,
@@ -3357,11 +3645,15 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "64.0",
+    "Total Value": "256.0"
   },
   "149": {
     "id": 149,
@@ -3381,11 +3673,15 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "93.0",
+    "Total Value": "465.0"
   },
   "150": {
     "id": 150,
@@ -3405,11 +3701,15 @@
         "order": "42.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "1.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "130.0",
+    "Total Value": "195.0"
   },
   "151": {
     "id": 151,
@@ -3429,11 +3729,15 @@
         "order": "48.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "20.0",
+    "Total Value": "100.0"
   },
   "152": {
     "id": 152,
@@ -3453,11 +3757,15 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "16.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.0",
+    "Total Value": "32.0"
   },
   "153": {
     "id": 153,
@@ -3477,11 +3785,15 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "25.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "1.0",
+    "Total Value": "25.0"
   },
   "154": {
     "id": 154,
@@ -3501,11 +3813,15 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "6.0",
+    "Total Value": "30.0"
   },
   "155": {
     "id": 155,
@@ -3525,11 +3841,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "9.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "35.0",
+    "Total Value": "315.0"
   },
   "156": {
     "id": 156,
@@ -3549,11 +3869,15 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "6.0",
+    "Total Value": "30.0"
   },
   "157": {
     "id": 157,
@@ -3573,11 +3897,15 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "25.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "10.0",
+    "Total Value": "250.0"
   },
   "158": {
     "id": 158,
@@ -3597,11 +3925,15 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "24.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "1.0",
+    "Total Value": "24.0"
   },
   "159": {
     "id": 159,
@@ -3621,11 +3953,15 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "8.0",
+    "Total Value": "32.0"
   },
   "160": {
     "id": 160,
@@ -3645,11 +3981,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "24.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "10.0",
+    "Total Value": "240.0"
   },
   "161": {
     "id": 161,
@@ -3691,7 +4031,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "120.0"
   },
   "163": {
     "id": 163,
@@ -3715,7 +4055,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "40.0"
   },
   "164": {
     "id": 164,
@@ -3739,7 +4079,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "60.0"
   },
   "165": {
     "id": 165,
@@ -3763,7 +4103,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "21.0"
   },
   "166": {
     "id": 166,
@@ -3787,7 +4127,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "30.0"
   },
   "167": {
     "id": 167,
@@ -3811,7 +4151,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "20.0"
   },
   "168": {
     "id": 168,
@@ -3835,7 +4175,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "80.0"
   },
   "169": {
     "id": 169,
@@ -3855,11 +4195,15 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "25.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "64.0",
+    "Total Value": "1600.0"
   },
   "170": {
     "id": 170,
@@ -3879,11 +4223,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "32.0",
+    "Total Value": "192.0"
   },
   "171": {
     "id": 171,
@@ -3903,11 +4251,15 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "20.0",
+    "Total Value": "200.0"
   },
   "172": {
     "id": 172,
@@ -3927,11 +4279,15 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "50.0",
+    "Total Value": "200.0"
   },
   "173": {
     "id": 173,
@@ -3951,11 +4307,15 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "8.0",
+    "Total Value": "80.0"
   },
   "174": {
     "id": 174,
@@ -3975,11 +4335,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "25.0",
+    "Total Value": "500.0"
   },
   "175": {
     "id": 175,
@@ -3999,11 +4363,15 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "10.0",
+    "Total Value": "60.0"
   },
   "176": {
     "id": 176,
@@ -4023,11 +4391,15 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "12.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "10.0",
+    "Total Value": "120.0"
   },
   "177": {
     "id": 177,
@@ -4051,7 +4423,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "900.0"
   },
   "178": {
     "id": 178,
@@ -4075,7 +4447,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "680.0"
   },
   "179": {
     "id": 179,
@@ -4099,7 +4471,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "360.0"
   },
   "180": {
     "id": 180,
@@ -4123,7 +4495,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "150.0"
   },
   "181": {
     "id": 181,
@@ -4147,7 +4519,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "500.0"
   },
   "182": {
     "id": 182,
@@ -4171,7 +4543,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "90.0"
   },
   "183": {
     "id": 183,
@@ -4195,7 +4567,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "300.0"
   },
   "184": {
     "id": 184,
@@ -4219,7 +4591,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "200.0"
   },
   "185": {
     "id": 185,
@@ -4243,7 +4615,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "80.0"
   },
   "186": {
     "id": 186,
@@ -4267,7 +4639,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "480.0"
   },
   "187": {
     "id": 187,
@@ -4291,7 +4663,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "2400.0"
   },
   "188": {
     "id": 188,
@@ -4315,7 +4687,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "3840.0"
   },
   "189": {
     "id": 189,
@@ -4339,7 +4711,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "2800.0"
   },
   "190": {
     "id": 190,
@@ -4363,7 +4735,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "100.0"
   },
   "191": {
     "id": 191,
@@ -4387,7 +4759,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "1440.0"
   },
   "192": {
     "id": 192,
@@ -4411,7 +4783,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "90.0"
   },
   "193": {
     "id": 193,
@@ -4435,7 +4807,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "20.0"
   },
   "194": {
     "id": 194,
@@ -4459,7 +4831,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "50.0"
   },
   "195": {
     "id": 195,
@@ -4483,7 +4855,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "1440.0"
   },
   "196": {
     "id": 196,
@@ -4507,7 +4879,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "350.0"
   },
   "197": {
     "id": 197,
@@ -4531,7 +4903,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "60.0"
   },
   "198": {
     "id": 198,
@@ -4555,7 +4927,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "200.0"
   },
   "199": {
     "id": 199,
@@ -4568,12 +4940,23 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "good": [],
+    "good": [
+      {
+        "id": 2,
+        "value": "Fıstık",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Badem",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "50.0"
   },
   "200": {
     "id": 200,
@@ -4586,12 +4969,28 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "good": [],
+    "good": [
+      {
+        "id": 21,
+        "value": "İncir",
+        "order": "21.00000000000000000000"
+      },
+      {
+        "id": 22,
+        "value": "Keçiboynuzu / Harnup",
+        "order": "22.00000000000000000000"
+      },
+      {
+        "id": 160,
+        "value": "Üzüm",
+        "order": "158.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "100.0"
   },
   "201": {
     "id": 201,
@@ -4611,11 +5010,15 @@
         "order": "61.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "310.0",
+    "Total Value": "1860.0"
   },
   "202": {
     "id": 202,
@@ -4635,11 +5038,15 @@
         "order": "61.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "150.0",
+    "Total Value": "450.0"
   },
   "203": {
     "id": 203,
@@ -4659,11 +5066,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "11.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "25.0",
+    "Total Value": "275.0"
   },
   "204": {
     "id": 204,
@@ -4683,11 +5094,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "24.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "100.0",
+    "Total Value": "2400.0"
   },
   "205": {
     "id": 205,
@@ -4707,11 +5122,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "80.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.0",
+    "Total Value": "160.0"
   },
   "206": {
     "id": 206,
@@ -4731,11 +5150,15 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "26.60",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "3.0",
+    "Total Value": "80.0"
   },
   "207": {
     "id": 207,
@@ -4759,7 +5182,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "100.0"
   },
   "208": {
     "id": 208,
@@ -4772,12 +5195,23 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "good": [],
+    "good": [
+      {
+        "id": 31,
+        "value": "Sarımsak",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "Mum",
+        "order": "112.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "120.0"
   },
   "209": {
     "id": 209,
@@ -4797,11 +5231,15 @@
         "order": "61.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "730.0",
+    "Total Value": "4380.0"
   },
   "210": {
     "id": 210,
@@ -4821,11 +5259,15 @@
         "order": "79.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "565.0",
+    "Total Value": "1695.0"
   },
   "211": {
     "id": 211,
@@ -4845,11 +5287,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "24.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "360.0",
+    "Total Value": "8640.0"
   },
   "212": {
     "id": 212,
@@ -4869,11 +5315,15 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "36.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "30.0",
+    "Total Value": "1080.0"
   },
   "213": {
     "id": 213,
@@ -4893,11 +5343,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "80.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.0",
+    "Total Value": "160.0"
   },
   "214": {
     "id": 214,
@@ -4917,11 +5371,15 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "10.0",
+    "Total Value": "60.0"
   },
   "215": {
     "id": 215,
@@ -4941,11 +5399,15 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "475.0",
+    "Total Value": "950.0"
   },
   "216": {
     "id": 216,
@@ -4965,11 +5427,15 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "36.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "164.0",
+    "Total Value": "5904.0"
   },
   "217": {
     "id": 217,
@@ -4989,11 +5455,15 @@
         "order": "42.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "1050.0",
+    "Total Value": "2100.0"
   },
   "218": {
     "id": 218,
@@ -5013,11 +5483,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "90.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.0",
+    "Total Value": "180.0"
   },
   "219": {
     "id": 219,
@@ -5037,11 +5511,15 @@
         "order": "108.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "24.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "73.0",
+    "Total Value": "1752.0"
   },
   "220": {
     "id": 220,
@@ -5083,7 +5561,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "180.0"
   },
   "222": {
     "id": 222,
@@ -5103,11 +5581,15 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "30.0",
+    "Total Value": "140.0"
   },
   "223": {
     "id": 223,
@@ -5127,11 +5609,15 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "40.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "3.0",
+    "Total Value": "120.0"
   },
   "224": {
     "id": 224,
@@ -5155,7 +5641,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "300.0"
   },
   "225": {
     "id": 225,
@@ -5175,11 +5661,15 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "80.0",
+    "Total Value": "640.0"
   },
   "226": {
     "id": 226,
@@ -5199,11 +5689,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "75.0",
+    "Total Value": "525.0"
   },
   "227": {
     "id": 227,
@@ -5223,11 +5717,15 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "50.0",
+    "Total Value": "100.0"
   },
   "228": {
     "id": 228,
@@ -5247,11 +5745,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "24.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "60.0",
+    "Total Value": "1440.0"
   },
   "229": {
     "id": 229,
@@ -5271,11 +5773,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "64.0",
+    "Total Value": "1280.0"
   },
   "230": {
     "id": 230,
@@ -5295,11 +5801,15 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.0",
+    "Total Value": "14.0"
   },
   "231": {
     "id": 231,
@@ -5319,11 +5829,15 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "70.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "7.5",
+    "Total Value": "525.0"
   },
   "232": {
     "id": 232,
@@ -5343,11 +5857,15 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "130.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "3.0",
+    "Total Value": "390.0"
   },
   "233": {
     "id": 233,
@@ -5367,11 +5885,15 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.33",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "54.0",
+    "Total Value": "180.0"
   },
   "234": {
     "id": 234,
@@ -5391,11 +5913,15 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.70",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "85.0",
+    "Total Value": "400.0"
   },
   "235": {
     "id": 235,
@@ -5415,11 +5941,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "80.0",
+    "Total Value": "560.0"
   },
   "236": {
     "id": 236,
@@ -5439,11 +5969,15 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.27",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "33.0",
+    "Total Value": "240.0"
   },
   "237": {
     "id": 237,
@@ -5463,11 +5997,15 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "30.0",
+    "Total Value": "180.0"
   },
   "238": {
     "id": 238,
@@ -5487,11 +6025,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.45",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "11.0",
+    "Total Value": "60.0"
   },
   "239": {
     "id": 239,
@@ -5515,7 +6057,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "33.0"
   },
   "240": {
     "id": 240,
@@ -5535,11 +6077,15 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.40",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "50.0",
+    "Total Value": "120.0"
   },
   "241": {
     "id": 241,
@@ -5559,11 +6105,15 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "1.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "27.0",
+    "Total Value": "42.0"
   },
   "242": {
     "id": 242,
@@ -5583,11 +6133,15 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "10.0",
+    "Total Value": "80.0"
   },
   "243": {
     "id": 243,
@@ -5607,11 +6161,15 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "1.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "130.0",
+    "Total Value": "200.0"
   },
   "244": {
     "id": 244,
@@ -5631,11 +6189,15 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "25.0",
+    "Total Value": "150.0"
   },
   "245": {
     "id": 245,
@@ -5655,11 +6217,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "30.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.0",
+    "Total Value": "60.0"
   },
   "246": {
     "id": 246,
@@ -5679,11 +6245,15 @@
         "order": "108.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "26.60",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "1.5",
+    "Total Value": "40.0"
   },
   "247": {
     "id": 247,
@@ -5704,10 +6274,14 @@
       }
     ],
     "price": null,
-    "unit": null,
+    "unit": {
+      "id": 18177,
+      "value": "şinik",
+      "color": "dark-yellow"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "1.0",
+    "Total Value": "10.0"
   },
   "248": {
     "id": 248,
@@ -5731,7 +6305,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "180.0"
   },
   "249": {
     "id": 249,
@@ -5751,11 +6325,15 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "14.28",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "7.0",
+    "Total Value": "100.0"
   },
   "250": {
     "id": 250,
@@ -5775,11 +6353,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "12.0",
+    "Total Value": "240.0"
   },
   "251": {
     "id": 251,
@@ -5803,7 +6385,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "150.0"
   },
   "252": {
     "id": 252,
@@ -5827,7 +6409,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "20.0"
   },
   "253": {
     "id": 253,
@@ -5847,11 +6429,15 @@
         "order": "53.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.75",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "4.0",
+    "Total Value": "19.0"
   },
   "254": {
     "id": 254,
@@ -5871,11 +6457,15 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.50",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "8.0",
+    "Total Value": "36.0"
   },
   "255": {
     "id": 255,
@@ -5890,16 +6480,20 @@
     ],
     "good": [
       {
-        "id": 5,
-        "value": "Zeytin yağı",
-        "order": "5.00000000000000000000"
+        "id": 6,
+        "value": "Sadeyağ",
+        "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "32.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "173.0",
+    "Total Value": "5536.0"
   },
   "256": {
     "id": 256,
@@ -5919,11 +6513,15 @@
         "order": "54.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "16.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "88.0",
+    "Total Value": "1408.0"
   },
   "257": {
     "id": 257,
@@ -5943,11 +6541,15 @@
         "order": "178.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "14.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "54.0",
+    "Total Value": "756.0"
   },
   "258": {
     "id": 258,
@@ -5967,11 +6569,15 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "20.0",
+    "Total Value": "140.0"
   },
   "259": {
     "id": 259,
@@ -5991,11 +6597,15 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "70.0",
+    "Total Value": "350.0"
   },
   "260": {
     "id": 260,
@@ -6015,11 +6625,15 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "70.0",
+    "Total Value": "350.0"
   },
   "261": {
     "id": 261,
@@ -6039,11 +6653,15 @@
         "order": "108.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "121.0",
+    "Total Value": "2420.0"
   },
   "262": {
     "id": 262,
@@ -6063,11 +6681,15 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "10.0",
+    "Total Value": "70.0"
   },
   "263": {
     "id": 263,
@@ -6087,11 +6709,15 @@
         "order": "142.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "16.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "160.0",
+    "Total Value": "2560.0"
   },
   "264": {
     "id": 264,
@@ -6111,11 +6737,15 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "115.0",
+    "Total Value": "460.0"
   },
   "265": {
     "id": 265,
@@ -6135,11 +6765,15 @@
         "order": "42.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "50.0",
+    "Total Value": "200.0"
   },
   "266": {
     "id": 266,
@@ -6159,11 +6793,15 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "1.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "150.0",
+    "Total Value": "225.0"
   },
   "267": {
     "id": 267,
@@ -6183,11 +6821,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "13.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "17.0",
+    "Total Value": "238.0"
   },
   "268": {
     "id": 268,
@@ -6207,11 +6849,15 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "177.0",
+    "Total Value": "708.0"
   },
   "269": {
     "id": 269,
@@ -6231,11 +6877,15 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "59.0",
+    "Total Value": "236.0"
   },
   "270": {
     "id": 270,
@@ -6255,11 +6905,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "208.0",
+    "Total Value": "1449.0"
   },
   "271": {
     "id": 271,
@@ -6279,11 +6933,15 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "30.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.5",
+    "Total Value": "75.0"
   },
   "272": {
     "id": 272,
@@ -6303,11 +6961,15 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "4.0",
+    "Total Value": "28.0"
   },
   "273": {
     "id": 273,
@@ -6327,11 +6989,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "80.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "1.0",
+    "Total Value": "80.0"
   },
   "274": {
     "id": 274,
@@ -6351,11 +7017,15 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "5.0",
+    "Total Value": "15.0"
   },
   "275": {
     "id": 275,
@@ -6375,11 +7045,15 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "33.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "10.0",
+    "Total Value": "330.0"
   },
   "276": {
     "id": 276,
@@ -6399,11 +7073,15 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "21.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "5.0",
+    "Total Value": "105.0"
   },
   "277": {
     "id": 277,
@@ -6423,11 +7101,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "24.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "170.0",
+    "Total Value": "4080.0"
   },
   "278": {
     "id": 278,
@@ -6447,11 +7129,15 @@
         "order": "55.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "12.0",
+    "Total Value": "240.0"
   },
   "279": {
     "id": 279,
@@ -6471,11 +7157,15 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "150.0",
+    "Total Value": "450.0"
   },
   "280": {
     "id": 280,
@@ -6499,7 +7189,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "120.0"
   },
   "281": {
     "id": 281,
@@ -6519,11 +7209,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "13.59",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "132.0",
+    "Total Value": "1795.0"
   },
   "282": {
     "id": 282,
@@ -6543,11 +7237,15 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "200.00",
+    "unit": {
+      "id": 17416,
+      "value": "kantar",
+      "color": "dark-blue"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "7.5",
+    "Total Value": "1500.0"
   },
   "283": {
     "id": 283,
@@ -6571,7 +7269,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "700.0"
   },
   "284": {
     "id": 284,
@@ -6595,7 +7293,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "2620.0"
   },
   "285": {
     "id": 285,
@@ -6615,11 +7313,15 @@
         "order": "158.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "5.0",
+    "Total Value": "30.0"
   },
   "286": {
     "id": 286,
@@ -6643,7 +7345,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "98.0"
   },
   "287": {
     "id": 287,
@@ -6663,11 +7365,11 @@
         "order": "163.00000000000000000000"
       }
     ],
-    "price": null,
+    "price": "41.00",
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "178.0"
   },
   "288": {
     "id": 288,
@@ -6687,11 +7389,11 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "price": null,
+    "price": "12.00",
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "60.0"
   },
   "289": {
     "id": 289,
@@ -6711,11 +7413,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "78.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "49.0",
+    "Total Value": "3822.0"
   },
   "290": {
     "id": 290,
@@ -6735,11 +7441,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "62.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "25.0",
+    "Total Value": "1562.0"
   },
   "291": {
     "id": 291,
@@ -6759,11 +7469,15 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "14.0",
+    "Total Value": "3515.0"
   },
   "292": {
     "id": 292,
@@ -6783,11 +7497,15 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "154.0",
+    "Total Value": "65.0"
   },
   "293": {
     "id": 293,
@@ -6807,11 +7525,15 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "152.0",
+    "Total Value": "456.0"
   },
   "294": {
     "id": 294,
@@ -6835,7 +7557,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "518.0"
   },
   "295": {
     "id": 295,
@@ -6859,7 +7581,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "799.0"
   },
   "296": {
     "id": 296,
@@ -6879,11 +7601,15 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "1.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "34.0",
+    "Total Value": "34.0"
   },
   "297": {
     "id": 297,
@@ -6903,11 +7629,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "60.5",
+    "Total Value": "1210.0"
   },
   "298": {
     "id": 298,
@@ -6927,11 +7657,39 @@
         "order": "6.00000000000000000000"
       }
     ],
+    "price": "33.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "37.0",
+    "Total Value": "1056.0"
+  },
+  "851": {
+    "id": 851,
+    "order": "287.50000000000000000000",
+    "grocerist_id": "price__851",
+    "document": [
+      {
+        "id": 20,
+        "value": "İSTM.ŞSC.14.d.254 / 3b-1",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 15,
+        "value": "Pirinç",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": null
   },
   "299": {
     "id": 299,
@@ -6955,7 +7713,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "1785.0"
   },
   "300": {
     "id": 300,
@@ -6975,11 +7733,15 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "19.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "14.0",
+    "Total Value": "266.0"
   },
   "301": {
     "id": 301,
@@ -6999,11 +7761,15 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.0",
+    "Total Value": "40.0"
   },
   "302": {
     "id": 302,
@@ -7023,11 +7789,15 @@
         "order": "58.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "18.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "3.0",
+    "Total Value": "55.0"
   },
   "303": {
     "id": 303,
@@ -7047,11 +7817,15 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "3.0",
+    "Total Value": "30.0"
   },
   "304": {
     "id": 304,
@@ -7072,10 +7846,14 @@
       }
     ],
     "price": null,
-    "unit": null,
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "500.0",
+    "Total Value": "27.0"
   },
   "305": {
     "id": 305,
@@ -7096,10 +7874,14 @@
       }
     ],
     "price": null,
-    "unit": null,
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "90.0",
+    "Total Value": "40.0"
   },
   "306": {
     "id": 306,
@@ -7119,11 +7901,11 @@
         "order": "60.00000000000000000000"
       }
     ],
-    "price": null,
+    "price": "1.00",
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0"
+    "Total Value": "10.0"
   },
   "307": {
     "id": 307,
@@ -7143,11 +7925,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "4.0",
+    "Total Value": "40.0"
   },
   "308": {
     "id": 308,
@@ -7167,11 +7953,15 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "26.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.5",
+    "Total Value": "67.0"
   },
   "309": {
     "id": 309,
@@ -7191,11 +7981,15 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "9.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "4.0",
+    "Total Value": "36.0"
   },
   "310": {
     "id": 310,
@@ -7215,11 +8009,15 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "4.0",
+    "Total Value": "32.0"
   },
   "311": {
     "id": 311,
@@ -7239,11 +8037,15 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "9.5",
+    "Total Value": "43.0"
   },
   "312": {
     "id": 312,
@@ -7263,11 +8065,15 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "4.0",
+    "Total Value": "32.0"
   },
   "313": {
     "id": 313,
@@ -7287,11 +8093,15 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "5.0",
+    "Total Value": "50.0"
   },
   "314": {
     "id": 314,
@@ -7311,11 +8121,15 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "9.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "4.0",
+    "Total Value": "36.0"
   },
   "315": {
     "id": 315,
@@ -7335,11 +8149,15 @@
         "order": "53.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "6.5",
+    "Total Value": "33.0"
   },
   "316": {
     "id": 316,
@@ -7359,11 +8177,15 @@
         "order": "112.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "24.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "4.0",
+    "Total Value": "96.0"
   },
   "317": {
     "id": 317,
@@ -7383,11 +8205,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "32.0",
+    "Total Value": "256.0"
   },
   "318": {
     "id": 318,
@@ -7407,11 +8233,15 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "3.0",
+    "Total Value": "30.0"
   },
   "319": {
     "id": 319,
@@ -7431,11 +8261,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "35.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "11.0",
+    "Total Value": "395.0"
   },
   "320": {
     "id": 320,
@@ -7455,11 +8289,15 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "105.0",
+    "Total Value": "210.0"
   },
   "321": {
     "id": 321,
@@ -7479,11 +8317,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "50.0",
+    "Total Value": "250.0"
   },
   "322": {
     "id": 322,
@@ -7503,11 +8345,15 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "10.0",
+    "Total Value": "30.0"
   },
   "323": {
     "id": 323,
@@ -7527,11 +8373,15 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "85.0",
+    "Total Value": "595.0"
   },
   "324": {
     "id": 324,
@@ -7551,11 +8401,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "70.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "36.0",
+    "Total Value": "2520.0"
   },
   "325": {
     "id": 325,
@@ -7575,11 +8429,15 @@
         "order": "62.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "70.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "4.0",
+    "Total Value": "280.0"
   },
   "326": {
     "id": 326,
@@ -7599,11 +8457,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "9.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "24.0",
+    "Total Value": "225.0"
   },
   "327": {
     "id": 327,
@@ -7623,11 +8485,15 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "11.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "140.0",
+    "Total Value": "1400.0"
   },
   "328": {
     "id": 328,
@@ -7647,11 +8513,15 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "66.0",
+    "Total Value": "330.0"
   },
   "329": {
     "id": 329,
@@ -7671,11 +8541,15 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "80.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.5",
+    "Total Value": "200.0"
   },
   "330": {
     "id": 330,
@@ -7695,11 +8569,15 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "5000.0",
+    "Total Value": "150.0"
   },
   "331": {
     "id": 331,
@@ -7719,11 +8597,15 @@
         "order": "42.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "250.0",
+    "Total Value": "500.0"
   },
   "332": {
     "id": 332,
@@ -7743,11 +8625,15 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2.0",
+    "Total Value": "20.0"
   },
   "333": {
     "id": 333,
@@ -7767,11 +8653,15 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "35.0",
+    "Total Value": "210.0"
   },
   "334": {
     "id": 334,
@@ -7791,11 +8681,15 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "140.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "3.0",
+    "Total Value": "420.0"
   },
   "335": {
     "id": 335,
@@ -7815,11 +8709,15 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "30.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "20.0",
+    "Total Value": "600.0"
   },
   "336": {
     "id": 336,
@@ -7839,11 +8737,15 @@
         "order": "112.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "23.0",
+    "Total Value": "460.0"
   },
   "337": {
     "id": 337,
@@ -7863,11 +8765,15 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "5.5",
+    "Total Value": "110.0"
   },
   "338": {
     "id": 338,
@@ -7887,11 +8793,15 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "28.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "100.0",
+    "Total Value": "3800.0"
   },
   "339": {
     "id": 339,
@@ -7911,11 +8821,15 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "60.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "3.0",
+    "Total Value": "180.0"
   },
   "340": {
     "id": 340,
@@ -7935,11 +8849,15 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "400.0",
+    "Total Value": "800.0"
   },
   "341": {
     "id": 341,
@@ -7959,11 +8877,15 @@
         "order": "61.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "250.0",
+    "Total Value": "1500.0"
   },
   "342": {
     "id": 342,
@@ -7983,11 +8905,15 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "150.0",
+    "Total Value": "300.0"
   },
   "343": {
     "id": 343,
@@ -8007,11 +8933,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "180.0",
+    "Total Value": "2700.0"
   },
   "344": {
     "id": 344,
@@ -8031,11 +8961,15 @@
         "order": "108.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "77.0",
+    "Total Value": "1540.0"
   },
   "345": {
     "id": 345,
@@ -8055,11 +8989,15 @@
         "order": "63.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "17.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "3.0",
+    "Total Value": "51.0"
   },
   "347": {
     "id": 347,
@@ -8079,11 +9017,15 @@
         "order": "31.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "80.00",
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "2000.0",
+    "Total Value": "160.0"
   },
   "351": {
     "id": 351,
@@ -8103,11 +9045,15 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "30.0",
+    "Total Value": "300.0"
   },
   "352": {
     "id": 352,
@@ -8127,11 +9073,15 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "40.0",
+    "Total Value": "280.0"
   },
   "353": {
     "id": 353,
@@ -8151,11 +9101,15 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "60.0",
+    "Total Value": "120.0"
   },
   "354": {
     "id": 354,
@@ -8175,11 +9129,15 @@
         "order": "61.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "60.0",
+    "Total Value": "360.0"
   },
   "355": {
     "id": 355,
@@ -8199,11 +9157,15 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "80.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "1.5",
+    "Total Value": "120.0"
   },
   "356": {
     "id": 356,
@@ -8223,11 +9185,15 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "28.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": "0.0"
+    "amount_of_units": "15.0",
+    "Total Value": "420.0"
   },
   "357": {
     "id": 357,
@@ -8247,11 +9213,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "30.0",
+    "Total Value": "450.0"
   },
   "358": {
     "id": 358,
@@ -8271,11 +9241,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "14.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "48.0",
+    "Total Value": "672.0"
   },
   "359": {
     "id": 359,
@@ -8295,11 +9269,15 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "30.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "4.0",
+    "Total Value": "120.0"
   },
   "360": {
     "id": 360,
@@ -8319,11 +9297,15 @@
         "order": "42.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "150.0",
+    "Total Value": "300.0"
   },
   "361": {
     "id": 361,
@@ -8343,11 +9325,15 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "13.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "30.0",
+    "Total Value": "420.0"
   },
   "362": {
     "id": 362,
@@ -8367,11 +9353,15 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "30.0",
+    "Total Value": "180.0"
   },
   "363": {
     "id": 363,
@@ -8391,11 +9381,15 @@
         "order": "112.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "14.0",
+    "Total Value": "300.0"
   },
   "364": {
     "id": 364,
@@ -8415,11 +9409,15 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "35.0",
+    "Total Value": "245.0"
   },
   "365": {
     "id": 365,
@@ -8439,11 +9437,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "70.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "18.0",
+    "Total Value": "1260.0"
   },
   "366": {
     "id": 366,
@@ -8463,11 +9465,15 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "250.0",
+    "Total Value": "500.0"
   },
   "367": {
     "id": 367,
@@ -8487,11 +9493,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "90.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "1.5",
+    "Total Value": "135.0"
   },
   "368": {
     "id": 368,
@@ -8511,11 +9521,15 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "30.00",
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "5000.0",
+    "Total Value": "150.0"
   },
   "369": {
     "id": 369,
@@ -8535,11 +9549,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "14.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "20.0",
+    "Total Value": "280.0"
   },
   "370": {
     "id": 370,
@@ -8559,11 +9577,15 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "4.0",
+    "Total Value": "80.0"
   },
   "371": {
     "id": 371,
@@ -8583,11 +9605,15 @@
         "order": "62.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "70.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "1.0",
+    "Total Value": "70.0"
   },
   "372": {
     "id": 372,
@@ -8607,11 +9633,15 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "28.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "60.0",
+    "Total Value": "1680.0"
   },
   "373": {
     "id": 373,
@@ -8631,11 +9661,15 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "10.0",
+    "Total Value": "60.0"
   },
   "374": {
     "id": 374,
@@ -8655,11 +9689,15 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "1.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "5.0",
+    "Total Value": "8.0"
   },
   "375": {
     "id": 375,
@@ -8679,11 +9717,15 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "100.0",
+    "Total Value": "1000.0"
   },
   "377": {
     "id": 377,
@@ -8703,11 +9745,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "80.0",
+    "Total Value": "1200.0"
   },
   "378": {
     "id": 378,
@@ -8727,11 +9773,15 @@
         "order": "61.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "50.0",
+    "Total Value": "300.0"
   },
   "379": {
     "id": 379,
@@ -8751,11 +9801,15 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "30.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "3.0",
+    "Total Value": "90.0"
   },
   "380": {
     "id": 380,
@@ -8775,11 +9829,15 @@
         "order": "112.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "10.0",
+    "Total Value": "200.0"
   },
   "381": {
     "id": 381,
@@ -8799,11 +9857,15 @@
         "order": "63.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "17.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "10.0",
+    "Total Value": "170.0"
   },
   "382": {
     "id": 382,
@@ -8823,11 +9885,15 @@
         "order": "108.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "32.0",
+    "Total Value": "640.0"
   },
   "383": {
     "id": 383,
@@ -8847,11 +9913,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "18.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "10.0",
+    "Total Value": "180.0"
   },
   "384": {
     "id": 384,
@@ -8871,11 +9941,15 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "21.5",
+    "Total Value": "321.0"
   },
   "385": {
     "id": 385,
@@ -8895,11 +9969,15 @@
         "order": "57.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "9.0",
+    "Total Value": "135.0"
   },
   "386": {
     "id": 386,
@@ -8919,11 +9997,15 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "32.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "12.0",
+    "Total Value": "408.0"
   },
   "387": {
     "id": 387,
@@ -8943,11 +10025,15 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "3.0",
+    "Total Value": "30.0"
   },
   "388": {
     "id": 388,
@@ -8967,11 +10053,15 @@
         "order": "64.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "32.0",
+    "Total Value": "80.0"
   },
   "389": {
     "id": 389,
@@ -8991,11 +10081,15 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "36.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "7.0",
+    "Total Value": "252.0"
   },
   "390": {
     "id": 390,
@@ -9016,10 +10110,14 @@
       }
     ],
     "price": null,
-    "unit": null,
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "120.0",
+    "Total Value": "612.0"
   },
   "391": {
     "id": 391,
@@ -9039,11 +10137,15 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "36.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "2.0",
+    "Total Value": "90.0"
   },
   "392": {
     "id": 392,
@@ -9063,11 +10165,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "20.0",
+    "Total Value": "400.0"
   },
   "393": {
     "id": 393,
@@ -9111,11 +10217,15 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "40.0",
+    "Total Value": "80.0"
   },
   "395": {
     "id": 395,
@@ -9135,11 +10245,15 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "10.0",
+    "Total Value": "60.0"
   },
   "396": {
     "id": 396,
@@ -9159,11 +10273,15 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "70.0",
+    "Total Value": "350.0"
   },
   "397": {
     "id": 397,
@@ -9183,11 +10301,15 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "30.0",
+    "Total Value": "130.0"
   },
   "398": {
     "id": 398,
@@ -9207,11 +10329,15 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "33.0",
+    "Total Value": "165.0"
   },
   "399": {
     "id": 399,
@@ -9231,11 +10357,15 @@
         "order": "65.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "12.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "11.0",
+    "Total Value": "132.0"
   },
   "400": {
     "id": 400,
@@ -9255,11 +10385,15 @@
         "order": "22.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "8.0",
+    "Total Value": "32.0"
   },
   "401": {
     "id": 401,
@@ -9280,10 +10414,14 @@
       }
     ],
     "price": null,
-    "unit": null,
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "1500.0",
+    "Total Value": "54.0"
   },
   "402": {
     "id": 402,
@@ -9303,11 +10441,15 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "150.0",
+    "Total Value": "450.0"
   },
   "403": {
     "id": 403,
@@ -9351,11 +10493,15 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "7.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "11.0",
+    "Total Value": "77.0"
   },
   "405": {
     "id": 405,
@@ -9375,11 +10521,15 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "12.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "24.5",
+    "Total Value": "294.0"
   },
   "406": {
     "id": 406,
@@ -9399,11 +10549,15 @@
         "order": "112.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "1.0",
+    "Total Value": "22.0"
   },
   "407": {
     "id": 407,
@@ -9423,11 +10577,15 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "19.0",
+    "Total Value": "114.0"
   },
   "408": {
     "id": 408,
@@ -9447,11 +10605,15 @@
         "order": "66.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "2.0",
+    "Total Value": "40.0"
   },
   "409": {
     "id": 409,
@@ -9471,11 +10633,15 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "42.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "1.0",
+    "Total Value": "42.0"
   },
   "410": {
     "id": 410,
@@ -9495,11 +10661,15 @@
         "order": "108.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "2.0",
+    "Total Value": "40.0"
   },
   "411": {
     "id": 411,
@@ -9519,11 +10689,15 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "21.0",
+    "Total Value": "126.0"
   },
   "412": {
     "id": 412,
@@ -9544,10 +10718,14 @@
       }
     ],
     "price": null,
-    "unit": null,
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "87.0",
+    "Total Value": "80.0"
   },
   "413": {
     "id": 413,
@@ -9567,11 +10745,15 @@
         "order": "38.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "40.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "1.0",
+    "Total Value": "40.0"
   },
   "414": {
     "id": 414,
@@ -9591,11 +10773,15 @@
         "order": "268.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "3.0",
+    "Total Value": "18.0"
   },
   "415": {
     "id": 415,
@@ -9615,11 +10801,15 @@
         "order": "63.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "21.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "4.0",
+    "Total Value": "88.0"
   },
   "416": {
     "id": 416,
@@ -9639,11 +10829,15 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "4.0",
+    "Total Value": "80.0"
   },
   "418": {
     "id": 418,
@@ -9663,11 +10857,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "9.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "10.0",
+    "Total Value": "90.0"
   },
   "419": {
     "id": 419,
@@ -9687,11 +10885,15 @@
         "order": "35.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "36.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "2.5",
+    "Total Value": "90.0"
   },
   "420": {
     "id": 420,
@@ -9715,7 +10917,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null
+    "Total Value": "30.0"
   },
   "421": {
     "id": 421,
@@ -9739,7 +10941,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null
+    "Total Value": "21.0"
   },
   "422": {
     "id": 422,
@@ -9763,7 +10965,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null
+    "Total Value": "10.0"
   },
   "423": {
     "id": 423,
@@ -9783,11 +10985,15 @@
         "order": "148.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "21.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "49.0",
+    "Total Value": "1029.0"
   },
   "424": {
     "id": 424,
@@ -9807,11 +11013,15 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "62.0",
+    "Total Value": "186.0"
   },
   "425": {
     "id": 425,
@@ -9831,11 +11041,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "53.0",
+    "Total Value": "318.0"
   },
   "426": {
     "id": 426,
@@ -9855,11 +11069,15 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "43.0",
+    "Total Value": "129.0"
   },
   "427": {
     "id": 427,
@@ -9879,11 +11097,15 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "9.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "38.0",
+    "Total Value": "348.0"
   },
   "428": {
     "id": 428,
@@ -9903,11 +11125,15 @@
         "order": "61.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "40.0",
+    "Total Value": "200.0"
   },
   "429": {
     "id": 429,
@@ -9927,11 +11153,15 @@
         "order": "38.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "14.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "57.0",
+    "Total Value": "798.0"
   },
   "430": {
     "id": 430,
@@ -9951,11 +11181,15 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "91.0",
+    "Total Value": "1365.0"
   },
   "431": {
     "id": 431,
@@ -9975,11 +11209,15 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "16.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "7.5",
+    "Total Value": "136.0"
   },
   "432": {
     "id": 432,
@@ -9999,11 +11237,15 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "14.5",
+    "Total Value": "87.0"
   },
   "433": {
     "id": 433,
@@ -10023,11 +11265,15 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "8.0",
+    "Total Value": "40.0"
   },
   "434": {
     "id": 434,
@@ -10047,11 +11293,15 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "5.5",
+    "Total Value": "33.0"
   },
   "435": {
     "id": 435,
@@ -10071,11 +11321,15 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "23.0",
+    "Total Value": "184.0"
   },
   "436": {
     "id": 436,
@@ -10095,11 +11349,15 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "24.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "3.5",
+    "Total Value": "84.0"
   },
   "437": {
     "id": 437,
@@ -10143,11 +11401,15 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "35.0",
+    "Total Value": "360.0"
   },
   "439": {
     "id": 439,
@@ -10167,11 +11429,44 @@
         "order": "84.00000000000000000000"
       }
     ],
+    "price": "9.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "17.5",
+    "Total Value": "157.0"
+  },
+  "852": {
+    "id": 852,
+    "order": "427.50000000000000000000",
+    "grocerist_id": "price__852",
+    "document": [
+      {
+        "id": 26,
+        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (a)",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 29,
+        "value": "Soğan",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 31,
+        "value": "Sarımsak",
+        "order": "31.00000000000000000000"
+      }
+    ],
     "price": null,
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null
+    "Total Value": "120.0"
   },
   "440": {
     "id": 440,
@@ -10191,11 +11486,15 @@
         "order": "42.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "128.0",
+    "Total Value": "256.0"
   },
   "441": {
     "id": 441,
@@ -10215,11 +11514,15 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "10.0",
+    "Total Value": "80.0"
   },
   "442": {
     "id": 442,
@@ -10239,11 +11542,15 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "30.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
-    "Total Value": null
+    "amount_of_units": "12.0",
+    "Total Value": "360.0"
   },
   "443": {
     "id": 443,
