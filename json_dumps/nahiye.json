@@ -908,5 +908,33 @@
                 "address": []
             }
         ]
+    },
+    "3": {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Terkos",
+        "comments": "",
+        "grocerist_id": "nahiye__3",
+        "wikidata_id": "",
+        "geonames_id": "",
+        "lat": null,
+        "long": null,
+        "documents": [
+            {
+                "id": 167,
+                "value": "İSTM.ŞSC.15d. 294/ 13a-2",
+                "order": "135.00000000000000000000"
+            }
+        ],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 167,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "persons": []
     }
 }

@@ -2256,5 +2256,42 @@
                 "address": []
             }
         ]
+    },
+    "26": {
+        "id": 26,
+        "order": "26.00000000000000000000",
+        "name": "Boğaz",
+        "notes": "",
+        "documents": [
+            {
+                "id": 167,
+                "value": "İSTM.ŞSC.15d. 294/ 13a-2",
+                "order": "135.00000000000000000000"
+            }
+        ],
+        "grocerist_id": "karye__26",
+        "lat": null,
+        "long": null,
+        "upper_admin2": [
+            {
+                "ids": {
+                    "database_table_1488": 167,
+                    "database_table_2979": 3
+                },
+                "value": "Terkos"
+            }
+        ],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 167,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "upper_admin3": [],
+        "upper_admin4": [],
+        "persons": []
     }
 }
