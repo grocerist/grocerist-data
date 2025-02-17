@@ -2675,6 +2675,14 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1812-11-30"
+                    },
+                    {
+                        "id": 172,
+                        "value": "İSTM.ŞSC.02.d.178/23a-2",
+                        "order": "140.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
                     }
                 ],
                 "occupation": [],
@@ -2686,6 +2694,11 @@
                         "id": 16,
                         "value": "Üsküdar",
                         "order": "15.00000000000000000000"
+                    },
+                    {
+                        "id": 25,
+                        "value": "İstanbul Bab",
+                        "order": "19.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
@@ -2693,6 +2706,11 @@
                         "id": 52,
                         "value": "Yenimahalle",
                         "order": "50.00000000000000000000"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Küçük Mustafa Paşa",
+                        "order": "98.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -4972,6 +4990,578 @@
                     }
                 ],
                 "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            }
+        ]
+    },
+    "102": {
+        "id": 102,
+        "order": "97.00000000000000000000",
+        "name": "Takiyyecibaşı / Takiyyeci",
+        "grocerist_id": "neighbourhood__102",
+        "district_eighteenth_century": [],
+        "geonames_id": "",
+        "lat": null,
+        "long": null,
+        "documents": [
+            {
+                "id": 173,
+                "value": "İSTM.ŞSC.15d. 300/ 55b",
+                "order": "141.00000000000000000000"
+            },
+            {
+                "id": 178,
+                "value": "İSTM.ŞSC.15d. 393/ 54b-55a",
+                "order": "145.00000000000000000000"
+            }
+        ],
+        "district_nineteenth_century": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 173,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "persons": [
+            {
+                "id": 145,
+                "order": "141.00000000000000000000",
+                "name": "Kostantin v. Yani",
+                "grocerist_id": "person__145",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 173,
+                        "value": "İSTM.ŞSC.15d. 300/ 55b",
+                        "order": "141.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 19,
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 102,
+                        "value": "Takiyyecibaşı / Takiyyeci",
+                        "order": "97.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 20,
+                        "value": "Çömlekçiler başı",
+                        "order": "20.00000000000000000000"
+                    }
+                ]
+            },
+            {
+                "id": 153,
+                "order": "149.00000000000000000000",
+                "name": "Hristo v. Dimo",
+                "grocerist_id": "person__153",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 178,
+                        "value": "İSTM.ŞSC.15d. 393/ 54b-55a",
+                        "order": "145.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 19,
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 102,
+                        "value": "Takiyyecibaşı / Takiyyeci",
+                        "order": "97.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 24,
+                        "value": "Topkapusu haricinde",
+                        "order": "24.00000000000000000000"
+                    }
+                ]
+            }
+        ]
+    },
+    "103": {
+        "id": 103,
+        "order": "98.00000000000000000000",
+        "name": "Küçük Mustafa Paşa",
+        "grocerist_id": "neighbourhood__103",
+        "district_eighteenth_century": [],
+        "geonames_id": "",
+        "lat": null,
+        "long": null,
+        "documents": [
+            {
+                "id": 172,
+                "value": "İSTM.ŞSC.02.d.178/23a-2",
+                "order": "140.00000000000000000000"
+            }
+        ],
+        "district_nineteenth_century": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 172,
+                    "database_table_1492": 25
+                },
+                "value": "İstanbul Bab"
+            }
+        ],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "persons": [
+            {
+                "id": 94,
+                "order": "92.00000000000000000000",
+                "name": "Yani v. Yorgi",
+                "grocerist_id": "person__94",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 111,
+                        "value": "İSTM.ŞSC.06.d. 577/43b-1",
+                        "order": "104.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1812-11-30"
+                    },
+                    {
+                        "id": 172,
+                        "value": "İSTM.ŞSC.02.d.178/23a-2",
+                        "order": "140.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 16,
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
+                    },
+                    {
+                        "id": 25,
+                        "value": "İstanbul Bab",
+                        "order": "19.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 52,
+                        "value": "Yenimahalle",
+                        "order": "50.00000000000000000000"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Küçük Mustafa Paşa",
+                        "order": "98.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            }
+        ]
+    },
+    "104": {
+        "id": 104,
+        "order": "99.00000000000000000000",
+        "name": "Çömlekçiler çarşısı başı",
+        "grocerist_id": "neighbourhood__104",
+        "district_eighteenth_century": [],
+        "geonames_id": "",
+        "lat": null,
+        "long": null,
+        "documents": [
+            {
+                "id": 177,
+                "value": "İSTM.ŞSC.15d. 390/ 11ab-12a",
+                "order": "144.00000000000000000000"
+            }
+        ],
+        "district_nineteenth_century": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 177,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "persons": [
+            {
+                "id": 151,
+                "order": "147.00000000000000000000",
+                "name": "Yorgi v. Tanaş",
+                "grocerist_id": "person__151",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 177,
+                        "value": "İSTM.ŞSC.15d. 390/ 11ab-12a",
+                        "order": "144.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 19,
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 104,
+                        "value": "Çömlekçiler çarşısı başı",
+                        "order": "99.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            }
+        ]
+    },
+    "105": {
+        "id": 105,
+        "order": "100.00000000000000000000",
+        "name": "Debbağ Yunus",
+        "grocerist_id": "neighbourhood__105",
+        "district_eighteenth_century": [],
+        "geonames_id": "",
+        "lat": null,
+        "long": null,
+        "documents": [
+            {
+                "id": 166,
+                "value": "İSTM.ŞSC.02.d.116/52",
+                "order": "134.00000000000000000000"
+            }
+        ],
+        "district_nineteenth_century": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 166,
+                    "database_table_1492": 25
+                },
+                "value": "İstanbul Bab"
+            }
+        ],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "persons": [
+            {
+                "id": 152,
+                "order": "148.00000000000000000000",
+                "name": "Andon",
+                "grocerist_id": "person__152",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 166,
+                        "value": "İSTM.ŞSC.02.d.116/52",
+                        "order": "134.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 25,
+                        "value": "İstanbul Bab",
+                        "order": "19.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 105,
+                        "value": "Debbağ Yunus",
+                        "order": "100.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            }
+        ]
+    },
+    "106": {
+        "id": 106,
+        "order": "101.00000000000000000000",
+        "name": "Nişancı Mustafa Paşa",
+        "grocerist_id": "neighbourhood__106",
+        "district_eighteenth_century": [],
+        "geonames_id": "",
+        "lat": null,
+        "long": null,
+        "documents": [
+            {
+                "id": 181,
+                "value": "İSTM.ŞSC.15d. 403/ 34b3",
+                "order": "148.00000000000000000000"
+            }
+        ],
+        "district_nineteenth_century": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 181,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "persons": [
+            {
+                "id": 157,
+                "order": "153.00000000000000000000",
+                "name": "Yani v. Hristo",
+                "grocerist_id": "person__157",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 181,
+                        "value": "İSTM.ŞSC.15d. 403/ 34b3",
+                        "order": "148.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 19,
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 106,
+                        "value": "Nişancı Mustafa Paşa",
+                        "order": "101.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            }
+        ]
+    },
+    "107": {
+        "id": 107,
+        "order": "102.00000000000000000000",
+        "name": "Kiremitçi Ahmed Çelebi",
+        "grocerist_id": "neighbourhood__107",
+        "district_eighteenth_century": [],
+        "geonames_id": "",
+        "lat": null,
+        "long": null,
+        "documents": [
+            {
+                "id": 182,
+                "value": "İSTM.ŞSC.15d. 436/ 36b",
+                "order": "149.00000000000000000000"
+            }
+        ],
+        "district_nineteenth_century": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 182,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "persons": [
+            {
+                "id": 161,
+                "order": "157.00000000000000000000",
+                "name": "Yako v. Meşyon",
+                "grocerist_id": "person__161",
+                "religion": [
+                    {
+                        "id": 6704,
+                        "value": "Jewish",
+                        "color": "dark-orange"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 182,
+                        "value": "İSTM.ŞSC.15d. 436/ 36b",
+                        "order": "149.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 19,
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 107,
+                        "value": "Kiremitçi Ahmed Çelebi",
+                        "order": "102.00000000000000000000"
+                    }
+                ],
+                "karye": [
+                    {
+                        "id": 29,
+                        "value": "Hasköy",
+                        "order": "29.00000000000000000000"
+                    }
+                ],
                 "nahiye": [],
                 "quarter": [],
                 "address": []

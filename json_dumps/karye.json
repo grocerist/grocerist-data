@@ -1002,6 +1002,11 @@
                 "id": 107,
                 "value": "İSTM.ŞSC.15.d. 275 / 99b-1",
                 "order": "101.00000000000000000000"
+            },
+            {
+                "id": 184,
+                "value": "İSTM.ŞSC.15d. 440/ 7b",
+                "order": "151.00000000000000000000"
             }
         ],
         "grocerist_id": "karye__10",
@@ -1119,6 +1124,62 @@
                 "nahiye": [],
                 "quarter": [],
                 "address": []
+            },
+            {
+                "id": 162,
+                "order": "158.00000000000000000000",
+                "name": "Pano v. Todori",
+                "grocerist_id": "person__162",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 184,
+                        "value": "İSTM.ŞSC.15d. 440/ 7b",
+                        "order": "151.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 19,
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [
+                    {
+                        "id": 10,
+                        "value": "Küçük",
+                        "order": "10.00000000000000000000"
+                    }
+                ],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 27,
+                        "value": "Suyolu",
+                        "order": "27.00000000000000000000"
+                    }
+                ]
             }
         ]
     },
@@ -2262,20 +2323,115 @@
         "order": "26.00000000000000000000",
         "name": "Boğaz",
         "notes": "",
+        "documents": [],
+        "grocerist_id": "karye__26",
+        "lat": null,
+        "long": null,
+        "upper_admin2": [],
+        "upper_admin1": [],
+        "upper_admin3": [],
+        "upper_admin4": [],
+        "persons": []
+    },
+    "27": {
+        "id": 27,
+        "order": "27.00000000000000000000",
+        "name": "Seferli Çeşme",
+        "notes": "",
         "documents": [
             {
-                "id": 167,
-                "value": "İSTM.ŞSC.15d. 294/ 13a-2",
-                "order": "135.00000000000000000000"
+                "id": 170,
+                "value": "İSTM.ŞSC.02.d.257/33",
+                "order": "138.00000000000000000000"
             }
         ],
-        "grocerist_id": "karye__26",
+        "grocerist_id": "karye__27",
+        "lat": null,
+        "long": null,
+        "upper_admin2": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 170,
+                    "database_table_1492": 25
+                },
+                "value": "İstanbul Bab"
+            }
+        ],
+        "upper_admin3": [],
+        "upper_admin4": [],
+        "persons": [
+            {
+                "id": 144,
+                "order": "140.00000000000000000000",
+                "name": "Yovan",
+                "grocerist_id": "person__144",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 170,
+                        "value": "İSTM.ŞSC.02.d.257/33",
+                        "order": "138.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 25,
+                        "value": "İstanbul Bab",
+                        "order": "19.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [
+                    {
+                        "id": 27,
+                        "value": "Seferli Çeşme",
+                        "order": "27.00000000000000000000"
+                    }
+                ],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            }
+        ]
+    },
+    "28": {
+        "id": 28,
+        "order": "28.00000000000000000000",
+        "name": "Aya Yorgi",
+        "notes": "",
+        "documents": [
+            {
+                "id": 180,
+                "value": "İSTM.ŞSC.15d. 402/ 41ab",
+                "order": "147.00000000000000000000"
+            }
+        ],
+        "grocerist_id": "karye__28",
         "lat": null,
         "long": null,
         "upper_admin2": [
             {
                 "ids": {
-                    "database_table_1488": 167,
+                    "database_table_1488": 180,
                     "database_table_2979": 3
                 },
                 "value": "Terkos"
@@ -2284,7 +2440,7 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 167,
+                    "database_table_1488": 180,
                     "database_table_1492": 19
                 },
                 "value": "Eyüp"
@@ -2292,6 +2448,152 @@
         ],
         "upper_admin3": [],
         "upper_admin4": [],
-        "persons": []
+        "persons": [
+            {
+                "id": 156,
+                "order": "152.00000000000000000000",
+                "name": "Vasil v. Dimitraki",
+                "grocerist_id": "person__156",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 180,
+                        "value": "İSTM.ŞSC.15d. 402/ 41ab",
+                        "order": "147.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 19,
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [
+                    {
+                        "id": 28,
+                        "value": "Aya Yorgi",
+                        "order": "28.00000000000000000000"
+                    }
+                ],
+                "nahiye": [
+                    {
+                        "id": 3,
+                        "value": "Terkos",
+                        "order": "3.00000000000000000000"
+                    }
+                ],
+                "quarter": [],
+                "address": []
+            }
+        ]
+    },
+    "29": {
+        "id": 29,
+        "order": "29.00000000000000000000",
+        "name": "Hasköy",
+        "notes": "",
+        "documents": [
+            {
+                "id": 182,
+                "value": "İSTM.ŞSC.15d. 436/ 36b",
+                "order": "149.00000000000000000000"
+            }
+        ],
+        "grocerist_id": "karye__29",
+        "lat": null,
+        "long": null,
+        "upper_admin2": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 182,
+                    "database_table_1492": 19
+                },
+                "value": "Eyüp"
+            }
+        ],
+        "upper_admin3": [],
+        "upper_admin4": [
+            {
+                "ids": {
+                    "database_table_1488": 182,
+                    "database_table_1493": 107
+                },
+                "value": "Kiremitçi Ahmed Çelebi"
+            }
+        ],
+        "persons": [
+            {
+                "id": 161,
+                "order": "157.00000000000000000000",
+                "name": "Yako v. Meşyon",
+                "grocerist_id": "person__161",
+                "religion": [
+                    {
+                        "id": 6704,
+                        "value": "Jewish",
+                        "color": "dark-orange"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 182,
+                        "value": "İSTM.ŞSC.15d. 436/ 36b",
+                        "order": "149.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 19,
+                        "value": "Eyüp",
+                        "order": "18.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 107,
+                        "value": "Kiremitçi Ahmed Çelebi",
+                        "order": "102.00000000000000000000"
+                    }
+                ],
+                "karye": [
+                    {
+                        "id": 29,
+                        "value": "Hasköy",
+                        "order": "29.00000000000000000000"
+                    }
+                ],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            }
+        ]
     }
 }
