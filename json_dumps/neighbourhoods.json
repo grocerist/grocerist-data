@@ -5567,5 +5567,40 @@
                 "address": []
             }
         ]
+    },
+    "108": {
+        "id": 108,
+        "order": "103.00000000000000000000",
+        "name": "Tahtakale",
+        "grocerist_id": "neighbourhood__108",
+        "district_eighteenth_century": [],
+        "geonames_id": "",
+        "lat": null,
+        "long": null,
+        "documents": [
+            {
+                "id": 189,
+                "value": "İSTM.ŞSC.01.d.70/ 5b-2",
+                "order": "156.00000000000000000000"
+            },
+            {
+                "id": 190,
+                "value": "İSTM.ŞSC.01.d.70/ 5b-2",
+                "order": "157.00000000000000000000"
+            }
+        ],
+        "district_nineteenth_century": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 189,
+                    "database_table_1492": 26
+                },
+                "value": "İstanbul"
+            }
+        ],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "persons": []
     }
 }
