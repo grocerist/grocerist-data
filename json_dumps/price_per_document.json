@@ -25,8 +25,8 @@
     },
     "currency": null,
     "amount_of_units": "180.0",
-    "Total Value": "480.0",
-    "price formula": "2.67"
+    "total_value": "480.0",
+    "price_formula": "2.67"
   },
   "2": {
     "id": 2,
@@ -54,8 +54,8 @@
     },
     "currency": null,
     "amount_of_units": "80.0",
-    "Total Value": "400.0",
-    "price formula": "5.00"
+    "total_value": "400.0",
+    "price_formula": "5.00"
   },
   "3": {
     "id": 3,
@@ -83,8 +83,8 @@
     },
     "currency": null,
     "amount_of_units": "144.0",
-    "Total Value": "158.5",
-    "price formula": "1.10"
+    "total_value": "158.5",
+    "price_formula": "1.10"
   },
   "4": {
     "id": 4,
@@ -108,8 +108,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "189.0",
-    "price formula": "NaN"
+    "total_value": "189.0",
+    "price_formula": "NaN"
   },
   "5": {
     "id": 5,
@@ -137,8 +137,8 @@
     },
     "currency": null,
     "amount_of_units": "65.0",
-    "Total Value": "588.0",
-    "price formula": "9.05"
+    "total_value": "588.0",
+    "price_formula": "9.05"
   },
   "6": {
     "id": 6,
@@ -162,8 +162,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "895.0",
-    "price formula": "NaN"
+    "total_value": "895.0",
+    "price_formula": "NaN"
   },
   "7": {
     "id": 7,
@@ -191,8 +191,8 @@
     },
     "currency": null,
     "amount_of_units": "45.0",
-    "Total Value": "260.0",
-    "price formula": "5.78"
+    "total_value": "260.0",
+    "price_formula": "5.78"
   },
   "18": {
     "id": 18,
@@ -220,8 +220,8 @@
     },
     "currency": null,
     "amount_of_units": "81.0",
-    "Total Value": "3071.0",
-    "price formula": "37.91"
+    "total_value": "3071.0",
+    "price_formula": "37.91"
   },
   "9": {
     "id": 9,
@@ -249,8 +249,8 @@
     },
     "currency": null,
     "amount_of_units": "1.5",
-    "Total Value": "145.0",
-    "price formula": "96.67"
+    "total_value": "145.0",
+    "price_formula": "96.67"
   },
   "20": {
     "id": 20,
@@ -278,8 +278,8 @@
     },
     "currency": null,
     "amount_of_units": "90.0",
-    "Total Value": "270.0",
-    "price formula": "3.00"
+    "total_value": "270.0",
+    "price_formula": "3.00"
   },
   "21": {
     "id": 21,
@@ -307,8 +307,8 @@
     },
     "currency": null,
     "amount_of_units": "47.0",
-    "Total Value": "940.0",
-    "price formula": "20.00"
+    "total_value": "940.0",
+    "price_formula": "20.00"
   },
   "22": {
     "id": 22,
@@ -336,8 +336,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "2805.0",
-    "price formula": "1402.50"
+    "total_value": "2805.0",
+    "price_formula": "1402.50"
   },
   "23": {
     "id": 23,
@@ -365,8 +365,8 @@
     },
     "currency": null,
     "amount_of_units": "10.5",
-    "Total Value": "210.0",
-    "price formula": "20.00"
+    "total_value": "210.0",
+    "price_formula": "20.00"
   },
   "24": {
     "id": 24,
@@ -394,8 +394,8 @@
     },
     "currency": null,
     "amount_of_units": "55.0",
-    "Total Value": "385.0",
-    "price formula": "7.00"
+    "total_value": "385.0",
+    "price_formula": "7.00"
   },
   "25": {
     "id": 25,
@@ -423,8 +423,8 @@
     },
     "currency": null,
     "amount_of_units": "20.0",
-    "Total Value": "140.0",
-    "price formula": "7.00"
+    "total_value": "140.0",
+    "price_formula": "7.00"
   },
   "26": {
     "id": 26,
@@ -452,8 +452,8 @@
     },
     "currency": null,
     "amount_of_units": "13.0",
-    "Total Value": "149.0",
-    "price formula": "11.46"
+    "total_value": "149.0",
+    "price_formula": "11.46"
   },
   "27": {
     "id": 27,
@@ -481,8 +481,8 @@
     },
     "currency": null,
     "amount_of_units": "44.0",
-    "Total Value": "320.0",
-    "price formula": "7.27"
+    "total_value": "320.0",
+    "price_formula": "7.27"
   },
   "28": {
     "id": 28,
@@ -510,8 +510,8 @@
     },
     "currency": null,
     "amount_of_units": "9.5",
-    "Total Value": "323.0",
-    "price formula": "34.00"
+    "total_value": "323.0",
+    "price_formula": "34.00"
   },
   "29": {
     "id": 29,
@@ -539,8 +539,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "120.0",
-    "price formula": "30.00"
+    "total_value": "120.0",
+    "price_formula": "30.00"
   },
   "30": {
     "id": 30,
@@ -568,8 +568,8 @@
     },
     "currency": null,
     "amount_of_units": "6.0",
-    "Total Value": "120.0",
-    "price formula": "20.00"
+    "total_value": "120.0",
+    "price_formula": "20.00"
   },
   "31": {
     "id": 31,
@@ -597,8 +597,8 @@
     },
     "currency": null,
     "amount_of_units": "7.0",
-    "Total Value": "189.0",
-    "price formula": "27.00"
+    "total_value": "189.0",
+    "price_formula": "27.00"
   },
   "32": {
     "id": 32,
@@ -626,8 +626,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "81.0",
-    "price formula": "27.00"
+    "total_value": "81.0",
+    "price_formula": "27.00"
   },
   "33": {
     "id": 33,
@@ -655,8 +655,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "30.0",
-    "price formula": "15.00"
+    "total_value": "30.0",
+    "price_formula": "15.00"
   },
   "34": {
     "id": 34,
@@ -684,8 +684,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "56.0",
-    "price formula": "7.00"
+    "total_value": "56.0",
+    "price_formula": "7.00"
   },
   "35": {
     "id": 35,
@@ -709,8 +709,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "60.0",
-    "price formula": "NaN"
+    "total_value": "60.0",
+    "price_formula": "NaN"
   },
   "36": {
     "id": 36,
@@ -738,8 +738,8 @@
     },
     "currency": null,
     "amount_of_units": "80.0",
-    "Total Value": "580.0",
-    "price formula": "7.25"
+    "total_value": "580.0",
+    "price_formula": "7.25"
   },
   "37": {
     "id": 37,
@@ -767,8 +767,8 @@
     },
     "currency": null,
     "amount_of_units": "9.0",
-    "Total Value": "810.0",
-    "price formula": "90.00"
+    "total_value": "810.0",
+    "price_formula": "90.00"
   },
   "38": {
     "id": 38,
@@ -796,8 +796,8 @@
     },
     "currency": null,
     "amount_of_units": "300.0",
-    "Total Value": "390.0",
-    "price formula": "1.30"
+    "total_value": "390.0",
+    "price_formula": "1.30"
   },
   "39": {
     "id": 39,
@@ -825,8 +825,8 @@
     },
     "currency": null,
     "amount_of_units": "18.0",
-    "Total Value": "27.0",
-    "price formula": "1.50"
+    "total_value": "27.0",
+    "price_formula": "1.50"
   },
   "40": {
     "id": 40,
@@ -850,8 +850,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "50.0",
-    "price formula": "NaN"
+    "total_value": "50.0",
+    "price_formula": "NaN"
   },
   "41": {
     "id": 41,
@@ -875,8 +875,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "180.0",
-    "price formula": "NaN"
+    "total_value": "180.0",
+    "price_formula": "NaN"
   },
   "42": {
     "id": 42,
@@ -904,8 +904,8 @@
     },
     "currency": null,
     "amount_of_units": "6.5",
-    "Total Value": "155.0",
-    "price formula": "23.85"
+    "total_value": "155.0",
+    "price_formula": "23.85"
   },
   "43": {
     "id": 43,
@@ -929,8 +929,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "18.0",
-    "price formula": "NaN"
+    "total_value": "18.0",
+    "price_formula": "NaN"
   },
   "44": {
     "id": 44,
@@ -958,8 +958,8 @@
     },
     "currency": null,
     "amount_of_units": "12.0",
-    "Total Value": "140.0",
-    "price formula": "11.67"
+    "total_value": "140.0",
+    "price_formula": "11.67"
   },
   "45": {
     "id": 45,
@@ -983,8 +983,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "250.0",
-    "price formula": "NaN"
+    "total_value": "250.0",
+    "price_formula": "NaN"
   },
   "47": {
     "id": 47,
@@ -1008,8 +1008,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "33.0",
-    "price formula": "NaN"
+    "total_value": "33.0",
+    "price_formula": "NaN"
   },
   "48": {
     "id": 48,
@@ -1033,8 +1033,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "120.0",
-    "price formula": "NaN"
+    "total_value": "120.0",
+    "price_formula": "NaN"
   },
   "49": {
     "id": 49,
@@ -1058,8 +1058,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "120.0",
-    "price formula": "NaN"
+    "total_value": "120.0",
+    "price_formula": "NaN"
   },
   "50": {
     "id": 50,
@@ -1083,8 +1083,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "102.0",
-    "price formula": "NaN"
+    "total_value": "102.0",
+    "price_formula": "NaN"
   },
   "51": {
     "id": 51,
@@ -1108,8 +1108,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "108.0",
-    "price formula": "NaN"
+    "total_value": "108.0",
+    "price_formula": "NaN"
   },
   "52": {
     "id": 52,
@@ -1133,8 +1133,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "21.0",
-    "price formula": "NaN"
+    "total_value": "21.0",
+    "price_formula": "NaN"
   },
   "53": {
     "id": 53,
@@ -1158,8 +1158,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "45.0",
-    "price formula": "NaN"
+    "total_value": "45.0",
+    "price_formula": "NaN"
   },
   "54": {
     "id": 54,
@@ -1183,8 +1183,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "30.0",
-    "price formula": "NaN"
+    "total_value": "30.0",
+    "price_formula": "NaN"
   },
   "55": {
     "id": 55,
@@ -1208,8 +1208,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "114.0",
-    "price formula": "NaN"
+    "total_value": "114.0",
+    "price_formula": "NaN"
   },
   "56": {
     "id": 56,
@@ -1233,8 +1233,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "120.0",
-    "price formula": "NaN"
+    "total_value": "120.0",
+    "price_formula": "NaN"
   },
   "57": {
     "id": 57,
@@ -1258,8 +1258,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "99.0",
-    "price formula": "NaN"
+    "total_value": "99.0",
+    "price_formula": "NaN"
   },
   "58": {
     "id": 58,
@@ -1283,8 +1283,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "195.0",
-    "price formula": "NaN"
+    "total_value": "195.0",
+    "price_formula": "NaN"
   },
   "59": {
     "id": 59,
@@ -1308,8 +1308,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "60.0",
-    "price formula": "NaN"
+    "total_value": "60.0",
+    "price_formula": "NaN"
   },
   "60": {
     "id": 60,
@@ -1337,8 +1337,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "15.0",
-    "price formula": "3.00"
+    "total_value": "15.0",
+    "price_formula": "3.00"
   },
   "61": {
     "id": 61,
@@ -1362,8 +1362,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "48.0",
-    "price formula": "NaN"
+    "total_value": "48.0",
+    "price_formula": "NaN"
   },
   "62": {
     "id": 62,
@@ -1387,8 +1387,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "186.0",
-    "price formula": "NaN"
+    "total_value": "186.0",
+    "price_formula": "NaN"
   },
   "63": {
     "id": 63,
@@ -1412,8 +1412,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "15.0",
-    "price formula": "NaN"
+    "total_value": "15.0",
+    "price_formula": "NaN"
   },
   "64": {
     "id": 64,
@@ -1437,8 +1437,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "105.0",
-    "price formula": "NaN"
+    "total_value": "105.0",
+    "price_formula": "NaN"
   },
   "65": {
     "id": 65,
@@ -1462,8 +1462,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "180.0",
-    "price formula": "NaN"
+    "total_value": "180.0",
+    "price_formula": "NaN"
   },
   "66": {
     "id": 66,
@@ -1487,8 +1487,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "15.0",
-    "price formula": "NaN"
+    "total_value": "15.0",
+    "price_formula": "NaN"
   },
   "67": {
     "id": 67,
@@ -1512,8 +1512,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "165.0",
-    "price formula": "NaN"
+    "total_value": "165.0",
+    "price_formula": "NaN"
   },
   "68": {
     "id": 68,
@@ -1537,8 +1537,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "360.0",
-    "price formula": "NaN"
+    "total_value": "360.0",
+    "price_formula": "NaN"
   },
   "69": {
     "id": 69,
@@ -1562,8 +1562,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "60.0",
-    "price formula": "NaN"
+    "total_value": "60.0",
+    "price_formula": "NaN"
   },
   "70": {
     "id": 70,
@@ -1587,8 +1587,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "105.0",
-    "price formula": "NaN"
+    "total_value": "105.0",
+    "price_formula": "NaN"
   },
   "71": {
     "id": 71,
@@ -1612,8 +1612,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "61.0",
-    "price formula": "NaN"
+    "total_value": "61.0",
+    "price_formula": "NaN"
   },
   "72": {
     "id": 72,
@@ -1637,8 +1637,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "2400.0",
-    "price formula": "NaN"
+    "total_value": "2400.0",
+    "price_formula": "NaN"
   },
   "73": {
     "id": 73,
@@ -1666,8 +1666,8 @@
     },
     "currency": null,
     "amount_of_units": "15.0",
-    "Total Value": "225.0",
-    "price formula": "15.00"
+    "total_value": "225.0",
+    "price_formula": "15.00"
   },
   "74": {
     "id": 74,
@@ -1695,8 +1695,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "280.0",
-    "price formula": "70.00"
+    "total_value": "280.0",
+    "price_formula": "70.00"
   },
   "75": {
     "id": 75,
@@ -1714,8 +1714,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0",
-    "price formula": "NaN"
+    "total_value": "0.0",
+    "price_formula": "NaN"
   },
   "76": {
     "id": 76,
@@ -1743,8 +1743,8 @@
     },
     "currency": null,
     "amount_of_units": "148.0",
-    "Total Value": "3552.0",
-    "price formula": "24.00"
+    "total_value": "3552.0",
+    "price_formula": "24.00"
   },
   "77": {
     "id": 77,
@@ -1772,8 +1772,8 @@
     },
     "currency": null,
     "amount_of_units": "44.0",
-    "Total Value": "308.0",
-    "price formula": "7.00"
+    "total_value": "308.0",
+    "price_formula": "7.00"
   },
   "78": {
     "id": 78,
@@ -1801,8 +1801,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "128.0",
-    "price formula": "16.00"
+    "total_value": "128.0",
+    "price_formula": "16.00"
   },
   "79": {
     "id": 79,
@@ -1830,8 +1830,8 @@
     },
     "currency": null,
     "amount_of_units": "10.5",
-    "Total Value": "168.0",
-    "price formula": "16.00"
+    "total_value": "168.0",
+    "price_formula": "16.00"
   },
   "80": {
     "id": 80,
@@ -1859,8 +1859,8 @@
     },
     "currency": null,
     "amount_of_units": "70.0",
-    "Total Value": "1120.0",
-    "price formula": "16.00"
+    "total_value": "1120.0",
+    "price_formula": "16.00"
   },
   "81": {
     "id": 81,
@@ -1888,8 +1888,8 @@
     },
     "currency": null,
     "amount_of_units": "11.0",
-    "Total Value": "154.0",
-    "price formula": "14.00"
+    "total_value": "154.0",
+    "price_formula": "14.00"
   },
   "82": {
     "id": 82,
@@ -1917,8 +1917,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "560.0",
-    "price formula": "70.00"
+    "total_value": "560.0",
+    "price_formula": "70.00"
   },
   "83": {
     "id": 83,
@@ -1946,8 +1946,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "120.0",
-    "price formula": "60.00"
+    "total_value": "120.0",
+    "price_formula": "60.00"
   },
   "84": {
     "id": 84,
@@ -1975,8 +1975,8 @@
     },
     "currency": null,
     "amount_of_units": "66.0",
-    "Total Value": "1386.0",
-    "price formula": "21.00"
+    "total_value": "1386.0",
+    "price_formula": "21.00"
   },
   "85": {
     "id": 85,
@@ -2004,8 +2004,8 @@
     },
     "currency": null,
     "amount_of_units": "67.0",
-    "Total Value": "1474.0",
-    "price formula": "22.00"
+    "total_value": "1474.0",
+    "price_formula": "22.00"
   },
   "86": {
     "id": 86,
@@ -2033,8 +2033,8 @@
     },
     "currency": null,
     "amount_of_units": "20.0",
-    "Total Value": "80.0",
-    "price formula": "4.00"
+    "total_value": "80.0",
+    "price_formula": "4.00"
   },
   "87": {
     "id": 87,
@@ -2062,8 +2062,8 @@
     },
     "currency": null,
     "amount_of_units": "70.0",
-    "Total Value": "140.0",
-    "price formula": "2.00"
+    "total_value": "140.0",
+    "price_formula": "2.00"
   },
   "88": {
     "id": 88,
@@ -2091,8 +2091,8 @@
     },
     "currency": null,
     "amount_of_units": "150.0",
-    "Total Value": "450.0",
-    "price formula": "3.00"
+    "total_value": "450.0",
+    "price_formula": "3.00"
   },
   "89": {
     "id": 89,
@@ -2120,8 +2120,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "240.0",
-    "price formula": "30.00"
+    "total_value": "240.0",
+    "price_formula": "30.00"
   },
   "90": {
     "id": 90,
@@ -2149,8 +2149,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "80.0",
-    "price formula": "10.00"
+    "total_value": "80.0",
+    "price_formula": "10.00"
   },
   "91": {
     "id": 91,
@@ -2178,8 +2178,8 @@
     },
     "currency": null,
     "amount_of_units": "6.0",
-    "Total Value": "6.0",
-    "price formula": "1.00"
+    "total_value": "6.0",
+    "price_formula": "1.00"
   },
   "92": {
     "id": 92,
@@ -2207,8 +2207,8 @@
     },
     "currency": null,
     "amount_of_units": "12.0",
-    "Total Value": "180.0",
-    "price formula": "15.00"
+    "total_value": "180.0",
+    "price_formula": "15.00"
   },
   "93": {
     "id": 93,
@@ -2236,8 +2236,8 @@
     },
     "currency": null,
     "amount_of_units": "200.0",
-    "Total Value": "280.0",
-    "price formula": "1.40"
+    "total_value": "280.0",
+    "price_formula": "1.40"
   },
   "94": {
     "id": 94,
@@ -2261,8 +2261,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "100.0",
-    "price formula": "NaN"
+    "total_value": "100.0",
+    "price_formula": "NaN"
   },
   "95": {
     "id": 95,
@@ -2290,8 +2290,8 @@
     },
     "currency": null,
     "amount_of_units": "203.5",
-    "Total Value": "2872.0",
-    "price formula": "14.11"
+    "total_value": "2872.0",
+    "price_formula": "14.11"
   },
   "96": {
     "id": 96,
@@ -2319,8 +2319,8 @@
     },
     "currency": null,
     "amount_of_units": "129.0",
-    "Total Value": "3225.0",
-    "price formula": "25.00"
+    "total_value": "3225.0",
+    "price_formula": "25.00"
   },
   "97": {
     "id": 97,
@@ -2348,8 +2348,8 @@
     },
     "currency": null,
     "amount_of_units": "407.0",
-    "Total Value": "4884.0",
-    "price formula": "12.00"
+    "total_value": "4884.0",
+    "price_formula": "12.00"
   },
   "98": {
     "id": 98,
@@ -2377,8 +2377,8 @@
     },
     "currency": null,
     "amount_of_units": "65.5",
-    "Total Value": "4585.0",
-    "price formula": "70.00"
+    "total_value": "4585.0",
+    "price_formula": "70.00"
   },
   "99": {
     "id": 99,
@@ -2406,8 +2406,8 @@
     },
     "currency": null,
     "amount_of_units": "2.5",
-    "Total Value": "200.0",
-    "price formula": "80.00"
+    "total_value": "200.0",
+    "price_formula": "80.00"
   },
   "100": {
     "id": 100,
@@ -2435,8 +2435,8 @@
     },
     "currency": null,
     "amount_of_units": "3.5",
-    "Total Value": "200.0",
-    "price formula": "57.14"
+    "total_value": "200.0",
+    "price_formula": "57.14"
   },
   "101": {
     "id": 101,
@@ -2464,8 +2464,8 @@
     },
     "currency": null,
     "amount_of_units": "1.5",
-    "Total Value": "120.0",
-    "price formula": "80.00"
+    "total_value": "120.0",
+    "price_formula": "80.00"
   },
   "102": {
     "id": 102,
@@ -2493,8 +2493,8 @@
     },
     "currency": null,
     "amount_of_units": "88.0",
-    "Total Value": "1584.0",
-    "price formula": "18.00"
+    "total_value": "1584.0",
+    "price_formula": "18.00"
   },
   "103": {
     "id": 103,
@@ -2522,8 +2522,8 @@
     },
     "currency": null,
     "amount_of_units": "108.0",
-    "Total Value": "1080.0",
-    "price formula": "10.00"
+    "total_value": "1080.0",
+    "price_formula": "10.00"
   },
   "104": {
     "id": 104,
@@ -2551,8 +2551,8 @@
     },
     "currency": null,
     "amount_of_units": "118.0",
-    "Total Value": "472.0",
-    "price formula": "4.00"
+    "total_value": "472.0",
+    "price_formula": "4.00"
   },
   "105": {
     "id": 105,
@@ -2580,8 +2580,8 @@
     },
     "currency": null,
     "amount_of_units": "72.0",
-    "Total Value": "432.0",
-    "price formula": "6.00"
+    "total_value": "432.0",
+    "price_formula": "6.00"
   },
   "106": {
     "id": 106,
@@ -2609,8 +2609,8 @@
     },
     "currency": null,
     "amount_of_units": "65.0",
-    "Total Value": "1300.0",
-    "price formula": "20.00"
+    "total_value": "1300.0",
+    "price_formula": "20.00"
   },
   "107": {
     "id": 107,
@@ -2638,8 +2638,8 @@
     },
     "currency": null,
     "amount_of_units": "28.0",
-    "Total Value": "420.0",
-    "price formula": "15.00"
+    "total_value": "420.0",
+    "price_formula": "15.00"
   },
   "108": {
     "id": 108,
@@ -2667,8 +2667,8 @@
     },
     "currency": null,
     "amount_of_units": "14.0",
-    "Total Value": "210.0",
-    "price formula": "15.00"
+    "total_value": "210.0",
+    "price_formula": "15.00"
   },
   "109": {
     "id": 109,
@@ -2696,8 +2696,8 @@
     },
     "currency": null,
     "amount_of_units": "340.0",
-    "Total Value": "1360.0",
-    "price formula": "4.00"
+    "total_value": "1360.0",
+    "price_formula": "4.00"
   },
   "110": {
     "id": 110,
@@ -2725,8 +2725,8 @@
     },
     "currency": null,
     "amount_of_units": "284.5",
-    "Total Value": "4552.0",
-    "price formula": "16.00"
+    "total_value": "4552.0",
+    "price_formula": "16.00"
   },
   "111": {
     "id": 111,
@@ -2754,8 +2754,8 @@
     },
     "currency": null,
     "amount_of_units": "16.0",
-    "Total Value": "144.0",
-    "price formula": "9.00"
+    "total_value": "144.0",
+    "price_formula": "9.00"
   },
   "112": {
     "id": 112,
@@ -2783,8 +2783,8 @@
     },
     "currency": null,
     "amount_of_units": "2500.0",
-    "Total Value": "300.0",
-    "price formula": "0.12"
+    "total_value": "300.0",
+    "price_formula": "0.12"
   },
   "113": {
     "id": 113,
@@ -2802,8 +2802,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0",
-    "price formula": "NaN"
+    "total_value": "0.0",
+    "price_formula": "NaN"
   },
   "114": {
     "id": 114,
@@ -2831,8 +2831,8 @@
     },
     "currency": null,
     "amount_of_units": "86.0",
-    "Total Value": "86.0",
-    "price formula": "1.00"
+    "total_value": "86.0",
+    "price_formula": "1.00"
   },
   "115": {
     "id": 115,
@@ -2860,8 +2860,8 @@
     },
     "currency": null,
     "amount_of_units": "63.0",
-    "Total Value": "378.0",
-    "price formula": "6.00"
+    "total_value": "378.0",
+    "price_formula": "6.00"
   },
   "116": {
     "id": 116,
@@ -2889,8 +2889,8 @@
     },
     "currency": null,
     "amount_of_units": "840.0",
-    "Total Value": "288.0",
-    "price formula": "0.34"
+    "total_value": "288.0",
+    "price_formula": "0.34"
   },
   "117": {
     "id": 117,
@@ -2918,8 +2918,8 @@
     },
     "currency": null,
     "amount_of_units": "1007.0",
-    "Total Value": "1208.0",
-    "price formula": "1.20"
+    "total_value": "1208.0",
+    "price_formula": "1.20"
   },
   "118": {
     "id": 118,
@@ -2947,8 +2947,8 @@
     },
     "currency": null,
     "amount_of_units": "380.0",
-    "Total Value": "380.0",
-    "price formula": "1.00"
+    "total_value": "380.0",
+    "price_formula": "1.00"
   },
   "119": {
     "id": 119,
@@ -2976,8 +2976,8 @@
     },
     "currency": null,
     "amount_of_units": "17.0",
-    "Total Value": "106.0",
-    "price formula": "6.24"
+    "total_value": "106.0",
+    "price_formula": "6.24"
   },
   "120": {
     "id": 120,
@@ -3005,8 +3005,8 @@
     },
     "currency": null,
     "amount_of_units": "50.0",
-    "Total Value": "180.0",
-    "price formula": "3.60"
+    "total_value": "180.0",
+    "price_formula": "3.60"
   },
   "121": {
     "id": 121,
@@ -3034,8 +3034,8 @@
     },
     "currency": null,
     "amount_of_units": "35.0",
-    "Total Value": "210.0",
-    "price formula": "6.00"
+    "total_value": "210.0",
+    "price_formula": "6.00"
   },
   "122": {
     "id": 122,
@@ -3063,8 +3063,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "90.0",
-    "price formula": "3.00"
+    "total_value": "90.0",
+    "price_formula": "3.00"
   },
   "123": {
     "id": 123,
@@ -3092,8 +3092,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "120.0",
-    "price formula": "30.00"
+    "total_value": "120.0",
+    "price_formula": "30.00"
   },
   "124": {
     "id": 124,
@@ -3121,8 +3121,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "60.0",
-    "price formula": "6.00"
+    "total_value": "60.0",
+    "price_formula": "6.00"
   },
   "125": {
     "id": 125,
@@ -3150,8 +3150,8 @@
     },
     "currency": null,
     "amount_of_units": "15.0",
-    "Total Value": "60.0",
-    "price formula": "4.00"
+    "total_value": "60.0",
+    "price_formula": "4.00"
   },
   "126": {
     "id": 126,
@@ -3179,8 +3179,8 @@
     },
     "currency": null,
     "amount_of_units": "23.0",
-    "Total Value": "414.0",
-    "price formula": "18.00"
+    "total_value": "414.0",
+    "price_formula": "18.00"
   },
   "127": {
     "id": 127,
@@ -3208,8 +3208,8 @@
     },
     "currency": null,
     "amount_of_units": "40.0",
-    "Total Value": "400.0",
-    "price formula": "10.00"
+    "total_value": "400.0",
+    "price_formula": "10.00"
   },
   "128": {
     "id": 128,
@@ -3237,8 +3237,8 @@
     },
     "currency": null,
     "amount_of_units": "59.0",
-    "Total Value": "1062.0",
-    "price formula": "18.00"
+    "total_value": "1062.0",
+    "price_formula": "18.00"
   },
   "129": {
     "id": 129,
@@ -3266,8 +3266,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "540.0",
-    "price formula": "18.00"
+    "total_value": "540.0",
+    "price_formula": "18.00"
   },
   "130": {
     "id": 130,
@@ -3295,8 +3295,8 @@
     },
     "currency": null,
     "amount_of_units": "15.0",
-    "Total Value": "45.0",
-    "price formula": "3.00"
+    "total_value": "45.0",
+    "price_formula": "3.00"
   },
   "132": {
     "id": 132,
@@ -3324,8 +3324,8 @@
     },
     "currency": null,
     "amount_of_units": "190.0",
-    "Total Value": "380.0",
-    "price formula": "2.00"
+    "total_value": "380.0",
+    "price_formula": "2.00"
   },
   "133": {
     "id": 133,
@@ -3353,8 +3353,8 @@
     },
     "currency": null,
     "amount_of_units": "100.0",
-    "Total Value": "400.0",
-    "price formula": "4.00"
+    "total_value": "400.0",
+    "price_formula": "4.00"
   },
   "134": {
     "id": 134,
@@ -3382,8 +3382,8 @@
     },
     "currency": null,
     "amount_of_units": "40.0",
-    "Total Value": "800.0",
-    "price formula": "20.00"
+    "total_value": "800.0",
+    "price_formula": "20.00"
   },
   "135": {
     "id": 135,
@@ -3411,8 +3411,8 @@
     },
     "currency": null,
     "amount_of_units": "40.0",
-    "Total Value": "800.0",
-    "price formula": "20.00"
+    "total_value": "800.0",
+    "price_formula": "20.00"
   },
   "136": {
     "id": 136,
@@ -3440,8 +3440,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "400.0",
-    "price formula": "40.00"
+    "total_value": "400.0",
+    "price_formula": "40.00"
   },
   "137": {
     "id": 137,
@@ -3469,8 +3469,8 @@
     },
     "currency": null,
     "amount_of_units": "20.0",
-    "Total Value": "300.0",
-    "price formula": "15.00"
+    "total_value": "300.0",
+    "price_formula": "15.00"
   },
   "138": {
     "id": 138,
@@ -3498,8 +3498,8 @@
     },
     "currency": null,
     "amount_of_units": "60.0",
-    "Total Value": "300.0",
-    "price formula": "5.00"
+    "total_value": "300.0",
+    "price_formula": "5.00"
   },
   "139": {
     "id": 139,
@@ -3527,8 +3527,8 @@
     },
     "currency": null,
     "amount_of_units": "100.0",
-    "Total Value": "200.0",
-    "price formula": "2.00"
+    "total_value": "200.0",
+    "price_formula": "2.00"
   },
   "140": {
     "id": 140,
@@ -3556,8 +3556,8 @@
     },
     "currency": null,
     "amount_of_units": "50.0",
-    "Total Value": "400.0",
-    "price formula": "8.00"
+    "total_value": "400.0",
+    "price_formula": "8.00"
   },
   "141": {
     "id": 141,
@@ -3585,8 +3585,8 @@
     },
     "currency": null,
     "amount_of_units": "150.0",
-    "Total Value": "1200.0",
-    "price formula": "8.00"
+    "total_value": "1200.0",
+    "price_formula": "8.00"
   },
   "142": {
     "id": 142,
@@ -3614,8 +3614,8 @@
     },
     "currency": null,
     "amount_of_units": "140.0",
-    "Total Value": "840.0",
-    "price formula": "6.00"
+    "total_value": "840.0",
+    "price_formula": "6.00"
   },
   "143": {
     "id": 143,
@@ -3643,8 +3643,8 @@
     },
     "currency": null,
     "amount_of_units": "120.0",
-    "Total Value": "1440.0",
-    "price formula": "12.00"
+    "total_value": "1440.0",
+    "price_formula": "12.00"
   },
   "144": {
     "id": 144,
@@ -3672,8 +3672,8 @@
     },
     "currency": null,
     "amount_of_units": "23.0",
-    "Total Value": "138.0",
-    "price formula": "6.00"
+    "total_value": "138.0",
+    "price_formula": "6.00"
   },
   "145": {
     "id": 145,
@@ -3701,8 +3701,8 @@
     },
     "currency": null,
     "amount_of_units": "12.0",
-    "Total Value": "74.0",
-    "price formula": "6.17"
+    "total_value": "74.0",
+    "price_formula": "6.17"
   },
   "146": {
     "id": 146,
@@ -3730,8 +3730,8 @@
     },
     "currency": null,
     "amount_of_units": "14.0",
-    "Total Value": "64.0",
-    "price formula": "4.57"
+    "total_value": "64.0",
+    "price_formula": "4.57"
   },
   "147": {
     "id": 147,
@@ -3759,8 +3759,8 @@
     },
     "currency": null,
     "amount_of_units": "69.0",
-    "Total Value": "414.0",
-    "price formula": "6.00"
+    "total_value": "414.0",
+    "price_formula": "6.00"
   },
   "148": {
     "id": 148,
@@ -3788,8 +3788,8 @@
     },
     "currency": null,
     "amount_of_units": "64.0",
-    "Total Value": "256.0",
-    "price formula": "4.00"
+    "total_value": "256.0",
+    "price_formula": "4.00"
   },
   "149": {
     "id": 149,
@@ -3817,8 +3817,8 @@
     },
     "currency": null,
     "amount_of_units": "93.0",
-    "Total Value": "465.0",
-    "price formula": "5.00"
+    "total_value": "465.0",
+    "price_formula": "5.00"
   },
   "150": {
     "id": 150,
@@ -3846,8 +3846,8 @@
     },
     "currency": null,
     "amount_of_units": "130.0",
-    "Total Value": "195.0",
-    "price formula": "1.50"
+    "total_value": "195.0",
+    "price_formula": "1.50"
   },
   "151": {
     "id": 151,
@@ -3875,8 +3875,8 @@
     },
     "currency": null,
     "amount_of_units": "20.0",
-    "Total Value": "100.0",
-    "price formula": "5.00"
+    "total_value": "100.0",
+    "price_formula": "5.00"
   },
   "152": {
     "id": 152,
@@ -3904,8 +3904,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "32.0",
-    "price formula": "16.00"
+    "total_value": "32.0",
+    "price_formula": "16.00"
   },
   "153": {
     "id": 153,
@@ -3933,8 +3933,8 @@
     },
     "currency": null,
     "amount_of_units": "1.0",
-    "Total Value": "25.0",
-    "price formula": "25.00"
+    "total_value": "25.0",
+    "price_formula": "25.00"
   },
   "154": {
     "id": 154,
@@ -3962,8 +3962,8 @@
     },
     "currency": null,
     "amount_of_units": "6.0",
-    "Total Value": "30.0",
-    "price formula": "5.00"
+    "total_value": "30.0",
+    "price_formula": "5.00"
   },
   "155": {
     "id": 155,
@@ -3991,8 +3991,8 @@
     },
     "currency": null,
     "amount_of_units": "35.0",
-    "Total Value": "315.0",
-    "price formula": "9.00"
+    "total_value": "315.0",
+    "price_formula": "9.00"
   },
   "156": {
     "id": 156,
@@ -4020,8 +4020,8 @@
     },
     "currency": null,
     "amount_of_units": "6.0",
-    "Total Value": "30.0",
-    "price formula": "5.00"
+    "total_value": "30.0",
+    "price_formula": "5.00"
   },
   "157": {
     "id": 157,
@@ -4049,8 +4049,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "250.0",
-    "price formula": "25.00"
+    "total_value": "250.0",
+    "price_formula": "25.00"
   },
   "158": {
     "id": 158,
@@ -4078,8 +4078,8 @@
     },
     "currency": null,
     "amount_of_units": "1.0",
-    "Total Value": "24.0",
-    "price formula": "24.00"
+    "total_value": "24.0",
+    "price_formula": "24.00"
   },
   "159": {
     "id": 159,
@@ -4107,8 +4107,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "32.0",
-    "price formula": "4.00"
+    "total_value": "32.0",
+    "price_formula": "4.00"
   },
   "160": {
     "id": 160,
@@ -4136,8 +4136,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "240.0",
-    "price formula": "24.00"
+    "total_value": "240.0",
+    "price_formula": "24.00"
   },
   "161": {
     "id": 161,
@@ -4155,8 +4155,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0",
-    "price formula": "NaN"
+    "total_value": "0.0",
+    "price_formula": "NaN"
   },
   "162": {
     "id": 162,
@@ -4180,8 +4180,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "120.0",
-    "price formula": "NaN"
+    "total_value": "120.0",
+    "price_formula": "NaN"
   },
   "163": {
     "id": 163,
@@ -4205,8 +4205,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "40.0",
-    "price formula": "NaN"
+    "total_value": "40.0",
+    "price_formula": "NaN"
   },
   "164": {
     "id": 164,
@@ -4230,8 +4230,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "60.0",
-    "price formula": "NaN"
+    "total_value": "60.0",
+    "price_formula": "NaN"
   },
   "165": {
     "id": 165,
@@ -4255,8 +4255,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "21.0",
-    "price formula": "NaN"
+    "total_value": "21.0",
+    "price_formula": "NaN"
   },
   "166": {
     "id": 166,
@@ -4280,8 +4280,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "30.0",
-    "price formula": "NaN"
+    "total_value": "30.0",
+    "price_formula": "NaN"
   },
   "167": {
     "id": 167,
@@ -4305,8 +4305,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "20.0",
-    "price formula": "NaN"
+    "total_value": "20.0",
+    "price_formula": "NaN"
   },
   "168": {
     "id": 168,
@@ -4330,8 +4330,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "80.0",
-    "price formula": "NaN"
+    "total_value": "80.0",
+    "price_formula": "NaN"
   },
   "169": {
     "id": 169,
@@ -4359,8 +4359,8 @@
     },
     "currency": null,
     "amount_of_units": "64.0",
-    "Total Value": "1600.0",
-    "price formula": "25.00"
+    "total_value": "1600.0",
+    "price_formula": "25.00"
   },
   "170": {
     "id": 170,
@@ -4388,8 +4388,8 @@
     },
     "currency": null,
     "amount_of_units": "32.0",
-    "Total Value": "192.0",
-    "price formula": "6.00"
+    "total_value": "192.0",
+    "price_formula": "6.00"
   },
   "171": {
     "id": 171,
@@ -4417,8 +4417,8 @@
     },
     "currency": null,
     "amount_of_units": "20.0",
-    "Total Value": "200.0",
-    "price formula": "10.00"
+    "total_value": "200.0",
+    "price_formula": "10.00"
   },
   "172": {
     "id": 172,
@@ -4446,8 +4446,8 @@
     },
     "currency": null,
     "amount_of_units": "50.0",
-    "Total Value": "200.0",
-    "price formula": "4.00"
+    "total_value": "200.0",
+    "price_formula": "4.00"
   },
   "173": {
     "id": 173,
@@ -4475,8 +4475,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "80.0",
-    "price formula": "10.00"
+    "total_value": "80.0",
+    "price_formula": "10.00"
   },
   "174": {
     "id": 174,
@@ -4504,8 +4504,8 @@
     },
     "currency": null,
     "amount_of_units": "25.0",
-    "Total Value": "500.0",
-    "price formula": "20.00"
+    "total_value": "500.0",
+    "price_formula": "20.00"
   },
   "175": {
     "id": 175,
@@ -4533,8 +4533,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "60.0",
-    "price formula": "6.00"
+    "total_value": "60.0",
+    "price_formula": "6.00"
   },
   "176": {
     "id": 176,
@@ -4562,8 +4562,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "120.0",
-    "price formula": "12.00"
+    "total_value": "120.0",
+    "price_formula": "12.00"
   },
   "177": {
     "id": 177,
@@ -4587,8 +4587,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "900.0",
-    "price formula": "NaN"
+    "total_value": "900.0",
+    "price_formula": "NaN"
   },
   "178": {
     "id": 178,
@@ -4612,8 +4612,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "680.0",
-    "price formula": "NaN"
+    "total_value": "680.0",
+    "price_formula": "NaN"
   },
   "179": {
     "id": 179,
@@ -4637,8 +4637,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "360.0",
-    "price formula": "NaN"
+    "total_value": "360.0",
+    "price_formula": "NaN"
   },
   "180": {
     "id": 180,
@@ -4662,8 +4662,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "150.0",
-    "price formula": "NaN"
+    "total_value": "150.0",
+    "price_formula": "NaN"
   },
   "181": {
     "id": 181,
@@ -4687,8 +4687,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "500.0",
-    "price formula": "NaN"
+    "total_value": "500.0",
+    "price_formula": "NaN"
   },
   "182": {
     "id": 182,
@@ -4712,8 +4712,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "90.0",
-    "price formula": "NaN"
+    "total_value": "90.0",
+    "price_formula": "NaN"
   },
   "183": {
     "id": 183,
@@ -4737,8 +4737,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "300.0",
-    "price formula": "NaN"
+    "total_value": "300.0",
+    "price_formula": "NaN"
   },
   "184": {
     "id": 184,
@@ -4762,8 +4762,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "200.0",
-    "price formula": "NaN"
+    "total_value": "200.0",
+    "price_formula": "NaN"
   },
   "185": {
     "id": 185,
@@ -4787,8 +4787,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "80.0",
-    "price formula": "NaN"
+    "total_value": "80.0",
+    "price_formula": "NaN"
   },
   "186": {
     "id": 186,
@@ -4812,8 +4812,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "480.0",
-    "price formula": "NaN"
+    "total_value": "480.0",
+    "price_formula": "NaN"
   },
   "187": {
     "id": 187,
@@ -4837,8 +4837,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "2400.0",
-    "price formula": "NaN"
+    "total_value": "2400.0",
+    "price_formula": "NaN"
   },
   "188": {
     "id": 188,
@@ -4862,8 +4862,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "3840.0",
-    "price formula": "NaN"
+    "total_value": "3840.0",
+    "price_formula": "NaN"
   },
   "189": {
     "id": 189,
@@ -4887,8 +4887,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "2800.0",
-    "price formula": "NaN"
+    "total_value": "2800.0",
+    "price_formula": "NaN"
   },
   "190": {
     "id": 190,
@@ -4912,8 +4912,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "100.0",
-    "price formula": "NaN"
+    "total_value": "100.0",
+    "price_formula": "NaN"
   },
   "191": {
     "id": 191,
@@ -4937,8 +4937,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "1440.0",
-    "price formula": "NaN"
+    "total_value": "1440.0",
+    "price_formula": "NaN"
   },
   "192": {
     "id": 192,
@@ -4962,8 +4962,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "90.0",
-    "price formula": "NaN"
+    "total_value": "90.0",
+    "price_formula": "NaN"
   },
   "193": {
     "id": 193,
@@ -4987,8 +4987,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "20.0",
-    "price formula": "NaN"
+    "total_value": "20.0",
+    "price_formula": "NaN"
   },
   "194": {
     "id": 194,
@@ -5012,8 +5012,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "50.0",
-    "price formula": "NaN"
+    "total_value": "50.0",
+    "price_formula": "NaN"
   },
   "195": {
     "id": 195,
@@ -5037,8 +5037,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "1440.0",
-    "price formula": "NaN"
+    "total_value": "1440.0",
+    "price_formula": "NaN"
   },
   "196": {
     "id": 196,
@@ -5062,8 +5062,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "350.0",
-    "price formula": "NaN"
+    "total_value": "350.0",
+    "price_formula": "NaN"
   },
   "197": {
     "id": 197,
@@ -5087,8 +5087,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "60.0",
-    "price formula": "NaN"
+    "total_value": "60.0",
+    "price_formula": "NaN"
   },
   "198": {
     "id": 198,
@@ -5112,8 +5112,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "200.0",
-    "price formula": "NaN"
+    "total_value": "200.0",
+    "price_formula": "NaN"
   },
   "199": {
     "id": 199,
@@ -5142,8 +5142,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "50.0",
-    "price formula": "NaN"
+    "total_value": "50.0",
+    "price_formula": "NaN"
   },
   "200": {
     "id": 200,
@@ -5177,8 +5177,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "100.0",
-    "price formula": "NaN"
+    "total_value": "100.0",
+    "price_formula": "NaN"
   },
   "201": {
     "id": 201,
@@ -5206,8 +5206,8 @@
     },
     "currency": null,
     "amount_of_units": "310.0",
-    "Total Value": "1860.0",
-    "price formula": "6.00"
+    "total_value": "1860.0",
+    "price_formula": "6.00"
   },
   "202": {
     "id": 202,
@@ -5235,8 +5235,8 @@
     },
     "currency": null,
     "amount_of_units": "150.0",
-    "Total Value": "450.0",
-    "price formula": "3.00"
+    "total_value": "450.0",
+    "price_formula": "3.00"
   },
   "203": {
     "id": 203,
@@ -5264,8 +5264,8 @@
     },
     "currency": null,
     "amount_of_units": "25.0",
-    "Total Value": "275.0",
-    "price formula": "11.00"
+    "total_value": "275.0",
+    "price_formula": "11.00"
   },
   "204": {
     "id": 204,
@@ -5293,8 +5293,8 @@
     },
     "currency": null,
     "amount_of_units": "100.0",
-    "Total Value": "2400.0",
-    "price formula": "24.00"
+    "total_value": "2400.0",
+    "price_formula": "24.00"
   },
   "205": {
     "id": 205,
@@ -5322,8 +5322,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "160.0",
-    "price formula": "80.00"
+    "total_value": "160.0",
+    "price_formula": "80.00"
   },
   "206": {
     "id": 206,
@@ -5351,8 +5351,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "80.0",
-    "price formula": "26.67"
+    "total_value": "80.0",
+    "price_formula": "26.67"
   },
   "207": {
     "id": 207,
@@ -5376,8 +5376,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "100.0",
-    "price formula": "NaN"
+    "total_value": "100.0",
+    "price_formula": "NaN"
   },
   "208": {
     "id": 208,
@@ -5406,8 +5406,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "120.0",
-    "price formula": "NaN"
+    "total_value": "120.0",
+    "price_formula": "NaN"
   },
   "209": {
     "id": 209,
@@ -5435,8 +5435,8 @@
     },
     "currency": null,
     "amount_of_units": "730.0",
-    "Total Value": "4380.0",
-    "price formula": "6.00"
+    "total_value": "4380.0",
+    "price_formula": "6.00"
   },
   "210": {
     "id": 210,
@@ -5464,8 +5464,8 @@
     },
     "currency": null,
     "amount_of_units": "565.0",
-    "Total Value": "1695.0",
-    "price formula": "3.00"
+    "total_value": "1695.0",
+    "price_formula": "3.00"
   },
   "211": {
     "id": 211,
@@ -5493,8 +5493,8 @@
     },
     "currency": null,
     "amount_of_units": "360.0",
-    "Total Value": "8640.0",
-    "price formula": "24.00"
+    "total_value": "8640.0",
+    "price_formula": "24.00"
   },
   "212": {
     "id": 212,
@@ -5522,8 +5522,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "1080.0",
-    "price formula": "36.00"
+    "total_value": "1080.0",
+    "price_formula": "36.00"
   },
   "213": {
     "id": 213,
@@ -5551,8 +5551,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "160.0",
-    "price formula": "80.00"
+    "total_value": "160.0",
+    "price_formula": "80.00"
   },
   "214": {
     "id": 214,
@@ -5580,8 +5580,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "60.0",
-    "price formula": "6.00"
+    "total_value": "60.0",
+    "price_formula": "6.00"
   },
   "215": {
     "id": 215,
@@ -5609,8 +5609,8 @@
     },
     "currency": null,
     "amount_of_units": "475.0",
-    "Total Value": "950.0",
-    "price formula": "2.00"
+    "total_value": "950.0",
+    "price_formula": "2.00"
   },
   "216": {
     "id": 216,
@@ -5638,8 +5638,8 @@
     },
     "currency": null,
     "amount_of_units": "164.0",
-    "Total Value": "5904.0",
-    "price formula": "36.00"
+    "total_value": "5904.0",
+    "price_formula": "36.00"
   },
   "217": {
     "id": 217,
@@ -5667,8 +5667,8 @@
     },
     "currency": null,
     "amount_of_units": "1050.0",
-    "Total Value": "2100.0",
-    "price formula": "2.00"
+    "total_value": "2100.0",
+    "price_formula": "2.00"
   },
   "218": {
     "id": 218,
@@ -5696,8 +5696,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "180.0",
-    "price formula": "90.00"
+    "total_value": "180.0",
+    "price_formula": "90.00"
   },
   "219": {
     "id": 219,
@@ -5725,8 +5725,8 @@
     },
     "currency": null,
     "amount_of_units": "73.0",
-    "Total Value": "1752.0",
-    "price formula": "24.00"
+    "total_value": "1752.0",
+    "price_formula": "24.00"
   },
   "220": {
     "id": 220,
@@ -5744,8 +5744,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "0.0",
-    "price formula": "NaN"
+    "total_value": "0.0",
+    "price_formula": "NaN"
   },
   "221": {
     "id": 221,
@@ -5769,8 +5769,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "180.0",
-    "price formula": "NaN"
+    "total_value": "180.0",
+    "price_formula": "NaN"
   },
   "222": {
     "id": 222,
@@ -5798,8 +5798,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "140.0",
-    "price formula": "4.67"
+    "total_value": "140.0",
+    "price_formula": "4.67"
   },
   "223": {
     "id": 223,
@@ -5827,8 +5827,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "120.0",
-    "price formula": "40.00"
+    "total_value": "120.0",
+    "price_formula": "40.00"
   },
   "224": {
     "id": 224,
@@ -5852,8 +5852,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "300.0",
-    "price formula": "NaN"
+    "total_value": "300.0",
+    "price_formula": "NaN"
   },
   "225": {
     "id": 225,
@@ -5881,8 +5881,8 @@
     },
     "currency": null,
     "amount_of_units": "80.0",
-    "Total Value": "640.0",
-    "price formula": "8.00"
+    "total_value": "640.0",
+    "price_formula": "8.00"
   },
   "226": {
     "id": 226,
@@ -5910,8 +5910,8 @@
     },
     "currency": null,
     "amount_of_units": "75.0",
-    "Total Value": "525.0",
-    "price formula": "7.00"
+    "total_value": "525.0",
+    "price_formula": "7.00"
   },
   "227": {
     "id": 227,
@@ -5939,8 +5939,8 @@
     },
     "currency": null,
     "amount_of_units": "50.0",
-    "Total Value": "100.0",
-    "price formula": "2.00"
+    "total_value": "100.0",
+    "price_formula": "2.00"
   },
   "228": {
     "id": 228,
@@ -5968,8 +5968,8 @@
     },
     "currency": null,
     "amount_of_units": "60.0",
-    "Total Value": "1440.0",
-    "price formula": "24.00"
+    "total_value": "1440.0",
+    "price_formula": "24.00"
   },
   "229": {
     "id": 229,
@@ -5997,8 +5997,8 @@
     },
     "currency": null,
     "amount_of_units": "64.0",
-    "Total Value": "1280.0",
-    "price formula": "20.00"
+    "total_value": "1280.0",
+    "price_formula": "20.00"
   },
   "230": {
     "id": 230,
@@ -6026,8 +6026,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "14.0",
-    "price formula": "7.00"
+    "total_value": "14.0",
+    "price_formula": "7.00"
   },
   "231": {
     "id": 231,
@@ -6055,8 +6055,8 @@
     },
     "currency": null,
     "amount_of_units": "7.5",
-    "Total Value": "525.0",
-    "price formula": "70.00"
+    "total_value": "525.0",
+    "price_formula": "70.00"
   },
   "232": {
     "id": 232,
@@ -6084,8 +6084,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "390.0",
-    "price formula": "130.00"
+    "total_value": "390.0",
+    "price_formula": "130.00"
   },
   "233": {
     "id": 233,
@@ -6113,8 +6113,8 @@
     },
     "currency": null,
     "amount_of_units": "54.0",
-    "Total Value": "180.0",
-    "price formula": "3.33"
+    "total_value": "180.0",
+    "price_formula": "3.33"
   },
   "234": {
     "id": 234,
@@ -6142,8 +6142,8 @@
     },
     "currency": null,
     "amount_of_units": "85.0",
-    "Total Value": "400.0",
-    "price formula": "4.71"
+    "total_value": "400.0",
+    "price_formula": "4.71"
   },
   "235": {
     "id": 235,
@@ -6171,8 +6171,8 @@
     },
     "currency": null,
     "amount_of_units": "80.0",
-    "Total Value": "560.0",
-    "price formula": "7.00"
+    "total_value": "560.0",
+    "price_formula": "7.00"
   },
   "236": {
     "id": 236,
@@ -6200,8 +6200,8 @@
     },
     "currency": null,
     "amount_of_units": "33.0",
-    "Total Value": "240.0",
-    "price formula": "7.27"
+    "total_value": "240.0",
+    "price_formula": "7.27"
   },
   "237": {
     "id": 237,
@@ -6229,8 +6229,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "180.0",
-    "price formula": "6.00"
+    "total_value": "180.0",
+    "price_formula": "6.00"
   },
   "238": {
     "id": 238,
@@ -6258,8 +6258,8 @@
     },
     "currency": null,
     "amount_of_units": "11.0",
-    "Total Value": "60.0",
-    "price formula": "5.45"
+    "total_value": "60.0",
+    "price_formula": "5.45"
   },
   "239": {
     "id": 239,
@@ -6283,8 +6283,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "33.0",
-    "price formula": "NaN"
+    "total_value": "33.0",
+    "price_formula": "NaN"
   },
   "240": {
     "id": 240,
@@ -6312,8 +6312,8 @@
     },
     "currency": null,
     "amount_of_units": "50.0",
-    "Total Value": "120.0",
-    "price formula": "2.40"
+    "total_value": "120.0",
+    "price_formula": "2.40"
   },
   "241": {
     "id": 241,
@@ -6341,8 +6341,8 @@
     },
     "currency": null,
     "amount_of_units": "27.0",
-    "Total Value": "42.0",
-    "price formula": "1.56"
+    "total_value": "42.0",
+    "price_formula": "1.56"
   },
   "242": {
     "id": 242,
@@ -6370,8 +6370,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "80.0",
-    "price formula": "8.00"
+    "total_value": "80.0",
+    "price_formula": "8.00"
   },
   "243": {
     "id": 243,
@@ -6399,8 +6399,8 @@
     },
     "currency": null,
     "amount_of_units": "130.0",
-    "Total Value": "200.0",
-    "price formula": "1.54"
+    "total_value": "200.0",
+    "price_formula": "1.54"
   },
   "244": {
     "id": 244,
@@ -6428,8 +6428,8 @@
     },
     "currency": null,
     "amount_of_units": "25.0",
-    "Total Value": "150.0",
-    "price formula": "6.00"
+    "total_value": "150.0",
+    "price_formula": "6.00"
   },
   "245": {
     "id": 245,
@@ -6457,8 +6457,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "60.0",
-    "price formula": "30.00"
+    "total_value": "60.0",
+    "price_formula": "30.00"
   },
   "246": {
     "id": 246,
@@ -6486,8 +6486,8 @@
     },
     "currency": null,
     "amount_of_units": "1.5",
-    "Total Value": "40.0",
-    "price formula": "26.67"
+    "total_value": "40.0",
+    "price_formula": "26.67"
   },
   "247": {
     "id": 247,
@@ -6515,8 +6515,8 @@
     },
     "currency": null,
     "amount_of_units": "1.0",
-    "Total Value": "10.0",
-    "price formula": "10.00"
+    "total_value": "10.0",
+    "price_formula": "10.00"
   },
   "248": {
     "id": 248,
@@ -6540,8 +6540,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "180.0",
-    "price formula": "NaN"
+    "total_value": "180.0",
+    "price_formula": "NaN"
   },
   "249": {
     "id": 249,
@@ -6569,8 +6569,8 @@
     },
     "currency": null,
     "amount_of_units": "7.0",
-    "Total Value": "100.0",
-    "price formula": "14.29"
+    "total_value": "100.0",
+    "price_formula": "14.29"
   },
   "250": {
     "id": 250,
@@ -6598,8 +6598,8 @@
     },
     "currency": null,
     "amount_of_units": "12.0",
-    "Total Value": "240.0",
-    "price formula": "20.00"
+    "total_value": "240.0",
+    "price_formula": "20.00"
   },
   "251": {
     "id": 251,
@@ -6623,8 +6623,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "150.0",
-    "price formula": "NaN"
+    "total_value": "150.0",
+    "price_formula": "NaN"
   },
   "252": {
     "id": 252,
@@ -6648,8 +6648,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "20.0",
-    "price formula": "NaN"
+    "total_value": "20.0",
+    "price_formula": "NaN"
   },
   "253": {
     "id": 253,
@@ -6677,8 +6677,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "19.0",
-    "price formula": "4.75"
+    "total_value": "19.0",
+    "price_formula": "4.75"
   },
   "254": {
     "id": 254,
@@ -6706,8 +6706,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "36.0",
-    "price formula": "4.50"
+    "total_value": "36.0",
+    "price_formula": "4.50"
   },
   "255": {
     "id": 255,
@@ -6735,8 +6735,8 @@
     },
     "currency": null,
     "amount_of_units": "173.0",
-    "Total Value": "5536.0",
-    "price formula": "32.00"
+    "total_value": "5536.0",
+    "price_formula": "32.00"
   },
   "256": {
     "id": 256,
@@ -6764,8 +6764,8 @@
     },
     "currency": null,
     "amount_of_units": "88.0",
-    "Total Value": "1408.0",
-    "price formula": "16.00"
+    "total_value": "1408.0",
+    "price_formula": "16.00"
   },
   "257": {
     "id": 257,
@@ -6793,8 +6793,8 @@
     },
     "currency": null,
     "amount_of_units": "54.0",
-    "Total Value": "756.0",
-    "price formula": "14.00"
+    "total_value": "756.0",
+    "price_formula": "14.00"
   },
   "258": {
     "id": 258,
@@ -6822,8 +6822,8 @@
     },
     "currency": null,
     "amount_of_units": "20.0",
-    "Total Value": "140.0",
-    "price formula": "7.00"
+    "total_value": "140.0",
+    "price_formula": "7.00"
   },
   "259": {
     "id": 259,
@@ -6851,8 +6851,8 @@
     },
     "currency": null,
     "amount_of_units": "70.0",
-    "Total Value": "350.0",
-    "price formula": "5.00"
+    "total_value": "350.0",
+    "price_formula": "5.00"
   },
   "260": {
     "id": 260,
@@ -6880,8 +6880,8 @@
     },
     "currency": null,
     "amount_of_units": "70.0",
-    "Total Value": "350.0",
-    "price formula": "5.00"
+    "total_value": "350.0",
+    "price_formula": "5.00"
   },
   "261": {
     "id": 261,
@@ -6909,8 +6909,8 @@
     },
     "currency": null,
     "amount_of_units": "121.0",
-    "Total Value": "2420.0",
-    "price formula": "20.00"
+    "total_value": "2420.0",
+    "price_formula": "20.00"
   },
   "262": {
     "id": 262,
@@ -6938,8 +6938,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "70.0",
-    "price formula": "7.00"
+    "total_value": "70.0",
+    "price_formula": "7.00"
   },
   "263": {
     "id": 263,
@@ -6967,8 +6967,8 @@
     },
     "currency": null,
     "amount_of_units": "160.0",
-    "Total Value": "2560.0",
-    "price formula": "16.00"
+    "total_value": "2560.0",
+    "price_formula": "16.00"
   },
   "264": {
     "id": 264,
@@ -6996,8 +6996,8 @@
     },
     "currency": null,
     "amount_of_units": "115.0",
-    "Total Value": "460.0",
-    "price formula": "4.00"
+    "total_value": "460.0",
+    "price_formula": "4.00"
   },
   "265": {
     "id": 265,
@@ -7025,8 +7025,8 @@
     },
     "currency": null,
     "amount_of_units": "50.0",
-    "Total Value": "200.0",
-    "price formula": "4.00"
+    "total_value": "200.0",
+    "price_formula": "4.00"
   },
   "266": {
     "id": 266,
@@ -7054,8 +7054,8 @@
     },
     "currency": null,
     "amount_of_units": "150.0",
-    "Total Value": "225.0",
-    "price formula": "1.50"
+    "total_value": "225.0",
+    "price_formula": "1.50"
   },
   "267": {
     "id": 267,
@@ -7083,8 +7083,8 @@
     },
     "currency": null,
     "amount_of_units": "17.0",
-    "Total Value": "238.0",
-    "price formula": "14.00"
+    "total_value": "238.0",
+    "price_formula": "14.00"
   },
   "268": {
     "id": 268,
@@ -7112,8 +7112,8 @@
     },
     "currency": null,
     "amount_of_units": "177.0",
-    "Total Value": "708.0",
-    "price formula": "4.00"
+    "total_value": "708.0",
+    "price_formula": "4.00"
   },
   "269": {
     "id": 269,
@@ -7141,8 +7141,8 @@
     },
     "currency": null,
     "amount_of_units": "59.0",
-    "Total Value": "236.0",
-    "price formula": "4.00"
+    "total_value": "236.0",
+    "price_formula": "4.00"
   },
   "270": {
     "id": 270,
@@ -7170,8 +7170,8 @@
     },
     "currency": null,
     "amount_of_units": "208.0",
-    "Total Value": "1449.0",
-    "price formula": "6.97"
+    "total_value": "1449.0",
+    "price_formula": "6.97"
   },
   "271": {
     "id": 271,
@@ -7199,8 +7199,8 @@
     },
     "currency": null,
     "amount_of_units": "2.5",
-    "Total Value": "75.0",
-    "price formula": "30.00"
+    "total_value": "75.0",
+    "price_formula": "30.00"
   },
   "272": {
     "id": 272,
@@ -7228,8 +7228,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "28.0",
-    "price formula": "7.00"
+    "total_value": "28.0",
+    "price_formula": "7.00"
   },
   "273": {
     "id": 273,
@@ -7257,8 +7257,8 @@
     },
     "currency": null,
     "amount_of_units": "1.0",
-    "Total Value": "80.0",
-    "price formula": "80.00"
+    "total_value": "80.0",
+    "price_formula": "80.00"
   },
   "274": {
     "id": 274,
@@ -7286,8 +7286,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "15.0",
-    "price formula": "3.00"
+    "total_value": "15.0",
+    "price_formula": "3.00"
   },
   "275": {
     "id": 275,
@@ -7315,8 +7315,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "330.0",
-    "price formula": "33.00"
+    "total_value": "330.0",
+    "price_formula": "33.00"
   },
   "276": {
     "id": 276,
@@ -7344,8 +7344,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "105.0",
-    "price formula": "21.00"
+    "total_value": "105.0",
+    "price_formula": "21.00"
   },
   "277": {
     "id": 277,
@@ -7373,8 +7373,8 @@
     },
     "currency": null,
     "amount_of_units": "170.0",
-    "Total Value": "4080.0",
-    "price formula": "24.00"
+    "total_value": "4080.0",
+    "price_formula": "24.00"
   },
   "278": {
     "id": 278,
@@ -7402,8 +7402,8 @@
     },
     "currency": null,
     "amount_of_units": "12.0",
-    "Total Value": "240.0",
-    "price formula": "20.00"
+    "total_value": "240.0",
+    "price_formula": "20.00"
   },
   "279": {
     "id": 279,
@@ -7431,8 +7431,8 @@
     },
     "currency": null,
     "amount_of_units": "150.0",
-    "Total Value": "450.0",
-    "price formula": "3.00"
+    "total_value": "450.0",
+    "price_formula": "3.00"
   },
   "280": {
     "id": 280,
@@ -7456,8 +7456,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "120.0",
-    "price formula": "NaN"
+    "total_value": "120.0",
+    "price_formula": "NaN"
   },
   "281": {
     "id": 281,
@@ -7485,8 +7485,8 @@
     },
     "currency": null,
     "amount_of_units": "132.0",
-    "Total Value": "1795.0",
-    "price formula": "13.60"
+    "total_value": "1795.0",
+    "price_formula": "13.60"
   },
   "282": {
     "id": 282,
@@ -7514,8 +7514,8 @@
     },
     "currency": null,
     "amount_of_units": "7.5",
-    "Total Value": "1500.0",
-    "price formula": "200.00"
+    "total_value": "1500.0",
+    "price_formula": "200.00"
   },
   "283": {
     "id": 283,
@@ -7539,8 +7539,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "700.0",
-    "price formula": "NaN"
+    "total_value": "700.0",
+    "price_formula": "NaN"
   },
   "284": {
     "id": 284,
@@ -7564,8 +7564,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "2620.0",
-    "price formula": "NaN"
+    "total_value": "2620.0",
+    "price_formula": "NaN"
   },
   "285": {
     "id": 285,
@@ -7593,8 +7593,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "30.0",
-    "price formula": "6.00"
+    "total_value": "30.0",
+    "price_formula": "6.00"
   },
   "286": {
     "id": 286,
@@ -7618,8 +7618,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "98.0",
-    "price formula": "NaN"
+    "total_value": "98.0",
+    "price_formula": "NaN"
   },
   "287": {
     "id": 287,
@@ -7643,8 +7643,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "178.0",
-    "price formula": "NaN"
+    "total_value": "178.0",
+    "price_formula": "NaN"
   },
   "288": {
     "id": 288,
@@ -7668,8 +7668,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "60.0",
-    "price formula": "NaN"
+    "total_value": "60.0",
+    "price_formula": "NaN"
   },
   "289": {
     "id": 289,
@@ -7697,8 +7697,8 @@
     },
     "currency": null,
     "amount_of_units": "49.0",
-    "Total Value": "3822.0",
-    "price formula": "78.00"
+    "total_value": "3822.0",
+    "price_formula": "78.00"
   },
   "290": {
     "id": 290,
@@ -7726,8 +7726,8 @@
     },
     "currency": null,
     "amount_of_units": "25.0",
-    "Total Value": "1562.0",
-    "price formula": "62.48"
+    "total_value": "1562.0",
+    "price_formula": "62.48"
   },
   "291": {
     "id": 291,
@@ -7755,8 +7755,8 @@
     },
     "currency": null,
     "amount_of_units": "14.0",
-    "Total Value": "3515.0",
-    "price formula": "251.07"
+    "total_value": "3515.0",
+    "price_formula": "251.07"
   },
   "292": {
     "id": 292,
@@ -7784,8 +7784,8 @@
     },
     "currency": null,
     "amount_of_units": "154.0",
-    "Total Value": "65.0",
-    "price formula": "0.42"
+    "total_value": "65.0",
+    "price_formula": "0.42"
   },
   "293": {
     "id": 293,
@@ -7813,8 +7813,8 @@
     },
     "currency": null,
     "amount_of_units": "152.0",
-    "Total Value": "456.0",
-    "price formula": "3.00"
+    "total_value": "456.0",
+    "price_formula": "3.00"
   },
   "294": {
     "id": 294,
@@ -7838,8 +7838,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "518.0",
-    "price formula": "NaN"
+    "total_value": "518.0",
+    "price_formula": "NaN"
   },
   "295": {
     "id": 295,
@@ -7863,8 +7863,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "799.0",
-    "price formula": "NaN"
+    "total_value": "799.0",
+    "price_formula": "NaN"
   },
   "296": {
     "id": 296,
@@ -7892,8 +7892,8 @@
     },
     "currency": null,
     "amount_of_units": "34.0",
-    "Total Value": "34.0",
-    "price formula": "1.00"
+    "total_value": "34.0",
+    "price_formula": "1.00"
   },
   "297": {
     "id": 297,
@@ -7921,8 +7921,8 @@
     },
     "currency": null,
     "amount_of_units": "60.5",
-    "Total Value": "1210.0",
-    "price formula": "20.00"
+    "total_value": "1210.0",
+    "price_formula": "20.00"
   },
   "298": {
     "id": 298,
@@ -7950,8 +7950,8 @@
     },
     "currency": null,
     "amount_of_units": "37.0",
-    "Total Value": "1056.0",
-    "price formula": "28.54"
+    "total_value": "1056.0",
+    "price_formula": "28.54"
   },
   "851": {
     "id": 851,
@@ -7975,8 +7975,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "299": {
     "id": 299,
@@ -8000,8 +8000,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "1785.0",
-    "price formula": "NaN"
+    "total_value": "1785.0",
+    "price_formula": "NaN"
   },
   "300": {
     "id": 300,
@@ -8029,8 +8029,8 @@
     },
     "currency": null,
     "amount_of_units": "14.0",
-    "Total Value": "266.0",
-    "price formula": "19.00"
+    "total_value": "266.0",
+    "price_formula": "19.00"
   },
   "301": {
     "id": 301,
@@ -8058,8 +8058,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "40.0",
-    "price formula": "20.00"
+    "total_value": "40.0",
+    "price_formula": "20.00"
   },
   "302": {
     "id": 302,
@@ -8087,8 +8087,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "55.0",
-    "price formula": "18.33"
+    "total_value": "55.0",
+    "price_formula": "18.33"
   },
   "303": {
     "id": 303,
@@ -8116,8 +8116,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "30.0",
-    "price formula": "10.00"
+    "total_value": "30.0",
+    "price_formula": "10.00"
   },
   "304": {
     "id": 304,
@@ -8145,8 +8145,8 @@
     },
     "currency": null,
     "amount_of_units": "500.0",
-    "Total Value": "27.0",
-    "price formula": "0.05"
+    "total_value": "27.0",
+    "price_formula": "0.05"
   },
   "305": {
     "id": 305,
@@ -8174,8 +8174,8 @@
     },
     "currency": null,
     "amount_of_units": "90.0",
-    "Total Value": "40.0",
-    "price formula": "0.44"
+    "total_value": "40.0",
+    "price_formula": "0.44"
   },
   "306": {
     "id": 306,
@@ -8199,8 +8199,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "10.0",
-    "price formula": "NaN"
+    "total_value": "10.0",
+    "price_formula": "NaN"
   },
   "307": {
     "id": 307,
@@ -8228,8 +8228,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "40.0",
-    "price formula": "10.00"
+    "total_value": "40.0",
+    "price_formula": "10.00"
   },
   "308": {
     "id": 308,
@@ -8257,8 +8257,8 @@
     },
     "currency": null,
     "amount_of_units": "2.5",
-    "Total Value": "67.0",
-    "price formula": "26.80"
+    "total_value": "67.0",
+    "price_formula": "26.80"
   },
   "309": {
     "id": 309,
@@ -8286,8 +8286,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "36.0",
-    "price formula": "9.00"
+    "total_value": "36.0",
+    "price_formula": "9.00"
   },
   "310": {
     "id": 310,
@@ -8315,8 +8315,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "32.0",
-    "price formula": "8.00"
+    "total_value": "32.0",
+    "price_formula": "8.00"
   },
   "311": {
     "id": 311,
@@ -8344,8 +8344,8 @@
     },
     "currency": null,
     "amount_of_units": "9.5",
-    "Total Value": "43.0",
-    "price formula": "4.53"
+    "total_value": "43.0",
+    "price_formula": "4.53"
   },
   "312": {
     "id": 312,
@@ -8373,8 +8373,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "32.0",
-    "price formula": "8.00"
+    "total_value": "32.0",
+    "price_formula": "8.00"
   },
   "313": {
     "id": 313,
@@ -8402,8 +8402,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "50.0",
-    "price formula": "10.00"
+    "total_value": "50.0",
+    "price_formula": "10.00"
   },
   "314": {
     "id": 314,
@@ -8431,8 +8431,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "36.0",
-    "price formula": "9.00"
+    "total_value": "36.0",
+    "price_formula": "9.00"
   },
   "315": {
     "id": 315,
@@ -8460,8 +8460,8 @@
     },
     "currency": null,
     "amount_of_units": "6.5",
-    "Total Value": "33.0",
-    "price formula": "5.08"
+    "total_value": "33.0",
+    "price_formula": "5.08"
   },
   "316": {
     "id": 316,
@@ -8489,8 +8489,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "96.0",
-    "price formula": "24.00"
+    "total_value": "96.0",
+    "price_formula": "24.00"
   },
   "317": {
     "id": 317,
@@ -8518,8 +8518,8 @@
     },
     "currency": null,
     "amount_of_units": "32.0",
-    "Total Value": "256.0",
-    "price formula": "8.00"
+    "total_value": "256.0",
+    "price_formula": "8.00"
   },
   "318": {
     "id": 318,
@@ -8547,8 +8547,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "30.0",
-    "price formula": "10.00"
+    "total_value": "30.0",
+    "price_formula": "10.00"
   },
   "319": {
     "id": 319,
@@ -8576,8 +8576,8 @@
     },
     "currency": null,
     "amount_of_units": "11.0",
-    "Total Value": "395.0",
-    "price formula": "35.91"
+    "total_value": "395.0",
+    "price_formula": "35.91"
   },
   "320": {
     "id": 320,
@@ -8605,8 +8605,8 @@
     },
     "currency": null,
     "amount_of_units": "105.0",
-    "Total Value": "210.0",
-    "price formula": "2.00"
+    "total_value": "210.0",
+    "price_formula": "2.00"
   },
   "321": {
     "id": 321,
@@ -8634,8 +8634,8 @@
     },
     "currency": null,
     "amount_of_units": "50.0",
-    "Total Value": "250.0",
-    "price formula": "5.00"
+    "total_value": "250.0",
+    "price_formula": "5.00"
   },
   "322": {
     "id": 322,
@@ -8663,8 +8663,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "30.0",
-    "price formula": "3.00"
+    "total_value": "30.0",
+    "price_formula": "3.00"
   },
   "323": {
     "id": 323,
@@ -8692,8 +8692,8 @@
     },
     "currency": null,
     "amount_of_units": "85.0",
-    "Total Value": "595.0",
-    "price formula": "7.00"
+    "total_value": "595.0",
+    "price_formula": "7.00"
   },
   "324": {
     "id": 324,
@@ -8721,8 +8721,8 @@
     },
     "currency": null,
     "amount_of_units": "36.0",
-    "Total Value": "2520.0",
-    "price formula": "70.00"
+    "total_value": "2520.0",
+    "price_formula": "70.00"
   },
   "325": {
     "id": 325,
@@ -8750,8 +8750,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "280.0",
-    "price formula": "70.00"
+    "total_value": "280.0",
+    "price_formula": "70.00"
   },
   "326": {
     "id": 326,
@@ -8779,8 +8779,8 @@
     },
     "currency": null,
     "amount_of_units": "24.0",
-    "Total Value": "225.0",
-    "price formula": "9.38"
+    "total_value": "225.0",
+    "price_formula": "9.38"
   },
   "327": {
     "id": 327,
@@ -8808,8 +8808,8 @@
     },
     "currency": null,
     "amount_of_units": "140.0",
-    "Total Value": "1400.0",
-    "price formula": "10.00"
+    "total_value": "1400.0",
+    "price_formula": "10.00"
   },
   "328": {
     "id": 328,
@@ -8837,8 +8837,8 @@
     },
     "currency": null,
     "amount_of_units": "66.0",
-    "Total Value": "330.0",
-    "price formula": "5.00"
+    "total_value": "330.0",
+    "price_formula": "5.00"
   },
   "329": {
     "id": 329,
@@ -8866,8 +8866,8 @@
     },
     "currency": null,
     "amount_of_units": "2.5",
-    "Total Value": "200.0",
-    "price formula": "80.00"
+    "total_value": "200.0",
+    "price_formula": "80.00"
   },
   "330": {
     "id": 330,
@@ -8895,8 +8895,8 @@
     },
     "currency": null,
     "amount_of_units": "5000.0",
-    "Total Value": "150.0",
-    "price formula": "0.03"
+    "total_value": "150.0",
+    "price_formula": "0.03"
   },
   "331": {
     "id": 331,
@@ -8924,8 +8924,8 @@
     },
     "currency": null,
     "amount_of_units": "250.0",
-    "Total Value": "500.0",
-    "price formula": "2.00"
+    "total_value": "500.0",
+    "price_formula": "2.00"
   },
   "332": {
     "id": 332,
@@ -8953,8 +8953,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "20.0",
-    "price formula": "10.00"
+    "total_value": "20.0",
+    "price_formula": "10.00"
   },
   "333": {
     "id": 333,
@@ -8982,8 +8982,8 @@
     },
     "currency": null,
     "amount_of_units": "35.0",
-    "Total Value": "210.0",
-    "price formula": "6.00"
+    "total_value": "210.0",
+    "price_formula": "6.00"
   },
   "334": {
     "id": 334,
@@ -9011,8 +9011,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "420.0",
-    "price formula": "140.00"
+    "total_value": "420.0",
+    "price_formula": "140.00"
   },
   "335": {
     "id": 335,
@@ -9040,8 +9040,8 @@
     },
     "currency": null,
     "amount_of_units": "20.0",
-    "Total Value": "600.0",
-    "price formula": "30.00"
+    "total_value": "600.0",
+    "price_formula": "30.00"
   },
   "336": {
     "id": 336,
@@ -9069,8 +9069,8 @@
     },
     "currency": null,
     "amount_of_units": "23.0",
-    "Total Value": "460.0",
-    "price formula": "20.00"
+    "total_value": "460.0",
+    "price_formula": "20.00"
   },
   "337": {
     "id": 337,
@@ -9098,8 +9098,8 @@
     },
     "currency": null,
     "amount_of_units": "5.5",
-    "Total Value": "110.0",
-    "price formula": "20.00"
+    "total_value": "110.0",
+    "price_formula": "20.00"
   },
   "338": {
     "id": 338,
@@ -9127,8 +9127,8 @@
     },
     "currency": null,
     "amount_of_units": "100.0",
-    "Total Value": "3800.0",
-    "price formula": "38.00"
+    "total_value": "3800.0",
+    "price_formula": "38.00"
   },
   "339": {
     "id": 339,
@@ -9156,8 +9156,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "180.0",
-    "price formula": "60.00"
+    "total_value": "180.0",
+    "price_formula": "60.00"
   },
   "340": {
     "id": 340,
@@ -9185,8 +9185,8 @@
     },
     "currency": null,
     "amount_of_units": "400.0",
-    "Total Value": "800.0",
-    "price formula": "2.00"
+    "total_value": "800.0",
+    "price_formula": "2.00"
   },
   "341": {
     "id": 341,
@@ -9214,8 +9214,8 @@
     },
     "currency": null,
     "amount_of_units": "250.0",
-    "Total Value": "1500.0",
-    "price formula": "6.00"
+    "total_value": "1500.0",
+    "price_formula": "6.00"
   },
   "342": {
     "id": 342,
@@ -9243,8 +9243,8 @@
     },
     "currency": null,
     "amount_of_units": "150.0",
-    "Total Value": "300.0",
-    "price formula": "2.00"
+    "total_value": "300.0",
+    "price_formula": "2.00"
   },
   "343": {
     "id": 343,
@@ -9272,8 +9272,8 @@
     },
     "currency": null,
     "amount_of_units": "180.0",
-    "Total Value": "2700.0",
-    "price formula": "15.00"
+    "total_value": "2700.0",
+    "price_formula": "15.00"
   },
   "344": {
     "id": 344,
@@ -9301,8 +9301,8 @@
     },
     "currency": null,
     "amount_of_units": "77.0",
-    "Total Value": "1540.0",
-    "price formula": "20.00"
+    "total_value": "1540.0",
+    "price_formula": "20.00"
   },
   "345": {
     "id": 345,
@@ -9330,8 +9330,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "51.0",
-    "price formula": "17.00"
+    "total_value": "51.0",
+    "price_formula": "17.00"
   },
   "347": {
     "id": 347,
@@ -9359,8 +9359,8 @@
     },
     "currency": null,
     "amount_of_units": "2000.0",
-    "Total Value": "160.0",
-    "price formula": "0.08"
+    "total_value": "160.0",
+    "price_formula": "0.08"
   },
   "351": {
     "id": 351,
@@ -9388,8 +9388,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "300.0",
-    "price formula": "10.00"
+    "total_value": "300.0",
+    "price_formula": "10.00"
   },
   "352": {
     "id": 352,
@@ -9417,8 +9417,8 @@
     },
     "currency": null,
     "amount_of_units": "40.0",
-    "Total Value": "280.0",
-    "price formula": "7.00"
+    "total_value": "280.0",
+    "price_formula": "7.00"
   },
   "353": {
     "id": 353,
@@ -9446,8 +9446,8 @@
     },
     "currency": null,
     "amount_of_units": "60.0",
-    "Total Value": "120.0",
-    "price formula": "2.00"
+    "total_value": "120.0",
+    "price_formula": "2.00"
   },
   "354": {
     "id": 354,
@@ -9475,8 +9475,8 @@
     },
     "currency": null,
     "amount_of_units": "60.0",
-    "Total Value": "360.0",
-    "price formula": "6.00"
+    "total_value": "360.0",
+    "price_formula": "6.00"
   },
   "355": {
     "id": 355,
@@ -9504,8 +9504,8 @@
     },
     "currency": null,
     "amount_of_units": "1.5",
-    "Total Value": "120.0",
-    "price formula": "80.00"
+    "total_value": "120.0",
+    "price_formula": "80.00"
   },
   "356": {
     "id": 356,
@@ -9533,8 +9533,8 @@
     },
     "currency": null,
     "amount_of_units": "15.0",
-    "Total Value": "420.0",
-    "price formula": "28.00"
+    "total_value": "420.0",
+    "price_formula": "28.00"
   },
   "357": {
     "id": 357,
@@ -9562,8 +9562,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "450.0",
-    "price formula": "15.00"
+    "total_value": "450.0",
+    "price_formula": "15.00"
   },
   "358": {
     "id": 358,
@@ -9591,8 +9591,8 @@
     },
     "currency": null,
     "amount_of_units": "48.0",
-    "Total Value": "672.0",
-    "price formula": "14.00"
+    "total_value": "672.0",
+    "price_formula": "14.00"
   },
   "359": {
     "id": 359,
@@ -9620,8 +9620,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "120.0",
-    "price formula": "30.00"
+    "total_value": "120.0",
+    "price_formula": "30.00"
   },
   "360": {
     "id": 360,
@@ -9649,8 +9649,8 @@
     },
     "currency": null,
     "amount_of_units": "150.0",
-    "Total Value": "300.0",
-    "price formula": "2.00"
+    "total_value": "300.0",
+    "price_formula": "2.00"
   },
   "361": {
     "id": 361,
@@ -9678,8 +9678,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "420.0",
-    "price formula": "14.00"
+    "total_value": "420.0",
+    "price_formula": "14.00"
   },
   "362": {
     "id": 362,
@@ -9707,8 +9707,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "180.0",
-    "price formula": "6.00"
+    "total_value": "180.0",
+    "price_formula": "6.00"
   },
   "363": {
     "id": 363,
@@ -9736,8 +9736,8 @@
     },
     "currency": null,
     "amount_of_units": "14.0",
-    "Total Value": "300.0",
-    "price formula": "21.43"
+    "total_value": "300.0",
+    "price_formula": "21.43"
   },
   "364": {
     "id": 364,
@@ -9765,8 +9765,8 @@
     },
     "currency": null,
     "amount_of_units": "35.0",
-    "Total Value": "245.0",
-    "price formula": "7.00"
+    "total_value": "245.0",
+    "price_formula": "7.00"
   },
   "365": {
     "id": 365,
@@ -9794,8 +9794,8 @@
     },
     "currency": null,
     "amount_of_units": "18.0",
-    "Total Value": "1260.0",
-    "price formula": "70.00"
+    "total_value": "1260.0",
+    "price_formula": "70.00"
   },
   "366": {
     "id": 366,
@@ -9823,8 +9823,8 @@
     },
     "currency": null,
     "amount_of_units": "250.0",
-    "Total Value": "500.0",
-    "price formula": "2.00"
+    "total_value": "500.0",
+    "price_formula": "2.00"
   },
   "367": {
     "id": 367,
@@ -9852,8 +9852,8 @@
     },
     "currency": null,
     "amount_of_units": "1.5",
-    "Total Value": "135.0",
-    "price formula": "90.00"
+    "total_value": "135.0",
+    "price_formula": "90.00"
   },
   "368": {
     "id": 368,
@@ -9881,8 +9881,8 @@
     },
     "currency": null,
     "amount_of_units": "5000.0",
-    "Total Value": "150.0",
-    "price formula": "0.03"
+    "total_value": "150.0",
+    "price_formula": "0.03"
   },
   "369": {
     "id": 369,
@@ -9910,8 +9910,8 @@
     },
     "currency": null,
     "amount_of_units": "20.0",
-    "Total Value": "280.0",
-    "price formula": "14.00"
+    "total_value": "280.0",
+    "price_formula": "14.00"
   },
   "370": {
     "id": 370,
@@ -9939,8 +9939,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "80.0",
-    "price formula": "20.00"
+    "total_value": "80.0",
+    "price_formula": "20.00"
   },
   "371": {
     "id": 371,
@@ -9968,8 +9968,8 @@
     },
     "currency": null,
     "amount_of_units": "1.0",
-    "Total Value": "70.0",
-    "price formula": "70.00"
+    "total_value": "70.0",
+    "price_formula": "70.00"
   },
   "372": {
     "id": 372,
@@ -9997,8 +9997,8 @@
     },
     "currency": null,
     "amount_of_units": "60.0",
-    "Total Value": "1680.0",
-    "price formula": "28.00"
+    "total_value": "1680.0",
+    "price_formula": "28.00"
   },
   "373": {
     "id": 373,
@@ -10026,8 +10026,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "60.0",
-    "price formula": "6.00"
+    "total_value": "60.0",
+    "price_formula": "6.00"
   },
   "374": {
     "id": 374,
@@ -10055,8 +10055,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "8.0",
-    "price formula": "1.60"
+    "total_value": "8.0",
+    "price_formula": "1.60"
   },
   "375": {
     "id": 375,
@@ -10084,8 +10084,8 @@
     },
     "currency": null,
     "amount_of_units": "100.0",
-    "Total Value": "1000.0",
-    "price formula": "10.00"
+    "total_value": "1000.0",
+    "price_formula": "10.00"
   },
   "377": {
     "id": 377,
@@ -10113,8 +10113,8 @@
     },
     "currency": null,
     "amount_of_units": "80.0",
-    "Total Value": "1200.0",
-    "price formula": "15.00"
+    "total_value": "1200.0",
+    "price_formula": "15.00"
   },
   "378": {
     "id": 378,
@@ -10142,8 +10142,8 @@
     },
     "currency": null,
     "amount_of_units": "50.0",
-    "Total Value": "300.0",
-    "price formula": "6.00"
+    "total_value": "300.0",
+    "price_formula": "6.00"
   },
   "379": {
     "id": 379,
@@ -10171,8 +10171,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "90.0",
-    "price formula": "30.00"
+    "total_value": "90.0",
+    "price_formula": "30.00"
   },
   "380": {
     "id": 380,
@@ -10200,8 +10200,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "200.0",
-    "price formula": "20.00"
+    "total_value": "200.0",
+    "price_formula": "20.00"
   },
   "381": {
     "id": 381,
@@ -10229,8 +10229,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "170.0",
-    "price formula": "17.00"
+    "total_value": "170.0",
+    "price_formula": "17.00"
   },
   "382": {
     "id": 382,
@@ -10258,8 +10258,8 @@
     },
     "currency": null,
     "amount_of_units": "32.0",
-    "Total Value": "640.0",
-    "price formula": "20.00"
+    "total_value": "640.0",
+    "price_formula": "20.00"
   },
   "383": {
     "id": 383,
@@ -10287,8 +10287,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "180.0",
-    "price formula": "18.00"
+    "total_value": "180.0",
+    "price_formula": "18.00"
   },
   "384": {
     "id": 384,
@@ -10316,8 +10316,8 @@
     },
     "currency": null,
     "amount_of_units": "21.5",
-    "Total Value": "321.0",
-    "price formula": "14.93"
+    "total_value": "321.0",
+    "price_formula": "14.93"
   },
   "385": {
     "id": 385,
@@ -10345,8 +10345,8 @@
     },
     "currency": null,
     "amount_of_units": "9.0",
-    "Total Value": "135.0",
-    "price formula": "15.00"
+    "total_value": "135.0",
+    "price_formula": "15.00"
   },
   "386": {
     "id": 386,
@@ -10374,8 +10374,8 @@
     },
     "currency": null,
     "amount_of_units": "12.0",
-    "Total Value": "408.0",
-    "price formula": "34.00"
+    "total_value": "408.0",
+    "price_formula": "34.00"
   },
   "387": {
     "id": 387,
@@ -10403,8 +10403,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "30.0",
-    "price formula": "10.00"
+    "total_value": "30.0",
+    "price_formula": "10.00"
   },
   "388": {
     "id": 388,
@@ -10432,8 +10432,8 @@
     },
     "currency": null,
     "amount_of_units": "32.0",
-    "Total Value": "80.0",
-    "price formula": "2.50"
+    "total_value": "80.0",
+    "price_formula": "2.50"
   },
   "389": {
     "id": 389,
@@ -10461,8 +10461,8 @@
     },
     "currency": null,
     "amount_of_units": "7.0",
-    "Total Value": "252.0",
-    "price formula": "36.00"
+    "total_value": "252.0",
+    "price_formula": "36.00"
   },
   "390": {
     "id": 390,
@@ -10490,8 +10490,8 @@
     },
     "currency": null,
     "amount_of_units": "120.0",
-    "Total Value": "612.0",
-    "price formula": "5.10"
+    "total_value": "612.0",
+    "price_formula": "5.10"
   },
   "391": {
     "id": 391,
@@ -10519,8 +10519,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "90.0",
-    "price formula": "45.00"
+    "total_value": "90.0",
+    "price_formula": "45.00"
   },
   "392": {
     "id": 392,
@@ -10548,8 +10548,8 @@
     },
     "currency": null,
     "amount_of_units": "20.0",
-    "Total Value": "400.0",
-    "price formula": "20.00"
+    "total_value": "400.0",
+    "price_formula": "20.00"
   },
   "393": {
     "id": 393,
@@ -10573,8 +10573,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "394": {
     "id": 394,
@@ -10602,8 +10602,8 @@
     },
     "currency": null,
     "amount_of_units": "40.0",
-    "Total Value": "80.0",
-    "price formula": "2.00"
+    "total_value": "80.0",
+    "price_formula": "2.00"
   },
   "395": {
     "id": 395,
@@ -10631,8 +10631,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "60.0",
-    "price formula": "6.00"
+    "total_value": "60.0",
+    "price_formula": "6.00"
   },
   "396": {
     "id": 396,
@@ -10660,8 +10660,8 @@
     },
     "currency": null,
     "amount_of_units": "70.0",
-    "Total Value": "350.0",
-    "price formula": "5.00"
+    "total_value": "350.0",
+    "price_formula": "5.00"
   },
   "397": {
     "id": 397,
@@ -10689,8 +10689,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "130.0",
-    "price formula": "4.33"
+    "total_value": "130.0",
+    "price_formula": "4.33"
   },
   "398": {
     "id": 398,
@@ -10718,8 +10718,8 @@
     },
     "currency": null,
     "amount_of_units": "33.0",
-    "Total Value": "165.0",
-    "price formula": "5.00"
+    "total_value": "165.0",
+    "price_formula": "5.00"
   },
   "399": {
     "id": 399,
@@ -10747,8 +10747,8 @@
     },
     "currency": null,
     "amount_of_units": "11.0",
-    "Total Value": "132.0",
-    "price formula": "12.00"
+    "total_value": "132.0",
+    "price_formula": "12.00"
   },
   "400": {
     "id": 400,
@@ -10776,8 +10776,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "32.0",
-    "price formula": "4.00"
+    "total_value": "32.0",
+    "price_formula": "4.00"
   },
   "401": {
     "id": 401,
@@ -10805,8 +10805,8 @@
     },
     "currency": null,
     "amount_of_units": "1500.0",
-    "Total Value": "54.0",
-    "price formula": "0.04"
+    "total_value": "54.0",
+    "price_formula": "0.04"
   },
   "402": {
     "id": 402,
@@ -10834,8 +10834,8 @@
     },
     "currency": null,
     "amount_of_units": "150.0",
-    "Total Value": "450.0",
-    "price formula": "3.00"
+    "total_value": "450.0",
+    "price_formula": "3.00"
   },
   "403": {
     "id": 403,
@@ -10859,8 +10859,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "404": {
     "id": 404,
@@ -10888,8 +10888,8 @@
     },
     "currency": null,
     "amount_of_units": "11.0",
-    "Total Value": "77.0",
-    "price formula": "7.00"
+    "total_value": "77.0",
+    "price_formula": "7.00"
   },
   "405": {
     "id": 405,
@@ -10917,8 +10917,8 @@
     },
     "currency": null,
     "amount_of_units": "24.5",
-    "Total Value": "294.0",
-    "price formula": "12.00"
+    "total_value": "294.0",
+    "price_formula": "12.00"
   },
   "406": {
     "id": 406,
@@ -10946,8 +10946,8 @@
     },
     "currency": null,
     "amount_of_units": "1.0",
-    "Total Value": "22.0",
-    "price formula": "22.00"
+    "total_value": "22.0",
+    "price_formula": "22.00"
   },
   "407": {
     "id": 407,
@@ -10975,8 +10975,8 @@
     },
     "currency": null,
     "amount_of_units": "19.0",
-    "Total Value": "114.0",
-    "price formula": "6.00"
+    "total_value": "114.0",
+    "price_formula": "6.00"
   },
   "408": {
     "id": 408,
@@ -11004,8 +11004,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "40.0",
-    "price formula": "20.00"
+    "total_value": "40.0",
+    "price_formula": "20.00"
   },
   "409": {
     "id": 409,
@@ -11033,8 +11033,8 @@
     },
     "currency": null,
     "amount_of_units": "1.0",
-    "Total Value": "42.0",
-    "price formula": "42.00"
+    "total_value": "42.0",
+    "price_formula": "42.00"
   },
   "410": {
     "id": 410,
@@ -11062,8 +11062,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "40.0",
-    "price formula": "20.00"
+    "total_value": "40.0",
+    "price_formula": "20.00"
   },
   "411": {
     "id": 411,
@@ -11091,8 +11091,8 @@
     },
     "currency": null,
     "amount_of_units": "21.0",
-    "Total Value": "126.0",
-    "price formula": "6.00"
+    "total_value": "126.0",
+    "price_formula": "6.00"
   },
   "412": {
     "id": 412,
@@ -11120,8 +11120,8 @@
     },
     "currency": null,
     "amount_of_units": "87.0",
-    "Total Value": "80.0",
-    "price formula": "0.92"
+    "total_value": "80.0",
+    "price_formula": "0.92"
   },
   "413": {
     "id": 413,
@@ -11149,8 +11149,8 @@
     },
     "currency": null,
     "amount_of_units": "1.0",
-    "Total Value": "40.0",
-    "price formula": "40.00"
+    "total_value": "40.0",
+    "price_formula": "40.00"
   },
   "414": {
     "id": 414,
@@ -11178,8 +11178,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "18.0",
-    "price formula": "6.00"
+    "total_value": "18.0",
+    "price_formula": "6.00"
   },
   "415": {
     "id": 415,
@@ -11207,8 +11207,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "88.0",
-    "price formula": "22.00"
+    "total_value": "88.0",
+    "price_formula": "22.00"
   },
   "416": {
     "id": 416,
@@ -11236,8 +11236,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "80.0",
-    "price formula": "20.00"
+    "total_value": "80.0",
+    "price_formula": "20.00"
   },
   "418": {
     "id": 418,
@@ -11265,8 +11265,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "90.0",
-    "price formula": "9.00"
+    "total_value": "90.0",
+    "price_formula": "9.00"
   },
   "419": {
     "id": 419,
@@ -11294,8 +11294,8 @@
     },
     "currency": null,
     "amount_of_units": "2.5",
-    "Total Value": "90.0",
-    "price formula": "36.00"
+    "total_value": "90.0",
+    "price_formula": "36.00"
   },
   "420": {
     "id": 420,
@@ -11319,8 +11319,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "30.0",
-    "price formula": "NaN"
+    "total_value": "30.0",
+    "price_formula": "NaN"
   },
   "421": {
     "id": 421,
@@ -11344,8 +11344,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "21.0",
-    "price formula": "NaN"
+    "total_value": "21.0",
+    "price_formula": "NaN"
   },
   "422": {
     "id": 422,
@@ -11369,8 +11369,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "10.0",
-    "price formula": "NaN"
+    "total_value": "10.0",
+    "price_formula": "NaN"
   },
   "423": {
     "id": 423,
@@ -11398,8 +11398,8 @@
     },
     "currency": null,
     "amount_of_units": "49.0",
-    "Total Value": "1029.0",
-    "price formula": "21.00"
+    "total_value": "1029.0",
+    "price_formula": "21.00"
   },
   "424": {
     "id": 424,
@@ -11427,8 +11427,8 @@
     },
     "currency": null,
     "amount_of_units": "62.0",
-    "Total Value": "186.0",
-    "price formula": "3.00"
+    "total_value": "186.0",
+    "price_formula": "3.00"
   },
   "425": {
     "id": 425,
@@ -11456,8 +11456,8 @@
     },
     "currency": null,
     "amount_of_units": "53.0",
-    "Total Value": "318.0",
-    "price formula": "6.00"
+    "total_value": "318.0",
+    "price_formula": "6.00"
   },
   "426": {
     "id": 426,
@@ -11485,8 +11485,8 @@
     },
     "currency": null,
     "amount_of_units": "43.0",
-    "Total Value": "129.0",
-    "price formula": "3.00"
+    "total_value": "129.0",
+    "price_formula": "3.00"
   },
   "427": {
     "id": 427,
@@ -11514,8 +11514,8 @@
     },
     "currency": null,
     "amount_of_units": "38.0",
-    "Total Value": "348.0",
-    "price formula": "9.16"
+    "total_value": "348.0",
+    "price_formula": "9.16"
   },
   "428": {
     "id": 428,
@@ -11543,8 +11543,8 @@
     },
     "currency": null,
     "amount_of_units": "40.0",
-    "Total Value": "200.0",
-    "price formula": "5.00"
+    "total_value": "200.0",
+    "price_formula": "5.00"
   },
   "429": {
     "id": 429,
@@ -11572,8 +11572,8 @@
     },
     "currency": null,
     "amount_of_units": "57.0",
-    "Total Value": "798.0",
-    "price formula": "14.00"
+    "total_value": "798.0",
+    "price_formula": "14.00"
   },
   "430": {
     "id": 430,
@@ -11601,8 +11601,8 @@
     },
     "currency": null,
     "amount_of_units": "91.0",
-    "Total Value": "1365.0",
-    "price formula": "15.00"
+    "total_value": "1365.0",
+    "price_formula": "15.00"
   },
   "431": {
     "id": 431,
@@ -11630,8 +11630,8 @@
     },
     "currency": null,
     "amount_of_units": "7.5",
-    "Total Value": "136.0",
-    "price formula": "18.13"
+    "total_value": "136.0",
+    "price_formula": "18.13"
   },
   "432": {
     "id": 432,
@@ -11659,8 +11659,8 @@
     },
     "currency": null,
     "amount_of_units": "14.5",
-    "Total Value": "87.0",
-    "price formula": "6.00"
+    "total_value": "87.0",
+    "price_formula": "6.00"
   },
   "433": {
     "id": 433,
@@ -11688,8 +11688,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "40.0",
-    "price formula": "5.00"
+    "total_value": "40.0",
+    "price_formula": "5.00"
   },
   "434": {
     "id": 434,
@@ -11717,8 +11717,8 @@
     },
     "currency": null,
     "amount_of_units": "5.5",
-    "Total Value": "33.0",
-    "price formula": "6.00"
+    "total_value": "33.0",
+    "price_formula": "6.00"
   },
   "435": {
     "id": 435,
@@ -11746,8 +11746,8 @@
     },
     "currency": null,
     "amount_of_units": "23.0",
-    "Total Value": "184.0",
-    "price formula": "8.00"
+    "total_value": "184.0",
+    "price_formula": "8.00"
   },
   "436": {
     "id": 436,
@@ -11775,8 +11775,8 @@
     },
     "currency": null,
     "amount_of_units": "3.5",
-    "Total Value": "84.0",
-    "price formula": "24.00"
+    "total_value": "84.0",
+    "price_formula": "24.00"
   },
   "437": {
     "id": 437,
@@ -11800,8 +11800,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "438": {
     "id": 438,
@@ -11829,8 +11829,8 @@
     },
     "currency": null,
     "amount_of_units": "35.0",
-    "Total Value": "360.0",
-    "price formula": "10.29"
+    "total_value": "360.0",
+    "price_formula": "10.29"
   },
   "439": {
     "id": 439,
@@ -11858,8 +11858,8 @@
     },
     "currency": null,
     "amount_of_units": "17.5",
-    "Total Value": "157.0",
-    "price formula": "8.97"
+    "total_value": "157.0",
+    "price_formula": "8.97"
   },
   "852": {
     "id": 852,
@@ -11888,8 +11888,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "120.0",
-    "price formula": "NaN"
+    "total_value": "120.0",
+    "price_formula": "NaN"
   },
   "440": {
     "id": 440,
@@ -11917,8 +11917,8 @@
     },
     "currency": null,
     "amount_of_units": "128.0",
-    "Total Value": "256.0",
-    "price formula": "2.00"
+    "total_value": "256.0",
+    "price_formula": "2.00"
   },
   "441": {
     "id": 441,
@@ -11946,8 +11946,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "80.0",
-    "price formula": "8.00"
+    "total_value": "80.0",
+    "price_formula": "8.00"
   },
   "442": {
     "id": 442,
@@ -11975,8 +11975,8 @@
     },
     "currency": null,
     "amount_of_units": "12.0",
-    "Total Value": "360.0",
-    "price formula": "30.00"
+    "total_value": "360.0",
+    "price_formula": "30.00"
   },
   "443": {
     "id": 443,
@@ -12004,8 +12004,8 @@
     },
     "currency": null,
     "amount_of_units": "2500.0",
-    "Total Value": "237.0",
-    "price formula": "0.09"
+    "total_value": "237.0",
+    "price_formula": "0.09"
   },
   "444": {
     "id": 444,
@@ -12033,8 +12033,8 @@
     },
     "currency": null,
     "amount_of_units": "500.0",
-    "Total Value": "120.0",
-    "price formula": "0.24"
+    "total_value": "120.0",
+    "price_formula": "0.24"
   },
   "445": {
     "id": 445,
@@ -12062,8 +12062,8 @@
     },
     "currency": null,
     "amount_of_units": "800.0",
-    "Total Value": "2400.0",
-    "price formula": "3.00"
+    "total_value": "2400.0",
+    "price_formula": "3.00"
   },
   "446": {
     "id": 446,
@@ -12091,8 +12091,8 @@
     },
     "currency": null,
     "amount_of_units": "1500.0",
-    "Total Value": "2400.0",
-    "price formula": "1.60"
+    "total_value": "2400.0",
+    "price_formula": "1.60"
   },
   "447": {
     "id": 447,
@@ -12116,8 +12116,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": "38.0",
-    "Total Value": "646.0",
-    "price formula": "17.00"
+    "total_value": "646.0",
+    "price_formula": "17.00"
   },
   "448": {
     "id": 448,
@@ -12141,8 +12141,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "30.0",
-    "price formula": "NaN"
+    "total_value": "30.0",
+    "price_formula": "NaN"
   },
   "449": {
     "id": 449,
@@ -12170,8 +12170,8 @@
     },
     "currency": null,
     "amount_of_units": "6.0",
-    "Total Value": "72.0",
-    "price formula": "12.00"
+    "total_value": "72.0",
+    "price_formula": "12.00"
   },
   "450": {
     "id": 450,
@@ -12199,8 +12199,8 @@
     },
     "currency": null,
     "amount_of_units": "57.0",
-    "Total Value": "1392.0",
-    "price formula": "24.42"
+    "total_value": "1392.0",
+    "price_formula": "24.42"
   },
   "451": {
     "id": 451,
@@ -12228,8 +12228,8 @@
     },
     "currency": null,
     "amount_of_units": "80.0",
-    "Total Value": "1280.0",
-    "price formula": "16.00"
+    "total_value": "1280.0",
+    "price_formula": "16.00"
   },
   "452": {
     "id": 452,
@@ -12257,8 +12257,8 @@
     },
     "currency": null,
     "amount_of_units": "37.0",
-    "Total Value": "1221.0",
-    "price formula": "33.00"
+    "total_value": "1221.0",
+    "price_formula": "33.00"
   },
   "453": {
     "id": 453,
@@ -12286,8 +12286,8 @@
     },
     "currency": null,
     "amount_of_units": "36.0",
-    "Total Value": "324.0",
-    "price formula": "9.00"
+    "total_value": "324.0",
+    "price_formula": "9.00"
   },
   "454": {
     "id": 454,
@@ -12315,8 +12315,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "15.0",
-    "price formula": "3.00"
+    "total_value": "15.0",
+    "price_formula": "3.00"
   },
   "455": {
     "id": 455,
@@ -12344,8 +12344,8 @@
     },
     "currency": null,
     "amount_of_units": "1.0",
-    "Total Value": "30.0",
-    "price formula": "30.00"
+    "total_value": "30.0",
+    "price_formula": "30.00"
   },
   "456": {
     "id": 456,
@@ -12373,8 +12373,8 @@
     },
     "currency": null,
     "amount_of_units": "18.0",
-    "Total Value": "90.0",
-    "price formula": "5.00"
+    "total_value": "90.0",
+    "price_formula": "5.00"
   },
   "457": {
     "id": 457,
@@ -12402,8 +12402,8 @@
     },
     "currency": null,
     "amount_of_units": "13.5",
-    "Total Value": "189.0",
-    "price formula": "14.00"
+    "total_value": "189.0",
+    "price_formula": "14.00"
   },
   "458": {
     "id": 458,
@@ -12431,8 +12431,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "10.0",
-    "price formula": "2.00"
+    "total_value": "10.0",
+    "price_formula": "2.00"
   },
   "459": {
     "id": 459,
@@ -12460,8 +12460,8 @@
     },
     "currency": null,
     "amount_of_units": "1.0",
-    "Total Value": "240.0",
-    "price formula": "240.00"
+    "total_value": "240.0",
+    "price_formula": "240.00"
   },
   "460": {
     "id": 460,
@@ -12489,8 +12489,8 @@
     },
     "currency": null,
     "amount_of_units": "160.0",
-    "Total Value": "4800.0",
-    "price formula": "30.00"
+    "total_value": "4800.0",
+    "price_formula": "30.00"
   },
   "461": {
     "id": 461,
@@ -12518,8 +12518,8 @@
     },
     "currency": null,
     "amount_of_units": "1000.0",
-    "Total Value": "90.0",
-    "price formula": "0.09"
+    "total_value": "90.0",
+    "price_formula": "0.09"
   },
   "462": {
     "id": 462,
@@ -12547,8 +12547,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "180.0",
-    "price formula": "45.00"
+    "total_value": "180.0",
+    "price_formula": "45.00"
   },
   "463": {
     "id": 463,
@@ -12576,8 +12576,8 @@
     },
     "currency": null,
     "amount_of_units": "6.0",
-    "Total Value": "720.0",
-    "price formula": "120.00"
+    "total_value": "720.0",
+    "price_formula": "120.00"
   },
   "464": {
     "id": 464,
@@ -12605,8 +12605,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "144.0",
-    "price formula": "48.00"
+    "total_value": "144.0",
+    "price_formula": "48.00"
   },
   "465": {
     "id": 465,
@@ -12634,8 +12634,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "96.0",
-    "price formula": "12.00"
+    "total_value": "96.0",
+    "price_formula": "12.00"
   },
   "466": {
     "id": 466,
@@ -12663,8 +12663,8 @@
     },
     "currency": null,
     "amount_of_units": "15.0",
-    "Total Value": "30.0",
-    "price formula": "2.00"
+    "total_value": "30.0",
+    "price_formula": "2.00"
   },
   "467": {
     "id": 467,
@@ -12692,8 +12692,8 @@
     },
     "currency": null,
     "amount_of_units": "179.5",
-    "Total Value": "1436.0",
-    "price formula": "8.00"
+    "total_value": "1436.0",
+    "price_formula": "8.00"
   },
   "468": {
     "id": 468,
@@ -12721,8 +12721,8 @@
     },
     "currency": null,
     "amount_of_units": "170.0",
-    "Total Value": "2720.0",
-    "price formula": "16.00"
+    "total_value": "2720.0",
+    "price_formula": "16.00"
   },
   "469": {
     "id": 469,
@@ -12750,8 +12750,8 @@
     },
     "currency": null,
     "amount_of_units": "317.0",
-    "Total Value": "5072.0",
-    "price formula": "16.00"
+    "total_value": "5072.0",
+    "price_formula": "16.00"
   },
   "470": {
     "id": 470,
@@ -12779,8 +12779,8 @@
     },
     "currency": null,
     "amount_of_units": "13.0",
-    "Total Value": "130000.0",
-    "price formula": "10000.00"
+    "total_value": "130000.0",
+    "price_formula": "10000.00"
   },
   "471": {
     "id": 471,
@@ -12808,8 +12808,8 @@
     },
     "currency": null,
     "amount_of_units": "40.0",
-    "Total Value": "3200.0",
-    "price formula": "80.00"
+    "total_value": "3200.0",
+    "price_formula": "80.00"
   },
   "472": {
     "id": 472,
@@ -12837,8 +12837,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "30.0",
-    "price formula": "15.00"
+    "total_value": "30.0",
+    "price_formula": "15.00"
   },
   "473": {
     "id": 473,
@@ -12866,8 +12866,8 @@
     },
     "currency": null,
     "amount_of_units": "6.0",
-    "Total Value": "30.0",
-    "price formula": "5.00"
+    "total_value": "30.0",
+    "price_formula": "5.00"
   },
   "474": {
     "id": 474,
@@ -12895,8 +12895,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "240.0",
-    "price formula": "8.00"
+    "total_value": "240.0",
+    "price_formula": "8.00"
   },
   "475": {
     "id": 475,
@@ -12924,8 +12924,8 @@
     },
     "currency": null,
     "amount_of_units": "100.0",
-    "Total Value": "1000.0",
-    "price formula": "10.00"
+    "total_value": "1000.0",
+    "price_formula": "10.00"
   },
   "476": {
     "id": 476,
@@ -12953,8 +12953,8 @@
     },
     "currency": null,
     "amount_of_units": "500.0",
-    "Total Value": "40.0",
-    "price formula": "0.08"
+    "total_value": "40.0",
+    "price_formula": "0.08"
   },
   "477": {
     "id": 477,
@@ -12982,8 +12982,8 @@
     },
     "currency": null,
     "amount_of_units": "5.5",
-    "Total Value": "136.0",
-    "price formula": "24.73"
+    "total_value": "136.0",
+    "price_formula": "24.73"
   },
   "478": {
     "id": 478,
@@ -13011,8 +13011,8 @@
     },
     "currency": null,
     "amount_of_units": "57.0",
-    "Total Value": "684.0",
-    "price formula": "12.00"
+    "total_value": "684.0",
+    "price_formula": "12.00"
   },
   "479": {
     "id": 479,
@@ -13040,8 +13040,8 @@
     },
     "currency": null,
     "amount_of_units": "814.0",
-    "Total Value": "2035.0",
-    "price formula": "2.50"
+    "total_value": "2035.0",
+    "price_formula": "2.50"
   },
   "480": {
     "id": 480,
@@ -13069,8 +13069,8 @@
     },
     "currency": null,
     "amount_of_units": "122.0",
-    "Total Value": "991.0",
-    "price formula": "8.12"
+    "total_value": "991.0",
+    "price_formula": "8.12"
   },
   "481": {
     "id": 481,
@@ -13098,8 +13098,8 @@
     },
     "currency": null,
     "amount_of_units": "156.0",
-    "Total Value": "3432.0",
-    "price formula": "22.00"
+    "total_value": "3432.0",
+    "price_formula": "22.00"
   },
   "482": {
     "id": 482,
@@ -13127,8 +13127,8 @@
     },
     "currency": null,
     "amount_of_units": "16.5",
-    "Total Value": "264.0",
-    "price formula": "16.00"
+    "total_value": "264.0",
+    "price_formula": "16.00"
   },
   "483": {
     "id": 483,
@@ -13156,8 +13156,8 @@
     },
     "currency": null,
     "amount_of_units": "100.0",
-    "Total Value": "60.0",
-    "price formula": "0.60"
+    "total_value": "60.0",
+    "price_formula": "0.60"
   },
   "484": {
     "id": 484,
@@ -13185,8 +13185,8 @@
     },
     "currency": null,
     "amount_of_units": "82.5",
-    "Total Value": "1815.0",
-    "price formula": "22.00"
+    "total_value": "1815.0",
+    "price_formula": "22.00"
   },
   "485": {
     "id": 485,
@@ -13214,8 +13214,8 @@
     },
     "currency": null,
     "amount_of_units": "2000.0",
-    "Total Value": "270.0",
-    "price formula": "0.14"
+    "total_value": "270.0",
+    "price_formula": "0.14"
   },
   "486": {
     "id": 486,
@@ -13243,8 +13243,8 @@
     },
     "currency": null,
     "amount_of_units": "630.0",
-    "Total Value": "1890.0",
-    "price formula": "3.00"
+    "total_value": "1890.0",
+    "price_formula": "3.00"
   },
   "487": {
     "id": 487,
@@ -13272,8 +13272,8 @@
     },
     "currency": null,
     "amount_of_units": "42.0",
-    "Total Value": "1512.0",
-    "price formula": "36.00"
+    "total_value": "1512.0",
+    "price_formula": "36.00"
   },
   "488": {
     "id": 488,
@@ -13301,8 +13301,8 @@
     },
     "currency": null,
     "amount_of_units": "1.0",
-    "Total Value": "18.0",
-    "price formula": "18.00"
+    "total_value": "18.0",
+    "price_formula": "18.00"
   },
   "489": {
     "id": 489,
@@ -13326,8 +13326,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "490": {
     "id": 490,
@@ -13351,8 +13351,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "491": {
     "id": 491,
@@ -13376,8 +13376,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "492": {
     "id": 492,
@@ -13401,8 +13401,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "493": {
     "id": 493,
@@ -13426,8 +13426,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "494": {
     "id": 494,
@@ -13451,8 +13451,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "495": {
     "id": 495,
@@ -13476,8 +13476,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "496": {
     "id": 496,
@@ -13501,8 +13501,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "497": {
     "id": 497,
@@ -13526,8 +13526,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "498": {
     "id": 498,
@@ -13551,8 +13551,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "499": {
     "id": 499,
@@ -13576,8 +13576,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "500": {
     "id": 500,
@@ -13601,8 +13601,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "501": {
     "id": 501,
@@ -13626,8 +13626,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "502": {
     "id": 502,
@@ -13651,8 +13651,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "503": {
     "id": 503,
@@ -13676,8 +13676,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "504": {
     "id": 504,
@@ -13701,8 +13701,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "505": {
     "id": 505,
@@ -13726,8 +13726,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "506": {
     "id": 506,
@@ -13751,8 +13751,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "507": {
     "id": 507,
@@ -13776,8 +13776,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "508": {
     "id": 508,
@@ -13801,8 +13801,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "509": {
     "id": 509,
@@ -13826,8 +13826,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "510": {
     "id": 510,
@@ -13851,8 +13851,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "511": {
     "id": 511,
@@ -13876,8 +13876,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "512": {
     "id": 512,
@@ -13901,8 +13901,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "513": {
     "id": 513,
@@ -13926,8 +13926,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "514": {
     "id": 514,
@@ -13951,8 +13951,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "515": {
     "id": 515,
@@ -13976,8 +13976,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "516": {
     "id": 516,
@@ -14001,8 +14001,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "517": {
     "id": 517,
@@ -14026,8 +14026,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "518": {
     "id": 518,
@@ -14051,8 +14051,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "519": {
     "id": 519,
@@ -14076,8 +14076,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "520": {
     "id": 520,
@@ -14101,8 +14101,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "521": {
     "id": 521,
@@ -14126,8 +14126,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "522": {
     "id": 522,
@@ -14151,8 +14151,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "523": {
     "id": 523,
@@ -14176,8 +14176,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "524": {
     "id": 524,
@@ -14201,8 +14201,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "525": {
     "id": 525,
@@ -14226,8 +14226,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "526": {
     "id": 526,
@@ -14251,8 +14251,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "527": {
     "id": 527,
@@ -14276,8 +14276,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "528": {
     "id": 528,
@@ -14301,8 +14301,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "529": {
     "id": 529,
@@ -14326,8 +14326,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "530": {
     "id": 530,
@@ -14351,8 +14351,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "531": {
     "id": 531,
@@ -14376,8 +14376,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "532": {
     "id": 532,
@@ -14401,8 +14401,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "533": {
     "id": 533,
@@ -14426,8 +14426,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "534": {
     "id": 534,
@@ -14451,8 +14451,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "535": {
     "id": 535,
@@ -14476,8 +14476,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "536": {
     "id": 536,
@@ -14501,8 +14501,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "537": {
     "id": 537,
@@ -14514,8 +14514,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "538": {
     "id": 538,
@@ -14539,8 +14539,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "539": {
     "id": 539,
@@ -14564,8 +14564,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "540": {
     "id": 540,
@@ -14589,8 +14589,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "541": {
     "id": 541,
@@ -14614,8 +14614,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "542": {
     "id": 542,
@@ -14639,8 +14639,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "543": {
     "id": 543,
@@ -14664,8 +14664,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "544": {
     "id": 544,
@@ -14689,8 +14689,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "545": {
     "id": 545,
@@ -14714,8 +14714,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "546": {
     "id": 546,
@@ -14739,8 +14739,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "547": {
     "id": 547,
@@ -14764,8 +14764,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "548": {
     "id": 548,
@@ -14789,8 +14789,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "549": {
     "id": 549,
@@ -14814,8 +14814,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "550": {
     "id": 550,
@@ -14839,8 +14839,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "551": {
     "id": 551,
@@ -14864,8 +14864,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "552": {
     "id": 552,
@@ -14889,8 +14889,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "553": {
     "id": 553,
@@ -14914,8 +14914,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "554": {
     "id": 554,
@@ -14939,8 +14939,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "555": {
     "id": 555,
@@ -14964,8 +14964,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "556": {
     "id": 556,
@@ -14989,8 +14989,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "557": {
     "id": 557,
@@ -15014,8 +15014,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "558": {
     "id": 558,
@@ -15039,8 +15039,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "559": {
     "id": 559,
@@ -15064,8 +15064,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "560": {
     "id": 560,
@@ -15089,8 +15089,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "561": {
     "id": 561,
@@ -15114,8 +15114,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "562": {
     "id": 562,
@@ -15139,8 +15139,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "563": {
     "id": 563,
@@ -15164,8 +15164,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "564": {
     "id": 564,
@@ -15189,8 +15189,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "565": {
     "id": 565,
@@ -15214,8 +15214,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "566": {
     "id": 566,
@@ -15243,8 +15243,8 @@
     },
     "currency": null,
     "amount_of_units": "60.0",
-    "Total Value": "1200.0",
-    "price formula": "20.00"
+    "total_value": "1200.0",
+    "price_formula": "20.00"
   },
   "567": {
     "id": 567,
@@ -15272,8 +15272,8 @@
     },
     "currency": null,
     "amount_of_units": "20.0",
-    "Total Value": "440.0",
-    "price formula": "22.00"
+    "total_value": "440.0",
+    "price_formula": "22.00"
   },
   "568": {
     "id": 568,
@@ -15301,8 +15301,8 @@
     },
     "currency": null,
     "amount_of_units": "394.0",
-    "Total Value": "3940.0",
-    "price formula": "10.00"
+    "total_value": "3940.0",
+    "price_formula": "10.00"
   },
   "569": {
     "id": 569,
@@ -15330,8 +15330,8 @@
     },
     "currency": null,
     "amount_of_units": "12.5",
-    "Total Value": "350.0",
-    "price formula": "28.00"
+    "total_value": "350.0",
+    "price_formula": "28.00"
   },
   "570": {
     "id": 570,
@@ -15359,8 +15359,8 @@
     },
     "currency": null,
     "amount_of_units": "7.0",
-    "Total Value": "49.0",
-    "price formula": "7.00"
+    "total_value": "49.0",
+    "price_formula": "7.00"
   },
   "571": {
     "id": 571,
@@ -15388,8 +15388,8 @@
     },
     "currency": null,
     "amount_of_units": "9.0",
-    "Total Value": "259.0",
-    "price formula": "28.78"
+    "total_value": "259.0",
+    "price_formula": "28.78"
   },
   "572": {
     "id": 572,
@@ -15417,8 +15417,8 @@
     },
     "currency": null,
     "amount_of_units": "13.0",
-    "Total Value": "130.0",
-    "price formula": "10.00"
+    "total_value": "130.0",
+    "price_formula": "10.00"
   },
   "573": {
     "id": 573,
@@ -15446,8 +15446,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "28.0",
-    "price formula": "7.00"
+    "total_value": "28.0",
+    "price_formula": "7.00"
   },
   "574": {
     "id": 574,
@@ -15475,8 +15475,8 @@
     },
     "currency": null,
     "amount_of_units": "41.0",
-    "Total Value": "615.0",
-    "price formula": "15.00"
+    "total_value": "615.0",
+    "price_formula": "15.00"
   },
   "575": {
     "id": 575,
@@ -15504,8 +15504,8 @@
     },
     "currency": null,
     "amount_of_units": "9.0",
-    "Total Value": "54.0",
-    "price formula": "6.00"
+    "total_value": "54.0",
+    "price_formula": "6.00"
   },
   "576": {
     "id": 576,
@@ -15533,8 +15533,8 @@
     },
     "currency": null,
     "amount_of_units": "92.0",
-    "Total Value": "920.0",
-    "price formula": "10.00"
+    "total_value": "920.0",
+    "price_formula": "10.00"
   },
   "577": {
     "id": 577,
@@ -15562,8 +15562,8 @@
     },
     "currency": null,
     "amount_of_units": "36.0",
-    "Total Value": "1800.0",
-    "price formula": "50.00"
+    "total_value": "1800.0",
+    "price_formula": "50.00"
   },
   "578": {
     "id": 578,
@@ -15591,8 +15591,8 @@
     },
     "currency": null,
     "amount_of_units": "19.0",
-    "Total Value": "570.0",
-    "price formula": "30.00"
+    "total_value": "570.0",
+    "price_formula": "30.00"
   },
   "579": {
     "id": 579,
@@ -15620,8 +15620,8 @@
     },
     "currency": null,
     "amount_of_units": "1.5",
-    "Total Value": "60.0",
-    "price formula": "40.00"
+    "total_value": "60.0",
+    "price_formula": "40.00"
   },
   "580": {
     "id": 580,
@@ -15649,8 +15649,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "30.0",
-    "price formula": "3.75"
+    "total_value": "30.0",
+    "price_formula": "3.75"
   },
   "581": {
     "id": 581,
@@ -15678,8 +15678,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "50.0",
-    "price formula": "5.00"
+    "total_value": "50.0",
+    "price_formula": "5.00"
   },
   "582": {
     "id": 582,
@@ -15707,8 +15707,8 @@
     },
     "currency": null,
     "amount_of_units": "54.0",
-    "Total Value": "162.0",
-    "price formula": "3.00"
+    "total_value": "162.0",
+    "price_formula": "3.00"
   },
   "583": {
     "id": 583,
@@ -15736,8 +15736,8 @@
     },
     "currency": null,
     "amount_of_units": "7.5",
-    "Total Value": "240.0",
-    "price formula": "32.00"
+    "total_value": "240.0",
+    "price_formula": "32.00"
   },
   "584": {
     "id": 584,
@@ -15765,8 +15765,8 @@
     },
     "currency": null,
     "amount_of_units": "15.0",
-    "Total Value": "105.0",
-    "price formula": "7.00"
+    "total_value": "105.0",
+    "price_formula": "7.00"
   },
   "585": {
     "id": 585,
@@ -15794,8 +15794,8 @@
     },
     "currency": null,
     "amount_of_units": "27.0",
-    "Total Value": "162.0",
-    "price formula": "6.00"
+    "total_value": "162.0",
+    "price_formula": "6.00"
   },
   "586": {
     "id": 586,
@@ -15823,8 +15823,8 @@
     },
     "currency": null,
     "amount_of_units": "26.0",
-    "Total Value": "104.0",
-    "price formula": "4.00"
+    "total_value": "104.0",
+    "price_formula": "4.00"
   },
   "587": {
     "id": 587,
@@ -15852,8 +15852,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "80.0",
-    "price formula": "8.00"
+    "total_value": "80.0",
+    "price_formula": "8.00"
   },
   "588": {
     "id": 588,
@@ -15881,8 +15881,8 @@
     },
     "currency": null,
     "amount_of_units": "1.0",
-    "Total Value": "30.0",
-    "price formula": "30.00"
+    "total_value": "30.0",
+    "price_formula": "30.00"
   },
   "589": {
     "id": 589,
@@ -15910,8 +15910,8 @@
     },
     "currency": null,
     "amount_of_units": "260.0",
-    "Total Value": "3471.0",
-    "price formula": "13.35"
+    "total_value": "3471.0",
+    "price_formula": "13.35"
   },
   "590": {
     "id": 590,
@@ -15939,8 +15939,8 @@
     },
     "currency": null,
     "amount_of_units": "62.0",
-    "Total Value": "372.0",
-    "price formula": "6.00"
+    "total_value": "372.0",
+    "price_formula": "6.00"
   },
   "591": {
     "id": 591,
@@ -15968,8 +15968,8 @@
     },
     "currency": null,
     "amount_of_units": "19.0",
-    "Total Value": "380.0",
-    "price formula": "20.00"
+    "total_value": "380.0",
+    "price_formula": "20.00"
   },
   "592": {
     "id": 592,
@@ -15997,8 +15997,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "179.0",
-    "price formula": "35.80"
+    "total_value": "179.0",
+    "price_formula": "35.80"
   },
   "593": {
     "id": 593,
@@ -16026,8 +16026,8 @@
     },
     "currency": null,
     "amount_of_units": "21.0",
-    "Total Value": "189.0",
-    "price formula": "9.00"
+    "total_value": "189.0",
+    "price_formula": "9.00"
   },
   "594": {
     "id": 594,
@@ -16055,8 +16055,8 @@
     },
     "currency": null,
     "amount_of_units": "17.0",
-    "Total Value": "130.0",
-    "price formula": "7.65"
+    "total_value": "130.0",
+    "price_formula": "7.65"
   },
   "595": {
     "id": 595,
@@ -16084,8 +16084,8 @@
     },
     "currency": null,
     "amount_of_units": "14.0",
-    "Total Value": "140.0",
-    "price formula": "10.00"
+    "total_value": "140.0",
+    "price_formula": "10.00"
   },
   "596": {
     "id": 596,
@@ -16113,8 +16113,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "42.0",
-    "price formula": "1.40"
+    "total_value": "42.0",
+    "price_formula": "1.40"
   },
   "597": {
     "id": 597,
@@ -16142,8 +16142,8 @@
     },
     "currency": null,
     "amount_of_units": "189.0",
-    "Total Value": "1323.0",
-    "price formula": "7.00"
+    "total_value": "1323.0",
+    "price_formula": "7.00"
   },
   "598": {
     "id": 598,
@@ -16171,8 +16171,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "180.0",
-    "price formula": "18.00"
+    "total_value": "180.0",
+    "price_formula": "18.00"
   },
   "599": {
     "id": 599,
@@ -16200,8 +16200,8 @@
     },
     "currency": null,
     "amount_of_units": "6.0",
-    "Total Value": "42.0",
-    "price formula": "7.00"
+    "total_value": "42.0",
+    "price_formula": "7.00"
   },
   "600": {
     "id": 600,
@@ -16229,8 +16229,8 @@
     },
     "currency": null,
     "amount_of_units": "15.0",
-    "Total Value": "795.0",
-    "price formula": "53.00"
+    "total_value": "795.0",
+    "price_formula": "53.00"
   },
   "601": {
     "id": 601,
@@ -16258,8 +16258,8 @@
     },
     "currency": null,
     "amount_of_units": "25.0",
-    "Total Value": "1020.0",
-    "price formula": "40.80"
+    "total_value": "1020.0",
+    "price_formula": "40.80"
   },
   "602": {
     "id": 602,
@@ -16287,8 +16287,8 @@
     },
     "currency": null,
     "amount_of_units": "60.0",
-    "Total Value": "720.0",
-    "price formula": "12.00"
+    "total_value": "720.0",
+    "price_formula": "12.00"
   },
   "603": {
     "id": 603,
@@ -16312,8 +16312,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "75.0",
-    "price formula": "NaN"
+    "total_value": "75.0",
+    "price_formula": "NaN"
   },
   "604": {
     "id": 604,
@@ -16337,8 +16337,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "900.0",
-    "price formula": "NaN"
+    "total_value": "900.0",
+    "price_formula": "NaN"
   },
   "605": {
     "id": 605,
@@ -16362,8 +16362,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "180.0",
-    "price formula": "NaN"
+    "total_value": "180.0",
+    "price_formula": "NaN"
   },
   "606": {
     "id": 606,
@@ -16391,8 +16391,8 @@
     },
     "currency": null,
     "amount_of_units": "110.0",
-    "Total Value": "7560.0",
-    "price formula": "68.73"
+    "total_value": "7560.0",
+    "price_formula": "68.73"
   },
   "607": {
     "id": 607,
@@ -16420,8 +16420,8 @@
     },
     "currency": null,
     "amount_of_units": "21.0",
-    "Total Value": "861.0",
-    "price formula": "41.00"
+    "total_value": "861.0",
+    "price_formula": "41.00"
   },
   "608": {
     "id": 608,
@@ -16449,8 +16449,8 @@
     },
     "currency": null,
     "amount_of_units": "200.0",
-    "Total Value": "1050.0",
-    "price formula": "5.25"
+    "total_value": "1050.0",
+    "price_formula": "5.25"
   },
   "609": {
     "id": 609,
@@ -16478,8 +16478,8 @@
     },
     "currency": null,
     "amount_of_units": "165.0",
-    "Total Value": "1310.0",
-    "price formula": "7.94"
+    "total_value": "1310.0",
+    "price_formula": "7.94"
   },
   "610": {
     "id": 610,
@@ -16507,8 +16507,8 @@
     },
     "currency": null,
     "amount_of_units": "43.0",
-    "Total Value": "602.0",
-    "price formula": "14.00"
+    "total_value": "602.0",
+    "price_formula": "14.00"
   },
   "611": {
     "id": 611,
@@ -16536,8 +16536,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "120.0",
-    "price formula": "30.00"
+    "total_value": "120.0",
+    "price_formula": "30.00"
   },
   "612": {
     "id": 612,
@@ -16561,8 +16561,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "120.0",
-    "price formula": "NaN"
+    "total_value": "120.0",
+    "price_formula": "NaN"
   },
   "613": {
     "id": 613,
@@ -16590,8 +16590,8 @@
     },
     "currency": null,
     "amount_of_units": "11.0",
-    "Total Value": "30.0",
-    "price formula": "2.73"
+    "total_value": "30.0",
+    "price_formula": "2.73"
   },
   "614": {
     "id": 614,
@@ -16615,8 +16615,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "30.0",
-    "price formula": "NaN"
+    "total_value": "30.0",
+    "price_formula": "NaN"
   },
   "615": {
     "id": 615,
@@ -16640,8 +16640,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "24.0",
-    "price formula": "NaN"
+    "total_value": "24.0",
+    "price_formula": "NaN"
   },
   "616": {
     "id": 616,
@@ -16669,8 +16669,8 @@
     },
     "currency": null,
     "amount_of_units": "6.0",
-    "Total Value": "54.0",
-    "price formula": "9.00"
+    "total_value": "54.0",
+    "price_formula": "9.00"
   },
   "617": {
     "id": 617,
@@ -16698,8 +16698,8 @@
     },
     "currency": null,
     "amount_of_units": "42.0",
-    "Total Value": "546.0",
-    "price formula": "13.00"
+    "total_value": "546.0",
+    "price_formula": "13.00"
   },
   "619": {
     "id": 619,
@@ -16723,8 +16723,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "30.0",
-    "price formula": "NaN"
+    "total_value": "30.0",
+    "price_formula": "NaN"
   },
   "620": {
     "id": 620,
@@ -16752,8 +16752,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "990.0",
-    "price formula": "33.00"
+    "total_value": "990.0",
+    "price_formula": "33.00"
   },
   "621": {
     "id": 621,
@@ -16777,8 +16777,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "120.0",
-    "price formula": "NaN"
+    "total_value": "120.0",
+    "price_formula": "NaN"
   },
   "622": {
     "id": 622,
@@ -16806,8 +16806,8 @@
     },
     "currency": null,
     "amount_of_units": "51.0",
-    "Total Value": "2550.0",
-    "price formula": "50.00"
+    "total_value": "2550.0",
+    "price_formula": "50.00"
   },
   "623": {
     "id": 623,
@@ -16831,8 +16831,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "200.0",
-    "price formula": "NaN"
+    "total_value": "200.0",
+    "price_formula": "NaN"
   },
   "624": {
     "id": 624,
@@ -16856,8 +16856,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "1008.0",
-    "price formula": "NaN"
+    "total_value": "1008.0",
+    "price_formula": "NaN"
   },
   "625": {
     "id": 625,
@@ -16881,8 +16881,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "48.0",
-    "price formula": "NaN"
+    "total_value": "48.0",
+    "price_formula": "NaN"
   },
   "626": {
     "id": 626,
@@ -16906,8 +16906,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "240.0",
-    "price formula": "NaN"
+    "total_value": "240.0",
+    "price_formula": "NaN"
   },
   "627": {
     "id": 627,
@@ -16931,8 +16931,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "240.0",
-    "price formula": "NaN"
+    "total_value": "240.0",
+    "price_formula": "NaN"
   },
   "628": {
     "id": 628,
@@ -16956,8 +16956,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "30.0",
-    "price formula": "NaN"
+    "total_value": "30.0",
+    "price_formula": "NaN"
   },
   "629": {
     "id": 629,
@@ -16981,8 +16981,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "420.0",
-    "price formula": "NaN"
+    "total_value": "420.0",
+    "price_formula": "NaN"
   },
   "630": {
     "id": 630,
@@ -17010,8 +17010,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "150.0",
-    "price formula": "30.00"
+    "total_value": "150.0",
+    "price_formula": "30.00"
   },
   "631": {
     "id": 631,
@@ -17035,8 +17035,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "30.0",
-    "price formula": "NaN"
+    "total_value": "30.0",
+    "price_formula": "NaN"
   },
   "632": {
     "id": 632,
@@ -17060,8 +17060,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "36.0",
-    "price formula": "NaN"
+    "total_value": "36.0",
+    "price_formula": "NaN"
   },
   "633": {
     "id": 633,
@@ -17089,8 +17089,8 @@
     },
     "currency": null,
     "amount_of_units": "20.0",
-    "Total Value": "180.0",
-    "price formula": "9.00"
+    "total_value": "180.0",
+    "price_formula": "9.00"
   },
   "634": {
     "id": 634,
@@ -17118,8 +17118,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "240.0",
-    "price formula": "120.00"
+    "total_value": "240.0",
+    "price_formula": "120.00"
   },
   "635": {
     "id": 635,
@@ -17143,8 +17143,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "1500.0",
-    "price formula": "NaN"
+    "total_value": "1500.0",
+    "price_formula": "NaN"
   },
   "636": {
     "id": 636,
@@ -17168,8 +17168,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "300.0",
-    "price formula": "NaN"
+    "total_value": "300.0",
+    "price_formula": "NaN"
   },
   "637": {
     "id": 637,
@@ -17197,8 +17197,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "1440.0",
-    "price formula": "360.00"
+    "total_value": "1440.0",
+    "price_formula": "360.00"
   },
   "638": {
     "id": 638,
@@ -17222,8 +17222,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "900.0",
-    "price formula": "NaN"
+    "total_value": "900.0",
+    "price_formula": "NaN"
   },
   "639": {
     "id": 639,
@@ -17247,8 +17247,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "96.0",
-    "price formula": "NaN"
+    "total_value": "96.0",
+    "price_formula": "NaN"
   },
   "640": {
     "id": 640,
@@ -17272,8 +17272,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "200.0",
-    "price formula": "NaN"
+    "total_value": "200.0",
+    "price_formula": "NaN"
   },
   "641": {
     "id": 641,
@@ -17297,8 +17297,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "280.0",
-    "price formula": "NaN"
+    "total_value": "280.0",
+    "price_formula": "NaN"
   },
   "642": {
     "id": 642,
@@ -17322,8 +17322,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "5400.0",
-    "price formula": "NaN"
+    "total_value": "5400.0",
+    "price_formula": "NaN"
   },
   "643": {
     "id": 643,
@@ -17347,8 +17347,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "390.0",
-    "price formula": "NaN"
+    "total_value": "390.0",
+    "price_formula": "NaN"
   },
   "644": {
     "id": 644,
@@ -17372,8 +17372,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "120.0",
-    "price formula": "NaN"
+    "total_value": "120.0",
+    "price_formula": "NaN"
   },
   "645": {
     "id": 645,
@@ -17397,8 +17397,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "420.0",
-    "price formula": "NaN"
+    "total_value": "420.0",
+    "price_formula": "NaN"
   },
   "646": {
     "id": 646,
@@ -17422,8 +17422,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "90.0",
-    "price formula": "NaN"
+    "total_value": "90.0",
+    "price_formula": "NaN"
   },
   "647": {
     "id": 647,
@@ -17447,8 +17447,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "336.0",
-    "price formula": "NaN"
+    "total_value": "336.0",
+    "price_formula": "NaN"
   },
   "648": {
     "id": 648,
@@ -17472,8 +17472,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "440.0",
-    "price formula": "NaN"
+    "total_value": "440.0",
+    "price_formula": "NaN"
   },
   "649": {
     "id": 649,
@@ -17497,8 +17497,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "54.0",
-    "price formula": "NaN"
+    "total_value": "54.0",
+    "price_formula": "NaN"
   },
   "650": {
     "id": 650,
@@ -17522,8 +17522,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "2250.0",
-    "price formula": "NaN"
+    "total_value": "2250.0",
+    "price_formula": "NaN"
   },
   "651": {
     "id": 651,
@@ -17547,8 +17547,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "660.0",
-    "price formula": "NaN"
+    "total_value": "660.0",
+    "price_formula": "NaN"
   },
   "652": {
     "id": 652,
@@ -17576,8 +17576,8 @@
     },
     "currency": null,
     "amount_of_units": "54.0",
-    "Total Value": "1674.0",
-    "price formula": "31.00"
+    "total_value": "1674.0",
+    "price_formula": "31.00"
   },
   "653": {
     "id": 653,
@@ -17605,8 +17605,8 @@
     },
     "currency": null,
     "amount_of_units": "54.0",
-    "Total Value": "2700.0",
-    "price formula": "50.00"
+    "total_value": "2700.0",
+    "price_formula": "50.00"
   },
   "654": {
     "id": 654,
@@ -17634,8 +17634,8 @@
     },
     "currency": null,
     "amount_of_units": "400.0",
-    "Total Value": "2000.0",
-    "price formula": "5.00"
+    "total_value": "2000.0",
+    "price_formula": "5.00"
   },
   "655": {
     "id": 655,
@@ -17663,8 +17663,8 @@
     },
     "currency": null,
     "amount_of_units": "40.0",
-    "Total Value": "1600.0",
-    "price formula": "40.00"
+    "total_value": "1600.0",
+    "price_formula": "40.00"
   },
   "656": {
     "id": 656,
@@ -17692,8 +17692,8 @@
     },
     "currency": null,
     "amount_of_units": "195.0",
-    "Total Value": "2535.0",
-    "price formula": "13.00"
+    "total_value": "2535.0",
+    "price_formula": "13.00"
   },
   "657": {
     "id": 657,
@@ -17717,8 +17717,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "240.0",
-    "price formula": "NaN"
+    "total_value": "240.0",
+    "price_formula": "NaN"
   },
   "658": {
     "id": 658,
@@ -17742,8 +17742,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "330.0",
-    "price formula": "NaN"
+    "total_value": "330.0",
+    "price_formula": "NaN"
   },
   "659": {
     "id": 659,
@@ -17767,8 +17767,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "210.0",
-    "price formula": "NaN"
+    "total_value": "210.0",
+    "price_formula": "NaN"
   },
   "660": {
     "id": 660,
@@ -17792,8 +17792,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "90.0",
-    "price formula": "NaN"
+    "total_value": "90.0",
+    "price_formula": "NaN"
   },
   "661": {
     "id": 661,
@@ -17821,8 +17821,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "840.0",
-    "price formula": "84.00"
+    "total_value": "840.0",
+    "price_formula": "84.00"
   },
   "662": {
     "id": 662,
@@ -17846,8 +17846,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "45.0",
-    "price formula": "NaN"
+    "total_value": "45.0",
+    "price_formula": "NaN"
   },
   "663": {
     "id": 663,
@@ -17871,8 +17871,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "90.0",
-    "price formula": "NaN"
+    "total_value": "90.0",
+    "price_formula": "NaN"
   },
   "664": {
     "id": 664,
@@ -17900,8 +17900,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "450.0",
-    "price formula": "45.00"
+    "total_value": "450.0",
+    "price_formula": "45.00"
   },
   "665": {
     "id": 665,
@@ -17929,8 +17929,8 @@
     },
     "currency": null,
     "amount_of_units": "11.0",
-    "Total Value": "264.0",
-    "price formula": "24.00"
+    "total_value": "264.0",
+    "price_formula": "24.00"
   },
   "666": {
     "id": 666,
@@ -17958,8 +17958,8 @@
     },
     "currency": null,
     "amount_of_units": "18.0",
-    "Total Value": "270.0",
-    "price formula": "15.00"
+    "total_value": "270.0",
+    "price_formula": "15.00"
   },
   "667": {
     "id": 667,
@@ -17987,8 +17987,8 @@
     },
     "currency": null,
     "amount_of_units": "65.0",
-    "Total Value": "975.0",
-    "price formula": "15.00"
+    "total_value": "975.0",
+    "price_formula": "15.00"
   },
   "668": {
     "id": 668,
@@ -18016,8 +18016,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "105.0",
-    "price formula": "21.00"
+    "total_value": "105.0",
+    "price_formula": "21.00"
   },
   "669": {
     "id": 669,
@@ -18045,8 +18045,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "105.0",
-    "price formula": "21.00"
+    "total_value": "105.0",
+    "price_formula": "21.00"
   },
   "670": {
     "id": 670,
@@ -18070,8 +18070,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "300.0",
-    "price formula": "NaN"
+    "total_value": "300.0",
+    "price_formula": "NaN"
   },
   "671": {
     "id": 671,
@@ -18099,8 +18099,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "90.0",
-    "price formula": "30.00"
+    "total_value": "90.0",
+    "price_formula": "30.00"
   },
   "672": {
     "id": 672,
@@ -18128,8 +18128,8 @@
     },
     "currency": null,
     "amount_of_units": "1.5",
-    "Total Value": "63.0",
-    "price formula": "42.00"
+    "total_value": "63.0",
+    "price_formula": "42.00"
   },
   "673": {
     "id": 673,
@@ -18157,8 +18157,8 @@
     },
     "currency": null,
     "amount_of_units": "15.0",
-    "Total Value": "240.0",
-    "price formula": "16.00"
+    "total_value": "240.0",
+    "price_formula": "16.00"
   },
   "674": {
     "id": 674,
@@ -18186,8 +18186,8 @@
     },
     "currency": null,
     "amount_of_units": "157.0",
-    "Total Value": "6594.0",
-    "price formula": "42.00"
+    "total_value": "6594.0",
+    "price_formula": "42.00"
   },
   "675": {
     "id": 675,
@@ -18215,8 +18215,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "162.0",
-    "price formula": "54.00"
+    "total_value": "162.0",
+    "price_formula": "54.00"
   },
   "676": {
     "id": 676,
@@ -18244,8 +18244,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "320.0",
-    "price formula": "32.00"
+    "total_value": "320.0",
+    "price_formula": "32.00"
   },
   "677": {
     "id": 677,
@@ -18273,8 +18273,8 @@
     },
     "currency": null,
     "amount_of_units": "23.0",
-    "Total Value": "1782.0",
-    "price formula": "77.48"
+    "total_value": "1782.0",
+    "price_formula": "77.48"
   },
   "678": {
     "id": 678,
@@ -18302,8 +18302,8 @@
     },
     "currency": null,
     "amount_of_units": "200.0",
-    "Total Value": "1000.0",
-    "price formula": "5.00"
+    "total_value": "1000.0",
+    "price_formula": "5.00"
   },
   "679": {
     "id": 679,
@@ -18331,8 +18331,8 @@
     },
     "currency": null,
     "amount_of_units": "140.0",
-    "Total Value": "2100.0",
-    "price formula": "15.00"
+    "total_value": "2100.0",
+    "price_formula": "15.00"
   },
   "680": {
     "id": 680,
@@ -18360,8 +18360,8 @@
     },
     "currency": null,
     "amount_of_units": "25.0",
-    "Total Value": "525.0",
-    "price formula": "21.00"
+    "total_value": "525.0",
+    "price_formula": "21.00"
   },
   "681": {
     "id": 681,
@@ -18389,8 +18389,8 @@
     },
     "currency": null,
     "amount_of_units": "50.0",
-    "Total Value": "4050.0",
-    "price formula": "81.00"
+    "total_value": "4050.0",
+    "price_formula": "81.00"
   },
   "682": {
     "id": 682,
@@ -18418,8 +18418,8 @@
     },
     "currency": null,
     "amount_of_units": "12.0",
-    "Total Value": "288.0",
-    "price formula": "24.00"
+    "total_value": "288.0",
+    "price_formula": "24.00"
   },
   "683": {
     "id": 683,
@@ -18447,8 +18447,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "84.0",
-    "price formula": "42.00"
+    "total_value": "84.0",
+    "price_formula": "42.00"
   },
   "684": {
     "id": 684,
@@ -18476,8 +18476,8 @@
     },
     "currency": null,
     "amount_of_units": "100.0",
-    "Total Value": "300.0",
-    "price formula": "3.00"
+    "total_value": "300.0",
+    "price_formula": "3.00"
   },
   "685": {
     "id": 685,
@@ -18505,8 +18505,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "900.0",
-    "price formula": "90.00"
+    "total_value": "900.0",
+    "price_formula": "90.00"
   },
   "686": {
     "id": 686,
@@ -18534,8 +18534,8 @@
     },
     "currency": null,
     "amount_of_units": "35.0",
-    "Total Value": "315.0",
-    "price formula": "9.00"
+    "total_value": "315.0",
+    "price_formula": "9.00"
   },
   "687": {
     "id": 687,
@@ -18563,8 +18563,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "682.0",
-    "price formula": "85.25"
+    "total_value": "682.0",
+    "price_formula": "85.25"
   },
   "688": {
     "id": 688,
@@ -18592,8 +18592,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "180.0",
-    "price formula": "60.00"
+    "total_value": "180.0",
+    "price_formula": "60.00"
   },
   "689": {
     "id": 689,
@@ -18621,8 +18621,8 @@
     },
     "currency": null,
     "amount_of_units": "110.0",
-    "Total Value": "330.0",
-    "price formula": "3.00"
+    "total_value": "330.0",
+    "price_formula": "3.00"
   },
   "690": {
     "id": 690,
@@ -18650,8 +18650,8 @@
     },
     "currency": null,
     "amount_of_units": "9.0",
-    "Total Value": "540.0",
-    "price formula": "60.00"
+    "total_value": "540.0",
+    "price_formula": "60.00"
   },
   "691": {
     "id": 691,
@@ -18679,8 +18679,8 @@
     },
     "currency": null,
     "amount_of_units": "7.0",
-    "Total Value": "2100.0",
-    "price formula": "300.00"
+    "total_value": "2100.0",
+    "price_formula": "300.00"
   },
   "692": {
     "id": 692,
@@ -18704,8 +18704,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "24.0",
-    "price formula": "NaN"
+    "total_value": "24.0",
+    "price_formula": "NaN"
   },
   "693": {
     "id": 693,
@@ -18729,8 +18729,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "45.0",
-    "price formula": "NaN"
+    "total_value": "45.0",
+    "price_formula": "NaN"
   },
   "694": {
     "id": 694,
@@ -18754,8 +18754,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "30.0",
-    "price formula": "NaN"
+    "total_value": "30.0",
+    "price_formula": "NaN"
   },
   "695": {
     "id": 695,
@@ -18779,8 +18779,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "90.0",
-    "price formula": "NaN"
+    "total_value": "90.0",
+    "price_formula": "NaN"
   },
   "696": {
     "id": 696,
@@ -18808,8 +18808,8 @@
     },
     "currency": null,
     "amount_of_units": "247.0",
-    "Total Value": "669.0",
-    "price formula": "2.71"
+    "total_value": "669.0",
+    "price_formula": "2.71"
   },
   "697": {
     "id": 697,
@@ -18837,8 +18837,8 @@
     },
     "currency": null,
     "amount_of_units": "117.0",
-    "Total Value": "1638.0",
-    "price formula": "14.00"
+    "total_value": "1638.0",
+    "price_formula": "14.00"
   },
   "698": {
     "id": 698,
@@ -18866,8 +18866,8 @@
     },
     "currency": null,
     "amount_of_units": "333.5",
-    "Total Value": "6336.0",
-    "price formula": "19.00"
+    "total_value": "6336.0",
+    "price_formula": "19.00"
   },
   "699": {
     "id": 699,
@@ -18895,8 +18895,8 @@
     },
     "currency": null,
     "amount_of_units": "14.0",
-    "Total Value": "205.0",
-    "price formula": "14.64"
+    "total_value": "205.0",
+    "price_formula": "14.64"
   },
   "700": {
     "id": 700,
@@ -18924,8 +18924,8 @@
     },
     "currency": null,
     "amount_of_units": "15.0",
-    "Total Value": "255.0",
-    "price formula": "17.00"
+    "total_value": "255.0",
+    "price_formula": "17.00"
   },
   "701": {
     "id": 701,
@@ -18953,8 +18953,8 @@
     },
     "currency": null,
     "amount_of_units": "260.0",
-    "Total Value": "3120.0",
-    "price formula": "12.00"
+    "total_value": "3120.0",
+    "price_formula": "12.00"
   },
   "702": {
     "id": 702,
@@ -18982,8 +18982,8 @@
     },
     "currency": null,
     "amount_of_units": "229.0",
-    "Total Value": "345.0",
-    "price formula": "1.51"
+    "total_value": "345.0",
+    "price_formula": "1.51"
   },
   "703": {
     "id": 703,
@@ -19011,8 +19011,8 @@
     },
     "currency": null,
     "amount_of_units": "67.0",
-    "Total Value": "402.0",
-    "price formula": "6.00"
+    "total_value": "402.0",
+    "price_formula": "6.00"
   },
   "704": {
     "id": 704,
@@ -19040,8 +19040,8 @@
     },
     "currency": null,
     "amount_of_units": "164.0",
-    "Total Value": "656.0",
-    "price formula": "4.00"
+    "total_value": "656.0",
+    "price_formula": "4.00"
   },
   "705": {
     "id": 705,
@@ -19069,8 +19069,8 @@
     },
     "currency": null,
     "amount_of_units": "26.0",
-    "Total Value": "130.0",
-    "price formula": "5.00"
+    "total_value": "130.0",
+    "price_formula": "5.00"
   },
   "706": {
     "id": 706,
@@ -19098,8 +19098,8 @@
     },
     "currency": null,
     "amount_of_units": "12.0",
-    "Total Value": "154.0",
-    "price formula": "12.83"
+    "total_value": "154.0",
+    "price_formula": "12.83"
   },
   "707": {
     "id": 707,
@@ -19127,8 +19127,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "12.0",
-    "price formula": "3.00"
+    "total_value": "12.0",
+    "price_formula": "3.00"
   },
   "708": {
     "id": 708,
@@ -19156,8 +19156,8 @@
     },
     "currency": null,
     "amount_of_units": "22.5",
-    "Total Value": "450.0",
-    "price formula": "20.00"
+    "total_value": "450.0",
+    "price_formula": "20.00"
   },
   "709": {
     "id": 709,
@@ -19185,8 +19185,8 @@
     },
     "currency": null,
     "amount_of_units": "41.0",
-    "Total Value": "246.0",
-    "price formula": "6.00"
+    "total_value": "246.0",
+    "price_formula": "6.00"
   },
   "710": {
     "id": 710,
@@ -19210,8 +19210,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "711": {
     "id": 711,
@@ -19239,8 +19239,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "47.0",
-    "price formula": "15.67"
+    "total_value": "47.0",
+    "price_formula": "15.67"
   },
   "712": {
     "id": 712,
@@ -19268,8 +19268,8 @@
     },
     "currency": null,
     "amount_of_units": "37.0",
-    "Total Value": "370.0",
-    "price formula": "10.00"
+    "total_value": "370.0",
+    "price_formula": "10.00"
   },
   "713": {
     "id": 713,
@@ -19297,8 +19297,8 @@
     },
     "currency": null,
     "amount_of_units": "22.5",
-    "Total Value": "270.0",
-    "price formula": "12.00"
+    "total_value": "270.0",
+    "price_formula": "12.00"
   },
   "714": {
     "id": 714,
@@ -19326,8 +19326,8 @@
     },
     "currency": null,
     "amount_of_units": "70.0",
-    "Total Value": "70.0",
-    "price formula": "1.00"
+    "total_value": "70.0",
+    "price_formula": "1.00"
   },
   "715": {
     "id": 715,
@@ -19355,8 +19355,8 @@
     },
     "currency": null,
     "amount_of_units": "107.0",
-    "Total Value": "642.0",
-    "price formula": "6.00"
+    "total_value": "642.0",
+    "price_formula": "6.00"
   },
   "716": {
     "id": 716,
@@ -19384,8 +19384,8 @@
     },
     "currency": null,
     "amount_of_units": "10.5",
-    "Total Value": "25.5",
-    "price formula": "2.43"
+    "total_value": "25.5",
+    "price_formula": "2.43"
   },
   "717": {
     "id": 717,
@@ -19413,8 +19413,8 @@
     },
     "currency": null,
     "amount_of_units": "70.5",
-    "Total Value": "4935.0",
-    "price formula": "70.00"
+    "total_value": "4935.0",
+    "price_formula": "70.00"
   },
   "718": {
     "id": 718,
@@ -19442,8 +19442,8 @@
     },
     "currency": null,
     "amount_of_units": "60.0",
-    "Total Value": "300.0",
-    "price formula": "5.00"
+    "total_value": "300.0",
+    "price_formula": "5.00"
   },
   "719": {
     "id": 719,
@@ -19471,8 +19471,8 @@
     },
     "currency": null,
     "amount_of_units": "40.5",
-    "Total Value": "405.0",
-    "price formula": "10.00"
+    "total_value": "405.0",
+    "price_formula": "10.00"
   },
   "720": {
     "id": 720,
@@ -19500,8 +19500,8 @@
     },
     "currency": null,
     "amount_of_units": "4.5",
-    "Total Value": "300.0",
-    "price formula": "66.67"
+    "total_value": "300.0",
+    "price_formula": "66.67"
   },
   "721": {
     "id": 721,
@@ -19529,8 +19529,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "10.0",
-    "price formula": "1.00"
+    "total_value": "10.0",
+    "price_formula": "1.00"
   },
   "722": {
     "id": 722,
@@ -19558,8 +19558,8 @@
     },
     "currency": null,
     "amount_of_units": "133.0",
-    "Total Value": "665.0",
-    "price formula": "5.00"
+    "total_value": "665.0",
+    "price_formula": "5.00"
   },
   "723": {
     "id": 723,
@@ -19587,8 +19587,8 @@
     },
     "currency": null,
     "amount_of_units": "12.0",
-    "Total Value": "216.0",
-    "price formula": "18.00"
+    "total_value": "216.0",
+    "price_formula": "18.00"
   },
   "724": {
     "id": 724,
@@ -19616,8 +19616,8 @@
     },
     "currency": null,
     "amount_of_units": "44.0",
-    "Total Value": "660.0",
-    "price formula": "15.00"
+    "total_value": "660.0",
+    "price_formula": "15.00"
   },
   "725": {
     "id": 725,
@@ -19645,8 +19645,8 @@
     },
     "currency": null,
     "amount_of_units": "120.0",
-    "Total Value": "360.0",
-    "price formula": "3.00"
+    "total_value": "360.0",
+    "price_formula": "3.00"
   },
   "726": {
     "id": 726,
@@ -19674,8 +19674,8 @@
     },
     "currency": null,
     "amount_of_units": "100.0",
-    "Total Value": "200.0",
-    "price formula": "2.00"
+    "total_value": "200.0",
+    "price_formula": "2.00"
   },
   "727": {
     "id": 727,
@@ -19703,8 +19703,8 @@
     },
     "currency": null,
     "amount_of_units": "130.0",
-    "Total Value": "3120.0",
-    "price formula": "24.00"
+    "total_value": "3120.0",
+    "price_formula": "24.00"
   },
   "728": {
     "id": 728,
@@ -19732,8 +19732,8 @@
     },
     "currency": null,
     "amount_of_units": "968.0",
-    "Total Value": "1550.0",
-    "price formula": "1.60"
+    "total_value": "1550.0",
+    "price_formula": "1.60"
   },
   "729": {
     "id": 729,
@@ -19757,8 +19757,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "730": {
     "id": 730,
@@ -19786,8 +19786,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "14.0",
-    "price formula": "7.00"
+    "total_value": "14.0",
+    "price_formula": "7.00"
   },
   "731": {
     "id": 731,
@@ -19815,8 +19815,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "14.0",
-    "price formula": "7.00"
+    "total_value": "14.0",
+    "price_formula": "7.00"
   },
   "732": {
     "id": 732,
@@ -19844,8 +19844,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "6.0",
-    "price formula": "3.00"
+    "total_value": "6.0",
+    "price_formula": "3.00"
   },
   "733": {
     "id": 733,
@@ -19873,8 +19873,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "10.0",
-    "price formula": "2.00"
+    "total_value": "10.0",
+    "price_formula": "2.00"
   },
   "734": {
     "id": 734,
@@ -19898,8 +19898,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "15.0",
-    "price formula": "NaN"
+    "total_value": "15.0",
+    "price_formula": "NaN"
   },
   "735": {
     "id": 735,
@@ -19923,8 +19923,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "10.0",
-    "price formula": "NaN"
+    "total_value": "10.0",
+    "price_formula": "NaN"
   },
   "736": {
     "id": 736,
@@ -19948,8 +19948,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "5.0",
-    "price formula": "NaN"
+    "total_value": "5.0",
+    "price_formula": "NaN"
   },
   "737": {
     "id": 737,
@@ -19977,8 +19977,8 @@
     },
     "currency": null,
     "amount_of_units": "20.0",
-    "Total Value": "60.0",
-    "price formula": "3.00"
+    "total_value": "60.0",
+    "price_formula": "3.00"
   },
   "738": {
     "id": 738,
@@ -20006,8 +20006,8 @@
     },
     "currency": null,
     "amount_of_units": "7.0",
-    "Total Value": "49.0",
-    "price formula": "7.00"
+    "total_value": "49.0",
+    "price_formula": "7.00"
   },
   "739": {
     "id": 739,
@@ -20035,8 +20035,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "28.0",
-    "price formula": "3.50"
+    "total_value": "28.0",
+    "price_formula": "3.50"
   },
   "740": {
     "id": 740,
@@ -20064,8 +20064,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "10.0",
-    "price formula": "2.00"
+    "total_value": "10.0",
+    "price_formula": "2.00"
   },
   "741": {
     "id": 741,
@@ -20089,8 +20089,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "30.0",
-    "price formula": "NaN"
+    "total_value": "30.0",
+    "price_formula": "NaN"
   },
   "742": {
     "id": 742,
@@ -20118,8 +20118,8 @@
     },
     "currency": null,
     "amount_of_units": "7.0",
-    "Total Value": "35.0",
-    "price formula": "5.00"
+    "total_value": "35.0",
+    "price_formula": "5.00"
   },
   "743": {
     "id": 743,
@@ -20147,8 +20147,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "6.0",
-    "price formula": "1.50"
+    "total_value": "6.0",
+    "price_formula": "1.50"
   },
   "744": {
     "id": 744,
@@ -20176,8 +20176,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "25.0",
-    "price formula": "5.00"
+    "total_value": "25.0",
+    "price_formula": "5.00"
   },
   "745": {
     "id": 745,
@@ -20201,8 +20201,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "10.0",
-    "price formula": "NaN"
+    "total_value": "10.0",
+    "price_formula": "NaN"
   },
   "746": {
     "id": 746,
@@ -20230,8 +20230,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "28.0",
-    "price formula": "14.00"
+    "total_value": "28.0",
+    "price_formula": "14.00"
   },
   "747": {
     "id": 747,
@@ -20259,8 +20259,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "20.0",
-    "price formula": "5.00"
+    "total_value": "20.0",
+    "price_formula": "5.00"
   },
   "748": {
     "id": 748,
@@ -20288,8 +20288,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "9.0",
-    "price formula": "3.00"
+    "total_value": "9.0",
+    "price_formula": "3.00"
   },
   "749": {
     "id": 749,
@@ -20317,8 +20317,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "7.0",
-    "price formula": "3.50"
+    "total_value": "7.0",
+    "price_formula": "3.50"
   },
   "750": {
     "id": 750,
@@ -20342,8 +20342,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "15.0",
-    "price formula": "NaN"
+    "total_value": "15.0",
+    "price_formula": "NaN"
   },
   "751": {
     "id": 751,
@@ -20371,8 +20371,8 @@
     },
     "currency": null,
     "amount_of_units": "4.0",
-    "Total Value": "12.0",
-    "price formula": "3.00"
+    "total_value": "12.0",
+    "price_formula": "3.00"
   },
   "752": {
     "id": 752,
@@ -20396,8 +20396,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": "4.0",
-    "price formula": "NaN"
+    "total_value": "4.0",
+    "price_formula": "NaN"
   },
   "753": {
     "id": 753,
@@ -20425,8 +20425,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "32.0",
-    "price formula": "16.00"
+    "total_value": "32.0",
+    "price_formula": "16.00"
   },
   "754": {
     "id": 754,
@@ -20454,8 +20454,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "6.0",
-    "price formula": "2.00"
+    "total_value": "6.0",
+    "price_formula": "2.00"
   },
   "755": {
     "id": 755,
@@ -20483,8 +20483,8 @@
     },
     "currency": null,
     "amount_of_units": "2.0",
-    "Total Value": "6.0",
-    "price formula": "3.00"
+    "total_value": "6.0",
+    "price_formula": "3.00"
   },
   "756": {
     "id": 756,
@@ -20512,8 +20512,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "8.0",
-    "price formula": "0.80"
+    "total_value": "8.0",
+    "price_formula": "0.80"
   },
   "757": {
     "id": 757,
@@ -20541,8 +20541,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "30.0",
-    "price formula": "10.00"
+    "total_value": "30.0",
+    "price_formula": "10.00"
   },
   "759": {
     "id": 759,
@@ -20566,8 +20566,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "758": {
     "id": 758,
@@ -20595,8 +20595,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "27.0",
-    "price formula": "9.00"
+    "total_value": "27.0",
+    "price_formula": "9.00"
   },
   "760": {
     "id": 760,
@@ -20624,8 +20624,8 @@
     },
     "currency": null,
     "amount_of_units": "15.5",
-    "Total Value": "494.0",
-    "price formula": "31.87"
+    "total_value": "494.0",
+    "price_formula": "31.87"
   },
   "761": {
     "id": 761,
@@ -20653,8 +20653,8 @@
     },
     "currency": null,
     "amount_of_units": "28.0",
-    "Total Value": "168.0",
-    "price formula": "6.00"
+    "total_value": "168.0",
+    "price_formula": "6.00"
   },
   "762": {
     "id": 762,
@@ -20682,8 +20682,8 @@
     },
     "currency": null,
     "amount_of_units": "3.0",
-    "Total Value": "108.0",
-    "price formula": "36.00"
+    "total_value": "108.0",
+    "price_formula": "36.00"
   },
   "763": {
     "id": 763,
@@ -20711,8 +20711,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "615.0",
-    "price formula": "61.50"
+    "total_value": "615.0",
+    "price_formula": "61.50"
   },
   "764": {
     "id": 764,
@@ -20740,8 +20740,8 @@
     },
     "currency": null,
     "amount_of_units": "10.0",
-    "Total Value": "900.0",
-    "price formula": "90.00"
+    "total_value": "900.0",
+    "price_formula": "90.00"
   },
   "765": {
     "id": 765,
@@ -20769,8 +20769,8 @@
     },
     "currency": null,
     "amount_of_units": "5.0",
-    "Total Value": "100.0",
-    "price formula": "20.00"
+    "total_value": "100.0",
+    "price_formula": "20.00"
   },
   "766": {
     "id": 766,
@@ -20798,8 +20798,8 @@
     },
     "currency": null,
     "amount_of_units": "31.5",
-    "Total Value": "756.0",
-    "price formula": "24.00"
+    "total_value": "756.0",
+    "price_formula": "24.00"
   },
   "767": {
     "id": 767,
@@ -20827,8 +20827,8 @@
     },
     "currency": null,
     "amount_of_units": "13.0",
-    "Total Value": "884.0",
-    "price formula": "68.00"
+    "total_value": "884.0",
+    "price_formula": "68.00"
   },
   "768": {
     "id": 768,
@@ -20856,8 +20856,8 @@
     },
     "currency": null,
     "amount_of_units": "40.0",
-    "Total Value": "60.0",
-    "price formula": "1.50"
+    "total_value": "60.0",
+    "price_formula": "1.50"
   },
   "769": {
     "id": 769,
@@ -20885,8 +20885,8 @@
     },
     "currency": null,
     "amount_of_units": "7.0",
-    "Total Value": "420.0",
-    "price formula": "60.00"
+    "total_value": "420.0",
+    "price_formula": "60.00"
   },
   "770": {
     "id": 770,
@@ -20914,8 +20914,8 @@
     },
     "currency": null,
     "amount_of_units": "8.0",
-    "Total Value": "136.0",
-    "price formula": "17.00"
+    "total_value": "136.0",
+    "price_formula": "17.00"
   },
   "771": {
     "id": 771,
@@ -20943,8 +20943,8 @@
     },
     "currency": null,
     "amount_of_units": "72.0",
-    "Total Value": "1944.0",
-    "price formula": "27.00"
+    "total_value": "1944.0",
+    "price_formula": "27.00"
   },
   "772": {
     "id": 772,
@@ -20972,8 +20972,8 @@
     },
     "currency": null,
     "amount_of_units": "150.0",
-    "Total Value": "240.0",
-    "price formula": "1.60"
+    "total_value": "240.0",
+    "price_formula": "1.60"
   },
   "773": {
     "id": 773,
@@ -21001,8 +21001,8 @@
     },
     "currency": null,
     "amount_of_units": "135.0",
-    "Total Value": "1620.0",
-    "price formula": "12.00"
+    "total_value": "1620.0",
+    "price_formula": "12.00"
   },
   "774": {
     "id": 774,
@@ -21030,8 +21030,8 @@
     },
     "currency": null,
     "amount_of_units": "6.0",
-    "Total Value": "360.0",
-    "price formula": "60.00"
+    "total_value": "360.0",
+    "price_formula": "60.00"
   },
   "775": {
     "id": 775,
@@ -21059,8 +21059,8 @@
     },
     "currency": null,
     "amount_of_units": "30.0",
-    "Total Value": "90.0",
-    "price formula": "3.00"
+    "total_value": "90.0",
+    "price_formula": "3.00"
   },
   "776": {
     "id": 776,
@@ -21089,8 +21089,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "777": {
     "id": 777,
@@ -21102,8 +21102,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "778": {
     "id": 778,
@@ -21115,8 +21115,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "779": {
     "id": 779,
@@ -21128,8 +21128,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "780": {
     "id": 780,
@@ -21141,8 +21141,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "781": {
     "id": 781,
@@ -21154,8 +21154,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "782": {
     "id": 782,
@@ -21167,8 +21167,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "783": {
     "id": 783,
@@ -21180,8 +21180,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "784": {
     "id": 784,
@@ -21193,8 +21193,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "785": {
     "id": 785,
@@ -21206,8 +21206,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "786": {
     "id": 786,
@@ -21219,8 +21219,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "787": {
     "id": 787,
@@ -21232,8 +21232,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "788": {
     "id": 788,
@@ -21245,8 +21245,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "789": {
     "id": 789,
@@ -21258,8 +21258,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "790": {
     "id": 790,
@@ -21271,8 +21271,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "791": {
     "id": 791,
@@ -21284,8 +21284,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "792": {
     "id": 792,
@@ -21297,8 +21297,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "793": {
     "id": 793,
@@ -21310,8 +21310,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "794": {
     "id": 794,
@@ -21323,8 +21323,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "795": {
     "id": 795,
@@ -21336,8 +21336,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "796": {
     "id": 796,
@@ -21349,8 +21349,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "797": {
     "id": 797,
@@ -21362,8 +21362,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "798": {
     "id": 798,
@@ -21375,8 +21375,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "799": {
     "id": 799,
@@ -21388,8 +21388,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "800": {
     "id": 800,
@@ -21401,8 +21401,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "801": {
     "id": 801,
@@ -21414,8 +21414,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "802": {
     "id": 802,
@@ -21427,8 +21427,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "803": {
     "id": 803,
@@ -21440,8 +21440,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "804": {
     "id": 804,
@@ -21453,8 +21453,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "805": {
     "id": 805,
@@ -21466,8 +21466,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "806": {
     "id": 806,
@@ -21479,8 +21479,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "807": {
     "id": 807,
@@ -21492,8 +21492,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "808": {
     "id": 808,
@@ -21505,8 +21505,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "809": {
     "id": 809,
@@ -21518,8 +21518,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "810": {
     "id": 810,
@@ -21531,8 +21531,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "811": {
     "id": 811,
@@ -21544,8 +21544,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "812": {
     "id": 812,
@@ -21557,8 +21557,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "813": {
     "id": 813,
@@ -21570,8 +21570,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "814": {
     "id": 814,
@@ -21583,8 +21583,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "815": {
     "id": 815,
@@ -21596,8 +21596,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "816": {
     "id": 816,
@@ -21609,8 +21609,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "817": {
     "id": 817,
@@ -21622,8 +21622,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "818": {
     "id": 818,
@@ -21635,8 +21635,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "819": {
     "id": 819,
@@ -21648,8 +21648,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "820": {
     "id": 820,
@@ -21661,8 +21661,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "821": {
     "id": 821,
@@ -21674,8 +21674,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "822": {
     "id": 822,
@@ -21687,8 +21687,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "823": {
     "id": 823,
@@ -21700,8 +21700,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "824": {
     "id": 824,
@@ -21713,8 +21713,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "825": {
     "id": 825,
@@ -21726,8 +21726,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "826": {
     "id": 826,
@@ -21739,8 +21739,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "827": {
     "id": 827,
@@ -21752,8 +21752,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "828": {
     "id": 828,
@@ -21765,8 +21765,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "829": {
     "id": 829,
@@ -21778,8 +21778,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "830": {
     "id": 830,
@@ -21791,8 +21791,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "831": {
     "id": 831,
@@ -21804,8 +21804,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "832": {
     "id": 832,
@@ -21817,8 +21817,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "833": {
     "id": 833,
@@ -21830,8 +21830,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "834": {
     "id": 834,
@@ -21843,8 +21843,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "835": {
     "id": 835,
@@ -21856,8 +21856,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "836": {
     "id": 836,
@@ -21869,8 +21869,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "837": {
     "id": 837,
@@ -21882,8 +21882,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "838": {
     "id": 838,
@@ -21895,8 +21895,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "839": {
     "id": 839,
@@ -21908,8 +21908,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "840": {
     "id": 840,
@@ -21921,8 +21921,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "841": {
     "id": 841,
@@ -21934,8 +21934,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "842": {
     "id": 842,
@@ -21947,8 +21947,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "843": {
     "id": 843,
@@ -21960,8 +21960,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "844": {
     "id": 844,
@@ -21973,8 +21973,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "845": {
     "id": 845,
@@ -21986,8 +21986,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "846": {
     "id": 846,
@@ -21999,8 +21999,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "847": {
     "id": 847,
@@ -22012,8 +22012,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "848": {
     "id": 848,
@@ -22025,8 +22025,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "849": {
     "id": 849,
@@ -22038,8 +22038,8 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   },
   "850": {
     "id": 850,
@@ -22051,7 +22051,7 @@
     "unit": null,
     "currency": null,
     "amount_of_units": null,
-    "Total Value": null,
-    "price formula": "NaN"
+    "total_value": null,
+    "price_formula": "NaN"
   }
 }

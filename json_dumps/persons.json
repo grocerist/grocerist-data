@@ -6350,7 +6350,18 @@
         "order": "151.00000000000000000000",
         "name": "Yorgi",
         "grocerist_id": "person__155",
-        "religion": [],
+        "religion": [
+            {
+                "id": 6682,
+                "value": "Non muslim",
+                "color": "gray"
+            },
+            {
+                "id": 6705,
+                "value": "Orthodox",
+                "color": "dark-blue"
+            }
+        ],
         "documents": [
             {
                 "id": 165,
@@ -6888,6 +6899,56 @@
                 "id": 34,
                 "value": "Aksaray sukku",
                 "order": "34.00000000000000000000"
+            }
+        ]
+    },
+    "168": {
+        "id": 168,
+        "order": "164.00000000000000000000",
+        "name": "Yorgi v. İsaki",
+        "grocerist_id": "person__168",
+        "religion": [
+            {
+                "id": 6682,
+                "value": "Non muslim",
+                "color": "gray"
+            },
+            {
+                "id": 6705,
+                "value": "Orthodox",
+                "color": "dark-blue"
+            }
+        ],
+        "documents": [
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            }
+        ],
+        "occupation": [],
+        "checked": false,
+        "same_as": [],
+        "century": "NaN",
+        "district": [
+            {
+                "id": 25,
+                "value": "İstanbul Bab",
+                "order": "19.00000000000000000000"
+            }
+        ],
+        "neighbourhood": [],
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
+        "address": [
+            {
+                "id": 35,
+                "value": "Balık pazarı harici",
+                "order": "35.00000000000000000000"
             }
         ]
     }

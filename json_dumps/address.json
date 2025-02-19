@@ -2035,7 +2035,18 @@
                 "order": "151.00000000000000000000",
                 "name": "Yorgi",
                 "grocerist_id": "person__155",
-                "religion": [],
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
                 "documents": [
                     {
                         "id": 165,
@@ -2689,6 +2700,89 @@
                         "id": 34,
                         "value": "Aksaray sukku",
                         "order": "34.00000000000000000000"
+                    }
+                ]
+            }
+        ]
+    },
+    "35": {
+        "id": 35,
+        "order": "35.00000000000000000000",
+        "name": "Balık pazarı harici",
+        "comments": "",
+        "documents": [
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000"
+            }
+        ],
+        "grocerist_id": "address__35",
+        "lat": null,
+        "long": null,
+        "geonames_id": "",
+        "wikidata_id": "",
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 195,
+                    "database_table_1492": 25
+                },
+                "value": "İstanbul Bab"
+            }
+        ],
+        "upper_admin4": [],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "upper_admin5": [],
+        "persons": [
+            {
+                "id": 168,
+                "order": "164.00000000000000000000",
+                "name": "Yorgi v. İsaki",
+                "grocerist_id": "person__168",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 195,
+                        "value": "İSTM.ŞSC.02.d.187/15a-2",
+                        "order": "162.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 25,
+                        "value": "İstanbul Bab",
+                        "order": "19.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 35,
+                        "value": "Balık pazarı harici",
+                        "order": "35.00000000000000000000"
                     }
                 ]
             }

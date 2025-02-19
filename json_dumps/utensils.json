@@ -507,6 +507,14 @@
                 "lat": null,
                 "long": null,
                 "iso_date": ""
+            },
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             }
         ],
         "grocerist_id": "utensil__4"
@@ -1035,6 +1043,14 @@
                 "lat": null,
                 "long": null,
                 "iso_date": ""
+            },
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             }
         ],
         "grocerist_id": "utensil__8"
@@ -1404,6 +1420,14 @@
                 "id": 194,
                 "value": "İSTM.ŞSC.01.d.89/44a-1",
                 "order": "161.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            },
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000",
                 "lat": null,
                 "long": null,
                 "iso_date": ""
@@ -2331,6 +2355,14 @@
                 "lat": null,
                 "long": null,
                 "iso_date": ""
+            },
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             }
         ],
         "grocerist_id": "utensil__25"
@@ -3093,6 +3125,14 @@
                 "lat": null,
                 "long": null,
                 "iso_date": ""
+            },
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             }
         ],
         "grocerist_id": "utensil__55"
@@ -3111,6 +3151,14 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "1755-04-21"
+            },
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             }
         ],
         "grocerist_id": "utensil__56"
@@ -3361,6 +3409,14 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "1755-04-21"
+            },
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             }
         ],
         "grocerist_id": "utensil__65"
@@ -3941,6 +3997,14 @@
                 "lat": null,
                 "long": null,
                 "iso_date": ""
+            },
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             }
         ],
         "grocerist_id": "utensil__87"
@@ -4075,6 +4139,14 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "1755-04-21"
+            },
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             }
         ],
         "grocerist_id": "utensil__94"
@@ -4993,6 +5065,14 @@
                 "lat": null,
                 "long": null,
                 "iso_date": ""
+            },
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             }
         ],
         "grocerist_id": "utensil__143"
@@ -5076,5 +5156,23 @@
             }
         ],
         "grocerist_id": "utensil__147"
+    },
+    "148": {
+        "id": 148,
+        "order": "147.00000000000000000000",
+        "name": "Akçelik desti",
+        "Notes": "",
+        "Active": false,
+        "documents": [
+            {
+                "id": 195,
+                "value": "İSTM.ŞSC.02.d.187/15a-2",
+                "order": "162.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            }
+        ],
+        "grocerist_id": "utensil__148"
     }
 }
