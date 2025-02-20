@@ -229,6 +229,11 @@
                 "id": 49,
                 "value": "İSTM.ŞSC.14.d. 496 / 35b-3",
                 "order": "49.00000000000000000000"
+            },
+            {
+                "id": 196,
+                "value": "İSTM.ŞSC.03.d.79/02",
+                "order": "163.00000000000000000000"
             }
         ],
         "grocerist_id": "quarter__2",
@@ -638,6 +643,62 @@
                         "id": 10,
                         "value": "Tatavla",
                         "order": "10.00000000000000000000"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 169,
+                "order": "165.00000000000000000000",
+                "name": "Bakkal Tanaş v. Danyal",
+                "grocerist_id": "person__169",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 196,
+                        "value": "İSTM.ŞSC.03.d.79/02",
+                        "order": "163.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": false,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [
+                    {
+                        "id": 30,
+                        "value": "Tatavla",
+                        "order": "30.00000000000000000000"
+                    }
+                ],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
                     }
                 ],
                 "address": []
