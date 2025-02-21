@@ -126,11 +126,13 @@ persons_data = load_json(os.path.join(JSON_FOLDER, "persons.json"))
 documents_data = load_json(os.path.join(JSON_FOLDER, "documents.json"))
 categories_data = load_json(os.path.join(JSON_FOLDER, "categories.json"))
 utensils_data = load_json(os.path.join(JSON_FOLDER, "utensils.json"))
-
+price_data = load_json(os.path.join(JSON_FOLDER, "price_per_document.json"))
 
 # Enrich documents with data from goods and persons
 join_tables(documents_data, goods_data, "goods")
 join_tables(documents_data, persons_data, "main_person")
+join_tables(documents_data, price_data, "price_per_document")
+join_tables(goods_data, price_data, "price_per_document")
 
 # Add lat, long and date from documents
 add_lat_long(goods_data, documents_data)
