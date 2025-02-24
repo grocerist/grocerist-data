@@ -1355,8 +1355,8 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Fıstık",
-        "spelling_variations_and_synonyms": null,
+        "english_names": "",
+        "spelling_variations_and_synonyms": "Fısdık",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -1778,7 +1778,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Badem",
+        "english_names": "Almond",
         "spelling_variations_and_synonyms": "Badām",
         "notes": null,
         "sophisticated": false,
@@ -2178,7 +2178,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Ceviz",
+        "english_names": "Walnut",
         "spelling_variations_and_synonyms": null,
         "notes": null,
         "sophisticated": false,
@@ -2343,7 +2343,7 @@
     "5": {
         "id": 5,
         "order": "5.00000000000000000000",
-        "name": "Zeytin yağı",
+        "name": "Revgan-ı zeyt",
         "grocerist_id": "goods__5",
         "documents": [
             {
@@ -2884,7 +2884,7 @@
             }
         ],
         "english_names": "Olive oil",
-        "spelling_variations_and_synonyms": "Zeyt yağı, Revgan-ı zeyd",
+        "spelling_variations_and_synonyms": "Zeyt yağı, Revgan-ı zeyd, Zeyt revgan",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -2916,7 +2916,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -2945,7 +2945,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -2974,7 +2974,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -2999,7 +2999,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3028,7 +3028,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3057,7 +3057,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3086,7 +3086,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3115,7 +3115,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3144,7 +3144,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3173,7 +3173,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3198,7 +3198,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3227,7 +3227,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3256,7 +3256,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3285,7 +3285,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3314,7 +3314,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3343,7 +3343,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3372,7 +3372,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3401,7 +3401,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3430,7 +3430,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3459,7 +3459,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3488,7 +3488,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3517,7 +3517,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3546,7 +3546,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3575,7 +3575,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3604,7 +3604,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3633,7 +3633,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3662,7 +3662,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3687,7 +3687,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3712,7 +3712,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3737,7 +3737,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3762,7 +3762,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3791,7 +3791,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3820,7 +3820,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3849,7 +3849,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3874,7 +3874,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3899,7 +3899,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3924,7 +3924,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3953,7 +3953,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -3982,7 +3982,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -4011,7 +4011,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -4040,7 +4040,7 @@
                 "good": [
                     {
                         "id": 5,
-                        "value": "Zeytin yağı",
+                        "value": "Revgan-ı zeyt",
                         "order": "5.00000000000000000000"
                     }
                 ],
@@ -4060,7 +4060,7 @@
     "6": {
         "id": 6,
         "order": "6.00000000000000000000",
-        "name": "Sadeyağ",
+        "name": "Revgan-ı sade",
         "grocerist_id": "goods__6",
         "documents": [
             {
@@ -4520,6 +4520,14 @@
                 "iso_date": ""
             },
             {
+                "id": 192,
+                "value": "İSTM.ŞSC.01.d.70/ 16a-1",
+                "order": "159.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            },
+            {
                 "id": 194,
                 "value": "İSTM.ŞSC.01.d.89/44a-1",
                 "order": "161.00000000000000000000",
@@ -4537,7 +4545,7 @@
             }
         ],
         "english_names": "Ghee, Clarified Butter",
-        "spelling_variations_and_synonyms": "Revgan-ı sade",
+        "spelling_variations_and_synonyms": "Sadeyağ",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -4569,7 +4577,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4598,7 +4606,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4623,7 +4631,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4652,7 +4660,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4681,7 +4689,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4710,7 +4718,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4739,7 +4747,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4768,7 +4776,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4793,7 +4801,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4822,7 +4830,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4851,7 +4859,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4880,7 +4888,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4909,7 +4917,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4938,7 +4946,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4967,7 +4975,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -4996,7 +5004,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5025,7 +5033,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5054,7 +5062,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5083,7 +5091,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5112,7 +5120,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5137,7 +5145,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5162,7 +5170,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5187,7 +5195,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5212,7 +5220,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5241,7 +5249,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5270,7 +5278,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5299,7 +5307,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5328,7 +5336,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5353,7 +5361,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5382,7 +5390,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5411,7 +5419,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5440,7 +5448,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5469,7 +5477,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5498,7 +5506,7 @@
                 "good": [
                     {
                         "id": 6,
-                        "value": "Sadeyağ",
+                        "value": "Revgan-ı sade",
                         "order": "6.00000000000000000000"
                     }
                 ],
@@ -5518,7 +5526,7 @@
     "7": {
         "id": 7,
         "order": "7.00000000000000000000",
-        "name": "Don yağı",
+        "name": "Revgan-ı don",
         "grocerist_id": "goods__7",
         "documents": [
             {
@@ -5611,7 +5619,7 @@
                 "good": [
                     {
                         "id": 7,
-                        "value": "Don yağı",
+                        "value": "Revgan-ı don",
                         "order": "7.00000000000000000000"
                     }
                 ],
@@ -5640,7 +5648,7 @@
                 "good": [
                     {
                         "id": 7,
-                        "value": "Don yağı",
+                        "value": "Revgan-ı don",
                         "order": "7.00000000000000000000"
                     }
                 ],
@@ -5669,7 +5677,7 @@
                 "good": [
                     {
                         "id": 7,
-                        "value": "Don yağı",
+                        "value": "Revgan-ı don",
                         "order": "7.00000000000000000000"
                     }
                 ],
@@ -5698,7 +5706,7 @@
                 "good": [
                     {
                         "id": 7,
-                        "value": "Don yağı",
+                        "value": "Revgan-ı don",
                         "order": "7.00000000000000000000"
                     }
                 ],
@@ -5727,7 +5735,7 @@
                 "good": [
                     {
                         "id": 7,
-                        "value": "Don yağı",
+                        "value": "Revgan-ı don",
                         "order": "7.00000000000000000000"
                     }
                 ],
@@ -5752,7 +5760,7 @@
                 "good": [
                     {
                         "id": 7,
-                        "value": "Don yağı",
+                        "value": "Revgan-ı don",
                         "order": "7.00000000000000000000"
                     }
                 ],
@@ -7004,7 +7012,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Tulum",
+        "english_names": "Tulum cheese",
         "spelling_variations_and_synonyms": null,
         "notes": null,
         "sophisticated": false,
@@ -7829,7 +7837,7 @@
             }
         ],
         "english_names": "Pea",
-        "spelling_variations_and_synonyms": "Böğrülce, Bölürce",
+        "spelling_variations_and_synonyms": "Böğrülce, Bölürce, Böğrüce",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -8420,7 +8428,7 @@
     "13": {
         "id": 13,
         "order": "13.00000000000000000000",
-        "name": "Nohut",
+        "name": "Nohud",
         "grocerist_id": "goods__13",
         "documents": [
             {
@@ -8889,7 +8897,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -8918,7 +8926,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -8947,7 +8955,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -8976,7 +8984,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9005,7 +9013,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9030,7 +9038,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9055,7 +9063,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9084,7 +9092,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9113,7 +9121,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9142,7 +9150,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9171,7 +9179,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9200,7 +9208,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9229,7 +9237,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9258,7 +9266,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9287,7 +9295,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9316,7 +9324,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9341,7 +9349,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9370,7 +9378,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9399,7 +9407,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9424,7 +9432,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9449,7 +9457,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9474,7 +9482,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9503,7 +9511,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -9532,7 +9540,7 @@
                 "good": [
                     {
                         "id": 13,
-                        "value": "Nohut",
+                        "value": "Nohud",
                         "order": "13.00000000000000000000"
                     }
                 ],
@@ -10417,7 +10425,7 @@
     "15": {
         "id": 15,
         "order": "15.00000000000000000000",
-        "name": "Pirinç",
+        "name": "Pirinc",
         "grocerist_id": "goods__15",
         "documents": [
             {
@@ -11006,7 +11014,7 @@
             }
         ],
         "english_names": "Rice",
-        "spelling_variations_and_synonyms": null,
+        "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -11038,7 +11046,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11067,7 +11075,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11096,7 +11104,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11125,7 +11133,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11154,7 +11162,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11183,7 +11191,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11212,7 +11220,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11237,7 +11245,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11266,7 +11274,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11291,7 +11299,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11320,7 +11328,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11349,7 +11357,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11378,7 +11386,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11407,7 +11415,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11436,7 +11444,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11465,7 +11473,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11490,7 +11498,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11519,7 +11527,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11548,7 +11556,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11577,7 +11585,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11606,7 +11614,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11635,7 +11643,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11664,7 +11672,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11693,7 +11701,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11718,7 +11726,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11743,7 +11751,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11772,7 +11780,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11801,7 +11809,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11826,7 +11834,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11855,7 +11863,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11884,7 +11892,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11913,7 +11921,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11942,7 +11950,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11971,7 +11979,7 @@
                 "good": [
                     {
                         "id": 15,
-                        "value": "Pirinç",
+                        "value": "Pirinc",
                         "order": "15.00000000000000000000"
                     }
                 ],
@@ -11991,7 +11999,7 @@
     "17": {
         "id": 17,
         "order": "17.00000000000000000000",
-        "name": "Beylerce",
+        "name": "Beylerce üzümü",
         "grocerist_id": "goods__17",
         "documents": [
             {
@@ -12139,8 +12147,8 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
-        "spelling_variations_and_synonyms": "Beylerce üzüm",
+        "english_names": "Beylerce raisin",
+        "spelling_variations_and_synonyms": "Beğlerce üzümü, Beylerce, İzmir beylercesi",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -12177,7 +12185,7 @@
                 "good": [
                     {
                         "id": 17,
-                        "value": "Beylerce",
+                        "value": "Beylerce üzümü",
                         "order": "17.00000000000000000000"
                     }
                 ],
@@ -12206,7 +12214,7 @@
                 "good": [
                     {
                         "id": 17,
-                        "value": "Beylerce",
+                        "value": "Beylerce üzümü",
                         "order": "17.00000000000000000000"
                     }
                 ],
@@ -12231,7 +12239,7 @@
                 "good": [
                     {
                         "id": 17,
-                        "value": "Beylerce",
+                        "value": "Beylerce üzümü",
                         "order": "17.00000000000000000000"
                     }
                 ],
@@ -12260,7 +12268,7 @@
                 "good": [
                     {
                         "id": 17,
-                        "value": "Beylerce",
+                        "value": "Beylerce üzümü",
                         "order": "17.00000000000000000000"
                     }
                 ],
@@ -12289,7 +12297,7 @@
                 "good": [
                     {
                         "id": 17,
-                        "value": "Beylerce",
+                        "value": "Beylerce üzümü",
                         "order": "17.00000000000000000000"
                     }
                 ],
@@ -12318,7 +12326,7 @@
                 "good": [
                     {
                         "id": 17,
-                        "value": "Beylerce",
+                        "value": "Beylerce üzümü",
                         "order": "17.00000000000000000000"
                     }
                 ],
@@ -12347,7 +12355,7 @@
                 "good": [
                     {
                         "id": 17,
-                        "value": "Beylerce",
+                        "value": "Beylerce üzümü",
                         "order": "17.00000000000000000000"
                     }
                 ],
@@ -12376,7 +12384,7 @@
                 "good": [
                     {
                         "id": 17,
-                        "value": "Beylerce",
+                        "value": "Beylerce üzümü",
                         "order": "17.00000000000000000000"
                     }
                 ],
@@ -12396,7 +12404,7 @@
     "18": {
         "id": 18,
         "order": "18.00000000000000000000",
-        "name": "Razaki",
+        "name": "Razaki üzüm",
         "grocerist_id": "goods__18",
         "documents": [
             {
@@ -12576,8 +12584,8 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
-        "spelling_variations_and_synonyms": "Razaki üzüm",
+        "english_names": "Razaki raisin",
+        "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -12614,7 +12622,7 @@
                 "good": [
                     {
                         "id": 18,
-                        "value": "Razaki",
+                        "value": "Razaki üzüm",
                         "order": "18.00000000000000000000"
                     }
                 ],
@@ -12643,7 +12651,7 @@
                 "good": [
                     {
                         "id": 18,
-                        "value": "Razaki",
+                        "value": "Razaki üzüm",
                         "order": "18.00000000000000000000"
                     }
                 ],
@@ -12668,7 +12676,7 @@
                 "good": [
                     {
                         "id": 18,
-                        "value": "Razaki",
+                        "value": "Razaki üzüm",
                         "order": "18.00000000000000000000"
                     }
                 ],
@@ -12697,7 +12705,7 @@
                 "good": [
                     {
                         "id": 18,
-                        "value": "Razaki",
+                        "value": "Razaki üzüm",
                         "order": "18.00000000000000000000"
                     }
                 ],
@@ -12726,7 +12734,7 @@
                 "good": [
                     {
                         "id": 18,
-                        "value": "Razaki",
+                        "value": "Razaki üzüm",
                         "order": "18.00000000000000000000"
                     }
                 ],
@@ -12751,7 +12759,7 @@
                 "good": [
                     {
                         "id": 18,
-                        "value": "Razaki",
+                        "value": "Razaki üzüm",
                         "order": "18.00000000000000000000"
                     }
                 ],
@@ -12767,7 +12775,7 @@
     "19": {
         "id": 19,
         "order": "19.00000000000000000000",
-        "name": "Kızıl",
+        "name": "Kızıl üzüm",
         "grocerist_id": "goods__19",
         "documents": [
             {
@@ -12796,7 +12804,7 @@
             }
         ],
         "english_names": "",
-        "spelling_variations_and_synonyms": "Kızıl üzüm",
+        "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -12833,7 +12841,7 @@
                 "good": [
                     {
                         "id": 19,
-                        "value": "Kızıl",
+                        "value": "Kızıl üzüm",
                         "order": "19.00000000000000000000"
                     }
                 ],
@@ -12853,7 +12861,7 @@
     "20": {
         "id": 20,
         "order": "20.00000000000000000000",
-        "name": "Siyah",
+        "name": "Siyah üzüm",
         "grocerist_id": "goods__20",
         "documents": [
             {
@@ -12994,7 +13002,7 @@
             }
         ],
         "english_names": "",
-        "spelling_variations_and_synonyms": "Siyah üzüm, İzmir siyahı",
+        "spelling_variations_and_synonyms": "Siyah",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -13031,7 +13039,7 @@
                 "good": [
                     {
                         "id": 20,
-                        "value": "Siyah",
+                        "value": "Siyah üzüm",
                         "order": "20.00000000000000000000"
                     }
                 ],
@@ -13056,7 +13064,7 @@
                 "good": [
                     {
                         "id": 20,
-                        "value": "Siyah",
+                        "value": "Siyah üzüm",
                         "order": "20.00000000000000000000"
                     }
                 ],
@@ -13085,7 +13093,7 @@
                 "good": [
                     {
                         "id": 20,
-                        "value": "Siyah",
+                        "value": "Siyah üzüm",
                         "order": "20.00000000000000000000"
                     }
                 ],
@@ -13114,7 +13122,7 @@
                 "good": [
                     {
                         "id": 20,
-                        "value": "Siyah",
+                        "value": "Siyah üzüm",
                         "order": "20.00000000000000000000"
                     }
                 ],
@@ -13139,7 +13147,7 @@
                 "good": [
                     {
                         "id": 20,
-                        "value": "Siyah",
+                        "value": "Siyah üzüm",
                         "order": "20.00000000000000000000"
                     }
                 ],
@@ -13168,7 +13176,7 @@
                 "good": [
                     {
                         "id": 20,
-                        "value": "Siyah",
+                        "value": "Siyah üzüm",
                         "order": "20.00000000000000000000"
                     }
                 ],
@@ -13197,7 +13205,7 @@
                 "good": [
                     {
                         "id": 20,
-                        "value": "Siyah",
+                        "value": "Siyah üzüm",
                         "order": "20.00000000000000000000"
                     }
                 ],
@@ -13987,7 +13995,7 @@
             }
         ],
         "english_names": "Carob",
-        "spelling_variations_and_synonyms": "Keçi boynuzu; Harnub, Harnup",
+        "spelling_variations_and_synonyms": "Keçi boynuzu, Harnub, Harnup, Harub",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -15075,7 +15083,7 @@
     "24": {
         "id": 24,
         "order": "24.00000000000000000000",
-        "name": "Nardeng",
+        "name": "Nardenk",
         "grocerist_id": "goods__24",
         "documents": [
             {
@@ -15456,7 +15464,7 @@
             }
         ],
         "english_names": "",
-        "spelling_variations_and_synonyms": "",
+        "spelling_variations_and_synonyms": "Nardeng",
         "notes": "a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)",
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -15483,7 +15491,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15512,7 +15520,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15541,7 +15549,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15570,7 +15578,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15599,7 +15607,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15628,7 +15636,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15653,7 +15661,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15682,7 +15690,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15711,7 +15719,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15740,7 +15748,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15769,7 +15777,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15798,7 +15806,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15827,7 +15835,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15852,7 +15860,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15881,7 +15889,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -15906,7 +15914,7 @@
                 "good": [
                     {
                         "id": 24,
-                        "value": "Nardeng",
+                        "value": "Nardenk",
                         "order": "24.00000000000000000000"
                     }
                 ],
@@ -18426,7 +18434,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Sirke",
+        "english_names": "Vinegar",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -22284,7 +22292,7 @@
     "34": {
         "id": 34,
         "order": "34.00000000000000000000",
-        "name": "Zeytin",
+        "name": "Zeytun",
         "grocerist_id": "goods__34",
         "documents": [
             {
@@ -22625,7 +22633,7 @@
             }
         ],
         "english_names": "Olive",
-        "spelling_variations_and_synonyms": "Zeytūn",
+        "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -22657,7 +22665,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -22682,7 +22690,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -22707,7 +22715,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -22736,7 +22744,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -22765,7 +22773,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -22794,7 +22802,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -22823,7 +22831,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -22848,7 +22856,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -22877,7 +22885,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -22906,7 +22914,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -22935,7 +22943,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -22964,7 +22972,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -22993,7 +23001,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -23022,7 +23030,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -23047,7 +23055,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -23076,7 +23084,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -23101,7 +23109,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -23130,7 +23138,7 @@
                 "good": [
                     {
                         "id": 34,
-                        "value": "Zeytin",
+                        "value": "Zeytun",
                         "order": "34.00000000000000000000"
                     }
                 ],
@@ -23150,7 +23158,7 @@
     "35": {
         "id": 35,
         "order": "35.00000000000000000000",
-        "name": "Tütün",
+        "name": "Duhan",
         "grocerist_id": "goods__35",
         "documents": [
             {
@@ -23211,7 +23219,7 @@
             }
         ],
         "english_names": "Tobacco",
-        "spelling_variations_and_synonyms": "Duhan",
+        "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -23238,7 +23246,7 @@
                 "good": [
                     {
                         "id": 35,
-                        "value": "Tütün",
+                        "value": "Duhan",
                         "order": "35.00000000000000000000"
                     }
                 ],
@@ -23263,7 +23271,7 @@
                 "good": [
                     {
                         "id": 35,
-                        "value": "Tütün",
+                        "value": "Duhan",
                         "order": "35.00000000000000000000"
                     }
                 ],
@@ -23656,7 +23664,7 @@
             }
         ],
         "english_names": "Vermicelli",
-        "spelling_variations_and_synonyms": "",
+        "spelling_variations_and_synonyms": "Şehriye",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -26144,7 +26152,7 @@
             }
         ],
         "english_names": "",
-        "spelling_variations_and_synonyms": "",
+        "spelling_variations_and_synonyms": "Burgur",
         "notes": "Wheat grains prepared like rice or like pearl-barley (redhouse p. 463)",
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -27157,7 +27165,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Sausage",
+        "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -27354,86 +27362,6 @@
         "broken_or_spoilt": false,
         "price_per_document": []
     },
-    "51": {
-        "id": 51,
-        "order": "51.00000000000000000000",
-        "name": "Ihlamur",
-        "grocerist_id": "goods__51",
-        "documents": [
-            {
-                "id": 13,
-                "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28",
-                "order": "13.00000000000000000000",
-                "lat": null,
-                "long": null,
-                "iso_date": "1716-10-28"
-            },
-            {
-                "id": 38,
-                "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
-                "order": "38.00000000000000000000",
-                "lat": "41.03508",
-                "long": "28.96406",
-                "iso_date": "1762-08-27"
-            },
-            {
-                "id": 78,
-                "value": "İSTM.ŞSC.06.d. 465 / 77a-2",
-                "order": "72.00000000000000000000",
-                "lat": null,
-                "long": null,
-                "iso_date": "1765-04-20"
-            },
-            {
-                "id": 95,
-                "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)",
-                "order": "89.00000000000000000000",
-                "lat": null,
-                "long": null,
-                "iso_date": "1744-08-20"
-            }
-        ],
-        "english_names": "Linden",
-        "spelling_variations_and_synonyms": "",
-        "notes": null,
-        "sophisticated": false,
-        "documents - personal_goods": [],
-        "has_category": [
-            {
-                "id": 52,
-                "value": "Beverage",
-                "order": "7.50000000000000000000"
-            }
-        ],
-        "broken_or_spoilt": false,
-        "price_per_document": [
-            {
-                "id": 626,
-                "order": "612.00000000000000000000",
-                "grocerist_id": "price__626",
-                "document": [
-                    {
-                        "id": 38,
-                        "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
-                        "order": "38.00000000000000000000"
-                    }
-                ],
-                "good": [
-                    {
-                        "id": 51,
-                        "value": "Ihlamur",
-                        "order": "51.00000000000000000000"
-                    }
-                ],
-                "price": null,
-                "unit": null,
-                "currency": null,
-                "amount_of_units": null,
-                "total_value": "240.0",
-                "price_formula": "NaN"
-            }
-        ]
-    },
     "52": {
         "id": 52,
         "order": "52.00000000000000000000",
@@ -27531,7 +27459,7 @@
     "53": {
         "id": 53,
         "order": "53.00000000000000000000",
-        "name": "Un / Dakik",
+        "name": "Dakik",
         "grocerist_id": "goods__53",
         "documents": [
             {
@@ -27771,7 +27699,7 @@
                 "good": [
                     {
                         "id": 53,
-                        "value": "Un / Dakik",
+                        "value": "Dakik",
                         "order": "53.00000000000000000000"
                     }
                 ],
@@ -27800,7 +27728,7 @@
                 "good": [
                     {
                         "id": 53,
-                        "value": "Un / Dakik",
+                        "value": "Dakik",
                         "order": "53.00000000000000000000"
                     }
                 ],
@@ -27829,7 +27757,7 @@
                 "good": [
                     {
                         "id": 53,
-                        "value": "Un / Dakik",
+                        "value": "Dakik",
                         "order": "53.00000000000000000000"
                     }
                 ],
@@ -27854,7 +27782,7 @@
                 "good": [
                     {
                         "id": 53,
-                        "value": "Un / Dakik",
+                        "value": "Dakik",
                         "order": "53.00000000000000000000"
                     }
                 ],
@@ -27883,7 +27811,7 @@
                 "good": [
                     {
                         "id": 53,
-                        "value": "Un / Dakik",
+                        "value": "Dakik",
                         "order": "53.00000000000000000000"
                     }
                 ],
@@ -28005,7 +27933,7 @@
     "55": {
         "id": 55,
         "order": "55.00000000000000000000",
-        "name": "Bezir yağı",
+        "name": "Revgan-ı bezir",
         "grocerist_id": "goods__55",
         "documents": [
             {
@@ -28074,7 +28002,7 @@
             }
         ],
         "english_names": "Linseed oil",
-        "spelling_variations_and_synonyms": "",
+        "spelling_variations_and_synonyms": "Bezir yağı",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -28106,7 +28034,7 @@
                 "good": [
                     {
                         "id": 55,
-                        "value": "Bezir yağı",
+                        "value": "Revgan-ı bezir",
                         "order": "55.00000000000000000000"
                     }
                 ],
@@ -28187,7 +28115,7 @@
     "57": {
         "id": 57,
         "order": "57.00000000000000000000",
-        "name": "Pastırma",
+        "name": "Basdırma",
         "grocerist_id": "goods__57",
         "documents": [
             {
@@ -28336,7 +28264,7 @@
             }
         ],
         "english_names": "Pastrami",
-        "spelling_variations_and_synonyms": "Bastırma, Basdırma",
+        "spelling_variations_and_synonyms": "Bastırma, Pasdırma",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -28368,7 +28296,7 @@
                 "good": [
                     {
                         "id": 57,
-                        "value": "Pastırma",
+                        "value": "Basdırma",
                         "order": "57.00000000000000000000"
                     }
                 ],
@@ -28397,7 +28325,7 @@
                 "good": [
                     {
                         "id": 57,
-                        "value": "Pastırma",
+                        "value": "Basdırma",
                         "order": "57.00000000000000000000"
                     }
                 ],
@@ -28422,7 +28350,7 @@
                 "good": [
                     {
                         "id": 57,
-                        "value": "Pastırma",
+                        "value": "Basdırma",
                         "order": "57.00000000000000000000"
                     }
                 ],
@@ -28447,7 +28375,7 @@
                 "good": [
                     {
                         "id": 57,
-                        "value": "Pastırma",
+                        "value": "Basdırma",
                         "order": "57.00000000000000000000"
                     }
                 ],
@@ -28472,7 +28400,7 @@
                 "good": [
                     {
                         "id": 57,
-                        "value": "Pastırma",
+                        "value": "Basdırma",
                         "order": "57.00000000000000000000"
                     }
                 ],
@@ -28902,7 +28830,7 @@
     "61": {
         "id": 61,
         "order": "61.00000000000000000000",
-        "name": "Trilye zeytini",
+        "name": "Trilye zeytunu",
         "grocerist_id": "goods__61",
         "documents": [
             {
@@ -29035,7 +28963,7 @@
             }
         ],
         "english_names": "Trilye olives",
-        "spelling_variations_and_synonyms": "Trilye zeytūnu",
+        "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -29067,7 +28995,7 @@
                 "good": [
                     {
                         "id": 61,
-                        "value": "Trilye zeytini",
+                        "value": "Trilye zeytunu",
                         "order": "61.00000000000000000000"
                     }
                 ],
@@ -29096,7 +29024,7 @@
                 "good": [
                     {
                         "id": 61,
-                        "value": "Trilye zeytini",
+                        "value": "Trilye zeytunu",
                         "order": "61.00000000000000000000"
                     }
                 ],
@@ -29125,7 +29053,7 @@
                 "good": [
                     {
                         "id": 61,
-                        "value": "Trilye zeytini",
+                        "value": "Trilye zeytunu",
                         "order": "61.00000000000000000000"
                     }
                 ],
@@ -29154,7 +29082,7 @@
                 "good": [
                     {
                         "id": 61,
-                        "value": "Trilye zeytini",
+                        "value": "Trilye zeytunu",
                         "order": "61.00000000000000000000"
                     }
                 ],
@@ -29183,7 +29111,7 @@
                 "good": [
                     {
                         "id": 61,
-                        "value": "Trilye zeytini",
+                        "value": "Trilye zeytunu",
                         "order": "61.00000000000000000000"
                     }
                 ],
@@ -29212,7 +29140,7 @@
                 "good": [
                     {
                         "id": 61,
-                        "value": "Trilye zeytini",
+                        "value": "Trilye zeytunu",
                         "order": "61.00000000000000000000"
                     }
                 ],
@@ -29241,7 +29169,7 @@
                 "good": [
                     {
                         "id": 61,
-                        "value": "Trilye zeytini",
+                        "value": "Trilye zeytunu",
                         "order": "61.00000000000000000000"
                     }
                 ],
@@ -29270,7 +29198,7 @@
                 "good": [
                     {
                         "id": 61,
-                        "value": "Trilye zeytini",
+                        "value": "Trilye zeytunu",
                         "order": "61.00000000000000000000"
                     }
                 ],
@@ -29295,7 +29223,7 @@
                 "good": [
                     {
                         "id": 61,
-                        "value": "Trilye zeytini",
+                        "value": "Trilye zeytunu",
                         "order": "61.00000000000000000000"
                     }
                 ],
@@ -29324,7 +29252,7 @@
                 "good": [
                     {
                         "id": 61,
-                        "value": "Trilye zeytini",
+                        "value": "Trilye zeytunu",
                         "order": "61.00000000000000000000"
                     }
                 ],
@@ -29472,7 +29400,7 @@
     "63": {
         "id": 63,
         "order": "63.00000000000000000000",
-        "name": "Susam yağı",
+        "name": "Revgan-ı şir",
         "grocerist_id": "goods__63",
         "documents": [
             {
@@ -29557,7 +29485,7 @@
             }
         ],
         "english_names": "Sesame oil",
-        "spelling_variations_and_synonyms": "Şirugan, Revgan-ı şir",
+        "spelling_variations_and_synonyms": "Şirugan, Susam yağı",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -29589,7 +29517,7 @@
                 "good": [
                     {
                         "id": 63,
-                        "value": "Susam yağı",
+                        "value": "Revgan-ı şir",
                         "order": "63.00000000000000000000"
                     }
                 ],
@@ -29618,7 +29546,7 @@
                 "good": [
                     {
                         "id": 63,
-                        "value": "Susam yağı",
+                        "value": "Revgan-ı şir",
                         "order": "63.00000000000000000000"
                     }
                 ],
@@ -29647,7 +29575,7 @@
                 "good": [
                     {
                         "id": 63,
-                        "value": "Susam yağı",
+                        "value": "Revgan-ı şir",
                         "order": "63.00000000000000000000"
                     }
                 ],
@@ -29676,7 +29604,7 @@
                 "good": [
                     {
                         "id": 63,
-                        "value": "Susam yağı",
+                        "value": "Revgan-ı şir",
                         "order": "63.00000000000000000000"
                     }
                 ],
@@ -29903,7 +29831,7 @@
     "65": {
         "id": 65,
         "order": "65.00000000000000000000",
-        "name": "Küfter",
+        "name": "Köfter",
         "grocerist_id": "goods__65",
         "documents": [
             {
@@ -29956,7 +29884,7 @@
             }
         ],
         "english_names": "",
-        "spelling_variations_and_synonyms": "Köfter",
+        "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -29988,7 +29916,7 @@
                 "good": [
                     {
                         "id": 65,
-                        "value": "Küfter",
+                        "value": "Köfter",
                         "order": "65.00000000000000000000"
                     }
                 ],
@@ -30073,7 +30001,7 @@
     "67": {
         "id": 67,
         "order": "67.00000000000000000000",
-        "name": "Biber",
+        "name": "Büber",
         "grocerist_id": "goods__67",
         "documents": [
             {
@@ -30198,7 +30126,7 @@
             }
         ],
         "english_names": "Pepper",
-        "spelling_variations_and_synonyms": "Büber",
+        "spelling_variations_and_synonyms": "Biber",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -30219,7 +30147,7 @@
                 "good": [
                     {
                         "id": 67,
-                        "value": "Biber",
+                        "value": "Büber",
                         "order": "67.00000000000000000000"
                     }
                 ],
@@ -30244,7 +30172,7 @@
                 "good": [
                     {
                         "id": 67,
-                        "value": "Biber",
+                        "value": "Büber",
                         "order": "67.00000000000000000000"
                     }
                 ],
@@ -30269,7 +30197,7 @@
                 "good": [
                     {
                         "id": 67,
-                        "value": "Biber",
+                        "value": "Büber",
                         "order": "67.00000000000000000000"
                     }
                 ],
@@ -30294,7 +30222,7 @@
                 "good": [
                     {
                         "id": 67,
-                        "value": "Biber",
+                        "value": "Büber",
                         "order": "67.00000000000000000000"
                     }
                 ],
@@ -30509,7 +30437,7 @@
     "71": {
         "id": 71,
         "order": "71.00000000000000000000",
-        "name": "Sardalya",
+        "name": "Sardalya balığı",
         "grocerist_id": "goods__71",
         "documents": [
             {
@@ -30553,7 +30481,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Sardalya balığı",
+        "english_names": "Sardines",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -30586,7 +30514,7 @@
                 "good": [
                     {
                         "id": 71,
-                        "value": "Sardalya",
+                        "value": "Sardalya balığı",
                         "order": "71.00000000000000000000"
                     }
                 ],
@@ -30615,7 +30543,7 @@
                 "good": [
                     {
                         "id": 71,
-                        "value": "Sardalya",
+                        "value": "Sardalya balığı",
                         "order": "71.00000000000000000000"
                     }
                 ],
@@ -30644,7 +30572,7 @@
                 "good": [
                     {
                         "id": 71,
-                        "value": "Sardalya",
+                        "value": "Sardalya balığı",
                         "order": "71.00000000000000000000"
                     }
                 ],
@@ -31054,7 +30982,7 @@
                 "iso_date": "1730-12-26"
             }
         ],
-        "english_names": "Girit pekmezi",
+        "english_names": "Girit molasses",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -31112,7 +31040,7 @@
     "78": {
         "id": 78,
         "order": "78.00000000000000000000",
-        "name": "Biber turşusu",
+        "name": "Büber turşusu",
         "grocerist_id": "goods__78",
         "documents": [
             {
@@ -31140,8 +31068,8 @@
                 "iso_date": "1816-09-26"
             }
         ],
-        "english_names": "Biber turşusu",
-        "spelling_variations_and_synonyms": "Büber turşusu",
+        "english_names": "",
+        "spelling_variations_and_synonyms": "Biber turşusu",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -31173,7 +31101,7 @@
                 "good": [
                     {
                         "id": 78,
-                        "value": "Biber turşusu",
+                        "value": "Büber turşusu",
                         "order": "78.00000000000000000000"
                     }
                 ],
@@ -31193,7 +31121,7 @@
     "79": {
         "id": 79,
         "order": "79.00000000000000000000",
-        "name": "Karamürsel zeytini",
+        "name": "Karamürsel zeytunu",
         "grocerist_id": "goods__79",
         "documents": [
             {
@@ -31221,7 +31149,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Karamürsel zeytūnu",
+        "english_names": "Karamürsel olives",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -31254,7 +31182,7 @@
                 "good": [
                     {
                         "id": 79,
-                        "value": "Karamürsel zeytini",
+                        "value": "Karamürsel zeytunu",
                         "order": "79.00000000000000000000"
                     }
                 ],
@@ -31283,7 +31211,7 @@
                 "good": [
                     {
                         "id": 79,
-                        "value": "Karamürsel zeytini",
+                        "value": "Karamürsel zeytunu",
                         "order": "79.00000000000000000000"
                     }
                 ],
@@ -31312,7 +31240,7 @@
                 "good": [
                     {
                         "id": 79,
-                        "value": "Karamürsel zeytini",
+                        "value": "Karamürsel zeytunu",
                         "order": "79.00000000000000000000"
                     }
                 ],
@@ -31522,7 +31450,7 @@
                 "iso_date": "1730-12-26"
             }
         ],
-        "english_names": "",
+        "english_names": "Brined cheese",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -31837,7 +31765,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Arpacık soğanı",
+        "english_names": "Pearl onion",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -31914,7 +31842,7 @@
                 "iso_date": "1708-10-13"
             }
         ],
-        "english_names": "Çorlu peyniri",
+        "english_names": "Çorlu cheese",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -32021,7 +31949,7 @@
     "90": {
         "id": 90,
         "order": "90.00000000000000000000",
-        "name": "Gemlik zeytini",
+        "name": "Gemlik zeytunu",
         "grocerist_id": "goods__90",
         "documents": [
             {
@@ -32033,7 +31961,7 @@
                 "iso_date": "1736-08-13"
             }
         ],
-        "english_names": "Gemlik zeytūnu",
+        "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -32066,7 +31994,7 @@
                 "good": [
                     {
                         "id": 90,
-                        "value": "Gemlik zeytini",
+                        "value": "Gemlik zeytunu",
                         "order": "90.00000000000000000000"
                     }
                 ],
@@ -32102,7 +32030,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Akdeniz balı",
+        "english_names": "Akdeniz honey",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -32278,7 +32206,7 @@
                 "iso_date": "1736-05-23"
             }
         ],
-        "english_names": "Gömeç balı",
+        "english_names": "Gömeç honey",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -32360,7 +32288,7 @@
                 "iso_date": "1709-01-30"
             }
         ],
-        "english_names": "Kızılcık kurusu",
+        "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -32429,7 +32357,7 @@
                 "iso_date": "1736-05-23"
             }
         ],
-        "english_names": "Çörek otu",
+        "english_names": "Black seed",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -32525,8 +32453,8 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
-        "spelling_variations_and_synonyms": "",
+        "english_names": "Fruit leather",
+        "spelling_variations_and_synonyms": "Pesdil",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -32850,7 +32778,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Limon",
+        "english_names": "Lemon",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -33075,7 +33003,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Fasulye",
+        "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -33181,7 +33109,7 @@
                 "iso_date": "1754-11-26"
             }
         ],
-        "english_names": "",
+        "english_names": "Salted fish",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -33583,7 +33511,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Sabun",
+        "english_names": "Soap",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -34475,8 +34403,8 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Mum",
-        "spelling_variations_and_synonyms": "",
+        "english_names": "Candle",
+        "spelling_variations_and_synonyms": "Şem'",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -35072,7 +35000,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Eflak aseli",
+        "english_names": "Eflak honey",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -35318,7 +35246,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Hatab",
+        "english_names": "Firewood",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -35487,7 +35415,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Kömür",
+        "english_names": "Coal",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -35572,7 +35500,7 @@
                 "iso_date": "1730-12-26"
             }
         ],
-        "english_names": "Girit sabunu",
+        "english_names": "Girit soap",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -35661,7 +35589,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Çıra",
+        "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -35757,8 +35685,8 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Sicim, İp",
-        "spelling_variations_and_synonyms": "",
+        "english_names": "",
+        "spelling_variations_and_synonyms": "İp",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -35801,7 +35729,7 @@
     "152": {
         "id": 152,
         "order": "152.00000000000000000000",
-        "name": "Şamadıra",
+        "name": "Şamandıra",
         "grocerist_id": "goods__152",
         "documents": [
             {
@@ -35849,7 +35777,7 @@
                 "good": [
                     {
                         "id": 152,
-                        "value": "Şamadıra",
+                        "value": "Şamandıra",
                         "order": "152.00000000000000000000"
                     }
                 ],
@@ -36359,7 +36287,7 @@
     "158": {
         "id": 158,
         "order": "156.00000000000000000000",
-        "name": "Şem-i revgan",
+        "name": "Revgan-ı şem",
         "grocerist_id": "goods__158",
         "documents": [
             {
@@ -36467,8 +36395,8 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Şem-i revgan",
-        "spelling_variations_and_synonyms": "Revgan-ı şem, Şem'",
+        "english_names": "",
+        "spelling_variations_and_synonyms": "Şem-i revgan",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -36500,7 +36428,7 @@
                 "good": [
                     {
                         "id": 158,
-                        "value": "Şem-i revgan",
+                        "value": "Revgan-ı şem",
                         "order": "156.00000000000000000000"
                     }
                 ],
@@ -36529,7 +36457,7 @@
                 "good": [
                     {
                         "id": 158,
-                        "value": "Şem-i revgan",
+                        "value": "Revgan-ı şem",
                         "order": "156.00000000000000000000"
                     }
                 ],
@@ -36561,7 +36489,7 @@
                 "iso_date": "1711-09-15"
             }
         ],
-        "english_names": "Çorlu pekmezi",
+        "english_names": "Çorlu molasses",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -37041,7 +36969,7 @@
                 "iso_date": "1730-12-26"
             }
         ],
-        "english_names": "",
+        "english_names": "Tar",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -37089,7 +37017,7 @@
     "164": {
         "id": 164,
         "order": "161.00000000000000000000",
-        "name": "Girit zeytini",
+        "name": "Girit zeytunu",
         "grocerist_id": "goods__164",
         "documents": [
             {
@@ -37101,7 +37029,7 @@
                 "iso_date": "1736-08-13"
             }
         ],
-        "english_names": "Girit zeytūnu",
+        "english_names": "Girit olive",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -37134,7 +37062,7 @@
                 "good": [
                     {
                         "id": 164,
-                        "value": "Girit zeytini",
+                        "value": "Girit zeytunu",
                         "order": "161.00000000000000000000"
                     }
                 ],
@@ -37162,7 +37090,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
+        "english_names": "Clay",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -37250,7 +37178,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Peynir",
+        "english_names": "Cheese",
         "spelling_variations_and_synonyms": "penair, panir",
         "notes": null,
         "sophisticated": false,
@@ -37498,7 +37426,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Karpuz",
+        "english_names": "Watermelon",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -37567,7 +37495,7 @@
                 "iso_date": "1750-02-17"
             }
         ],
-        "english_names": "İzmir sabunu",
+        "english_names": "İzmir soap",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -37616,7 +37544,7 @@
     "173": {
         "id": 173,
         "order": "170.00000000000000000000",
-        "name": "Kırmızı sele zeytini",
+        "name": "Kırmızı sele zeytunu",
         "grocerist_id": "goods__173",
         "documents": [
             {
@@ -37628,7 +37556,7 @@
                 "iso_date": "1708-10-13"
             }
         ],
-        "english_names": "Kırmızı sele zeytūnu",
+        "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -37661,7 +37589,7 @@
                 "good": [
                     {
                         "id": 173,
-                        "value": "Kırmızı sele zeytini",
+                        "value": "Kırmızı sele zeytunu",
                         "order": "170.00000000000000000000"
                     }
                 ],
@@ -37809,7 +37737,7 @@
                 "iso_date": "1791-04-03"
             }
         ],
-        "english_names": "Kestane",
+        "english_names": "Chestnut",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -37932,7 +37860,7 @@
                 "iso_date": "1708-10-13"
             }
         ],
-        "english_names": "Anason",
+        "english_names": "Aniseed",
         "spelling_variations_and_synonyms": "Anison",
         "notes": null,
         "sophisticated": false,
@@ -38033,7 +37961,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Leblebi",
+        "english_names": "Roasted chickpea",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -38082,7 +38010,7 @@
     "179": {
         "id": 179,
         "order": "176.00000000000000000000",
-        "name": "Limon suyu / Ab-ı limon",
+        "name": "Ab-ı limon",
         "grocerist_id": "goods__179",
         "documents": [
             {
@@ -38118,8 +38046,8 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Ab-ı limon",
-        "spelling_variations_and_synonyms": "",
+        "english_names": "Lemon juice",
+        "spelling_variations_and_synonyms": "Limon suyu",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -38146,7 +38074,7 @@
                 "good": [
                     {
                         "id": 179,
-                        "value": "Limon suyu / Ab-ı limon",
+                        "value": "Ab-ı limon",
                         "order": "176.00000000000000000000"
                     }
                 ],
@@ -38353,7 +38281,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Keçi peyniri",
+        "english_names": "Goat cheese",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -38427,7 +38355,7 @@
     "186": {
         "id": 186,
         "order": "183.00000000000000000000",
-        "name": "Armut kurusu",
+        "name": "Emrud kurusu",
         "grocerist_id": "goods__186",
         "documents": [
             {
@@ -38447,8 +38375,8 @@
                 "iso_date": "1709-01-30"
             }
         ],
-        "english_names": "Emrut kurusu",
-        "spelling_variations_and_synonyms": "",
+        "english_names": "Dried pears",
+        "spelling_variations_and_synonyms": "Emrut kurusu",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -38517,7 +38445,7 @@
                 "iso_date": "1709-01-30"
             }
         ],
-        "english_names": "Tuğla tozu",
+        "english_names": "Brick dust",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -38660,8 +38588,8 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Edremit siyahı",
-        "spelling_variations_and_synonyms": "",
+        "english_names": "",
+        "spelling_variations_and_synonyms": "Edremit siyahı",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -38778,7 +38706,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Tahin",
+        "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -38874,36 +38802,6 @@
         "broken_or_spoilt": false,
         "price_per_document": []
     },
-    "197": {
-        "id": 197,
-        "order": "194.00000000000000000000",
-        "name": "Yoğurt",
-        "grocerist_id": "goods__197",
-        "documents": [
-            {
-                "id": 71,
-                "value": "İSTM.ŞSC.06.d. 405 / 87b-2",
-                "order": "65.00000000000000000000",
-                "lat": null,
-                "long": null,
-                "iso_date": "1742-01-15"
-            }
-        ],
-        "english_names": "Yoğurt",
-        "spelling_variations_and_synonyms": "",
-        "notes": null,
-        "sophisticated": false,
-        "documents - personal_goods": [],
-        "has_category": [
-            {
-                "id": 45,
-                "value": "Dairy",
-                "order": "3.00000000000000000000"
-            }
-        ],
-        "broken_or_spoilt": false,
-        "price_per_document": []
-    },
     "199": {
         "id": 199,
         "order": "196.00000000000000000000",
@@ -38927,7 +38825,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Trablus sabunu",
+        "english_names": "Trablus soap",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -38950,7 +38848,7 @@
     "200": {
         "id": 200,
         "order": "197.00000000000000000000",
-        "name": "Kağıt",
+        "name": "Kağıd",
         "grocerist_id": "goods__200",
         "documents": [
             {
@@ -39018,8 +38916,8 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Kağıt",
-        "spelling_variations_and_synonyms": "Kağıd; Ka'ıd",
+        "english_names": "Paper",
+        "spelling_variations_and_synonyms": "Ka'ıd",
         "notes": null,
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -39187,7 +39085,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Süpürge",
+        "english_names": "Broom",
         "spelling_variations_and_synonyms": "",
         "notes": null,
         "sophisticated": false,
@@ -39210,7 +39108,7 @@
     "205": {
         "id": 205,
         "order": "202.00000000000000000000",
-        "name": "Karadeniz balı",
+        "name": "Karadeniz aseli",
         "grocerist_id": "goods__205",
         "documents": [
             {
@@ -39222,7 +39120,7 @@
                 "iso_date": "1708-10-13"
             }
         ],
-        "english_names": "Karadeniz aseli",
+        "english_names": "Karadeniz honey",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -39260,7 +39158,7 @@
                 "good": [
                     {
                         "id": 205,
-                        "value": "Karadeniz balı",
+                        "value": "Karadeniz aseli",
                         "order": "202.00000000000000000000"
                     }
                 ],
@@ -39437,7 +39335,7 @@
                 "iso_date": "1709-01-30"
             }
         ],
-        "english_names": "",
+        "english_names": "Gemlik salt",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -39452,46 +39350,6 @@
                 "id": 62,
                 "value": "Salt",
                 "order": "18.00000000000000000000"
-            }
-        ],
-        "broken_or_spoilt": false,
-        "price_per_document": []
-    },
-    "210": {
-        "id": 210,
-        "order": "206.00000000000000000000",
-        "name": "Edremit siyahı",
-        "grocerist_id": "goods__210",
-        "documents": [
-            {
-                "id": 65,
-                "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
-                "order": "59.00000000000000000000",
-                "lat": null,
-                "long": null,
-                "iso_date": "1709-01-30"
-            }
-        ],
-        "english_names": "",
-        "spelling_variations_and_synonyms": "",
-        "notes": "",
-        "sophisticated": false,
-        "documents - personal_goods": [],
-        "has_category": [
-            {
-                "id": 43,
-                "value": "Dry goods",
-                "order": "1.00000000000000000000"
-            },
-            {
-                "id": 55,
-                "value": "Fruits",
-                "order": "11.00000000000000000000"
-            },
-            {
-                "id": 78,
-                "value": "Raisin",
-                "order": "28.00000000000000000000"
             }
         ],
         "broken_or_spoilt": false,
@@ -39512,7 +39370,7 @@
                 "iso_date": "1716-12-20"
             }
         ],
-        "english_names": "",
+        "english_names": "Vine leave",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -39816,7 +39674,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
+        "english_names": "Hay",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -39895,7 +39753,7 @@
             }
         ],
         "english_names": "",
-        "spelling_variations_and_synonyms": "",
+        "spelling_variations_and_synonyms": "Çerviş yağı",
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -39983,7 +39841,7 @@
                 "iso_date": "1791-04-03"
             }
         ],
-        "english_names": "",
+        "english_names": "Mudurnu cheese",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -40018,7 +39876,7 @@
                 "iso_date": "1791-04-03"
             }
         ],
-        "english_names": "",
+        "english_names": "Writing paper",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -40056,7 +39914,7 @@
                 "iso_date": "1791-04-03"
             }
         ],
-        "english_names": "",
+        "english_names": "Coffee",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -40154,7 +40012,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
+        "english_names": "Fish",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -40338,7 +40196,7 @@
     "254": {
         "id": 254,
         "order": "247.00000000000000000000",
-        "name": "Kayseriye pastırması",
+        "name": "Kayseriye basdırması",
         "grocerist_id": "goods__254",
         "documents": [
             {
@@ -40453,6 +40311,14 @@
                 "lat": "40.98895",
                 "long": "29.02270",
                 "iso_date": "1813-12-12"
+            },
+            {
+                "id": 189,
+                "value": "İSTM.ŞSC.01.d.70/ 5b-2",
+                "order": "156.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             }
         ],
         "english_names": "",
@@ -40478,7 +40344,7 @@
     "258": {
         "id": 258,
         "order": "251.00000000000000000000",
-        "name": "Döğülmiş Şariyye",
+        "name": "Döğülmüş Şariyye",
         "grocerist_id": "goods__258",
         "documents": [
             {
@@ -40792,7 +40658,16 @@
         "order": "260.00000000000000000000",
         "name": "Alaca bakla",
         "grocerist_id": "goods__267",
-        "documents": [],
+        "documents": [
+            {
+                "id": 91,
+                "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)",
+                "order": "58.99999999999999999999",
+                "lat": null,
+                "long": null,
+                "iso_date": "1708-10-13"
+            }
+        ],
         "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": "",
@@ -40844,7 +40719,16 @@
         "order": "261.00000000000000000000",
         "name": "Çürük zeytun",
         "grocerist_id": "goods__268",
-        "documents": [],
+        "documents": [
+            {
+                "id": 91,
+                "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)",
+                "order": "58.99999999999999999999",
+                "lat": null,
+                "long": null,
+                "iso_date": "1708-10-13"
+            }
+        ],
         "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": "",
@@ -40870,7 +40754,16 @@
         "order": "262.00000000000000000000",
         "name": "Çalgı revgan-ı sade",
         "grocerist_id": "goods__269",
-        "documents": [],
+        "documents": [
+            {
+                "id": 91,
+                "value": "İSTM.ŞSC.06.d. 337, 47a-2, 48 (b)",
+                "order": "58.99999999999999999999",
+                "lat": null,
+                "long": null,
+                "iso_date": "1708-10-13"
+            }
+        ],
         "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": "",
@@ -41085,7 +40978,7 @@
             }
         ],
         "english_names": "",
-        "spelling_variations_and_synonyms": "",
+        "spelling_variations_and_synonyms": "İzmir siyahı",
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -41194,7 +41087,7 @@
                 "iso_date": "1750-02-17"
             }
         ],
-        "english_names": "",
+        "english_names": "Pickle",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -41255,7 +41148,7 @@
                 "iso_date": "1750-02-17"
             }
         ],
-        "english_names": "",
+        "english_names": "Prune",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -41375,30 +41268,6 @@
             }
         ]
     },
-    "331": {
-        "id": 331,
-        "order": "324.00000000000000000000",
-        "name": "Nariye",
-        "grocerist_id": "goods__331",
-        "documents": [
-            {
-                "id": 71,
-                "value": "İSTM.ŞSC.06.d. 405 / 87b-2",
-                "order": "65.00000000000000000000",
-                "lat": null,
-                "long": null,
-                "iso_date": "1742-01-15"
-            }
-        ],
-        "english_names": "",
-        "spelling_variations_and_synonyms": "",
-        "notes": "",
-        "sophisticated": false,
-        "documents - personal_goods": [],
-        "has_category": [],
-        "broken_or_spoilt": false,
-        "price_per_document": []
-    },
     "334": {
         "id": 334,
         "order": "327.00000000000000000000",
@@ -41414,7 +41283,7 @@
                 "iso_date": "1781-05-10"
             }
         ],
-        "english_names": "",
+        "english_names": "Rock salt",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -41475,7 +41344,7 @@
                 "iso_date": "1781-05-10"
             }
         ],
-        "english_names": "",
+        "english_names": "Rooster",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -41882,7 +41751,7 @@
     "346": {
         "id": 346,
         "order": "338.00000000000000000000",
-        "name": "Rumeli sucuğu pastırması",
+        "name": "Rumeli sucuğu basdırma",
         "grocerist_id": "goods__346",
         "documents": [
             {
@@ -42004,7 +41873,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
+        "english_names": "Fine salt",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -42078,7 +41947,7 @@
             }
         ],
         "english_names": "",
-        "spelling_variations_and_synonyms": "",
+        "spelling_variations_and_synonyms": "Şorbalık şehriye",
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -42148,7 +42017,7 @@
     "351": {
         "id": 351,
         "order": "343.00000000000000000000",
-        "name": "Balkan cheese",
+        "name": "Balkan peyniri",
         "grocerist_id": "goods__351",
         "documents": [
             {
@@ -42160,7 +42029,7 @@
                 "iso_date": "1820-06-29"
             }
         ],
-        "english_names": "Balkan peyniri",
+        "english_names": "Balkan cheese",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -42237,7 +42106,7 @@
     "356": {
         "id": 356,
         "order": "348.00000000000000000000",
-        "name": "Şorbalık arpa",
+        "name": "Çorbalık arpa",
         "grocerist_id": "goods__356",
         "documents": [
             {
@@ -42416,8 +42285,8 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Balmumu",
-        "spelling_variations_and_synonyms": "",
+        "english_names": "Wax",
+        "spelling_variations_and_synonyms": "Şem-i asel",
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -42625,7 +42494,7 @@
                 "iso_date": "1816-09-26"
             }
         ],
-        "english_names": "Şişe mum",
+        "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -42784,7 +42653,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "Fındık içi",
+        "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -42901,7 +42770,7 @@
     "373": {
         "id": 373,
         "order": "364.00000000000000000000",
-        "name": "Kırmızı biber",
+        "name": "Kırmızı büber",
         "grocerist_id": "goods__373",
         "documents": [
             {
@@ -42913,8 +42782,8 @@
                 "iso_date": "1812-11-30"
             }
         ],
-        "english_names": "Kırmızı biber",
-        "spelling_variations_and_synonyms": "Kırmızı büber",
+        "english_names": "",
+        "spelling_variations_and_synonyms": "Kırmızı biber",
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -42936,7 +42805,7 @@
     "375": {
         "id": 375,
         "order": "365.00000000000000000000",
-        "name": "Peppercorn",
+        "name": "Tane büber",
         "grocerist_id": "goods__375",
         "documents": [
             {
@@ -42948,8 +42817,8 @@
                 "iso_date": "1812-11-30"
             }
         ],
-        "english_names": "Tane biber",
-        "spelling_variations_and_synonyms": "Tane büber",
+        "english_names": "Peppercorn",
+        "spelling_variations_and_synonyms": "Tane biber",
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
@@ -43111,7 +42980,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
+        "english_names": "Jar",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -43207,7 +43076,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
+        "english_names": "Dried pears",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -43231,7 +43100,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
+        "english_names": "Dried apricots",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -43243,9 +43112,26 @@
     "386": {
         "id": 386,
         "order": "376.00000000000000000000",
-        "name": "Kuşadası Destisi",
+        "name": "Kuşadası destisi",
         "grocerist_id": "goods__386",
-        "documents": [],
+        "documents": [
+            {
+                "id": 165,
+                "value": "İSTM.ŞSC.02.d.88/49",
+                "order": "133.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            },
+            {
+                "id": 193,
+                "value": "İSTM.ŞSC.01.d.70/ 18a-1",
+                "order": "160.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            }
+        ],
         "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": "",
@@ -43303,21 +43189,6 @@
         "broken_or_spoilt": false,
         "price_per_document": []
     },
-    "389": {
-        "id": 389,
-        "order": "379.00000000000000000000",
-        "name": "",
-        "grocerist_id": "goods__389",
-        "documents": [],
-        "english_names": "",
-        "spelling_variations_and_synonyms": "",
-        "notes": "",
-        "sophisticated": false,
-        "documents - personal_goods": [],
-        "has_category": [],
-        "broken_or_spoilt": false,
-        "price_per_document": []
-    },
     "390": {
         "id": 390,
         "order": "380.00000000000000000000",
@@ -43345,7 +43216,7 @@
     "391": {
         "id": 391,
         "order": "381.00000000000000000000",
-        "name": "Şariye makarna",
+        "name": "Şariyye makarna",
         "grocerist_id": "goods__391",
         "documents": [
             {
@@ -43421,7 +43292,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
+        "english_names": "Timber",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -43493,7 +43364,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
+        "english_names": "Eflak cheese",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -43565,7 +43436,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
+        "english_names": "Red lentil",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -43589,7 +43460,7 @@
                 "iso_date": ""
             }
         ],
-        "english_names": "",
+        "english_names": "Granulated sugar",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -43629,15 +43500,55 @@
         "grocerist_id": "goods__402",
         "documents": [
             {
+                "id": 13,
+                "value": "İSTM.ŞSC.14.d.237 / 27a-2, 28",
+                "order": "13.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": "1716-10-28"
+            },
+            {
+                "id": 38,
+                "value": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
+                "order": "38.00000000000000000000",
+                "lat": "41.03508",
+                "long": "28.96406",
+                "iso_date": "1762-08-27"
+            },
+            {
+                "id": 78,
+                "value": "İSTM.ŞSC.06.d. 465 / 77a-2",
+                "order": "72.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": "1765-04-20"
+            },
+            {
+                "id": 95,
+                "value": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)",
+                "order": "89.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": "1744-08-20"
+            },
+            {
                 "id": 183,
                 "value": "İSTM.ŞSC.01.d.66/ 33b-2",
                 "order": "150.00000000000000000000",
                 "lat": null,
                 "long": null,
                 "iso_date": ""
+            },
+            {
+                "id": 193,
+                "value": "İSTM.ŞSC.01.d.70/ 18a-1",
+                "order": "160.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             }
         ],
-        "english_names": "",
+        "english_names": "Linden",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
@@ -43690,7 +43601,13 @@
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
-        "has_category": [],
+        "has_category": [
+            {
+                "id": 45,
+                "value": "Dairy",
+                "order": "3.00000000000000000000"
+            }
+        ],
         "broken_or_spoilt": false,
         "price_per_document": []
     },
@@ -43794,14 +43711,20 @@
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
-        "has_category": [],
+        "has_category": [
+            {
+                "id": 46,
+                "value": "Animal food",
+                "order": "4.00000000000000000000"
+            }
+        ],
         "broken_or_spoilt": false,
         "price_per_document": []
     },
     "409": {
         "id": 409,
         "order": "399.00000000000000000000",
-        "name": "Tekfurdağı şariyesi",
+        "name": "Tekfurdağı şariyyesi",
         "grocerist_id": "goods__409",
         "documents": [
             {
@@ -43825,32 +43748,8 @@
     "410": {
         "id": 410,
         "order": "400.00000000000000000000",
-        "name": "Yufka şariye",
+        "name": "Yufka şariyye",
         "grocerist_id": "goods__410",
-        "documents": [
-            {
-                "id": 189,
-                "value": "İSTM.ŞSC.01.d.70/ 5b-2",
-                "order": "156.00000000000000000000",
-                "lat": null,
-                "long": null,
-                "iso_date": ""
-            }
-        ],
-        "english_names": "",
-        "spelling_variations_and_synonyms": "",
-        "notes": "",
-        "sophisticated": false,
-        "documents - personal_goods": [],
-        "has_category": [],
-        "broken_or_spoilt": false,
-        "price_per_document": []
-    },
-    "411": {
-        "id": 411,
-        "order": "401.00000000000000000000",
-        "name": "Kızıl şariye",
-        "grocerist_id": "goods__411",
         "documents": [
             {
                 "id": 189,
@@ -43873,7 +43772,7 @@
     "412": {
         "id": 412,
         "order": "402.00000000000000000000",
-        "name": "Kurumuş şariye",
+        "name": "Kurumuş şariyye",
         "grocerist_id": "goods__412",
         "documents": [
             {
@@ -43921,7 +43820,7 @@
     "414": {
         "id": 414,
         "order": "404.00000000000000000000",
-        "name": "Sarı şariye",
+        "name": "Sarı şariyye",
         "grocerist_id": "goods__414",
         "documents": [
             {
@@ -44054,21 +43953,6 @@
         "broken_or_spoilt": true,
         "price_per_document": []
     },
-    "419": {
-        "id": 419,
-        "order": "409.00000000000000000000",
-        "name": "",
-        "grocerist_id": "goods__419",
-        "documents": [],
-        "english_names": "",
-        "spelling_variations_and_synonyms": "",
-        "notes": "",
-        "sophisticated": false,
-        "documents - personal_goods": [],
-        "has_category": [],
-        "broken_or_spoilt": false,
-        "price_per_document": []
-    },
     "420": {
         "id": 420,
         "order": "410.00000000000000000000",
@@ -44165,30 +44049,6 @@
         "broken_or_spoilt": false,
         "price_per_document": []
     },
-    "424": {
-        "id": 424,
-        "order": "414.00000000000000000000",
-        "name": "Ihlamur",
-        "grocerist_id": "goods__424",
-        "documents": [
-            {
-                "id": 193,
-                "value": "İSTM.ŞSC.01.d.70/ 18a-1",
-                "order": "160.00000000000000000000",
-                "lat": null,
-                "long": null,
-                "iso_date": ""
-            }
-        ],
-        "english_names": "",
-        "spelling_variations_and_synonyms": "",
-        "notes": "",
-        "sophisticated": false,
-        "documents - personal_goods": [],
-        "has_category": [],
-        "broken_or_spoilt": false,
-        "price_per_document": []
-    },
     "425": {
         "id": 425,
         "order": "415.00000000000000000000",
@@ -44204,6 +44064,81 @@
                 "iso_date": ""
             }
         ],
+        "english_names": "",
+        "spelling_variations_and_synonyms": "",
+        "notes": "",
+        "sophisticated": false,
+        "documents - personal_goods": [],
+        "has_category": [],
+        "broken_or_spoilt": false,
+        "price_per_document": []
+    },
+    "426": {
+        "id": 426,
+        "order": "416.00000000000000000000",
+        "name": "",
+        "grocerist_id": "goods__426",
+        "documents": [],
+        "english_names": "",
+        "spelling_variations_and_synonyms": "",
+        "notes": "",
+        "sophisticated": false,
+        "documents - personal_goods": [],
+        "has_category": [],
+        "broken_or_spoilt": false,
+        "price_per_document": []
+    },
+    "427": {
+        "id": 427,
+        "order": "417.00000000000000000000",
+        "name": "",
+        "grocerist_id": "goods__427",
+        "documents": [],
+        "english_names": "",
+        "spelling_variations_and_synonyms": "",
+        "notes": "",
+        "sophisticated": false,
+        "documents - personal_goods": [],
+        "has_category": [],
+        "broken_or_spoilt": false,
+        "price_per_document": []
+    },
+    "428": {
+        "id": 428,
+        "order": "418.00000000000000000000",
+        "name": "",
+        "grocerist_id": "goods__428",
+        "documents": [],
+        "english_names": "",
+        "spelling_variations_and_synonyms": "",
+        "notes": "",
+        "sophisticated": false,
+        "documents - personal_goods": [],
+        "has_category": [],
+        "broken_or_spoilt": false,
+        "price_per_document": []
+    },
+    "429": {
+        "id": 429,
+        "order": "419.00000000000000000000",
+        "name": "",
+        "grocerist_id": "goods__429",
+        "documents": [],
+        "english_names": "",
+        "spelling_variations_and_synonyms": "",
+        "notes": "",
+        "sophisticated": false,
+        "documents - personal_goods": [],
+        "has_category": [],
+        "broken_or_spoilt": false,
+        "price_per_document": []
+    },
+    "430": {
+        "id": 430,
+        "order": "420.00000000000000000000",
+        "name": "",
+        "grocerist_id": "goods__430",
+        "documents": [],
         "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": "",
