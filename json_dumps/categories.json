@@ -354,6 +354,16 @@
                 "id": 422,
                 "value": "Tekfurdağı fasulyesi",
                 "order": "412.00000000000000000000"
+            },
+            {
+                "id": 428,
+                "value": "Edirne ince şariyye",
+                "order": "418.00000000000000000000"
+            },
+            {
+                "id": 434,
+                "value": "Kara bakla",
+                "order": "423.00000000000000000000"
             }
         ],
         "category_type": {
@@ -870,6 +880,11 @@
                 "id": 423,
                 "value": "Revgan-ı mahlut",
                 "order": "413.00000000000000000000"
+            },
+            {
+                "id": 432,
+                "value": "Revgan-ı yedek",
+                "order": "421.00000000000000000000"
             }
         ],
         "category_type": {
@@ -1401,6 +1416,11 @@
                 "id": 416,
                 "value": "Tulum ezmesi peynir",
                 "order": "406.00000000000000000000"
+            },
+            {
+                "id": 427,
+                "value": "Edirne kaşarı",
+                "order": "417.00000000000000000000"
             }
         ],
         "category_type": {
@@ -4588,6 +4608,11 @@
                 "id": 401,
                 "value": "Bardak",
                 "order": "391.00000000000000000000"
+            },
+            {
+                "id": 426,
+                "value": "Gön",
+                "order": "416.00000000000000000000"
             }
         ],
         "category_type": {
@@ -4621,6 +4646,11 @@
                 "id": 6,
                 "shelfmark": "İSTM.ŞSC.14.d.212/ 29a-1",
                 "grocerist_id": "document__6"
+            },
+            {
+                "id": 9,
+                "shelfmark": "İSTM.ŞSC.14.d.217 / 59a-2, 60",
+                "grocerist_id": "document__9"
             },
             {
                 "id": 11,
@@ -5124,6 +5154,11 @@
                 "id": 414,
                 "value": "Sarı şariyye",
                 "order": "404.00000000000000000000"
+            },
+            {
+                "id": 428,
+                "value": "Edirne ince şariyye",
+                "order": "418.00000000000000000000"
             }
         ],
         "category_type": {
@@ -5621,6 +5656,11 @@
                 "id": 422,
                 "value": "Tekfurdağı fasulyesi",
                 "order": "412.00000000000000000000"
+            },
+            {
+                "id": 434,
+                "value": "Kara bakla",
+                "order": "423.00000000000000000000"
             }
         ],
         "category_type": {
@@ -6937,6 +6977,11 @@
                 "id": 416,
                 "value": "Tulum ezmesi peynir",
                 "order": "406.00000000000000000000"
+            },
+            {
+                "id": 427,
+                "value": "Edirne kaşarı",
+                "order": "417.00000000000000000000"
             }
         ],
         "category_type": {
@@ -7691,6 +7736,11 @@
                 "id": 423,
                 "value": "Revgan-ı mahlut",
                 "order": "413.00000000000000000000"
+            },
+            {
+                "id": 432,
+                "value": "Revgan-ı yedek",
+                "order": "421.00000000000000000000"
             }
         ],
         "category_type": {
@@ -8701,6 +8751,11 @@
                 "id": 176,
                 "shelfmark": "İSTM.ŞSC.15d. 361/ 92a",
                 "grocerist_id": "document__176"
+            },
+            {
+                "id": 183,
+                "shelfmark": "İSTM.ŞSC.01.d.66/ 33b-2",
+                "grocerist_id": "document__183"
             },
             {
                 "id": 186,
@@ -10173,6 +10228,11 @@
         ],
         "documents": [
             {
+                "id": 9,
+                "shelfmark": "İSTM.ŞSC.14.d.217 / 59a-2, 60",
+                "grocerist_id": "document__9"
+            },
+            {
                 "id": 78,
                 "shelfmark": "İSTM.ŞSC.06.d. 465 / 77a-2",
                 "grocerist_id": "document__78"
@@ -10253,9 +10313,9 @@
                 "grocerist_id": "document__186"
             },
             {
-                "id": 192,
-                "shelfmark": "İSTM.ŞSC.01.d.70/ 16a-1",
-                "grocerist_id": "document__192"
+                "id": 191,
+                "shelfmark": "İSTM.ŞSC.01.d.70/ 5b-2",
+                "grocerist_id": "document__191"
             },
             {
                 "id": 193,

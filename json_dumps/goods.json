@@ -29946,6 +29946,14 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "1730-01-12"
+            },
+            {
+                "id": 183,
+                "value": "İSTM.ŞSC.01.d.66/ 33b-2",
+                "order": "150.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             }
         ],
         "english_names": "",
@@ -30112,6 +30120,14 @@
                 "id": 176,
                 "value": "İSTM.ŞSC.15d. 361/ 92a",
                 "order": "143.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            },
+            {
+                "id": 183,
+                "value": "İSTM.ŞSC.01.d.66/ 33b-2",
+                "order": "150.00000000000000000000",
                 "lat": null,
                 "long": null,
                 "iso_date": ""
@@ -30613,6 +30629,14 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "1730-12-26"
+            },
+            {
+                "id": 183,
+                "value": "İSTM.ŞSC.01.d.66/ 33b-2",
+                "order": "150.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
             },
             {
                 "id": 196,
@@ -41579,6 +41603,14 @@
         "grocerist_id": "goods__343",
         "documents": [
             {
+                "id": 9,
+                "value": "İSTM.ŞSC.14.d.217 / 59a-2, 60",
+                "order": "9.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": "1713-04-29"
+            },
+            {
                 "id": 140,
                 "value": "İSTM.ŞSC.06.d. 589/49a",
                 "order": "107.00000000000000000000",
@@ -41619,9 +41651,9 @@
                 "iso_date": ""
             },
             {
-                "id": 192,
-                "value": "İSTM.ŞSC.01.d.70/ 16a-1",
-                "order": "159.00000000000000000000",
+                "id": 191,
+                "value": "İSTM.ŞSC.01.d.70/ 5b-2",
+                "order": "158.00000000000000000000",
                 "lat": null,
                 "long": null,
                 "iso_date": ""
@@ -44541,45 +44573,108 @@
     "426": {
         "id": 426,
         "order": "416.00000000000000000000",
-        "name": "",
+        "name": "Gön",
         "grocerist_id": "goods__426",
-        "documents": [],
+        "documents": [
+            {
+                "id": 188,
+                "value": "İSTM.ŞSC.01.d.66/ 38a-1",
+                "order": "155.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            },
+            {
+                "id": 191,
+                "value": "İSTM.ŞSC.01.d.70/ 5b-2",
+                "order": "158.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            }
+        ],
         "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
-        "has_category": [],
+        "has_category": [
+            {
+                "id": 50,
+                "value": "Non-food",
+                "order": "8.00000000000000000000"
+            }
+        ],
         "broken_or_spoilt": false,
         "price_per_document": []
     },
     "427": {
         "id": 427,
         "order": "417.00000000000000000000",
-        "name": "",
+        "name": "Edirne kaşarı",
         "grocerist_id": "goods__427",
-        "documents": [],
+        "documents": [
+            {
+                "id": 189,
+                "value": "İSTM.ŞSC.01.d.70/ 5b-2",
+                "order": "156.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            }
+        ],
         "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
-        "has_category": [],
+        "has_category": [
+            {
+                "id": 45,
+                "value": "Dairy",
+                "order": "3.00000000000000000000"
+            },
+            {
+                "id": 56,
+                "value": "Cheese",
+                "order": "12.00000000000000000000"
+            }
+        ],
         "broken_or_spoilt": false,
         "price_per_document": []
     },
     "428": {
         "id": 428,
         "order": "418.00000000000000000000",
-        "name": "",
+        "name": "Edirne ince şariyye",
         "grocerist_id": "goods__428",
-        "documents": [],
+        "documents": [
+            {
+                "id": 190,
+                "value": "İSTM.ŞSC.01.d.70/ 5b-2",
+                "order": "157.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            }
+        ],
         "english_names": "",
         "spelling_variations_and_synonyms": "",
         "notes": "",
         "sophisticated": false,
         "documents - personal_goods": [],
-        "has_category": [],
+        "has_category": [
+            {
+                "id": 43,
+                "value": "Dry goods",
+                "order": "1.00000000000000000000"
+            },
+            {
+                "id": 53,
+                "value": "Grains",
+                "order": "9.00000000000000000000"
+            }
+        ],
         "broken_or_spoilt": false,
         "price_per_document": []
     },
@@ -44610,6 +44705,91 @@
         "sophisticated": false,
         "documents - personal_goods": [],
         "has_category": [],
+        "broken_or_spoilt": false,
+        "price_per_document": []
+    },
+    "432": {
+        "id": 432,
+        "order": "421.00000000000000000000",
+        "name": "Revgan-ı yedek",
+        "grocerist_id": "goods__432",
+        "documents": [
+            {
+                "id": 193,
+                "value": "İSTM.ŞSC.01.d.70/ 18a-1",
+                "order": "160.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            }
+        ],
+        "english_names": "",
+        "spelling_variations_and_synonyms": "",
+        "notes": "",
+        "sophisticated": false,
+        "documents - personal_goods": [],
+        "has_category": [
+            {
+                "id": 44,
+                "value": "Cooking oil",
+                "order": "2.00000000000000000000"
+            },
+            {
+                "id": 67,
+                "value": "Oil assortment",
+                "order": "13.50000000000000000000"
+            }
+        ],
+        "broken_or_spoilt": false,
+        "price_per_document": []
+    },
+    "433": {
+        "id": 433,
+        "order": "422.00000000000000000000",
+        "name": "",
+        "grocerist_id": "goods__433",
+        "documents": [],
+        "english_names": "",
+        "spelling_variations_and_synonyms": "",
+        "notes": "",
+        "sophisticated": false,
+        "documents - personal_goods": [],
+        "has_category": [],
+        "broken_or_spoilt": false,
+        "price_per_document": []
+    },
+    "434": {
+        "id": 434,
+        "order": "423.00000000000000000000",
+        "name": "Kara bakla",
+        "grocerist_id": "goods__434",
+        "documents": [
+            {
+                "id": 193,
+                "value": "İSTM.ŞSC.01.d.70/ 18a-1",
+                "order": "160.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": ""
+            }
+        ],
+        "english_names": "",
+        "spelling_variations_and_synonyms": "",
+        "notes": "",
+        "sophisticated": false,
+        "documents - personal_goods": [],
+        "has_category": [
+            {
+                "id": 43,
+                "value": "Dry goods",
+                "order": "1.00000000000000000000"
+            },
+            {
+                "id": 54,
+                "value": "Legumes",
+                "order": "10.00000000000000000000"
+            }
+        ],
         "broken_or_spoilt": false,
         "price_per_document": []
     }
