@@ -264,6 +264,96 @@
                 "id": 372,
                 "value": "Arpa şariye",
                 "order": "363.00000000000000000000"
+            },
+            {
+                "id": 376,
+                "value": "Beyaz fasulye",
+                "order": "366.00000000000000000000"
+            },
+            {
+                "id": 378,
+                "value": "Döğülmüş buğday",
+                "order": "368.00000000000000000000"
+            },
+            {
+                "id": 381,
+                "value": "İzmir üzümü",
+                "order": "371.00000000000000000000"
+            },
+            {
+                "id": 382,
+                "value": "Taban inciri",
+                "order": "372.00000000000000000000"
+            },
+            {
+                "id": 384,
+                "value": "Emrud kakı",
+                "order": "374.00000000000000000000"
+            },
+            {
+                "id": 385,
+                "value": "Zerdali kurusu",
+                "order": "375.00000000000000000000"
+            },
+            {
+                "id": 390,
+                "value": "Döğülmüş arpa",
+                "order": "380.00000000000000000000"
+            },
+            {
+                "id": 391,
+                "value": "Şariyye makarna",
+                "order": "381.00000000000000000000"
+            },
+            {
+                "id": 392,
+                "value": "Hurma",
+                "order": "382.00000000000000000000"
+            },
+            {
+                "id": 399,
+                "value": "Kırmızı mercimek",
+                "order": "389.00000000000000000000"
+            },
+            {
+                "id": 409,
+                "value": "Tekfurdağı şariyyesi",
+                "order": "399.00000000000000000000"
+            },
+            {
+                "id": 410,
+                "value": "Yufka şariyye",
+                "order": "400.00000000000000000000"
+            },
+            {
+                "id": 412,
+                "value": "Kurumuş şariyye",
+                "order": "402.00000000000000000000"
+            },
+            {
+                "id": 413,
+                "value": "Boyabad pirinç",
+                "order": "403.00000000000000000000"
+            },
+            {
+                "id": 414,
+                "value": "Sarı şariyye",
+                "order": "404.00000000000000000000"
+            },
+            {
+                "id": 415,
+                "value": "İzmir böğrülcesi",
+                "order": "405.00000000000000000000"
+            },
+            {
+                "id": 420,
+                "value": "Tozya böğrülcesi",
+                "order": "410.00000000000000000000"
+            },
+            {
+                "id": 422,
+                "value": "Tekfurdağı fasulyesi",
+                "order": "412.00000000000000000000"
             }
         ],
         "category_type": {
@@ -609,6 +699,11 @@
                 "grocerist_id": "document__168"
             },
             {
+                "id": 170,
+                "shelfmark": "İSTM.ŞSC.02.d.257/33",
+                "grocerist_id": "document__170"
+            },
+            {
                 "id": 171,
                 "shelfmark": "İSTM.ŞSC.02.d.61/94a-2",
                 "grocerist_id": "document__171"
@@ -765,6 +860,16 @@
                 "id": 269,
                 "value": "Çalgı revgan-ı sade",
                 "order": "262.00000000000000000000"
+            },
+            {
+                "id": 421,
+                "value": "Revgan-ı zeyt (çamurlu)",
+                "order": "411.00000000000000000000"
+            },
+            {
+                "id": 423,
+                "value": "Revgan-ı mahlut",
+                "order": "413.00000000000000000000"
             }
         ],
         "category_type": {
@@ -1278,9 +1383,24 @@
                 "order": "351.00000000000000000000"
             },
             {
+                "id": 396,
+                "value": "Eflak peyniri",
+                "order": "386.00000000000000000000"
+            },
+            {
                 "id": 404,
                 "value": "Koğa yoğurdu",
                 "order": "394.00000000000000000000"
+            },
+            {
+                "id": 405,
+                "value": "Atik peyniri",
+                "order": "395.00000000000000000000"
+            },
+            {
+                "id": 416,
+                "value": "Tulum ezmesi peynir",
+                "order": "406.00000000000000000000"
             }
         ],
         "category_type": {
@@ -1749,6 +1869,16 @@
                 "order": "354.00000000000000000000"
             },
             {
+                "id": 383,
+                "value": "Kili basdırması",
+                "order": "373.00000000000000000000"
+            },
+            {
+                "id": 398,
+                "value": "Ahtapot ... balık",
+                "order": "388.00000000000000000000"
+            },
+            {
                 "id": 408,
                 "value": "Tavuk",
                 "order": "398.00000000000000000000"
@@ -1947,6 +2077,11 @@
                 "grocerist_id": "document__168"
             },
             {
+                "id": 171,
+                "shelfmark": "İSTM.ŞSC.02.d.61/94a-2",
+                "grocerist_id": "document__171"
+            },
+            {
                 "id": 172,
                 "shelfmark": "İSTM.ŞSC.02.d.178/23a-2",
                 "grocerist_id": "document__172"
@@ -2068,6 +2203,11 @@
                 "id": 64,
                 "value": "Döğülmüş tuz",
                 "order": "64.00000000000000000000"
+            },
+            {
+                "id": 67,
+                "value": "Büber",
+                "order": "67.00000000000000000000"
             },
             {
                 "id": 77,
@@ -2193,6 +2333,41 @@
                 "id": 375,
                 "value": "Tane büber",
                 "order": "365.00000000000000000000"
+            },
+            {
+                "id": 377,
+                "value": "Ak tuz",
+                "order": "367.00000000000000000000"
+            },
+            {
+                "id": 379,
+                "value": "Deniz tuzu",
+                "order": "369.00000000000000000000"
+            },
+            {
+                "id": 387,
+                "value": "Kebir tuz",
+                "order": "377.00000000000000000000"
+            },
+            {
+                "id": 394,
+                "value": "Daru sirkesi",
+                "order": "384.00000000000000000000"
+            },
+            {
+                "id": 400,
+                "value": "Toz şeker",
+                "order": "390.00000000000000000000"
+            },
+            {
+                "id": 417,
+                "value": "Kaba tuz",
+                "order": "407.00000000000000000000"
+            },
+            {
+                "id": 425,
+                "value": "Fülfül",
+                "order": "415.00000000000000000000"
             }
         ],
         "category_type": {
@@ -2581,6 +2756,11 @@
                 "id": 179,
                 "shelfmark": "İSTM.ŞSC.15d. 393/ 70ab",
                 "grocerist_id": "document__179"
+            },
+            {
+                "id": 181,
+                "shelfmark": "İSTM.ŞSC.15d. 403/ 34b3",
+                "grocerist_id": "document__181"
             },
             {
                 "id": 182,
@@ -3075,6 +3255,16 @@
                 "id": 347,
                 "value": "Saplı sarımsak",
                 "order": "339.00000000000000000000"
+            },
+            {
+                "id": 402,
+                "value": "Ihlamur",
+                "order": "392.00000000000000000000"
+            },
+            {
+                "id": 407,
+                "value": "Sığır dili",
+                "order": "397.00000000000000000000"
             }
         ],
         "category_type": {
@@ -3516,6 +3706,16 @@
                 "id": 325,
                 "value": "Küflenmiş zeytun",
                 "order": "318.00000000000000000000"
+            },
+            {
+                "id": 388,
+                "value": "Yaprak",
+                "order": "378.00000000000000000000"
+            },
+            {
+                "id": 403,
+                "value": "Yeşil zeytun",
+                "order": "393.00000000000000000000"
             }
         ],
         "category_type": {
@@ -4358,6 +4558,36 @@
                 "id": 366,
                 "value": "Şişe mum",
                 "order": "358.00000000000000000000"
+            },
+            {
+                "id": 380,
+                "value": "Kavanoz",
+                "order": "370.00000000000000000000"
+            },
+            {
+                "id": 386,
+                "value": "Kuşadası destisi",
+                "order": "376.00000000000000000000"
+            },
+            {
+                "id": 393,
+                "value": "Kereste",
+                "order": "383.00000000000000000000"
+            },
+            {
+                "id": 395,
+                "value": "Sabun  tozu",
+                "order": "385.00000000000000000000"
+            },
+            {
+                "id": 397,
+                "value": "Çürük mum",
+                "order": "387.00000000000000000000"
+            },
+            {
+                "id": 401,
+                "value": "Bardak",
+                "order": "391.00000000000000000000"
             }
         ],
         "category_type": {
@@ -4854,6 +5084,46 @@
                 "id": 372,
                 "value": "Arpa şariye",
                 "order": "363.00000000000000000000"
+            },
+            {
+                "id": 378,
+                "value": "Döğülmüş buğday",
+                "order": "368.00000000000000000000"
+            },
+            {
+                "id": 390,
+                "value": "Döğülmüş arpa",
+                "order": "380.00000000000000000000"
+            },
+            {
+                "id": 391,
+                "value": "Şariyye makarna",
+                "order": "381.00000000000000000000"
+            },
+            {
+                "id": 409,
+                "value": "Tekfurdağı şariyyesi",
+                "order": "399.00000000000000000000"
+            },
+            {
+                "id": 410,
+                "value": "Yufka şariyye",
+                "order": "400.00000000000000000000"
+            },
+            {
+                "id": 412,
+                "value": "Kurumuş şariyye",
+                "order": "402.00000000000000000000"
+            },
+            {
+                "id": 413,
+                "value": "Boyabad pirinç",
+                "order": "403.00000000000000000000"
+            },
+            {
+                "id": 414,
+                "value": "Sarı şariyye",
+                "order": "404.00000000000000000000"
             }
         ],
         "category_type": {
@@ -5255,6 +5525,11 @@
                 "grocerist_id": "document__186"
             },
             {
+                "id": 188,
+                "shelfmark": "İSTM.ŞSC.01.d.66/ 38a-1",
+                "grocerist_id": "document__188"
+            },
+            {
                 "id": 189,
                 "shelfmark": "İSTM.ŞSC.01.d.70/ 5b-2",
                 "grocerist_id": "document__189"
@@ -5321,6 +5596,31 @@
                 "id": 267,
                 "value": "Alaca bakla",
                 "order": "260.00000000000000000000"
+            },
+            {
+                "id": 376,
+                "value": "Beyaz fasulye",
+                "order": "366.00000000000000000000"
+            },
+            {
+                "id": 399,
+                "value": "Kırmızı mercimek",
+                "order": "389.00000000000000000000"
+            },
+            {
+                "id": 415,
+                "value": "İzmir böğrülcesi",
+                "order": "405.00000000000000000000"
+            },
+            {
+                "id": 420,
+                "value": "Tozya böğrülcesi",
+                "order": "410.00000000000000000000"
+            },
+            {
+                "id": 422,
+                "value": "Tekfurdağı fasulyesi",
+                "order": "412.00000000000000000000"
             }
         ],
         "category_type": {
@@ -5602,6 +5902,11 @@
                 "grocerist_id": "document__166"
             },
             {
+                "id": 170,
+                "shelfmark": "İSTM.ŞSC.02.d.257/33",
+                "grocerist_id": "document__170"
+            },
+            {
                 "id": 171,
                 "shelfmark": "İSTM.ŞSC.02.d.61/94a-2",
                 "grocerist_id": "document__171"
@@ -5813,6 +6118,31 @@
                 "id": 369,
                 "value": "Hoşablık üzüm",
                 "order": "361.00000000000000000000"
+            },
+            {
+                "id": 381,
+                "value": "İzmir üzümü",
+                "order": "371.00000000000000000000"
+            },
+            {
+                "id": 382,
+                "value": "Taban inciri",
+                "order": "372.00000000000000000000"
+            },
+            {
+                "id": 384,
+                "value": "Emrud kakı",
+                "order": "374.00000000000000000000"
+            },
+            {
+                "id": 385,
+                "value": "Zerdali kurusu",
+                "order": "375.00000000000000000000"
+            },
+            {
+                "id": 392,
+                "value": "Hurma",
+                "order": "382.00000000000000000000"
             }
         ],
         "category_type": {
@@ -6037,6 +6367,11 @@
                 "id": 165,
                 "shelfmark": "İSTM.ŞSC.02.d.88/49",
                 "grocerist_id": "document__165"
+            },
+            {
+                "id": 166,
+                "shelfmark": "İSTM.ŞSC.02.d.116/52",
+                "grocerist_id": "document__166"
             },
             {
                 "id": 171,
@@ -6587,6 +6922,21 @@
                 "id": 359,
                 "value": "Karagümrük tulum peyniri",
                 "order": "351.00000000000000000000"
+            },
+            {
+                "id": 396,
+                "value": "Eflak peyniri",
+                "order": "386.00000000000000000000"
+            },
+            {
+                "id": 405,
+                "value": "Atik peyniri",
+                "order": "395.00000000000000000000"
+            },
+            {
+                "id": 416,
+                "value": "Tulum ezmesi peynir",
+                "order": "406.00000000000000000000"
             }
         ],
         "category_type": {
@@ -6934,6 +7284,11 @@
                 "id": 5,
                 "value": "Revgan-ı zeyt",
                 "order": "5.00000000000000000000"
+            },
+            {
+                "id": 421,
+                "value": "Revgan-ı zeyt (çamurlu)",
+                "order": "411.00000000000000000000"
             }
         ],
         "category_type": {
@@ -7270,6 +7625,11 @@
                 "grocerist_id": "document__189"
             },
             {
+                "id": 192,
+                "shelfmark": "İSTM.ŞSC.01.d.70/ 16a-1",
+                "grocerist_id": "document__192"
+            },
+            {
                 "id": 193,
                 "shelfmark": "İSTM.ŞSC.01.d.70/ 18a-1",
                 "grocerist_id": "document__193"
@@ -7326,6 +7686,11 @@
                 "id": 269,
                 "value": "Çalgı revgan-ı sade",
                 "order": "262.00000000000000000000"
+            },
+            {
+                "id": 423,
+                "value": "Revgan-ı mahlut",
+                "order": "413.00000000000000000000"
             }
         ],
         "category_type": {
@@ -7650,6 +8015,11 @@
                 "id": 192,
                 "shelfmark": "İSTM.ŞSC.01.d.70/ 16a-1",
                 "grocerist_id": "document__192"
+            },
+            {
+                "id": 193,
+                "shelfmark": "İSTM.ŞSC.01.d.70/ 18a-1",
+                "grocerist_id": "document__193"
             },
             {
                 "id": 194,
@@ -8219,6 +8589,11 @@
                 "order": "50.00000000000000000000"
             },
             {
+                "id": 67,
+                "value": "Büber",
+                "order": "67.00000000000000000000"
+            },
+            {
                 "id": 373,
                 "value": "Kırmızı büber",
                 "order": "364.00000000000000000000"
@@ -8227,6 +8602,11 @@
                 "id": 375,
                 "value": "Tane büber",
                 "order": "365.00000000000000000000"
+            },
+            {
+                "id": 425,
+                "value": "Fülfül",
+                "order": "415.00000000000000000000"
             }
         ],
         "category_type": {
@@ -8248,9 +8628,89 @@
                 "grocerist_id": "document__9"
             },
             {
+                "id": 25,
+                "shelfmark": "İSTM.ŞSC.14.d.275 / 37a-4",
+                "grocerist_id": "document__25"
+            },
+            {
+                "id": 30,
+                "shelfmark": "İSTM.ŞSC.14.d.290 / 73b-2",
+                "grocerist_id": "document__30"
+            },
+            {
+                "id": 31,
+                "shelfmark": "İSTM.ŞSC.14.d.304 / 22b-3",
+                "grocerist_id": "document__31"
+            },
+            {
+                "id": 38,
+                "shelfmark": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
+                "grocerist_id": "document__38"
+            },
+            {
+                "id": 52,
+                "shelfmark": "İSTM.ŞSC.14.d.528 / 83b-2",
+                "grocerist_id": "document__52"
+            },
+            {
+                "id": 72,
+                "shelfmark": "İSTM.ŞSC.06.d. 427 / 50a-2",
+                "grocerist_id": "document__72"
+            },
+            {
+                "id": 78,
+                "shelfmark": "İSTM.ŞSC.06.d. 465 / 77a-2",
+                "grocerist_id": "document__78"
+            },
+            {
+                "id": 85,
+                "shelfmark": "İSTM.ŞSC.06.d. 505 / 83a-3",
+                "grocerist_id": "document__85"
+            },
+            {
+                "id": 106,
+                "shelfmark": "İSTM.ŞSC.15.d. 272 / 27b-1",
+                "grocerist_id": "document__106"
+            },
+            {
                 "id": 111,
                 "shelfmark": "İSTM.ŞSC.06.d. 577/43b-1",
                 "grocerist_id": "document__111"
+            },
+            {
+                "id": 113,
+                "shelfmark": "İSTM.ŞSC.06.d. 584/30a-1",
+                "grocerist_id": "document__113"
+            },
+            {
+                "id": 140,
+                "shelfmark": "İSTM.ŞSC.06.d. 589/49a",
+                "grocerist_id": "document__140"
+            },
+            {
+                "id": 141,
+                "shelfmark": "İSTM.ŞSC.06.d. 589/56b",
+                "grocerist_id": "document__141"
+            },
+            {
+                "id": 173,
+                "shelfmark": "İSTM.ŞSC.15d. 300/ 55b",
+                "grocerist_id": "document__173"
+            },
+            {
+                "id": 176,
+                "shelfmark": "İSTM.ŞSC.15d. 361/ 92a",
+                "grocerist_id": "document__176"
+            },
+            {
+                "id": 186,
+                "shelfmark": "İSTM.ŞSC.01.d.66/ 35b-1",
+                "grocerist_id": "document__186"
+            },
+            {
+                "id": 194,
+                "shelfmark": "İSTM.ŞSC.01.d.89/44a-1",
+                "grocerist_id": "document__194"
             }
         ]
     },
@@ -8329,6 +8789,11 @@
                 "id": 342,
                 "value": "Odun asel",
                 "order": "334.00000000000000000000"
+            },
+            {
+                "id": 400,
+                "value": "Toz şeker",
+                "order": "390.00000000000000000000"
             }
         ],
         "category_type": {
@@ -8761,6 +9226,26 @@
                 "id": 368,
                 "value": "Köy tuzu",
                 "order": "360.00000000000000000000"
+            },
+            {
+                "id": 377,
+                "value": "Ak tuz",
+                "order": "367.00000000000000000000"
+            },
+            {
+                "id": 379,
+                "value": "Deniz tuzu",
+                "order": "369.00000000000000000000"
+            },
+            {
+                "id": 387,
+                "value": "Kebir tuz",
+                "order": "377.00000000000000000000"
+            },
+            {
+                "id": 417,
+                "value": "Kaba tuz",
+                "order": "407.00000000000000000000"
             }
         ],
         "category_type": {
@@ -9067,6 +9552,11 @@
                 "grocerist_id": "document__178"
             },
             {
+                "id": 181,
+                "shelfmark": "İSTM.ŞSC.15d. 403/ 34b3",
+                "grocerist_id": "document__181"
+            },
+            {
                 "id": 182,
                 "shelfmark": "İSTM.ŞSC.15d. 436/ 36b",
                 "grocerist_id": "document__182"
@@ -9102,6 +9592,11 @@
                 "grocerist_id": "document__193"
             },
             {
+                "id": 194,
+                "shelfmark": "İSTM.ŞSC.01.d.89/44a-1",
+                "grocerist_id": "document__194"
+            },
+            {
                 "id": 196,
                 "shelfmark": "İSTM.ŞSC.03.d.79/02",
                 "grocerist_id": "document__196"
@@ -9123,6 +9618,11 @@
                 "id": 227,
                 "value": "Ham sirke",
                 "order": "221.00000000000000000000"
+            },
+            {
+                "id": 394,
+                "value": "Daru sirkesi",
+                "order": "384.00000000000000000000"
             }
         ],
         "category_type": {
@@ -9382,6 +9882,11 @@
                 "id": 142,
                 "shelfmark": "İSTM.ŞSC.06.d. 591/19b",
                 "grocerist_id": "document__142"
+            },
+            {
+                "id": 165,
+                "shelfmark": "İSTM.ŞSC.02.d.88/49",
+                "grocerist_id": "document__165"
             },
             {
                 "id": 166,
@@ -9829,6 +10334,11 @@
                 "id": 362,
                 "value": "Uskumru balığı tuzlaması",
                 "order": "354.00000000000000000000"
+            },
+            {
+                "id": 398,
+                "value": "Ahtapot ... balık",
+                "order": "388.00000000000000000000"
             }
         ],
         "category_type": {
@@ -10023,6 +10533,11 @@
                 "id": 346,
                 "value": "Rumeli sucuğu basdırma",
                 "order": "338.00000000000000000000"
+            },
+            {
+                "id": 383,
+                "value": "Kili basdırması",
+                "order": "373.00000000000000000000"
             }
         ],
         "category_type": {
@@ -10137,6 +10652,11 @@
                 "id": 142,
                 "shelfmark": "İSTM.ŞSC.06.d. 591/19b",
                 "grocerist_id": "document__142"
+            },
+            {
+                "id": 171,
+                "shelfmark": "İSTM.ŞSC.02.d.61/94a-2",
+                "grocerist_id": "document__171"
             },
             {
                 "id": 172,
@@ -10292,6 +10812,11 @@
                 "id": 325,
                 "value": "Küflenmiş zeytun",
                 "order": "318.00000000000000000000"
+            },
+            {
+                "id": 403,
+                "value": "Yeşil zeytun",
+                "order": "393.00000000000000000000"
             }
         ],
         "category_type": {
@@ -11298,6 +11823,11 @@
                 "id": 369,
                 "value": "Hoşablık üzüm",
                 "order": "361.00000000000000000000"
+            },
+            {
+                "id": 381,
+                "value": "İzmir üzümü",
+                "order": "371.00000000000000000000"
             }
         ],
         "category_type": {
@@ -11590,6 +12120,11 @@
                 "id": 202,
                 "value": "Lob inciri",
                 "order": "199.00000000000000000000"
+            },
+            {
+                "id": 382,
+                "value": "Taban inciri",
+                "order": "372.00000000000000000000"
             }
         ],
         "category_type": {
@@ -11802,6 +12337,11 @@
                 "id": 199,
                 "value": "Trablus sabunu",
                 "order": "196.00000000000000000000"
+            },
+            {
+                "id": 395,
+                "value": "Sabun  tozu",
+                "order": "385.00000000000000000000"
             }
         ],
         "category_type": {
@@ -11993,6 +12533,11 @@
                 "grocerist_id": "document__142"
             },
             {
+                "id": 165,
+                "shelfmark": "İSTM.ŞSC.02.d.88/49",
+                "grocerist_id": "document__165"
+            },
+            {
                 "id": 166,
                 "shelfmark": "İSTM.ŞSC.02.d.116/52",
                 "grocerist_id": "document__166"
@@ -12036,6 +12581,114 @@
                 "id": 194,
                 "shelfmark": "İSTM.ŞSC.01.d.89/44a-1",
                 "grocerist_id": "document__194"
+            }
+        ]
+    },
+    "82": {
+        "id": 82,
+        "order": "31.00000000000000000000",
+        "name": "Herb",
+        "grocerist_id": "category__82",
+        "goods": [
+            {
+                "id": 402,
+                "value": "Ihlamur",
+                "order": "392.00000000000000000000"
+            },
+            {
+                "id": 407,
+                "value": "Sığır dili",
+                "order": "397.00000000000000000000"
+            }
+        ],
+        "category_type": {
+            "id": 15110,
+            "value": "sub",
+            "color": "darker-blue"
+        },
+        "part_of": [
+            {
+                "id": 49,
+                "value": "Produce",
+                "order": "7.00000000000000000000"
+            }
+        ],
+        "documents": [
+            {
+                "id": 13,
+                "shelfmark": "İSTM.ŞSC.14.d.237 / 27a-2, 28",
+                "grocerist_id": "document__13"
+            },
+            {
+                "id": 38,
+                "shelfmark": "İSTM.ŞSC.14.d.366/ 62a-3, 63",
+                "grocerist_id": "document__38"
+            },
+            {
+                "id": 78,
+                "shelfmark": "İSTM.ŞSC.06.d. 465 / 77a-2",
+                "grocerist_id": "document__78"
+            },
+            {
+                "id": 95,
+                "shelfmark": "İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)",
+                "grocerist_id": "document__95"
+            },
+            {
+                "id": 183,
+                "shelfmark": "İSTM.ŞSC.01.d.66/ 33b-2",
+                "grocerist_id": "document__183"
+            },
+            {
+                "id": 186,
+                "shelfmark": "İSTM.ŞSC.01.d.66/ 35b-1",
+                "grocerist_id": "document__186"
+            },
+            {
+                "id": 193,
+                "shelfmark": "İSTM.ŞSC.01.d.70/ 18a-1",
+                "grocerist_id": "document__193"
+            }
+        ]
+    },
+    "83": {
+        "id": 83,
+        "order": "32.00000000000000000000",
+        "name": "Food",
+        "grocerist_id": "category__83",
+        "goods": [
+            {
+                "id": 235,
+                "value": "Tahin helvası",
+                "order": "229.00000000000000000000"
+            },
+            {
+                "id": 406,
+                "value": "Nan-ı aziz",
+                "order": "396.00000000000000000000"
+            }
+        ],
+        "category_type": {
+            "id": 15109,
+            "value": "main",
+            "color": "darker-cyan"
+        },
+        "part_of": [],
+        "documents": [
+            {
+                "id": 106,
+                "shelfmark": "İSTM.ŞSC.15.d. 272 / 27b-1",
+                "grocerist_id": "document__106"
+            },
+            {
+                "id": 186,
+                "shelfmark": "İSTM.ŞSC.01.d.66/ 35b-1",
+                "grocerist_id": "document__186"
+            },
+            {
+                "id": 193,
+                "shelfmark": "İSTM.ŞSC.01.d.70/ 18a-1",
+                "grocerist_id": "document__193"
             }
         ]
     }

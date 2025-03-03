@@ -78,10 +78,10 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 24,
-                    "database_table_1492": 5
+                    "database_table_1488": 20,
+                    "database_table_1492": 4
                 },
-                "value": "Galata Harici"
+                "value": "Galata"
             }
         ],
         "upper_admin4": [],
@@ -146,9 +146,8 @@
                 "century": "18",
                 "district": [
                     {
-                        "id": 5,
-                        "value": "Galata Harici",
-                        "order": "0.99999999999999999990"
+                        "id": 4,
+                        "value": "Galata"
                     }
                 ],
                 "neighbourhood": [
@@ -1189,10 +1188,10 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 25,
-                    "database_table_1492": 5
+                    "database_table_1488": 20,
+                    "database_table_1492": 4
                 },
-                "value": "Galata Harici"
+                "value": "Galata"
             }
         ],
         "upper_admin4": [],
@@ -1233,9 +1232,8 @@
                 "century": "18",
                 "district": [
                     {
-                        "id": 5,
-                        "value": "Galata Harici",
-                        "order": "0.99999999999999999990"
+                        "id": 4,
+                        "value": "Galata"
                     }
                 ],
                 "neighbourhood": [],

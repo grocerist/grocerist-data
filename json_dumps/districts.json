@@ -19,6 +19,11 @@
                 "order": "3.00000000000000000000"
             },
             {
+                "id": 4,
+                "value": "İSTM.ŞSC.14.d.196 / 19b-1",
+                "order": "4.00000000000000000000"
+            },
+            {
                 "id": 5,
                 "value": "İSTM.ŞSC.14.d.196 / 21b-1",
                 "order": "5.00000000000000000000"
@@ -234,11 +239,6 @@
                 "order": "18.00000000000000000000"
             },
             {
-                "id": 4,
-                "value": "İSTM.ŞSC.14.d.196 / 19b-1",
-                "order": "4.00000000000000000000"
-            },
-            {
                 "id": 6,
                 "value": "İSTM.ŞSC.14.d.212/ 29a-1",
                 "order": "6.00000000000000000000"
@@ -297,6 +297,50 @@
         "lat": "41.02602",
         "long": "28.97451",
         "persons": [
+            {
+                "id": 1,
+                "order": "1.00000000000000000000",
+                "name": "Bakkal Hasan Beşe b. Abdullah",
+                "grocerist_id": "person__1",
+                "religion": [
+                    {
+                        "id": 6681,
+                        "value": "Muslim",
+                        "color": "green"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 1,
+                        "value": "İSTM.ŞSC.14.d.173 / 9b-2",
+                        "order": "1.00000000000000000000",
+                        "lat": "41.02639",
+                        "long": "28.97300",
+                        "iso_date": "1697-11-10"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "17",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 6,
+                        "value": "Şehsuvar",
+                        "order": "6.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            },
             {
                 "id": 2,
                 "order": "2.00000000000000000000",
@@ -399,6 +443,62 @@
                 "address": []
             },
             {
+                "id": 4,
+                "order": "4.00000000000000000000",
+                "name": "Yorgi v. Dimitri",
+                "grocerist_id": "person__4",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 4,
+                        "value": "İSTM.ŞSC.14.d.196 / 19b-1",
+                        "order": "4.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1703-06-09"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 31,
+                        "value": "Camii Kebir",
+                        "order": "31.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
+                    }
+                ],
+                "address": []
+            },
+            {
                 "id": 5,
                 "order": "5.00000000000000000000",
                 "name": "Yani v. Yorgi",
@@ -453,6 +553,55 @@
                         "order": "14.00000000000000000000"
                     }
                 ]
+            },
+            {
+                "id": 6,
+                "order": "6.00000000000000000000",
+                "name": "Bakkal Yorgi",
+                "grocerist_id": "person__6",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 6,
+                        "value": "İSTM.ŞSC.14.d.212/ 29a-1",
+                        "order": "6.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1711-09-15"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 9,
+                        "value": "Hasan Ağa ",
+                        "order": "9.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
             },
             {
                 "id": 7,
@@ -809,6 +958,55 @@
                         "order": "1.00000000000000000000"
                     }
                 ],
+                "address": []
+            },
+            {
+                "id": 14,
+                "order": "14.00000000000000000000",
+                "name": "Bakkal Kiro v. Yani",
+                "grocerist_id": "person__14",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 14,
+                        "value": "İSTM.ŞSC.14.d.237 / 39b-1",
+                        "order": "14.00000000000000000000",
+                        "lat": "41.03694",
+                        "long": "28.97750",
+                        "iso_date": "1717-01-20"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 5,
+                        "value": "Beyoğlu",
+                        "order": "5.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
                 "address": []
             },
             {
@@ -1238,6 +1436,139 @@
                 "address": []
             },
             {
+                "id": 24,
+                "order": "24.00000000000000000000",
+                "name": "Yani v. Panayot",
+                "grocerist_id": "person__24",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 24,
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
+                        "order": "24.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1728-09-25"
+                    },
+                    {
+                        "id": 59,
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)",
+                        "order": "54.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1728-09-25"
+                    },
+                    {
+                        "id": 60,
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)",
+                        "order": "55.00000000000000000000",
+                        "lat": "41.03073",
+                        "long": "28.97406",
+                        "iso_date": "1728-09-25"
+                    },
+                    {
+                        "id": 115,
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)",
+                        "order": "55.99999999999999999999",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1728-09-25"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 43,
+                        "value": "Dörtyolağzı",
+                        "order": "42.00000000000000000000"
+                    },
+                    {
+                        "id": 72,
+                        "value": "Aslanağzı",
+                        "order": "70.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 4,
+                        "value": "Galata Mevlevihanesi kurbü",
+                        "order": "4.00000000000000000000"
+                    }
+                ]
+            },
+            {
+                "id": 25,
+                "order": "25.00000000000000000000",
+                "name": "Bakkal Aslan v. Bedros",
+                "grocerist_id": "person__25",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6706,
+                        "value": "Armenian",
+                        "color": "light-red"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 25,
+                        "value": "İSTM.ŞSC.14.d.275 / 37a-4",
+                        "order": "25.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1730-01-12"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 15,
+                        "value": "Ketehorya nam mahal",
+                        "order": "15.00000000000000000000"
+                    }
+                ]
+            },
+            {
                 "id": 26,
                 "order": "26.00000000000000000000",
                 "name": "Bakkal Estavirnu",
@@ -1574,6 +1905,49 @@
                         "order": "16.00000000000000000000"
                     }
                 ]
+            },
+            {
+                "id": 32,
+                "order": "32.00000000000000000000",
+                "name": "Dimitri v. Todori",
+                "grocerist_id": "person__32",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 32,
+                        "value": "İSTM.ŞSC.14.d. 315/ 30b-1",
+                        "order": "32.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1751-04-15"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
             },
             {
                 "id": 33,
@@ -2008,6 +2382,104 @@
                 "address": []
             },
             {
+                "id": 42,
+                "order": "42.00000000000000000000",
+                "name": "Panayot v. Petro",
+                "grocerist_id": "person__42",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 42,
+                        "value": "İSTM.ŞSC.14.d. 405/ 37b-1",
+                        "order": "42.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": ""
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 16,
+                        "value": "Balık Pazarı",
+                        "order": "16.00000000000000000000"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 43,
+                "order": "43.00000000000000000000",
+                "name": "Bakkal Yani v.  Andon",
+                "grocerist_id": "person__43",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 43,
+                        "value": "İSTM.ŞSC.14.d. 406/ 27b-1",
+                        "order": "43.00000000000000000000",
+                        "lat": "41.04391",
+                        "long": "28.95329",
+                        "iso_date": "1770-10-25"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 24,
+                        "value": "Kalafatçıbaşı",
+                        "order": "24.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            },
+            {
                 "id": 44,
                 "order": "44.00000000000000000000",
                 "name": "Bakkal Tanaş veled-i  Hristo",
@@ -2289,6 +2761,55 @@
                 "address": []
             },
             {
+                "id": 50,
+                "order": "51.00000000000000000000",
+                "name": "Bakkal Artin",
+                "grocerist_id": "person__50",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 50,
+                        "value": "İSTM.ŞSC.14.d. 504/ 86a-2",
+                        "order": "50.00000000000000000000",
+                        "lat": "41.03528",
+                        "long": "28.97919",
+                        "iso_date": "1790-11-23"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 7,
+                        "value": "Hüseyin Ağa",
+                        "order": "7.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            },
+            {
                 "id": 51,
                 "order": "52.00000000000000000000",
                 "name": "Tanaş",
@@ -2404,6 +2925,50 @@
                         "order": "17.00000000000000000000"
                     }
                 ],
+                "address": []
+            },
+            {
+                "id": 118,
+                "order": "115.00000000000000000000",
+                "name": "Elhac Osman b. İbrahim",
+                "grocerist_id": "person__118",
+                "religion": [
+                    {
+                        "id": 6681,
+                        "value": "Muslim",
+                        "color": "green"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 18,
+                        "value": "İSTM.ŞSC.14.d.249 / 9b-2",
+                        "order": "18.00000000000000000000",
+                        "lat": "41.02562",
+                        "long": "28.97014",
+                        "iso_date": "1720-12-03"
+                    }
+                ],
+                "occupation": [],
+                "checked": true,
+                "same_as": [],
+                "century": "18",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 27,
+                        "value": "Emekyemez",
+                        "order": "27.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
                 "address": []
             },
             {
