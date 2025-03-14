@@ -33,6 +33,7 @@ def add_lat_long(source_data, docs_data):
                 doc["lat"] = docs_data[str(doc["id"])].get("lat")
                 doc["long"] = docs_data[str(doc["id"])].get("long")
                 doc["iso_date"] = docs_data[str(doc["id"])].get("creation_date_ISO")
+                doc["century"] = docs_data[str(doc["id"])].get("century")
 
 
 def add_locations(source_data, documents_data):
@@ -128,7 +129,7 @@ categories_data = load_json(os.path.join(JSON_FOLDER, "categories.json"))
 utensils_data = load_json(os.path.join(JSON_FOLDER, "utensils.json"))
 price_data = load_json(os.path.join(JSON_FOLDER, "price_per_document.json"))
 
-# Enrich documents with data from goods and persons
+# Enrich documents with data from goods and persons, enrich documents and goods with price data
 join_tables(documents_data, goods_data, "goods")
 join_tables(documents_data, persons_data, "main_person")
 join_tables(documents_data, price_data, "price_per_document")
