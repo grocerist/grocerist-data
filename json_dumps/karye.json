@@ -151,7 +151,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -269,7 +273,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -2501,7 +2509,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -2775,7 +2787,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
