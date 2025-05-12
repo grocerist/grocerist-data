@@ -15056,7 +15056,11 @@
                     "value": "keyl",
                     "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "9.0",
                 "total_value": "810.0",
                 "price_formula": "90.00",
@@ -15091,7 +15095,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "5.0",
                 "total_value": "15.0",
                 "price_formula": "3.00",
@@ -15126,7 +15134,11 @@
                     "value": "keyl",
                     "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "8.0",
                 "total_value": "560.0",
                 "price_formula": "70.00",
@@ -15161,7 +15173,11 @@
                     "value": "keyl",
                     "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "65.5",
                 "total_value": "4585.0",
                 "price_formula": "70.00",
@@ -15196,7 +15212,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "150.0",
                 "total_value": "1200.0",
                 "price_formula": "8.00",
@@ -15231,7 +15251,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "23.0",
                 "total_value": "138.0",
                 "price_formula": "6.00",
@@ -15297,7 +15321,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "32.0",
                 "total_value": "192.0",
                 "price_formula": "6.00",
@@ -15363,7 +15391,11 @@
                     "value": "keyl",
                     "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "2.0",
                 "total_value": "160.0",
                 "price_formula": "80.00",
@@ -15398,7 +15430,11 @@
                     "value": "keyl",
                     "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "2.0",
                 "total_value": "160.0",
                 "price_formula": "80.00",
@@ -15433,7 +15469,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "75.0",
                 "total_value": "525.0",
                 "price_formula": "7.00",
@@ -15468,7 +15508,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "80.0",
                 "total_value": "560.0",
                 "price_formula": "7.00",
@@ -15503,7 +15547,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "208.0",
                 "total_value": "1449.0",
                 "price_formula": "6.97",
@@ -15538,7 +15586,11 @@
                     "value": "keyl",
                     "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "49.0",
                 "total_value": "3822.0",
                 "price_formula": "78.00",
@@ -15567,12 +15619,20 @@
                         "order": "15.00000000000000000000"
                     }
                 ],
-                "price": null,
-                "unit": null,
-                "currency": null,
-                "amount_of_units": null,
-                "total_value": null,
-                "price_formula": "NaN",
+                "price": "63.00",
+                "unit": {
+                    "id": 17218,
+                    "value": "keyl",
+                    "color": "dark-green"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "12.0",
+                "total_value": "756.0",
+                "price_formula": "63.00",
                 "doc_year": [
                     {
                         "id": 20,
@@ -15604,7 +15664,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "32.0",
                 "total_value": "256.0",
                 "price_formula": "8.00",
@@ -15639,7 +15703,11 @@
                     "value": "keyl",
                     "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "36.0",
                 "total_value": "2520.0",
                 "price_formula": "70.00",
@@ -15656,9 +15724,9 @@
                 "grocerist_id": "price__365",
                 "document": [
                     {
-                        "id": 24,
-                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
-                        "order": "24.00000000000000000000"
+                        "id": 60,
+                        "value": "İSTM.ŞSC.14.d.275 / 8b-1(c)",
+                        "order": "55.00000000000000000000"
                     }
                 ],
                 "good": [
@@ -15674,13 +15742,17 @@
                     "value": "keyl",
                     "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "18.0",
                 "total_value": "1260.0",
                 "price_formula": "70.00",
                 "doc_year": [
                     {
-                        "id": 24,
+                        "id": 60,
                         "value": "1728"
                     }
                 ]
@@ -15703,13 +15775,17 @@
                         "order": "15.00000000000000000000"
                     }
                 ],
-                "price": null,
+                "price": "5.00",
                 "unit": {
                     "id": 17218,
                     "value": "keyl",
                     "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "120.0",
                 "total_value": "612.0",
                 "price_formula": "5.10",
@@ -15744,7 +15820,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "38.0",
                 "total_value": "348.0",
                 "price_formula": "9.16",
@@ -15761,9 +15841,9 @@
                 "grocerist_id": "price__453",
                 "document": [
                     {
-                        "id": 26,
-                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (a)",
-                        "order": "26.00000000000000000000"
+                        "id": 61,
+                        "value": "İSTM.ŞSC.14.d.275 / 45b-3 (b)",
+                        "order": "56.00000000000000000000"
                     }
                 ],
                 "good": [
@@ -15779,13 +15859,17 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "36.0",
                 "total_value": "324.0",
                 "price_formula": "9.00",
                 "doc_year": [
                     {
-                        "id": 26,
+                        "id": 61,
                         "value": "1730"
                     }
                 ]
@@ -15814,7 +15898,11 @@
                     "value": "keyl",
                     "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "40.0",
                 "total_value": "3200.0",
                 "price_formula": "80.00",
@@ -15843,12 +15931,20 @@
                         "order": "15.00000000000000000000"
                     }
                 ],
-                "price": null,
-                "unit": null,
-                "currency": null,
-                "amount_of_units": null,
-                "total_value": null,
-                "price_formula": "NaN",
+                "price": "8.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "238.0",
+                "total_value": "1908.0",
+                "price_formula": "8.02",
                 "doc_year": [
                     {
                         "id": 28,
@@ -15878,7 +15974,7 @@
                 "unit": null,
                 "currency": null,
                 "amount_of_units": null,
-                "total_value": null,
+                "total_value": "3780.0",
                 "price_formula": "NaN",
                 "doc_year": [
                     {
@@ -15911,7 +16007,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "394.0",
                 "total_value": "3940.0",
                 "price_formula": "10.00",
@@ -15946,7 +16046,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "260.0",
                 "total_value": "3471.0",
                 "price_formula": "13.35",
@@ -16012,7 +16116,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "195.0",
                 "total_value": "2535.0",
                 "price_formula": "13.00",
@@ -16041,16 +16149,20 @@
                         "order": "15.00000000000000000000"
                     }
                 ],
-                "price": "21.00",
+                "price": "210.00",
                 "unit": {
                     "id": 17218,
                     "value": "keyl",
                     "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "25.0",
-                "total_value": "525.0",
-                "price_formula": "21.00",
+                "total_value": "5250.0",
+                "price_formula": "210.00",
                 "doc_year": [
                     {
                         "id": 47,
@@ -16078,11 +16190,15 @@
                 ],
                 "price": "70.00",
                 "unit": {
-                    "id": 16575,
-                    "value": "kıyye",
-                    "color": "dark-brown"
+                    "id": 17218,
+                    "value": "keyl",
+                    "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "70.5",
                 "total_value": "4935.0",
                 "price_formula": "70.00",
@@ -16117,7 +16233,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "2.0",
                 "total_value": "14.0",
                 "price_formula": "7.00",
@@ -16152,7 +16272,11 @@
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "7.0",
                 "total_value": "49.0",
                 "price_formula": "7.00",
@@ -16183,11 +16307,15 @@
                 ],
                 "price": "68.00",
                 "unit": {
-                    "id": 16575,
-                    "value": "kıyye",
-                    "color": "dark-brown"
+                    "id": 17218,
+                    "value": "keyl",
+                    "color": "dark-green"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "13.0",
                 "total_value": "884.0",
                 "price_formula": "68.00",
@@ -16216,20 +16344,1381 @@
                         "order": "15.00000000000000000000"
                     }
                 ],
-                "price": "5.54",
+                "price": "6.30",
                 "unit": {
                     "id": 16575,
                     "value": "kıyye",
                     "color": "dark-brown"
                 },
-                "currency": null,
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
                 "amount_of_units": "13.0",
-                "total_value": "72.0",
-                "price_formula": "5.54",
+                "total_value": "82.0",
+                "price_formula": "6.31",
                 "doc_year": [
                     {
                         "id": 65,
                         "value": "1709"
+                    }
+                ]
+            },
+            {
+                "id": 853,
+                "order": "820.00000000000000000000",
+                "grocerist_id": "price__853",
+                "document": [
+                    {
+                        "id": 65,
+                        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
+                        "order": "59.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "70.00",
+                "unit": {
+                    "id": 17218,
+                    "value": "keyl",
+                    "color": "dark-green"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "7.0",
+                "total_value": "490.0",
+                "price_formula": "70.00",
+                "doc_year": [
+                    {
+                        "id": 65,
+                        "value": "1709"
+                    }
+                ]
+            },
+            {
+                "id": 854,
+                "order": "821.00000000000000000000",
+                "grocerist_id": "price__854",
+                "document": [
+                    {
+                        "id": 65,
+                        "value": "İSTM.ŞSC.06.d. 339 / 26a-1 (a)",
+                        "order": "59.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "75.00",
+                "unit": {
+                    "id": 17218,
+                    "value": "keyl",
+                    "color": "dark-green"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "1.5",
+                "total_value": "75.0",
+                "price_formula": "50.00",
+                "doc_year": [
+                    {
+                        "id": 65,
+                        "value": "1709"
+                    }
+                ]
+            },
+            {
+                "id": 855,
+                "order": "822.00000000000000000000",
+                "grocerist_id": "price__855",
+                "document": [
+                    {
+                        "id": 89,
+                        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
+                        "order": "59.99999999999999999998"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "70.00",
+                "unit": {
+                    "id": 17218,
+                    "value": "keyl",
+                    "color": "dark-green"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "2.0",
+                "total_value": "140.0",
+                "price_formula": "70.00",
+                "doc_year": [
+                    {
+                        "id": 89,
+                        "value": "1709"
+                    }
+                ]
+            },
+            {
+                "id": 856,
+                "order": "823.00000000000000000000",
+                "grocerist_id": "price__856",
+                "document": [
+                    {
+                        "id": 90,
+                        "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (c)",
+                        "order": "59.99999999999999999999"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "60.00",
+                "unit": {
+                    "id": 17218,
+                    "value": "keyl",
+                    "color": "dark-green"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "41.5",
+                "total_value": "2490.0",
+                "price_formula": "60.00",
+                "doc_year": [
+                    {
+                        "id": 90,
+                        "value": "1709"
+                    }
+                ]
+            },
+            {
+                "id": 857,
+                "order": "824.00000000000000000000",
+                "grocerist_id": "price__857",
+                "document": [
+                    {
+                        "id": 67,
+                        "value": "İSTM.ŞSC.06.d. 359 / 26a-1",
+                        "order": "61.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "7.50",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "520.0",
+                "total_value": "3900.0",
+                "price_formula": "7.50",
+                "doc_year": [
+                    {
+                        "id": 67,
+                        "value": "1716"
+                    }
+                ]
+            },
+            {
+                "id": 858,
+                "order": "825.00000000000000000000",
+                "grocerist_id": "price__858",
+                "document": [
+                    {
+                        "id": 70,
+                        "value": "İSTM.ŞSC.06.d. 394 / 92a-1",
+                        "order": "64.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "90.00",
+                "unit": {
+                    "id": 17218,
+                    "value": "keyl",
+                    "color": "dark-green"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "1.9",
+                "total_value": "171.0",
+                "price_formula": "90.00",
+                "doc_year": [
+                    {
+                        "id": 70,
+                        "value": "1736"
+                    }
+                ]
+            },
+            {
+                "id": 859,
+                "order": "826.00000000000000000000",
+                "grocerist_id": "price__859",
+                "document": [
+                    {
+                        "id": 72,
+                        "value": "İSTM.ŞSC.06.d. 427 / 50a-2",
+                        "order": "66.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "12.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "10.0",
+                "total_value": "120.0",
+                "price_formula": "12.00",
+                "doc_year": [
+                    {
+                        "id": 72,
+                        "value": "1750"
+                    }
+                ]
+            },
+            {
+                "id": 860,
+                "order": "827.00000000000000000000",
+                "grocerist_id": "price__860",
+                "document": [
+                    {
+                        "id": 75,
+                        "value": "İSTM.ŞSC.06.d. 443 / 11a-1 (a)",
+                        "order": "69.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": null,
+                "unit": null,
+                "currency": null,
+                "amount_of_units": null,
+                "total_value": "480.0",
+                "price_formula": "NaN",
+                "doc_year": [
+                    {
+                        "id": 75,
+                        "value": "1756"
+                    }
+                ]
+            },
+            {
+                "id": 861,
+                "order": "828.00000000000000000000",
+                "grocerist_id": "price__861",
+                "document": [
+                    {
+                        "id": 77,
+                        "value": "İSTM.ŞSC.06.d. 456 / 82b-3",
+                        "order": "71.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "15.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "543.0",
+                "total_value": "8145.0",
+                "price_formula": "15.00",
+                "doc_year": [
+                    {
+                        "id": 77,
+                        "value": "1761"
+                    }
+                ]
+            },
+            {
+                "id": 862,
+                "order": "829.00000000000000000000",
+                "grocerist_id": "price__862",
+                "document": [
+                    {
+                        "id": 78,
+                        "value": "İSTM.ŞSC.06.d. 465 / 77a-2",
+                        "order": "72.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "12.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "14.0",
+                "total_value": "168.0",
+                "price_formula": "12.00",
+                "doc_year": [
+                    {
+                        "id": 78,
+                        "value": "1765"
+                    }
+                ]
+            },
+            {
+                "id": 864,
+                "order": "831.00000000000000000000",
+                "grocerist_id": "price__864",
+                "document": [
+                    {
+                        "id": 80,
+                        "value": "İSTM.ŞSC.06.d. 491 / 51b-2",
+                        "order": "74.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "21.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "26.0",
+                "total_value": "546.0",
+                "price_formula": "21.00",
+                "doc_year": [
+                    {
+                        "id": 80,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 865,
+                "order": "832.00000000000000000000",
+                "grocerist_id": "price__865",
+                "document": [
+                    {
+                        "id": 84,
+                        "value": "İSTM.ŞSC.06.d. 501 / 22b-3",
+                        "order": "78.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "22.50",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "19.0",
+                "total_value": "428.0",
+                "price_formula": "22.53",
+                "doc_year": [
+                    {
+                        "id": 84,
+                        "value": "1778"
+                    }
+                ]
+            },
+            {
+                "id": 866,
+                "order": "833.00000000000000000000",
+                "grocerist_id": "price__866",
+                "document": [
+                    {
+                        "id": 85,
+                        "value": "İSTM.ŞSC.06.d. 505 / 83a-3",
+                        "order": "79.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "21.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "80.0",
+                "total_value": "1680.0",
+                "price_formula": "21.00",
+                "doc_year": [
+                    {
+                        "id": 85,
+                        "value": "1780"
+                    }
+                ]
+            },
+            {
+                "id": 867,
+                "order": "834.00000000000000000000",
+                "grocerist_id": "price__867",
+                "document": [
+                    {
+                        "id": 86,
+                        "value": "İSTM.ŞSC.06.d. 522 / 21b-4",
+                        "order": "80.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "29.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "118.0",
+                "total_value": "3442.0",
+                "price_formula": "29.17",
+                "doc_year": [
+                    {
+                        "id": 86,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 868,
+                "order": "835.00000000000000000000",
+                "grocerist_id": "price__868",
+                "document": [
+                    {
+                        "id": 97,
+                        "value": "İSTM.ŞSC.15.d. 194 / 10b-1",
+                        "order": "91.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "12.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "2.0",
+                "total_value": "24.0",
+                "price_formula": "12.00",
+                "doc_year": [
+                    {
+                        "id": 97,
+                        "value": "1754"
+                    }
+                ]
+            },
+            {
+                "id": 869,
+                "order": "836.00000000000000000000",
+                "grocerist_id": "price__869",
+                "document": [
+                    {
+                        "id": 100,
+                        "value": "İSTM.ŞSC.15.d. 205 / 51a-2",
+                        "order": "94.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "15.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "5.0",
+                "total_value": "75.0",
+                "price_formula": "15.00",
+                "doc_year": [
+                    {
+                        "id": 100,
+                        "value": "1760"
+                    }
+                ]
+            },
+            {
+                "id": 870,
+                "order": "837.00000000000000000000",
+                "grocerist_id": "price__870",
+                "document": [
+                    {
+                        "id": 106,
+                        "value": "İSTM.ŞSC.15.d. 272 / 27b-1",
+                        "order": "100.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "360.00",
+                "unit": {
+                    "id": 17218,
+                    "value": "keyl",
+                    "color": "dark-green"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "7.0",
+                "total_value": "2520.0",
+                "price_formula": "360.00",
+                "doc_year": [
+                    {
+                        "id": 106,
+                        "value": "1791"
+                    }
+                ]
+            },
+            {
+                "id": 872,
+                "order": "839.00000000000000000000",
+                "grocerist_id": "price__872",
+                "document": [
+                    {
+                        "id": 166,
+                        "value": "İSTM.ŞSC.02.d.116 / 52",
+                        "order": "134.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "8.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "17.0",
+                "total_value": "136.0",
+                "price_formula": "8.00",
+                "doc_year": [
+                    {
+                        "id": 166,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 873,
+                "order": "840.00000000000000000000",
+                "grocerist_id": "price__873",
+                "document": [
+                    {
+                        "id": 168,
+                        "value": "İSTM.ŞSC.02.d.200 / 34",
+                        "order": "136.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "12.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "23.0",
+                "total_value": "276.0",
+                "price_formula": "12.00",
+                "doc_year": [
+                    {
+                        "id": 168,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 874,
+                "order": "841.00000000000000000000",
+                "grocerist_id": "price__874",
+                "document": [
+                    {
+                        "id": 172,
+                        "value": "İSTM.ŞSC.02.d.178 / 23a-2",
+                        "order": "140.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "15.40",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "7.0",
+                "total_value": "108.0",
+                "price_formula": "15.43",
+                "doc_year": [
+                    {
+                        "id": 172,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 875,
+                "order": "842.00000000000000000000",
+                "grocerist_id": "price__875",
+                "document": [
+                    {
+                        "id": 183,
+                        "value": "İSTM.ŞSC.01.d.66 / 33b-2",
+                        "order": "150.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "46.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "123.5",
+                "total_value": "6152.0",
+                "price_formula": "49.81",
+                "doc_year": [
+                    {
+                        "id": 183,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 876,
+                "order": "843.00000000000000000000",
+                "grocerist_id": "price__876",
+                "document": [
+                    {
+                        "id": 186,
+                        "value": "İSTM.ŞSC.01.d.66 / 35b-1",
+                        "order": "153.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "46.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "653.0",
+                "total_value": "30027.0",
+                "price_formula": "45.98",
+                "doc_year": [
+                    {
+                        "id": 186,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 877,
+                "order": "844.00000000000000000000",
+                "grocerist_id": "price__877",
+                "document": [
+                    {
+                        "id": 189,
+                        "value": "İSTM.ŞSC.01.d.70 / 5b-2",
+                        "order": "156.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "38.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "1077.0",
+                "total_value": "40926.0",
+                "price_formula": "38.00",
+                "doc_year": [
+                    {
+                        "id": 189,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 878,
+                "order": "845.00000000000000000000",
+                "grocerist_id": "price__878",
+                "document": [
+                    {
+                        "id": 190,
+                        "value": "İSTM.ŞSC.01.d.70 / 5b-2",
+                        "order": "157.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "38.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "895.0",
+                "total_value": "34010.0",
+                "price_formula": "38.00",
+                "doc_year": [
+                    {
+                        "id": 190,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 880,
+                "order": "847.00000000000000000000",
+                "grocerist_id": "price__880",
+                "document": [
+                    {
+                        "id": 191,
+                        "value": "İSTM.ŞSC.01.d.70 / 5b-2",
+                        "order": "158.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "38.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "366.0",
+                "total_value": "13927.0",
+                "price_formula": "38.05",
+                "doc_year": [
+                    {
+                        "id": 191,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 882,
+                "order": "849.00000000000000000000",
+                "grocerist_id": "price__882",
+                "document": [
+                    {
+                        "id": 192,
+                        "value": "İSTM.ŞSC.01.d.70 / 16a-1",
+                        "order": "159.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "42.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "168.0",
+                "total_value": "7077.0",
+                "price_formula": "42.13",
+                "doc_year": [
+                    {
+                        "id": 192,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 883,
+                "order": "850.00000000000000000000",
+                "grocerist_id": "price__883",
+                "document": [
+                    {
+                        "id": 193,
+                        "value": "İSTM.ŞSC.01.d.70 / 18a-1",
+                        "order": "160.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "41.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "873.0",
+                "total_value": "35713.0",
+                "price_formula": "40.91",
+                "doc_year": [
+                    {
+                        "id": 193,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 885,
+                "order": "852.00000000000000000000",
+                "grocerist_id": "price__885",
+                "document": [
+                    {
+                        "id": 194,
+                        "value": "İSTM.ŞSC.01.d.89 /44a-1",
+                        "order": "161.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "30.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "145.0",
+                "total_value": "4350.0",
+                "price_formula": "30.00",
+                "doc_year": [
+                    {
+                        "id": 194,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 886,
+                "order": "853.00000000000000000000",
+                "grocerist_id": "price__886",
+                "document": [
+                    {
+                        "id": 196,
+                        "value": "İSTM.ŞSC.03.d.79 / 02",
+                        "order": "163.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "22.50",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "206.5",
+                "total_value": "4646.3",
+                "price_formula": "22.50",
+                "doc_year": [
+                    {
+                        "id": 196,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": 888,
+                "order": "855.00000000000000000000",
+                "grocerist_id": "price__888",
+                "document": [
+                    {
+                        "id": 110,
+                        "value": "İSTM.ŞSC.06.d. 574 / 51b-1",
+                        "order": "103.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "72.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "3.0",
+                "total_value": "216.0",
+                "price_formula": "72.00",
+                "doc_year": [
+                    {
+                        "id": 110,
+                        "value": "1808"
+                    }
+                ]
+            },
+            {
+                "id": 889,
+                "order": "856.00000000000000000000",
+                "grocerist_id": "price__889",
+                "document": [
+                    {
+                        "id": 111,
+                        "value": "İSTM.ŞSC.06.d. 577 / 43b-1",
+                        "order": "104.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "72.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "141.0",
+                "total_value": "3384.0",
+                "price_formula": "24.00",
+                "doc_year": [
+                    {
+                        "id": 111,
+                        "value": "1812"
+                    }
+                ]
+            },
+            {
+                "id": 891,
+                "order": "858.00000000000000000000",
+                "grocerist_id": "price__891",
+                "document": [
+                    {
+                        "id": 113,
+                        "value": "İSTM.ŞSC.06.d. 584 / 30a-1",
+                        "order": "106.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "28.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "551.0",
+                "total_value": "15428.0",
+                "price_formula": "28.00",
+                "doc_year": [
+                    {
+                        "id": 113,
+                        "value": "1816"
+                    }
+                ]
+            },
+            {
+                "id": 892,
+                "order": "859.00000000000000000000",
+                "grocerist_id": "price__892",
+                "document": [
+                    {
+                        "id": 140,
+                        "value": "İSTM.ŞSC.06.d. 589 / 49a",
+                        "order": "107.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "25.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "1207.5",
+                "total_value": "30175.0",
+                "price_formula": "24.99",
+                "doc_year": [
+                    {
+                        "id": 140,
+                        "value": "1819"
+                    }
+                ]
+            },
+            {
+                "id": 893,
+                "order": "860.00000000000000000000",
+                "grocerist_id": "price__893",
+                "document": [
+                    {
+                        "id": 141,
+                        "value": "İSTM.ŞSC.06.d. 589 / 56b",
+                        "order": "108.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "23.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "55.0",
+                "total_value": "1281.0",
+                "price_formula": "23.29",
+                "doc_year": [
+                    {
+                        "id": 141,
+                        "value": "1820"
+                    }
+                ]
+            },
+            {
+                "id": 894,
+                "order": "861.00000000000000000000",
+                "grocerist_id": "price__894",
+                "document": [
+                    {
+                        "id": 142,
+                        "value": "İSTM.ŞSC.06.d. 591 / 19b",
+                        "order": "109.00000000000000000000"
+                    }
+                ],
+                "good": [
+                    {
+                        "id": 15,
+                        "value": "Pirinc",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "price": "25.00",
+                "unit": {
+                    "id": 16575,
+                    "value": "kıyye",
+                    "color": "dark-brown"
+                },
+                "currency": {
+                    "id": 18609,
+                    "value": "akçe",
+                    "color": "brown"
+                },
+                "amount_of_units": "1207.5",
+                "total_value": "30175.0",
+                "price_formula": "24.99",
+                "doc_year": [
+                    {
+                        "id": 142,
+                        "value": "1820"
                     }
                 ]
             }
