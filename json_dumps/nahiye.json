@@ -91,12 +91,14 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1700-01-10",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "18",
                 "district": [
                     {
@@ -137,12 +139,14 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1701-12-06",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "18",
                 "district": [
                     {
@@ -194,12 +198,14 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1714-09-04",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "18",
                 "district": [
                     {
@@ -246,12 +252,14 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1731-11-27",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "18",
                 "district": [
                     {
@@ -303,12 +311,14 @@
                         "lat": "41.03539",
                         "long": "28.96464",
                         "iso_date": "1759-10-30",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "18",
                 "district": [
                     {
@@ -366,12 +376,14 @@
                         "lat": "41.03508",
                         "long": "28.96406",
                         "iso_date": "1762-08-27",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "18",
                 "district": [
                     {
@@ -417,12 +429,14 @@
                         "lat": "41.12070",
                         "long": "29.06818",
                         "iso_date": "1768-11-10",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "18",
                 "district": [
                     {
@@ -434,7 +448,7 @@
                 "neighbourhood": [
                     {
                         "id": 33,
-                        "value": " Aya Nikoli",
+                        "value": "Aya Nikoli",
                         "order": "33.00000000000000000000"
                     }
                 ],
@@ -480,12 +494,14 @@
                         "lat": "41.12070",
                         "long": "29.06818",
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "NaN",
                 "district": [
                     {
@@ -497,7 +513,7 @@
                 "neighbourhood": [
                     {
                         "id": 33,
-                        "value": " Aya Nikoli",
+                        "value": "Aya Nikoli",
                         "order": "33.00000000000000000000"
                     }
                 ],
@@ -549,12 +565,14 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1795-11-24",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "18",
                 "district": [
                     {
@@ -661,12 +679,14 @@
                         "lat": "41.04241",
                         "long": "29.00626",
                         "iso_date": "1723-09-30",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "18",
                 "district": [
                     {
@@ -718,12 +738,14 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1755-04-16",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "18",
                 "district": [
                     {
@@ -775,12 +797,14 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "NaN",
                 "district": [
                     {
@@ -832,12 +856,14 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1770-03-21",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "18",
                 "district": [
                     {
@@ -889,12 +915,14 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
                     }
                 ],
                 "occupation": [],
-                "checked": true,
-                "same_as": [],
                 "century": "NaN",
                 "district": [
                     {
@@ -979,8 +1007,6 @@
                     }
                 ],
                 "occupation": [],
-                "checked": false,
-                "same_as": [],
                 "century": "NaN",
                 "district": [
                     {
@@ -1065,8 +1091,6 @@
                     }
                 ],
                 "occupation": [],
-                "checked": false,
-                "same_as": [],
                 "century": "NaN",
                 "district": [
                     {
@@ -1145,8 +1169,6 @@
                     }
                 ],
                 "occupation": [],
-                "checked": false,
-                "same_as": [],
                 "century": "NaN",
                 "district": [
                     {
