@@ -56,6 +56,9 @@ def add_locations(source_data, documents_data):
     ]:
         for location in location_data.values():
             location.setdefault("persons", [])
+            # add century to each document in the location
+            for doc in location["documents"]:
+                doc["century"] = documents_data[str(doc["id"])].get("century")
 
     # add district, neighbourhood, karye, nahiye, quarter and address to each person entry based on the documents they are associated with
     for person in source_data.values():
