@@ -62,12 +62,22 @@
             {
                 "id": 24,
                 "value": "İSTM.ŞSC.14.d.275 / 8b-1(a)",
-                "order": "24.00000000000000000000"
+                "order": "24.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             },
             {
                 "id": 59,
                 "value": "İSTM.ŞSC.14.d.275 / 8b-1(b)",
-                "order": "54.00000000000000000000"
+                "order": "54.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__4",
@@ -202,7 +212,12 @@
             {
                 "id": 44,
                 "value": "İSTM.ŞSC.14.d. 433 / 21a-3",
-                "order": "44.00000000000000000000"
+                "order": "44.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__5",
@@ -330,7 +345,12 @@
             {
                 "id": 116,
                 "value": "İSTM.ŞSC.14.d.275 / 45b-3 (d)",
-                "order": "57.99999999999999999999"
+                "order": "57.99999999999999999999",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__6",
@@ -469,7 +489,12 @@
             {
                 "id": 89,
                 "value": "İSTM.ŞSC.06.d. 339 / 26b-1 (b)",
-                "order": "59.99999999999999999998"
+                "order": "59.99999999999999999998",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__7",
@@ -593,7 +618,12 @@
             {
                 "id": 79,
                 "value": "İSTM.ŞSC.06.d. 490 / 74a-2",
-                "order": "73.00000000000000000000"
+                "order": "73.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__8",
@@ -679,7 +709,12 @@
             {
                 "id": 82,
                 "value": "İSTM.ŞSC.06.d. 495 / 25a-1",
-                "order": "76.00000000000000000000"
+                "order": "76.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__9",
@@ -765,7 +800,12 @@
             {
                 "id": 85,
                 "value": "İSTM.ŞSC.06.d. 505 / 83a-3",
-                "order": "79.00000000000000000000"
+                "order": "79.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__10",
@@ -865,7 +905,12 @@
             {
                 "id": 86,
                 "value": "İSTM.ŞSC.06.d. 522 / 21b-4",
-                "order": "80.00000000000000000000"
+                "order": "80.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__11",
@@ -965,12 +1010,22 @@
             {
                 "id": 140,
                 "value": "İSTM.ŞSC.06.d. 589 / 49a",
-                "order": "107.00000000000000000000"
+                "order": "107.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 142,
                 "value": "İSTM.ŞSC.06.d. 591 / 19b",
-                "order": "109.00000000000000000000"
+                "order": "109.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "address__12",
@@ -1069,7 +1124,8 @@
             {
                 "id": 152,
                 "value": "İSTM.ŞSC.06.d. 584 / 35b",
-                "order": "119.00000000000000000000"
+                "order": "119.00000000000000000000",
+                "century": null
             }
         ],
         "grocerist_id": "address__13",
@@ -1151,7 +1207,12 @@
             {
                 "id": 5,
                 "value": "İSTM.ŞSC.14.d.196 / 21b-1",
-                "order": "5.00000000000000000000"
+                "order": "5.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__14",
@@ -1251,7 +1312,12 @@
             {
                 "id": 25,
                 "value": "İSTM.ŞSC.14.d.275 / 37a-4",
-                "order": "25.00000000000000000000"
+                "order": "25.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__15",
@@ -1336,7 +1402,12 @@
             {
                 "id": 31,
                 "value": "İSTM.ŞSC.14.d.304 / 22b-3",
-                "order": "31.00000000000000000000"
+                "order": "31.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__16",
@@ -1436,7 +1507,12 @@
             {
                 "id": 20,
                 "value": "İSTM.ŞSC.14.d.254 / 3b-1",
-                "order": "20.00000000000000000000"
+                "order": "20.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__17",
@@ -1536,7 +1612,12 @@
             {
                 "id": 77,
                 "value": "İSTM.ŞSC.06.d. 456 / 82b-3",
-                "order": "71.00000000000000000000"
+                "order": "71.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__18",
@@ -1654,7 +1735,8 @@
             {
                 "id": 173,
                 "value": "İSTM.ŞSC.15d. 300 / 55b",
-                "order": "141.00000000000000000000"
+                "order": "141.00000000000000000000",
+                "century": null
             }
         ],
         "grocerist_id": "address__20",
@@ -1750,7 +1832,12 @@
             {
                 "id": 171,
                 "value": "İSTM.ŞSC.02.d.61 / 94a-2",
-                "order": "139.00000000000000000000"
+                "order": "139.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__21",
@@ -1831,7 +1918,8 @@
             {
                 "id": 176,
                 "value": "İSTM.ŞSC.15d. 361 / 92a",
-                "order": "143.00000000000000000000"
+                "order": "143.00000000000000000000",
+                "century": null
             }
         ],
         "grocerist_id": "address__22",
@@ -1913,7 +2001,12 @@
             {
                 "id": 168,
                 "value": "İSTM.ŞSC.02.d.200 / 34",
-                "order": "136.00000000000000000000"
+                "order": "136.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__23",
@@ -1999,7 +2092,8 @@
             {
                 "id": 178,
                 "value": "İSTM.ŞSC.15d. 393 / 54b-55a",
-                "order": "145.00000000000000000000"
+                "order": "145.00000000000000000000",
+                "century": null
             }
         ],
         "grocerist_id": "address__24",
@@ -2095,7 +2189,12 @@
             {
                 "id": 165,
                 "value": "İSTM.ŞSC.02.d.88 / 49",
-                "order": "133.00000000000000000000"
+                "order": "133.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__25",
@@ -2181,7 +2280,12 @@
             {
                 "id": 183,
                 "value": "İSTM.ŞSC.01.d.66 / 33b-2",
-                "order": "150.00000000000000000000"
+                "order": "150.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__26",
@@ -2267,7 +2371,8 @@
             {
                 "id": 184,
                 "value": "İSTM.ŞSC.15d. 440 / 7b",
-                "order": "151.00000000000000000000"
+                "order": "151.00000000000000000000",
+                "century": null
             }
         ],
         "grocerist_id": "address__27",
@@ -2363,7 +2468,12 @@
             {
                 "id": 188,
                 "value": "İSTM.ŞSC.01.d.66 / 38a-1",
-                "order": "155.00000000000000000000"
+                "order": "155.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__28",
@@ -2444,12 +2554,22 @@
             {
                 "id": 189,
                 "value": "İSTM.ŞSC.01.d.70 / 5b-2",
-                "order": "156.00000000000000000000"
+                "order": "156.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             },
             {
                 "id": 190,
                 "value": "İSTM.ŞSC.01.d.70 / 5b-2",
-                "order": "157.00000000000000000000"
+                "order": "157.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__29",
@@ -2489,7 +2609,12 @@
             {
                 "id": 191,
                 "value": "İSTM.ŞSC.01.d.70 / 5b-2",
-                "order": "158.00000000000000000000"
+                "order": "158.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__30",
@@ -2521,7 +2646,12 @@
             {
                 "id": 192,
                 "value": "İSTM.ŞSC.01.d.70 / 16a-1",
-                "order": "159.00000000000000000000"
+                "order": "159.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__31",
@@ -2607,7 +2737,12 @@
             {
                 "id": 186,
                 "value": "İSTM.ŞSC.01.d.66 / 35b-1",
-                "order": "153.00000000000000000000"
+                "order": "153.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__32",
@@ -2639,12 +2774,18 @@
             {
                 "id": 187,
                 "value": "İSTM.ŞSC.15d. 525 / 55b2",
-                "order": "154.00000000000000000000"
+                "order": "154.00000000000000000000",
+                "century": null
             },
             {
                 "id": 193,
                 "value": "İSTM.ŞSC.01.d.70 / 18a-1",
-                "order": "160.00000000000000000000"
+                "order": "160.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__33",
@@ -2732,7 +2873,12 @@
             {
                 "id": 194,
                 "value": "İSTM.ŞSC.01.d.89 /44a-1",
-                "order": "161.00000000000000000000"
+                "order": "161.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__34",
@@ -2818,7 +2964,12 @@
             {
                 "id": 195,
                 "value": "İSTM.ŞSC.02.d.187 / 15a-2",
-                "order": "162.00000000000000000000"
+                "order": "162.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
             }
         ],
         "grocerist_id": "address__35",
