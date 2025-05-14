@@ -631,8 +631,8 @@
                         "id": 7,
                         "value": "İSTM.ŞSC.14.d.212 / 34b-2",
                         "order": "7.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.00980",
+                        "long": "28.96544",
                         "iso_date": "1711-11-07",
                         "century": {
                             "id": 18268,
@@ -684,8 +684,8 @@
                         "id": 10,
                         "value": "İSTM.ŞSC.14.d.222 / 45a-2",
                         "order": "10.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.00982",
+                        "long": "28.96538",
                         "iso_date": "1713-05-16",
                         "century": {
                             "id": 18268,
@@ -2821,8 +2821,8 @@
                         "id": 70,
                         "value": "İSTM.ŞSC.06.d. 394 / 92a-1",
                         "order": "64.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.02459",
+                        "long": "29.01090",
                         "iso_date": "1736-05-23",
                         "century": {
                             "id": 18268,
@@ -2867,8 +2867,8 @@
         "grocerist_id": "neighbourhood__52",
         "district_eighteenth_century": [],
         "geonames_id": "",
-        "lat": "41.0043533000",
-        "long": "28.9528972000",
+        "lat": null,
+        "long": null,
         "documents": [
             {
                 "id": 73,
@@ -2914,7 +2914,11 @@
                 "id": 148,
                 "value": "İSTM.ŞSC.06.d. 578 / 54a",
                 "order": "115.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "district_nineteenth_century": [],
@@ -3189,12 +3193,16 @@
                         "order": "115.00000000000000000000",
                         "lat": null,
                         "long": null,
-                        "iso_date": "",
-                        "century": null
+                        "iso_date": "1814-03-07",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
-                "century": "NaN",
+                "century": "19",
                 "district": [
                     {
                         "id": 16,
@@ -4704,8 +4712,8 @@
                         "id": 36,
                         "value": "İSTM.ŞSC.14.d.355 / 47b-3",
                         "order": "36.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.02328",
+                        "long": "28.97693",
                         "iso_date": "",
                         "century": {
                             "id": 18268,
@@ -5346,7 +5354,11 @@
                 "id": 145,
                 "value": "İSTM.ŞSC.06.d. 567 / 71a",
                 "order": "112.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "district_nineteenth_century": [],
@@ -5382,7 +5394,11 @@
                         "lat": "41.02504",
                         "long": "29.01077",
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -5422,7 +5438,11 @@
                 "id": 160,
                 "value": "İSTM.ŞSC.06.d. 598 / 41a",
                 "order": "131.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "district_nineteenth_century": [],
@@ -5458,7 +5478,11 @@
                         "lat": "41.02376",
                         "long": "29.01497",
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -5498,13 +5522,21 @@
                 "id": 173,
                 "value": "İSTM.ŞSC.15d. 300 / 55b",
                 "order": "141.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 178,
                 "value": "İSTM.ŞSC.15d. 393 / 54b-55a",
                 "order": "145.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "district_nineteenth_century": [],
@@ -5545,7 +5577,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -5600,7 +5636,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -5758,7 +5798,11 @@
                 "id": 177,
                 "value": "İSTM.ŞSC.15d. 390 / 11ab-12a",
                 "order": "144.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "district_nineteenth_century": [],
@@ -5799,7 +5843,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -5928,7 +5976,11 @@
                 "id": 181,
                 "value": "İSTM.ŞSC.15d. 403 / 34b3",
                 "order": "148.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "district_nineteenth_century": [],
@@ -5969,7 +6021,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -6009,7 +6065,11 @@
                 "id": 182,
                 "value": "İSTM.ŞSC.15d. 436 / 36b",
                 "order": "149.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "district_nineteenth_century": [],
@@ -6045,7 +6105,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],

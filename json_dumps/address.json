@@ -1125,7 +1125,11 @@
                 "id": 152,
                 "value": "İSTM.ŞSC.06.d. 584 / 35b",
                 "order": "119.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "address__13",
@@ -1171,12 +1175,16 @@
                         "order": "119.00000000000000000000",
                         "lat": null,
                         "long": null,
-                        "iso_date": "",
-                        "century": null
+                        "iso_date": "1816-11-29",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
-                "century": "NaN",
+                "century": "19",
                 "district": [
                     {
                         "id": 16,
@@ -1736,7 +1744,11 @@
                 "id": 173,
                 "value": "İSTM.ŞSC.15d. 300 / 55b",
                 "order": "141.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "address__20",
@@ -1791,7 +1803,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -1919,7 +1935,11 @@
                 "id": 176,
                 "value": "İSTM.ŞSC.15d. 361 / 92a",
                 "order": "143.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "address__22",
@@ -1966,7 +1986,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -2093,7 +2117,11 @@
                 "id": 178,
                 "value": "İSTM.ŞSC.15d. 393 / 54b-55a",
                 "order": "145.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "address__24",
@@ -2148,7 +2176,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -2372,7 +2404,11 @@
                 "id": 184,
                 "value": "İSTM.ŞSC.15d. 440 / 7b",
                 "order": "151.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "address__27",
@@ -2424,10 +2460,14 @@
                         "id": 184,
                         "value": "İSTM.ŞSC.15d. 440 / 7b",
                         "order": "151.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.07729",
+                        "long": "28.90309",
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -2775,7 +2815,11 @@
                 "id": 187,
                 "value": "İSTM.ŞSC.15d. 525 / 55b2",
                 "order": "154.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 193,

@@ -85,8 +85,8 @@
                 "id": 10,
                 "value": "İSTM.ŞSC.14.d.222 / 45a-2",
                 "order": "10.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.00982",
+                "long": "28.96538",
                 "iso_date": "1713-05-16",
                 "century": {
                     "id": 18268,
@@ -202,8 +202,8 @@
                 "id": 104,
                 "value": "İSTM.ŞSC.15.d. 243 / 51a-1",
                 "order": "98.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07926",
+                "long": "28.94945",
                 "iso_date": "1781-05-10",
                 "century": {
                     "id": 18268,
@@ -215,8 +215,8 @@
                 "id": 106,
                 "value": "İSTM.ŞSC.15.d. 272 / 27b-1",
                 "order": "100.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "40.98628",
+                "long": "28.87384",
                 "iso_date": "1791-04-03",
                 "century": {
                     "id": 18268,
@@ -368,8 +368,8 @@
                 "id": 107,
                 "value": "İSTM.ŞSC.15.d. 275 / 99b-1",
                 "order": "101.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07727",
+                "long": "28.90307",
                 "iso_date": "1793-02-06",
                 "century": {
                     "id": 18268,
@@ -394,8 +394,8 @@
                 "id": 113,
                 "value": "İSTM.ŞSC.06.d. 584 / 30a-1",
                 "order": "106.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "40.99109",
+                "long": "29.02927",
                 "iso_date": "1816-09-26",
                 "century": {
                     "id": 18269,
@@ -410,7 +410,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 186,
@@ -517,8 +521,8 @@
                 "id": 7,
                 "value": "İSTM.ŞSC.14.d.212 / 34b-2",
                 "order": "7.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.00980",
+                "long": "28.96544",
                 "iso_date": "1711-11-07",
                 "century": {
                     "id": 18268,
@@ -543,8 +547,8 @@
                 "id": 10,
                 "value": "İSTM.ŞSC.14.d.222 / 45a-2",
                 "order": "10.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.00982",
+                "long": "28.96538",
                 "iso_date": "1713-05-16",
                 "century": {
                     "id": 18268,
@@ -634,8 +638,8 @@
                 "id": 41,
                 "value": "İSTM.ŞSC.14.d.400 / 55a-1",
                 "order": "41.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.06875",
+                "long": "29.04279",
                 "iso_date": "1770-03-21",
                 "century": {
                     "id": 18268,
@@ -712,8 +716,8 @@
                 "id": 102,
                 "value": "İSTM.ŞSC.15.d. 230 / 69a-1",
                 "order": "96.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "1775-02-16",
                 "century": {
                     "id": 18268,
@@ -725,8 +729,8 @@
                 "id": 106,
                 "value": "İSTM.ŞSC.15.d. 272 / 27b-1",
                 "order": "100.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "40.98628",
+                "long": "28.87384",
                 "iso_date": "1791-04-03",
                 "century": {
                     "id": 18268,
@@ -790,10 +794,14 @@
                 "id": 180,
                 "value": "İSTM.ŞSC.15d. 402 / 41ab",
                 "order": "147.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 195,
@@ -1017,8 +1025,8 @@
                 "id": 113,
                 "value": "İSTM.ŞSC.06.d. 584 / 30a-1",
                 "order": "106.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "40.99109",
+                "long": "29.02927",
                 "iso_date": "1816-09-26",
                 "century": {
                     "id": 18269,
@@ -1235,8 +1243,8 @@
                 "id": 104,
                 "value": "İSTM.ŞSC.15.d. 243 / 51a-1",
                 "order": "98.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07926",
+                "long": "28.94945",
                 "iso_date": "1781-05-10",
                 "century": {
                     "id": 18268,
@@ -1274,8 +1282,8 @@
                 "id": 113,
                 "value": "İSTM.ŞSC.06.d. 584 / 30a-1",
                 "order": "106.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "40.99109",
+                "long": "29.02927",
                 "iso_date": "1816-09-26",
                 "century": {
                     "id": 18269,
@@ -1303,7 +1311,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 177,
@@ -1312,7 +1324,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 178,
@@ -1321,7 +1337,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 181,
@@ -1330,16 +1350,24 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 184,
                 "value": "İSTM.ŞSC.15d. 440 / 7b",
                 "order": "151.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07729",
+                "long": "28.90309",
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 186,
@@ -1456,8 +1484,8 @@
                 "id": 41,
                 "value": "İSTM.ŞSC.14.d.400 / 55a-1",
                 "order": "41.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.06875",
+                "long": "29.04279",
                 "iso_date": "1770-03-21",
                 "century": {
                     "id": 18268,
@@ -1602,16 +1630,24 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 180,
                 "value": "İSTM.ŞSC.15d. 402 / 41ab",
                 "order": "147.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 195,
@@ -1679,8 +1715,8 @@
                 "id": 10,
                 "value": "İSTM.ŞSC.14.d.222 / 45a-2",
                 "order": "10.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.00982",
+                "long": "28.96538",
                 "iso_date": "1713-05-16",
                 "century": {
                     "id": 18268,
@@ -1744,8 +1780,8 @@
                 "id": 41,
                 "value": "İSTM.ŞSC.14.d.400 / 55a-1",
                 "order": "41.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.06875",
+                "long": "29.04279",
                 "iso_date": "1770-03-21",
                 "century": {
                     "id": 18268,
@@ -1822,8 +1858,8 @@
                 "id": 106,
                 "value": "İSTM.ŞSC.15.d. 272 / 27b-1",
                 "order": "100.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "40.98628",
+                "long": "28.87384",
                 "iso_date": "1791-04-03",
                 "century": {
                     "id": 18268,
@@ -1851,16 +1887,24 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 180,
                 "value": "İSTM.ŞSC.15d. 402 / 41ab",
                 "order": "147.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "utensil__9"
@@ -1915,8 +1959,8 @@
                 "id": 10,
                 "value": "İSTM.ŞSC.14.d.222 / 45a-2",
                 "order": "10.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.00982",
+                "long": "28.96538",
                 "iso_date": "1713-05-16",
                 "century": {
                     "id": 18268,
@@ -2071,8 +2115,8 @@
                 "id": 100,
                 "value": "İSTM.ŞSC.15.d. 205 / 51a-2",
                 "order": "94.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07725",
+                "long": "28.90305",
                 "iso_date": "1760-01-12",
                 "century": {
                     "id": 18268,
@@ -2084,8 +2128,8 @@
                 "id": 102,
                 "value": "İSTM.ŞSC.15.d. 230 / 69a-1",
                 "order": "96.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "1775-02-16",
                 "century": {
                     "id": 18268,
@@ -2097,8 +2141,8 @@
                 "id": 113,
                 "value": "İSTM.ŞSC.06.d. 584 / 30a-1",
                 "order": "106.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "40.99109",
+                "long": "29.02927",
                 "iso_date": "1816-09-26",
                 "century": {
                     "id": 18269,
@@ -2139,16 +2183,24 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 180,
                 "value": "İSTM.ŞSC.15d. 402 / 41ab",
                 "order": "147.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 186,
@@ -2255,8 +2307,8 @@
                 "id": 10,
                 "value": "İSTM.ŞSC.14.d.222 / 45a-2",
                 "order": "10.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.00982",
+                "long": "28.96538",
                 "iso_date": "1713-05-16",
                 "century": {
                     "id": 18268,
@@ -2307,8 +2359,8 @@
                 "id": 41,
                 "value": "İSTM.ŞSC.14.d.400 / 55a-1",
                 "order": "41.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.06875",
+                "long": "29.04279",
                 "iso_date": "1770-03-21",
                 "century": {
                     "id": 18268,
@@ -2460,8 +2512,8 @@
                 "id": 10,
                 "value": "İSTM.ŞSC.14.d.222 / 45a-2",
                 "order": "10.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.00982",
+                "long": "28.96538",
                 "iso_date": "1713-05-16",
                 "century": {
                     "id": 18268,
@@ -2590,8 +2642,8 @@
                 "id": 104,
                 "value": "İSTM.ŞSC.15.d. 243 / 51a-1",
                 "order": "98.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07926",
+                "long": "28.94945",
                 "iso_date": "1781-05-10",
                 "century": {
                     "id": 18268,
@@ -2795,8 +2847,8 @@
                 "id": 104,
                 "value": "İSTM.ŞSC.15.d. 243 / 51a-1",
                 "order": "98.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07926",
+                "long": "28.94945",
                 "iso_date": "1781-05-10",
                 "century": {
                     "id": 18268,
@@ -2896,8 +2948,8 @@
                 "id": 10,
                 "value": "İSTM.ŞSC.14.d.222 / 45a-2",
                 "order": "10.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.00982",
+                "long": "28.96538",
                 "iso_date": "1713-05-16",
                 "century": {
                     "id": 18268,
@@ -3212,10 +3264,14 @@
                 "id": 180,
                 "value": "İSTM.ŞSC.15d. 402 / 41ab",
                 "order": "147.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "utensil__17"
@@ -3358,8 +3414,8 @@
                 "id": 102,
                 "value": "İSTM.ŞSC.15.d. 230 / 69a-1",
                 "order": "96.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "1775-02-16",
                 "century": {
                     "id": 18268,
@@ -3381,8 +3437,8 @@
                 "id": 10,
                 "value": "İSTM.ŞSC.14.d.222 / 45a-2",
                 "order": "10.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.00982",
+                "long": "28.96538",
                 "iso_date": "1713-05-16",
                 "century": {
                     "id": 18268,
@@ -3469,8 +3525,8 @@
                 "id": 107,
                 "value": "İSTM.ŞSC.15.d. 275 / 99b-1",
                 "order": "101.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07727",
+                "long": "28.90307",
                 "iso_date": "1793-02-06",
                 "century": {
                     "id": 18268,
@@ -3992,7 +4048,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "utensil__36"
@@ -4021,8 +4081,8 @@
                 "id": 104,
                 "value": "İSTM.ŞSC.15.d. 243 / 51a-1",
                 "order": "98.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07926",
+                "long": "28.94945",
                 "iso_date": "1781-05-10",
                 "century": {
                     "id": 18268,
@@ -4208,8 +4268,8 @@
                 "id": 100,
                 "value": "İSTM.ŞSC.15.d. 205 / 51a-2",
                 "order": "94.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07725",
+                "long": "28.90305",
                 "iso_date": "1760-01-12",
                 "century": {
                     "id": 18268,
@@ -4231,8 +4291,8 @@
                 "id": 102,
                 "value": "İSTM.ŞSC.15.d. 230 / 69a-1",
                 "order": "96.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "1775-02-16",
                 "century": {
                     "id": 18268,
@@ -4280,8 +4340,8 @@
                 "id": 104,
                 "value": "İSTM.ŞSC.15.d. 243 / 51a-1",
                 "order": "98.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07926",
+                "long": "28.94945",
                 "iso_date": "1781-05-10",
                 "century": {
                     "id": 18268,
@@ -4329,8 +4389,8 @@
                 "id": 70,
                 "value": "İSTM.ŞSC.06.d. 394 / 92a-1",
                 "order": "64.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.02459",
+                "long": "29.01090",
                 "iso_date": "1736-05-23",
                 "century": {
                     "id": 18268,
@@ -4368,8 +4428,8 @@
                 "id": 104,
                 "value": "İSTM.ŞSC.15.d. 243 / 51a-1",
                 "order": "98.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07926",
+                "long": "28.94945",
                 "iso_date": "1781-05-10",
                 "century": {
                     "id": 18268,
@@ -4381,10 +4441,14 @@
                 "id": 184,
                 "value": "İSTM.ŞSC.15d. 440 / 7b",
                 "order": "151.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07729",
+                "long": "28.90309",
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 186,
@@ -4413,8 +4477,8 @@
                 "id": 106,
                 "value": "İSTM.ŞSC.15.d. 272 / 27b-1",
                 "order": "100.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "40.98628",
+                "long": "28.87384",
                 "iso_date": "1791-04-03",
                 "century": {
                     "id": 18268,
@@ -4436,8 +4500,8 @@
                 "id": 106,
                 "value": "İSTM.ŞSC.15.d. 272 / 27b-1",
                 "order": "100.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "40.98628",
+                "long": "28.87384",
                 "iso_date": "1791-04-03",
                 "century": {
                     "id": 18268,
@@ -4511,8 +4575,8 @@
                 "id": 106,
                 "value": "İSTM.ŞSC.15.d. 272 / 27b-1",
                 "order": "100.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "40.98628",
+                "long": "28.87384",
                 "iso_date": "1791-04-03",
                 "century": {
                     "id": 18268,
@@ -4547,8 +4611,8 @@
                 "id": 107,
                 "value": "İSTM.ŞSC.15.d. 275 / 99b-1",
                 "order": "101.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07727",
+                "long": "28.90307",
                 "iso_date": "1793-02-06",
                 "century": {
                     "id": 18268,
@@ -4583,8 +4647,8 @@
                 "id": 113,
                 "value": "İSTM.ŞSC.06.d. 584 / 30a-1",
                 "order": "106.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "40.99109",
+                "long": "29.02927",
                 "iso_date": "1816-09-26",
                 "century": {
                     "id": 18269,
@@ -4599,7 +4663,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 181,
@@ -4608,7 +4676,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "utensil__52"
@@ -4686,7 +4758,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 195,
@@ -4859,8 +4935,8 @@
                 "id": 102,
                 "value": "İSTM.ŞSC.15.d. 230 / 69a-1",
                 "order": "96.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "1775-02-16",
                 "century": {
                     "id": 18268,
@@ -5307,7 +5383,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 181,
@@ -5316,7 +5396,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "utensil__72"
@@ -5525,8 +5609,8 @@
                 "id": 102,
                 "value": "İSTM.ŞSC.15.d. 230 / 69a-1",
                 "order": "96.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "1775-02-16",
                 "century": {
                     "id": 18268,
@@ -6295,8 +6379,8 @@
                 "id": 106,
                 "value": "İSTM.ŞSC.15.d. 272 / 27b-1",
                 "order": "100.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "40.98628",
+                "long": "28.87384",
                 "iso_date": "1791-04-03",
                 "century": {
                     "id": 18268,
@@ -6403,7 +6487,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "utensil__107"
@@ -6924,7 +7012,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "utensil__127"
@@ -7057,25 +7149,37 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 180,
                 "value": "İSTM.ŞSC.15d. 402 / 41ab",
                 "order": "147.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 184,
                 "value": "İSTM.ŞSC.15d. 440 / 7b",
                 "order": "151.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.07729",
+                "long": "28.90309",
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "utensil__133"
@@ -7137,10 +7241,14 @@
                 "id": 180,
                 "value": "İSTM.ŞSC.15d. 402 / 41ab",
                 "order": "147.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.30577",
+                "long": "28.67852",
                 "iso_date": "",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "utensil__136"

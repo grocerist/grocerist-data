@@ -805,8 +805,8 @@
                         "id": 33,
                         "value": "İSTM.ŞSC.14.d. 332 / 48a-1",
                         "order": "33.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.06872",
+                        "long": "29.04286",
                         "iso_date": "1755-04-16",
                         "century": {
                             "id": 18268,
@@ -864,8 +864,8 @@
                         "id": 37,
                         "value": "İSTM.ŞSC.14.d. 361 / 58b-2",
                         "order": "37.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.06871",
+                        "long": "29.04289",
                         "iso_date": "",
                         "century": {
                             "id": 18268,
@@ -923,8 +923,8 @@
                         "id": 41,
                         "value": "İSTM.ŞSC.14.d.400 / 55a-1",
                         "order": "41.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.06875",
+                        "long": "29.04279",
                         "iso_date": "1770-03-21",
                         "century": {
                             "id": 18268,
@@ -982,8 +982,8 @@
                         "id": 51,
                         "value": "İSTM.ŞSC.14.d. 507 / 20b-2",
                         "order": "51.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.06874",
+                        "long": "29.04282",
                         "iso_date": "",
                         "century": {
                             "id": 18268,
@@ -1036,7 +1036,11 @@
                 "id": 180,
                 "value": "İSTM.ŞSC.15d. 402 / 41ab",
                 "order": "147.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "upper_admin1": [
@@ -1071,10 +1075,14 @@
                         "id": 180,
                         "value": "İSTM.ŞSC.15d. 402 / 41ab",
                         "order": "147.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.30577",
+                        "long": "28.67852",
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -1121,7 +1129,11 @@
                 "id": 174,
                 "value": "İSTM.ŞSC.15d. 315 / 26b",
                 "order": "142.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "upper_admin1": [
@@ -1159,7 +1171,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -1200,7 +1216,11 @@
                 "id": 179,
                 "value": "İSTM.ŞSC.15d. 393 / 70ab",
                 "order": "146.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "upper_admin1": [
@@ -1238,7 +1258,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
