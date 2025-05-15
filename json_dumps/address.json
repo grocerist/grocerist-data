@@ -1,58 +1,4 @@
 {
-    "1": {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "name": "",
-        "comments": "",
-        "documents": [],
-        "grocerist_id": "address__1",
-        "lat": null,
-        "long": null,
-        "geonames_id": "",
-        "wikidata_id": "",
-        "upper_admin1": [],
-        "upper_admin4": [],
-        "upper_admin2": [],
-        "upper_admin3": [],
-        "upper_admin5": [],
-        "persons": []
-    },
-    "2": {
-        "id": 2,
-        "order": "2.00000000000000000000",
-        "name": "",
-        "comments": "",
-        "documents": [],
-        "grocerist_id": "address__2",
-        "lat": null,
-        "long": null,
-        "geonames_id": "",
-        "wikidata_id": "",
-        "upper_admin1": [],
-        "upper_admin4": [],
-        "upper_admin2": [],
-        "upper_admin3": [],
-        "upper_admin5": [],
-        "persons": []
-    },
-    "3": {
-        "id": 3,
-        "order": "3.00000000000000000000",
-        "name": "",
-        "comments": "",
-        "documents": [],
-        "grocerist_id": "address__3",
-        "lat": null,
-        "long": null,
-        "geonames_id": "",
-        "wikidata_id": "",
-        "upper_admin1": [],
-        "upper_admin4": [],
-        "upper_admin2": [],
-        "upper_admin3": [],
-        "upper_admin5": [],
-        "persons": []
-    },
     "4": {
         "id": 4,
         "order": "4.00000000000000000000",
@@ -81,8 +27,8 @@
             }
         ],
         "grocerist_id": "address__4",
-        "lat": null,
-        "long": null,
+        "lat": "41.02869",
+        "long": "28.97479",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -160,8 +106,8 @@
                         "id": 115,
                         "value": "İSTM.ŞSC.14.d.275 / 8b-1(d)",
                         "order": "55.99999999999999999999",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.03792",
+                        "long": "28.97813",
                         "iso_date": "1728-09-25",
                         "century": {
                             "id": 18268,
@@ -221,8 +167,8 @@
             }
         ],
         "grocerist_id": "address__5",
-        "lat": null,
-        "long": null,
+        "lat": "41.02396",
+        "long": "28.97130",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -285,8 +231,8 @@
                         "id": 44,
                         "value": "İSTM.ŞSC.14.d. 433 / 21a-3",
                         "order": "44.00000000000000000000",
-                        "lat": "41.12070",
-                        "long": "29.06818",
+                        "lat": "41.12072",
+                        "long": "29.06820",
                         "iso_date": "",
                         "century": {
                             "id": 18268,
@@ -643,7 +589,15 @@
         "upper_admin4": [],
         "upper_admin2": [],
         "upper_admin3": [],
-        "upper_admin5": [],
+        "upper_admin5": [
+            {
+                "ids": {
+                    "database_table_1488": 79,
+                    "database_table_1520": 16
+                },
+                "value": "Kısıklı"
+            }
+        ],
         "persons": [
             {
                 "id": 79,
@@ -687,7 +641,13 @@
                     }
                 ],
                 "neighbourhood": [],
-                "karye": [],
+                "karye": [
+                    {
+                        "id": 16,
+                        "value": "Kısıklı",
+                        "order": "16.00000000000000000000"
+                    }
+                ],
                 "nahiye": [],
                 "quarter": [],
                 "address": [
@@ -734,7 +694,22 @@
         "upper_admin4": [],
         "upper_admin2": [],
         "upper_admin3": [],
-        "upper_admin5": [],
+        "upper_admin5": [
+            {
+                "ids": {
+                    "database_table_1488": 82,
+                    "database_table_1520": 17
+                },
+                "value": "Kulak"
+            },
+            {
+                "ids": {
+                    "database_table_1488": 82,
+                    "database_table_1520": 18
+                },
+                "value": "Karaca Ahmed Sultan"
+            }
+        ],
         "persons": [
             {
                 "id": 82,
@@ -778,7 +753,18 @@
                     }
                 ],
                 "neighbourhood": [],
-                "karye": [],
+                "karye": [
+                    {
+                        "id": 17,
+                        "value": "Kulak",
+                        "order": "17.00000000000000000000"
+                    },
+                    {
+                        "id": 18,
+                        "value": "Karaca Ahmed Sultan",
+                        "order": "18.00000000000000000000"
+                    }
+                ],
                 "nahiye": [],
                 "quarter": [],
                 "address": [
@@ -809,8 +795,8 @@
             }
         ],
         "grocerist_id": "address__10",
-        "lat": null,
-        "long": null,
+        "lat": "41.01796",
+        "long": "29.02568",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -914,8 +900,8 @@
             }
         ],
         "grocerist_id": "address__11",
-        "lat": null,
-        "long": null,
+        "lat": "41.01916",
+        "long": "29.01730",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -1133,8 +1119,8 @@
             }
         ],
         "grocerist_id": "address__13",
-        "lat": null,
-        "long": null,
+        "lat": "41.01936",
+        "long": "29.01365",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -1224,8 +1210,8 @@
             }
         ],
         "grocerist_id": "address__14",
-        "lat": null,
-        "long": null,
+        "lat": "41.02494",
+        "long": "28.96821",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -1524,8 +1510,8 @@
             }
         ],
         "grocerist_id": "address__17",
-        "lat": null,
-        "long": null,
+        "lat": "41.03787",
+        "long": "28.95385",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -1677,8 +1663,8 @@
                         "id": 77,
                         "value": "İSTM.ŞSC.06.d. 456 / 82b-3",
                         "order": "71.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.00992",
+                        "long": "29.03864",
                         "iso_date": "1761-09-25",
                         "century": {
                             "id": 18268,
@@ -1721,18 +1707,105 @@
         "order": "19.00000000000000000000",
         "name": "Seferli Çeşme",
         "comments": "",
-        "documents": [],
+        "documents": [
+            {
+                "id": 170,
+                "value": "İSTM.ŞSC.02.d.257 / 33",
+                "order": "138.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
+            }
+        ],
         "grocerist_id": "address__19",
         "lat": null,
         "long": null,
         "geonames_id": "",
         "wikidata_id": "",
-        "upper_admin1": [],
-        "upper_admin4": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 170,
+                    "database_table_1492": 25
+                },
+                "value": "İstanbul Bab"
+            }
+        ],
+        "upper_admin4": [
+            {
+                "ids": {
+                    "database_table_1488": 170,
+                    "database_table_1493": 111
+                },
+                "value": "Keçeci Piri"
+            }
+        ],
         "upper_admin2": [],
         "upper_admin3": [],
         "upper_admin5": [],
-        "persons": []
+        "persons": [
+            {
+                "id": 144,
+                "order": "140.00000000000000000000",
+                "name": "Yovan",
+                "grocerist_id": "person__144",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 170,
+                        "value": "İSTM.ŞSC.02.d.257 / 33",
+                        "order": "138.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "",
+                        "century": {
+                            "id": 18268,
+                            "value": "18",
+                            "color": "darker-green"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 25,
+                        "value": "İstanbul Bab",
+                        "order": "19.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 111,
+                        "value": "Keçeci Piri",
+                        "order": "106.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 19,
+                        "value": "Seferli Çeşme",
+                        "order": "19.00000000000000000000"
+                    }
+                ]
+            }
+        ]
     },
     "20": {
         "id": 20,
@@ -1752,8 +1825,8 @@
             }
         ],
         "grocerist_id": "address__20",
-        "lat": null,
-        "long": null,
+        "lat": "41.04458",
+        "long": "28.93517",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -1800,8 +1873,8 @@
                         "id": 173,
                         "value": "İSTM.ŞSC.15d. 300 / 55b",
                         "order": "141.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.03986",
+                        "long": "28.93088",
                         "iso_date": "",
                         "century": {
                             "id": 18269,
@@ -1857,8 +1930,8 @@
             }
         ],
         "grocerist_id": "address__21",
-        "lat": null,
-        "long": null,
+        "lat": "41.01826",
+        "long": "28.95312",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -1943,8 +2016,8 @@
             }
         ],
         "grocerist_id": "address__22",
-        "lat": null,
-        "long": null,
+        "lat": "41.00293",
+        "long": "28.95085",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -2125,8 +2198,8 @@
             }
         ],
         "grocerist_id": "address__24",
-        "lat": null,
-        "long": null,
+        "lat": "41.02419",
+        "long": "28.92749",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -2173,8 +2246,8 @@
                         "id": 178,
                         "value": "İSTM.ŞSC.15d. 393 / 54b-55a",
                         "order": "145.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.03988",
+                        "long": "28.93090",
                         "iso_date": "",
                         "century": {
                             "id": 18269,
@@ -2321,8 +2394,8 @@
             }
         ],
         "grocerist_id": "address__26",
-        "lat": null,
-        "long": null,
+        "lat": "41.02906",
+        "long": "28.95173",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -2517,8 +2590,8 @@
             }
         ],
         "grocerist_id": "address__28",
-        "lat": null,
-        "long": null,
+        "lat": "41.01039",
+        "long": "28.96103",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -2613,8 +2686,8 @@
             }
         ],
         "grocerist_id": "address__29",
-        "lat": null,
-        "long": null,
+        "lat": "41.01496",
+        "long": "28.96773",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -2658,8 +2731,8 @@
             }
         ],
         "grocerist_id": "address__30",
-        "lat": null,
-        "long": null,
+        "lat": "41.01514",
+        "long": "28.96732",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -2695,8 +2768,8 @@
             }
         ],
         "grocerist_id": "address__31",
-        "lat": null,
-        "long": null,
+        "lat": "41.01545",
+        "long": "28.91449",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -2786,8 +2859,8 @@
             }
         ],
         "grocerist_id": "address__32",
-        "lat": null,
-        "long": null,
+        "lat": "41.01123",
+        "long": "28.97784",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -2833,8 +2906,8 @@
             }
         ],
         "grocerist_id": "address__33",
-        "lat": null,
-        "long": null,
+        "lat": "41.02270",
+        "long": "28.96032",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -2926,8 +2999,8 @@
             }
         ],
         "grocerist_id": "address__34",
-        "lat": null,
-        "long": null,
+        "lat": "41.00555",
+        "long": "28.94530",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
@@ -3017,8 +3090,8 @@
             }
         ],
         "grocerist_id": "address__35",
-        "lat": null,
-        "long": null,
+        "lat": "41.00358",
+        "long": "28.96073",
         "geonames_id": "",
         "wikidata_id": "",
         "upper_admin1": [
