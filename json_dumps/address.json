@@ -3162,5 +3162,263 @@
                 ]
             }
         ]
+    },
+    "36": {
+        "id": 36,
+        "order": "36.00000000000000000000",
+        "name": "Karaköy İskelesi",
+        "comments": "",
+        "documents": [
+            {
+                "id": 205,
+                "value": "İSTM.ŞSC.14.d.617 / 44b",
+                "order": "169.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            }
+        ],
+        "grocerist_id": "address__36",
+        "lat": null,
+        "long": null,
+        "geonames_id": "",
+        "wikidata_id": "",
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 205,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "upper_admin4": [],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "upper_admin5": [],
+        "persons": [
+            {
+                "id": 171,
+                "order": "167.00000000000000000000",
+                "name": "Konstantin v. Vardaman",
+                "grocerist_id": "person__171",
+                "religion": [],
+                "documents": [
+                    {
+                        "id": 205,
+                        "value": "İSTM.ŞSC.14.d.617 / 44b",
+                        "order": "169.00000000000000000000",
+                        "lat": "41.02183",
+                        "long": "28.97650",
+                        "iso_date": "1815-12-05",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 36,
+                        "value": "Karaköy İskelesi",
+                        "order": "36.00000000000000000000"
+                    }
+                ]
+            }
+        ]
+    },
+    "37": {
+        "id": 37,
+        "order": "37.00000000000000000000",
+        "name": "Balık Pazarı Kapısı Harici",
+        "comments": "",
+        "documents": [],
+        "grocerist_id": "address__37",
+        "lat": null,
+        "long": null,
+        "geonames_id": "",
+        "wikidata_id": "",
+        "upper_admin1": [],
+        "upper_admin4": [],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "upper_admin5": [],
+        "persons": []
+    },
+    "38": {
+        "id": 38,
+        "order": "38.00000000000000000000",
+        "name": "Fermeneciler Sukku",
+        "comments": "",
+        "documents": [
+            {
+                "id": 206,
+                "value": "İSTM.ŞSC.14.d.650 / 63b",
+                "order": "170.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            }
+        ],
+        "grocerist_id": "address__38",
+        "lat": null,
+        "long": null,
+        "geonames_id": "",
+        "wikidata_id": "",
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 206,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "upper_admin4": [],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "upper_admin5": [],
+        "persons": [
+            {
+                "id": 172,
+                "order": "168.00000000000000000000",
+                "name": "Anastaş v. Kablan",
+                "grocerist_id": "person__172",
+                "religion": [],
+                "documents": [
+                    {
+                        "id": 206,
+                        "value": "İSTM.ŞSC.14.d.650 / 63b",
+                        "order": "170.00000000000000000000",
+                        "lat": "41.02221",
+                        "long": "28.97287",
+                        "iso_date": "1824-11-05",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 38,
+                        "value": "Fermeneciler Sukku",
+                        "order": "38.00000000000000000000"
+                    }
+                ]
+            }
+        ]
+    },
+    "39": {
+        "id": 39,
+        "order": "39.00000000000000000000",
+        "name": "Zincirlikuyu karşısı",
+        "comments": "",
+        "documents": [
+            {
+                "id": 208,
+                "value": "İSTM.ŞSC.14.d.748 / 34b",
+                "order": "172.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            }
+        ],
+        "grocerist_id": "address__39",
+        "lat": null,
+        "long": null,
+        "geonames_id": "",
+        "wikidata_id": "",
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 208,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "upper_admin4": [],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "upper_admin5": [],
+        "persons": [
+            {
+                "id": 173,
+                "order": "169.00000000000000000000",
+                "name": "Estavori v. Sırat",
+                "grocerist_id": "person__173",
+                "religion": [],
+                "documents": [
+                    {
+                        "id": 208,
+                        "value": "İSTM.ŞSC.14.d.748 / 34b",
+                        "order": "172.00000000000000000000",
+                        "lat": "41.06753",
+                        "long": "29.01467",
+                        "iso_date": "1876-12-04",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 39,
+                        "value": "Zincirlikuyu karşısı",
+                        "order": "39.00000000000000000000"
+                    }
+                ]
+            }
+        ]
     }
 }

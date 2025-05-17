@@ -449,6 +449,56 @@
                 }
             },
             {
+                "id": 203,
+                "value": "İSTM.ŞSC.14.d.617 / 25b",
+                "order": "167.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
+                "id": 204,
+                "value": "İSTM.ŞSC.14.d.617 / 42a",
+                "order": "168.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
+                "id": 205,
+                "value": "İSTM.ŞSC.14.d.617 / 44b",
+                "order": "169.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
+                "id": 206,
+                "value": "İSTM.ŞSC.14.d.650 / 63b",
+                "order": "170.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
+                "id": 208,
+                "value": "İSTM.ŞSC.14.d.748 / 34b",
+                "order": "172.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
                 "id": 1,
                 "value": "İSTM.ŞSC.14.d.173 / 9b-2",
                 "order": "1.00000000000000000000",
@@ -932,6 +982,46 @@
                     "id": 18268,
                     "value": "18",
                     "color": "darker-green"
+                }
+            },
+            {
+                "id": 203,
+                "value": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
+                "id": 204,
+                "value": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
+                "id": 205,
+                "value": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
+                "id": 206,
+                "value": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
+                "id": 208,
+                "value": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
                 }
             }
         ],
@@ -3859,6 +3949,187 @@
                     }
                 ],
                 "address": []
+            },
+            {
+                "id": 170,
+                "order": "166.00000000000000000000",
+                "name": "Dimitri v. Togofilos",
+                "grocerist_id": "person__170",
+                "religion": [],
+                "documents": [
+                    {
+                        "id": 203,
+                        "value": "İSTM.ŞSC.14.d.617 / 25b",
+                        "order": "167.00000000000000000000",
+                        "lat": "41.00982",
+                        "long": "28.96546",
+                        "iso_date": "1816-10-12",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    },
+                    {
+                        "id": 204,
+                        "value": "İSTM.ŞSC.14.d.617 / 42a",
+                        "order": "168.00000000000000000000",
+                        "lat": "41.00989",
+                        "long": "28.96554",
+                        "iso_date": "1815-12-05",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 15,
+                        "value": "Sultan Bayezıd",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            },
+            {
+                "id": 171,
+                "order": "167.00000000000000000000",
+                "name": "Konstantin v. Vardaman",
+                "grocerist_id": "person__171",
+                "religion": [],
+                "documents": [
+                    {
+                        "id": 205,
+                        "value": "İSTM.ŞSC.14.d.617 / 44b",
+                        "order": "169.00000000000000000000",
+                        "lat": "41.02183",
+                        "long": "28.97650",
+                        "iso_date": "1815-12-05",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 36,
+                        "value": "Karaköy İskelesi",
+                        "order": "36.00000000000000000000"
+                    }
+                ]
+            },
+            {
+                "id": 172,
+                "order": "168.00000000000000000000",
+                "name": "Anastaş v. Kablan",
+                "grocerist_id": "person__172",
+                "religion": [],
+                "documents": [
+                    {
+                        "id": 206,
+                        "value": "İSTM.ŞSC.14.d.650 / 63b",
+                        "order": "170.00000000000000000000",
+                        "lat": "41.02221",
+                        "long": "28.97287",
+                        "iso_date": "1824-11-05",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 38,
+                        "value": "Fermeneciler Sukku",
+                        "order": "38.00000000000000000000"
+                    }
+                ]
+            },
+            {
+                "id": 173,
+                "order": "169.00000000000000000000",
+                "name": "Estavori v. Sırat",
+                "grocerist_id": "person__173",
+                "religion": [],
+                "documents": [
+                    {
+                        "id": 208,
+                        "value": "İSTM.ŞSC.14.d.748 / 34b",
+                        "order": "172.00000000000000000000",
+                        "lat": "41.06753",
+                        "long": "29.01467",
+                        "iso_date": "1876-12-04",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 39,
+                        "value": "Zincirlikuyu karşısı",
+                        "order": "39.00000000000000000000"
+                    }
+                ]
             }
         ]
     },
