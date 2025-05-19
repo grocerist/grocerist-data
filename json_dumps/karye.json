@@ -3222,5 +3222,366 @@
                 "address": []
             }
         ]
+    },
+    "31": {
+        "id": 31,
+        "order": "31.00000000000000000000",
+        "name": "Büyükdere",
+        "notes": "",
+        "documents": [
+            {
+                "id": 213,
+                "value": "İSTM.ŞSC.14d.565/48a-1",
+                "order": "176.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            }
+        ],
+        "grocerist_id": "karye__31",
+        "lat": null,
+        "long": null,
+        "upper_admin2": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 213,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "upper_admin3": [],
+        "upper_admin4": [],
+        "persons": [
+            {
+                "id": 178,
+                "order": "173.00000000000000000000",
+                "name": "Boris v. Panayot",
+                "grocerist_id": "person__178",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 213,
+                        "value": "İSTM.ŞSC.14d.565/48a-1",
+                        "order": "176.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1803-06-06",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [
+                    {
+                        "id": 31,
+                        "value": "Büyükdere",
+                        "order": "31.00000000000000000000"
+                    }
+                ],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            }
+        ]
+    },
+    "32": {
+        "id": 32,
+        "order": "32.00000000000000000000",
+        "name": "Kuruçeşme",
+        "notes": "",
+        "documents": [
+            {
+                "id": 225,
+                "value": "İSTM.ŞSC.14d.583/ 56b-1",
+                "order": "188.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
+                "id": 245,
+                "value": "İSTM.ŞSC.14d.616/ 16ab",
+                "order": "208.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            }
+        ],
+        "grocerist_id": "karye__32",
+        "lat": null,
+        "long": null,
+        "upper_admin2": [
+            {
+                "ids": {
+                    "database_table_1488": 225,
+                    "database_table_2979": 2
+                },
+                "value": "Beşiktaş"
+            }
+        ],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 225,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "upper_admin3": [],
+        "upper_admin4": [],
+        "persons": [
+            {
+                "id": 189,
+                "order": "184.00000000000000000000",
+                "name": "Akser v. Dimitri",
+                "grocerist_id": "person__189",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 225,
+                        "value": "İSTM.ŞSC.14d.583/ 56b-1",
+                        "order": "188.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1808-01-09",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [
+                    {
+                        "id": 32,
+                        "value": "Kuruçeşme",
+                        "order": "32.00000000000000000000"
+                    }
+                ],
+                "nahiye": [
+                    {
+                        "id": 2,
+                        "value": "Beşiktaş",
+                        "order": "2.00000000000000000000"
+                    }
+                ],
+                "quarter": [],
+                "address": []
+            },
+            {
+                "id": 204,
+                "order": "199.00000000000000000000",
+                "name": "Astoyani v. Yovan",
+                "grocerist_id": "person__204",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 245,
+                        "value": "İSTM.ŞSC.14d.616/ 16ab",
+                        "order": "208.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1816-09-12",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [
+                    {
+                        "id": 32,
+                        "value": "Kuruçeşme",
+                        "order": "32.00000000000000000000"
+                    }
+                ],
+                "nahiye": [
+                    {
+                        "id": 2,
+                        "value": "Beşiktaş",
+                        "order": "2.00000000000000000000"
+                    }
+                ],
+                "quarter": [],
+                "address": []
+            }
+        ]
+    },
+    "33": {
+        "id": 33,
+        "order": "33.00000000000000000000",
+        "name": "Ortahisar",
+        "notes": "",
+        "documents": [
+            {
+                "id": 228,
+                "value": "İSTM.ŞSC.14d.604/ 45ab",
+                "order": "191.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            }
+        ],
+        "grocerist_id": "karye__33",
+        "lat": null,
+        "long": null,
+        "upper_admin2": [
+            {
+                "ids": {
+                    "database_table_1488": 228,
+                    "database_table_2979": 1
+                },
+                "value": "İstinye"
+            }
+        ],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 228,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "upper_admin3": [],
+        "upper_admin4": [],
+        "persons": [
+            {
+                "id": 192,
+                "order": "187.00000000000000000000",
+                "name": "Yorgi v. Tanaş",
+                "grocerist_id": "person__192",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 228,
+                        "value": "İSTM.ŞSC.14d.604/ 45ab",
+                        "order": "191.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1813-06-23",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [
+                    {
+                        "id": 33,
+                        "value": "Ortahisar",
+                        "order": "33.00000000000000000000"
+                    }
+                ],
+                "nahiye": [
+                    {
+                        "id": 1,
+                        "value": "İstinye",
+                        "order": "1.00000000000000000000"
+                    }
+                ],
+                "quarter": [],
+                "address": []
+            }
+        ]
     }
 }
