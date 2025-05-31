@@ -159,6 +159,16 @@
                     "value": "19",
                     "color": "dark-purple"
                 }
+            },
+            {
+                "id": 323,
+                "value": "İSTM.ŞSC.14.d.684/ 13b-1",
+                "order": "282.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "quarter__1",
@@ -200,8 +210,8 @@
                         "id": 8,
                         "value": "İSTM.ŞSC.14.d.212 / 74b-1",
                         "order": "8.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.02802",
+                        "long": "28.98120",
                         "iso_date": "1712-05-17",
                         "century": {
                             "id": 18268,
@@ -1134,6 +1144,59 @@
                     }
                 ],
                 "address": []
+            },
+            {
+                "id": 270,
+                "order": "265.00000000000000000000",
+                "name": "Melet v. Likodi",
+                "grocerist_id": "person__270",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 323,
+                        "value": "İSTM.ŞSC.14.d.684/ 13b-1",
+                        "order": "282.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1833-08-28",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 1,
+                        "value": "Tophane",
+                        "order": "1.00000000000000000000"
+                    }
+                ],
+                "address": []
             }
         ]
     },
@@ -1286,6 +1349,26 @@
                 "id": 305,
                 "value": "İSTM.ŞSC.14.d.631/ 5b-1",
                 "order": "264.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
+                "id": 318,
+                "value": "İSTM.ŞSC.14.d.666/ 57b-2",
+                "order": "277.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
+                "id": 324,
+                "value": "İSTM.ŞSC.14.d.684/ 14b-1",
+                "order": "283.00000000000000000000",
                 "century": {
                     "id": 18269,
                     "value": "19",
@@ -2099,8 +2182,8 @@
                         "id": 289,
                         "value": "İSTM.ŞSC.14.d.605/ 12ab",
                         "order": "249.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.03561",
+                        "long": "28.96668",
                         "iso_date": "1813-10-10",
                         "century": {
                             "id": 18269,
@@ -2192,6 +2275,144 @@
                         "id": 17,
                         "value": "Tersane-i Amire",
                         "order": "17.00000000000000000000"
+                    }
+                ]
+            },
+            {
+                "id": 266,
+                "order": "261.00000000000000000000",
+                "name": "Pavli v. Eftim",
+                "grocerist_id": "person__266",
+                "religion": [],
+                "documents": [
+                    {
+                        "id": 314,
+                        "value": "İSTM.ŞSC.14.d.666 / 57b",
+                        "order": "273.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1830-02-03",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    },
+                    {
+                        "id": 317,
+                        "value": "İSTM.ŞSC.14.d.666/ 57b-1",
+                        "order": "276.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1830-02-03",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    },
+                    {
+                        "id": 318,
+                        "value": "İSTM.ŞSC.14.d.666/ 57b-2",
+                        "order": "277.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1830-02-03",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 7,
+                        "value": "Hüseyin Ağa",
+                        "order": "7.00000000000000000000"
+                    },
+                    {
+                        "id": 125,
+                        "value": "Aynalı Çeşme",
+                        "order": "120.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
+                    }
+                ],
+                "address": []
+            },
+            {
+                "id": 271,
+                "order": "266.00000000000000000000",
+                "name": "Yani v. Yorgi",
+                "grocerist_id": "person__271",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 324,
+                        "value": "İSTM.ŞSC.14.d.684/ 14b-1",
+                        "order": "283.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1833-09-13",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
+                    }
+                ],
+                "address": [
+                    {
+                        "id": 62,
+                        "value": "Karanlık fırın",
+                        "order": "62.00000000000000000000"
                     }
                 ]
             }
@@ -2680,8 +2901,8 @@
                         "id": 5,
                         "value": "İSTM.ŞSC.14.d.196 / 21b-1",
                         "order": "5.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.02494",
+                        "long": "28.96821",
                         "iso_date": "1703-08-10",
                         "century": {
                             "id": 18268,
@@ -5012,6 +5233,16 @@
                     "value": "19",
                     "color": "dark-purple"
                 }
+            },
+            {
+                "id": 320,
+                "value": "İSTM.ŞSC.14.d.681/ 36a-3",
+                "order": "279.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "quarter__21",
@@ -5201,6 +5432,59 @@
                         "order": "56.00000000000000000000"
                     }
                 ]
+            },
+            {
+                "id": 268,
+                "order": "263.00000000000000000000",
+                "name": "Yorgi v. Dimitri",
+                "grocerist_id": "person__268",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 320,
+                        "value": "İSTM.ŞSC.14.d.681/ 36a-3",
+                        "order": "279.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1833-04-29",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 21,
+                        "value": "Garb kapusu",
+                        "order": "21.00000000000000000000"
+                    }
+                ],
+                "address": []
             }
         ]
     },

@@ -1387,8 +1387,8 @@
                         "id": 5,
                         "value": "İSTM.ŞSC.14.d.196 / 21b-1",
                         "order": "5.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.02494",
+                        "long": "28.96821",
                         "iso_date": "1703-08-10",
                         "century": {
                             "id": 18268,
@@ -2029,8 +2029,8 @@
                         "id": 170,
                         "value": "İSTM.ŞSC.02.d.257 / 33",
                         "order": "138.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.04103",
+                        "long": "28.95524",
                         "iso_date": "1774-12-16",
                         "century": {
                             "id": 18268,
@@ -4587,8 +4587,8 @@
                         "id": 237,
                         "value": "İSTM.ŞSC.14d.608/ 77b-2",
                         "order": "200.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.03282",
+                        "long": "28.96815",
                         "iso_date": "1815-01-22",
                         "century": {
                             "id": 18269,
@@ -6915,6 +6915,16 @@
                     "value": "19",
                     "color": "dark-purple"
                 }
+            },
+            {
+                "id": 324,
+                "value": "İSTM.ŞSC.14.d.684/ 14b-1",
+                "order": "283.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "address__62",
@@ -6933,7 +6943,15 @@
         ],
         "upper_admin4": [],
         "upper_admin2": [],
-        "upper_admin3": [],
+        "upper_admin3": [
+            {
+                "ids": {
+                    "database_table_1488": 324,
+                    "database_table_2977": 2
+                },
+                "value": "Kasımpaşa"
+            }
+        ],
         "upper_admin5": [],
         "persons": [
             {
@@ -6981,6 +6999,65 @@
                 "karye": [],
                 "nahiye": [],
                 "quarter": [],
+                "address": [
+                    {
+                        "id": 62,
+                        "value": "Karanlık fırın",
+                        "order": "62.00000000000000000000"
+                    }
+                ]
+            },
+            {
+                "id": 271,
+                "order": "266.00000000000000000000",
+                "name": "Yani v. Yorgi",
+                "grocerist_id": "person__271",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 324,
+                        "value": "İSTM.ŞSC.14.d.684/ 14b-1",
+                        "order": "283.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1833-09-13",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
+                    }
+                ],
                 "address": [
                     {
                         "id": 62,
@@ -7091,6 +7168,111 @@
                         "id": 63,
                         "value": "Zift yeri nam mahal",
                         "order": "63.00000000000000000000"
+                    }
+                ]
+            }
+        ]
+    },
+    "64": {
+        "id": 64,
+        "order": "64.00000000000000000000",
+        "name": "Ayazma caddesi",
+        "comments": "",
+        "documents": [
+            {
+                "id": 322,
+                "value": "İSTM.ŞSC.14.d.840/ 48a-2",
+                "order": "281.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            }
+        ],
+        "grocerist_id": "address__64",
+        "lat": null,
+        "long": null,
+        "geonames_id": "",
+        "wikidata_id": "",
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 322,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "upper_admin4": [],
+        "upper_admin2": [
+            {
+                "ids": {
+                    "database_table_1488": 322,
+                    "database_table_2979": 2
+                },
+                "value": "Beşiktaş"
+            }
+        ],
+        "upper_admin3": [],
+        "upper_admin5": [],
+        "persons": [
+            {
+                "id": 276,
+                "order": "271.00000000000000000000",
+                "name": "Tanaş v. Yertomuz",
+                "grocerist_id": "person__276",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 322,
+                        "value": "İSTM.ŞSC.14.d.840/ 48a-2",
+                        "order": "281.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1865-06-21",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [
+                    {
+                        "id": 2,
+                        "value": "Beşiktaş",
+                        "order": "2.00000000000000000000"
+                    }
+                ],
+                "quarter": [],
+                "address": [
+                    {
+                        "id": 64,
+                        "value": "Ayazma caddesi",
+                        "order": "64.00000000000000000000"
                     }
                 ]
             }

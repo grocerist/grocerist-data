@@ -205,6 +205,16 @@
                     "value": "19",
                     "color": "dark-purple"
                 }
+            },
+            {
+                "id": 314,
+                "value": "İSTM.ŞSC.14.d.666 / 57b",
+                "order": "273.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "district_nineteenth_century": [],
@@ -323,6 +333,85 @@
                 "karye": [],
                 "nahiye": [],
                 "quarter": [],
+                "address": []
+            },
+            {
+                "id": 266,
+                "order": "261.00000000000000000000",
+                "name": "Pavli v. Eftim",
+                "grocerist_id": "person__266",
+                "religion": [],
+                "documents": [
+                    {
+                        "id": 314,
+                        "value": "İSTM.ŞSC.14.d.666 / 57b",
+                        "order": "273.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1830-02-03",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    },
+                    {
+                        "id": 317,
+                        "value": "İSTM.ŞSC.14.d.666/ 57b-1",
+                        "order": "276.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1830-02-03",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    },
+                    {
+                        "id": 318,
+                        "value": "İSTM.ŞSC.14.d.666/ 57b-2",
+                        "order": "277.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1830-02-03",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 7,
+                        "value": "Hüseyin Ağa",
+                        "order": "7.00000000000000000000"
+                    },
+                    {
+                        "id": 125,
+                        "value": "Aynalı Çeşme",
+                        "order": "120.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
+                    }
+                ],
                 "address": []
             }
         ]
@@ -829,6 +918,16 @@
                     "value": "19",
                     "color": "dark-purple"
                 }
+            },
+            {
+                "id": 325,
+                "value": "İSTM.ŞSC.14d.688/ 60ab",
+                "order": "284.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "district_nineteenth_century": [],
@@ -1083,6 +1182,59 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1830-05-30",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 15,
+                        "value": "Sultan Bayezıd",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            },
+            {
+                "id": 272,
+                "order": "267.00000000000000000000",
+                "name": "Steryo v. Melkon",
+                "grocerist_id": "person__272",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 325,
+                        "value": "İSTM.ŞSC.14d.688/ 60ab",
+                        "order": "284.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1836-01-22",
                         "century": {
                             "id": 18269,
                             "value": "19",
@@ -2541,8 +2693,8 @@
                         "id": 237,
                         "value": "İSTM.ŞSC.14d.608/ 77b-2",
                         "order": "200.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.03282",
+                        "long": "28.96815",
                         "iso_date": "1815-01-22",
                         "century": {
                             "id": 18269,
@@ -2616,8 +2768,8 @@
                         "id": 290,
                         "value": "İSTM.ŞSC.14.d.605/ 27a-2",
                         "order": "250.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.03284",
+                        "long": "28.96817",
                         "iso_date": "1813-11-13",
                         "century": {
                             "id": 18269,
@@ -8188,8 +8340,8 @@
                         "id": 170,
                         "value": "İSTM.ŞSC.02.d.257 / 33",
                         "order": "138.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.04103",
+                        "long": "28.95524",
                         "iso_date": "1774-12-16",
                         "century": {
                             "id": 18268,
@@ -8523,8 +8675,8 @@
                         "id": 237,
                         "value": "İSTM.ŞSC.14d.608/ 77b-2",
                         "order": "200.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.03282",
+                        "long": "28.96815",
                         "iso_date": "1815-01-22",
                         "century": {
                             "id": 18269,
@@ -8660,8 +8812,8 @@
                         "id": 237,
                         "value": "İSTM.ŞSC.14d.608/ 77b-2",
                         "order": "200.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.03282",
+                        "long": "28.96815",
                         "iso_date": "1815-01-22",
                         "century": {
                             "id": 18269,
@@ -9510,8 +9662,8 @@
                         "id": 289,
                         "value": "İSTM.ŞSC.14.d.605/ 12ab",
                         "order": "249.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.03561",
+                        "long": "28.96668",
                         "iso_date": "1813-10-10",
                         "century": {
                             "id": 18269,
@@ -9715,6 +9867,121 @@
                 "karye": [],
                 "nahiye": [],
                 "quarter": [],
+                "address": []
+            }
+        ]
+    },
+    "125": {
+        "id": 125,
+        "order": "120.00000000000000000000",
+        "name": "Aynalı Çeşme",
+        "grocerist_id": "neighbourhood__125",
+        "district_eighteenth_century": [],
+        "geonames_id": "",
+        "lat": null,
+        "long": null,
+        "documents": [
+            {
+                "id": 317,
+                "value": "İSTM.ŞSC.14.d.666/ 57b-1",
+                "order": "276.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            }
+        ],
+        "district_nineteenth_century": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 317,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "persons": [
+            {
+                "id": 266,
+                "order": "261.00000000000000000000",
+                "name": "Pavli v. Eftim",
+                "grocerist_id": "person__266",
+                "religion": [],
+                "documents": [
+                    {
+                        "id": 314,
+                        "value": "İSTM.ŞSC.14.d.666 / 57b",
+                        "order": "273.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1830-02-03",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    },
+                    {
+                        "id": 317,
+                        "value": "İSTM.ŞSC.14.d.666/ 57b-1",
+                        "order": "276.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1830-02-03",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    },
+                    {
+                        "id": 318,
+                        "value": "İSTM.ŞSC.14.d.666/ 57b-2",
+                        "order": "277.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1830-02-03",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 7,
+                        "value": "Hüseyin Ağa",
+                        "order": "7.00000000000000000000"
+                    },
+                    {
+                        "id": 125,
+                        "value": "Aynalı Çeşme",
+                        "order": "120.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 2,
+                        "value": "Kasımpaşa",
+                        "order": "2.00000000000000000000"
+                    }
+                ],
                 "address": []
             }
         ]
