@@ -148,7 +148,11 @@
                 "id": 284,
                 "value": "İSTM.ŞSC.14.d.664/ 25b-1",
                 "order": "244.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 308,
@@ -842,7 +846,13 @@
                 ],
                 "occupation": [],
                 "century": "19",
-                "district": [],
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
                 "neighbourhood": [],
                 "karye": [],
                 "nahiye": [],
@@ -1056,7 +1066,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1828-10-09",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],

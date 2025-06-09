@@ -6403,7 +6403,18 @@
         "order": "142.00000000000000000000",
         "name": "Yani v. Yorgi",
         "grocerist_id": "person__146",
-        "religion": [],
+        "religion": [
+            {
+                "id": 6682,
+                "value": "Non muslim",
+                "color": "gray"
+            },
+            {
+                "id": 6705,
+                "value": "Orthodox",
+                "color": "dark-blue"
+            }
+        ],
         "documents": [],
         "occupation": [],
         "century": "NaN",
@@ -7537,7 +7548,18 @@
         "order": "166.00000000000000000000",
         "name": "Dimitri v. Togofilos",
         "grocerist_id": "person__170",
-        "religion": [],
+        "religion": [
+            {
+                "id": 6682,
+                "value": "Non muslim",
+                "color": "gray"
+            },
+            {
+                "id": 6705,
+                "value": "Orthodox",
+                "color": "dark-blue"
+            }
+        ],
         "documents": [
             {
                 "id": 203,
@@ -7592,7 +7614,18 @@
         "order": "167.00000000000000000000",
         "name": "Konstantin v. Vardaman",
         "grocerist_id": "person__171",
-        "religion": [],
+        "religion": [
+            {
+                "id": 6682,
+                "value": "Non muslim",
+                "color": "gray"
+            },
+            {
+                "id": 6705,
+                "value": "Orthodox",
+                "color": "dark-blue"
+            }
+        ],
         "documents": [
             {
                 "id": 205,
@@ -10820,7 +10853,13 @@
         ],
         "occupation": [],
         "century": "19",
-        "district": [],
+        "district": [
+            {
+                "id": 4,
+                "value": "Galata",
+                "order": "0.99999999999999999988"
+            }
+        ],
         "neighbourhood": [],
         "karye": [],
         "nahiye": [],
@@ -11300,7 +11339,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "1828-05-14",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "occupation": [],
@@ -11349,7 +11392,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "1828-07-14",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "occupation": [],
@@ -11404,7 +11451,11 @@
                 "lat": null,
                 "long": null,
                 "iso_date": "1828-10-09",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "occupation": [],

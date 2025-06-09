@@ -2079,7 +2079,11 @@
                 "id": 283,
                 "value": "İSTM.ŞSC.14.d.664/ 13b-2",
                 "order": "243.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 288,
@@ -3054,7 +3058,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1828-07-14",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],

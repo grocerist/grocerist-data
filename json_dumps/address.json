@@ -3465,7 +3465,18 @@
                 "order": "167.00000000000000000000",
                 "name": "Konstantin v. Vardaman",
                 "grocerist_id": "person__171",
-                "religion": [],
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
                 "documents": [
                     {
                         "id": 205,
@@ -5355,7 +5366,13 @@
                 ],
                 "occupation": [],
                 "century": "19",
-                "district": [],
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
                 "neighbourhood": [],
                 "karye": [],
                 "nahiye": [],
@@ -5966,7 +5983,15 @@
         "long": null,
         "geonames_id": "",
         "wikidata_id": "",
-        "upper_admin1": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 269,
+                    "database_table_1492": 4
+                },
+                "value": "Galata"
+            }
+        ],
         "upper_admin4": [],
         "upper_admin2": [],
         "upper_admin3": [
@@ -6014,7 +6039,13 @@
                 ],
                 "occupation": [],
                 "century": "19",
-                "district": [],
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
                 "neighbourhood": [],
                 "karye": [],
                 "nahiye": [],
@@ -6460,7 +6491,11 @@
                 "id": 283,
                 "value": "İSTM.ŞSC.14.d.664/ 13b-2",
                 "order": "243.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "grocerist_id": "address__58",
@@ -6515,7 +6550,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1828-07-14",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],

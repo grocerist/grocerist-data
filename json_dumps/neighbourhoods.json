@@ -1054,7 +1054,18 @@
                 "order": "166.00000000000000000000",
                 "name": "Dimitri v. Togofilos",
                 "grocerist_id": "person__170",
-                "religion": [],
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
                 "documents": [
                     {
                         "id": 203,
@@ -9057,7 +9068,11 @@
                 "id": 284,
                 "value": "İSTM.ŞSC.14.d.664/ 25b-1",
                 "order": "244.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "district_nineteenth_century": [],
@@ -9172,7 +9187,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1828-10-09",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -9715,7 +9734,11 @@
                 "id": 282,
                 "value": "İSTM.ŞSC.14.d.664/ 2b-1",
                 "order": "242.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             }
         ],
         "district_nineteenth_century": [],
@@ -9756,7 +9779,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1828-05-14",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],

@@ -1049,6 +1049,16 @@
                 }
             },
             {
+                "id": 269,
+                "value": "İSTM.ŞSC.14d.646/ 39a-2",
+                "order": "232.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
                 "id": 270,
                 "value": "İSTM.ŞSC.14d.649/ 40b",
                 "order": "233.00000000000000000000",
@@ -1142,19 +1152,31 @@
                 "id": 282,
                 "value": "İSTM.ŞSC.14.d.664/ 2b-1",
                 "order": "242.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 283,
                 "value": "İSTM.ŞSC.14.d.664/ 13b-2",
                 "order": "243.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 284,
                 "value": "İSTM.ŞSC.14.d.664/ 25b-1",
                 "order": "244.00000000000000000000",
-                "century": null
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 285,
@@ -2533,6 +2555,14 @@
                 }
             },
             {
+                "id": 269,
+                "value": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
                 "id": 270,
                 "value": {
                     "id": 18269,
@@ -2606,15 +2636,27 @@
             },
             {
                 "id": 282,
-                "value": null
+                "value": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 283,
-                "value": null
+                "value": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 284,
-                "value": null
+                "value": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
             },
             {
                 "id": 285,
@@ -5875,7 +5917,18 @@
                 "order": "166.00000000000000000000",
                 "name": "Dimitri v. Togofilos",
                 "grocerist_id": "person__170",
-                "religion": [],
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
                 "documents": [
                     {
                         "id": 203,
@@ -5930,7 +5983,18 @@
                 "order": "167.00000000000000000000",
                 "name": "Konstantin v. Vardaman",
                 "grocerist_id": "person__171",
-                "religion": [],
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
                 "documents": [
                     {
                         "id": 205,
@@ -9125,6 +9189,70 @@
                 "address": []
             },
             {
+                "id": 228,
+                "order": "223.00000000000000000000",
+                "name": "Vasil v. Karataş",
+                "grocerist_id": "person__228",
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 269,
+                        "value": "İSTM.ŞSC.14d.646/ 39a-2",
+                        "order": "232.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1823-09-08",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 4,
+                        "value": "Galata",
+                        "order": "0.99999999999999999988"
+                    }
+                ],
+                "neighbourhood": [],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [
+                    {
+                        "id": 1,
+                        "value": "Tophane",
+                        "order": "1.00000000000000000000"
+                    }
+                ],
+                "address": [
+                    {
+                        "id": 50,
+                        "value": "Salı pazarı nam mahal",
+                        "order": "50.00000000000000000000"
+                    },
+                    {
+                        "id": 54,
+                        "value": "Yağhane kurbü",
+                        "order": "54.00000000000000000000"
+                    }
+                ]
+            },
+            {
                 "id": 229,
                 "order": "224.00000000000000000000",
                 "name": "Kosta v. Yorgi",
@@ -9580,7 +9708,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1828-05-14",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -9629,7 +9761,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1828-07-14",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
@@ -9684,7 +9820,11 @@
                         "lat": null,
                         "long": null,
                         "iso_date": "1828-10-09",
-                        "century": null
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
                     }
                 ],
                 "occupation": [],
