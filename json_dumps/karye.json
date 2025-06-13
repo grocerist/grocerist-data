@@ -1126,8 +1126,8 @@
                         "id": 89,
                         "value": "İSTM.ŞSC.06.d.339 / 26b-1 (b)",
                         "order": "59.99999999999999999998",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.02345",
+                        "long": "29.02952",
                         "iso_date": "1709-01-30",
                         "century": {
                             "id": 18268,
@@ -1826,8 +1826,8 @@
                         "id": 75,
                         "value": "İSTM.ŞSC.06.d.443 / 11a-1 (a)",
                         "order": "69.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.02495",
+                        "long": "29.01548",
                         "iso_date": "1756-08-05",
                         "century": {
                             "id": 18268,
@@ -1839,8 +1839,8 @@
                         "id": 123,
                         "value": "İSTM.ŞSC.06.d.443 / 11a-1 (b)",
                         "order": "69.99999999999999999998",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.02497",
+                        "long": "29.01544",
                         "iso_date": "1756-08-05",
                         "century": {
                             "id": 18268,
@@ -1852,8 +1852,8 @@
                         "id": 124,
                         "value": "İSTM.ŞSC.06.d.443 / 11a-1 (c)",
                         "order": "69.99999999999999999999",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.02499",
+                        "long": "29.01542",
                         "iso_date": "1756-08-05",
                         "century": {
                             "id": 18268,
@@ -4297,8 +4297,8 @@
                         "id": 271,
                         "value": "İSTM.ŞSC.14d.649/ 53a-2",
                         "order": "234.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.02508",
+                        "long": "28.96761",
                         "iso_date": "1825-02-28",
                         "century": {
                             "id": 18269,
@@ -4476,5 +4476,39 @@
                 "address": []
             }
         ]
+    },
+    "37": {
+        "id": 37,
+        "order": "37.00000000000000000000",
+        "name": "Dudullu",
+        "notes": "",
+        "documents": [
+            {
+                "id": 156,
+                "value": "İSTM.ŞSC.06.d.593 / 48b",
+                "order": "127.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            }
+        ],
+        "grocerist_id": "karye__37",
+        "lat": null,
+        "long": null,
+        "upper_admin2": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 156,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "upper_admin3": [],
+        "upper_admin4": [],
+        "persons": []
     }
 }

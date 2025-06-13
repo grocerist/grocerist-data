@@ -1137,8 +1137,8 @@
                         "id": 215,
                         "value": "İSTM.ŞSC.14d.568/ 117a",
                         "order": "178.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.00985",
+                        "long": "28.96558",
                         "iso_date": "1804-05-06",
                         "century": {
                             "id": 18269,
@@ -1190,8 +1190,8 @@
                         "id": 287,
                         "value": "İSTM.ŞSC.14.d.671/ 15a-1",
                         "order": "247.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.00987",
+                        "long": "28.96552",
                         "iso_date": "1830-05-30",
                         "century": {
                             "id": 18269,
@@ -1243,8 +1243,8 @@
                         "id": 325,
                         "value": "İSTM.ŞSC.14d.688/ 60ab",
                         "order": "284.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.00983",
+                        "long": "28.96556",
                         "iso_date": "1836-01-22",
                         "century": {
                             "id": 18269,
@@ -2577,8 +2577,8 @@
                         "id": 4,
                         "value": "İSTM.ŞSC.14.d.196 / 19b-1",
                         "order": "4.00000000000000000000",
-                        "lat": "41.03286",
-                        "long": "28.96819",
+                        "lat": "41.02432",
+                        "long": "28.97103",
                         "iso_date": "1703-06-09",
                         "century": {
                             "id": 18268,
@@ -2631,8 +2631,8 @@
                         "id": 30,
                         "value": "İSTM.ŞSC.14.d.290 / 73b-2",
                         "order": "30.00000000000000000000",
-                        "lat": "41.03288",
-                        "long": "28.96821",
+                        "lat": "41.02434",
+                        "long": "28.97105",
                         "iso_date": "1738-08-09",
                         "century": {
                             "id": 18268,
@@ -2697,8 +2697,8 @@
                         "id": 236,
                         "value": "İSTM.ŞSC.14d.608/ 77b-1",
                         "order": "199.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.08610",
+                        "long": "29.05441",
                         "iso_date": "1815-01-22",
                         "century": {
                             "id": 18269,
@@ -2710,8 +2710,8 @@
                         "id": 237,
                         "value": "İSTM.ŞSC.14d.608/ 77b-2",
                         "order": "200.00000000000000000000",
-                        "lat": "41.03282",
-                        "long": "28.96815",
+                        "lat": "41.02438",
+                        "long": "28.97109",
                         "iso_date": "1815-01-22",
                         "century": {
                             "id": 18269,
@@ -2785,8 +2785,8 @@
                         "id": 290,
                         "value": "İSTM.ŞSC.14.d.605/ 27a-2",
                         "order": "250.00000000000000000000",
-                        "lat": "41.03284",
-                        "long": "28.96817",
+                        "lat": "41.02436",
+                        "long": "28.97107",
                         "iso_date": "1813-11-13",
                         "century": {
                             "id": 18269,
@@ -7368,6 +7368,16 @@
         "long": "29.0149700000",
         "documents": [
             {
+                "id": 158,
+                "value": "İSTM.ŞSC.06.d.597 / 24",
+                "order": "129.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            },
+            {
                 "id": 160,
                 "value": "İSTM.ŞSC.06.d.598 / 41a",
                 "order": "131.00000000000000000000",
@@ -7382,7 +7392,7 @@
         "upper_admin1": [
             {
                 "ids": {
-                    "database_table_1488": 160,
+                    "database_table_1488": 158,
                     "database_table_1492": 16
                 },
                 "value": "Üsküdar"
@@ -8679,8 +8689,8 @@
                         "id": 236,
                         "value": "İSTM.ŞSC.14d.608/ 77b-1",
                         "order": "199.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.08610",
+                        "long": "29.05441",
                         "iso_date": "1815-01-22",
                         "century": {
                             "id": 18269,
@@ -8692,8 +8702,8 @@
                         "id": 237,
                         "value": "İSTM.ŞSC.14d.608/ 77b-2",
                         "order": "200.00000000000000000000",
-                        "lat": "41.03282",
-                        "long": "28.96815",
+                        "lat": "41.02438",
+                        "long": "28.97109",
                         "iso_date": "1815-01-22",
                         "century": {
                             "id": 18269,
@@ -8816,8 +8826,8 @@
                         "id": 236,
                         "value": "İSTM.ŞSC.14d.608/ 77b-1",
                         "order": "199.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.08610",
+                        "long": "29.05441",
                         "iso_date": "1815-01-22",
                         "century": {
                             "id": 18269,
@@ -8829,8 +8839,8 @@
                         "id": 237,
                         "value": "İSTM.ŞSC.14d.608/ 77b-2",
                         "order": "200.00000000000000000000",
-                        "lat": "41.03282",
-                        "long": "28.96815",
+                        "lat": "41.02438",
+                        "long": "28.97109",
                         "iso_date": "1815-01-22",
                         "century": {
                             "id": 18269,
@@ -10075,8 +10085,8 @@
                         "id": 329,
                         "value": "İSTM.ŞSC.14.d.951 /14ab",
                         "order": "288.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.02628",
+                        "long": "28.97492",
                         "iso_date": "1896-05-20",
                         "century": {
                             "id": 18269,
@@ -10099,6 +10109,209 @@
                         "id": 126,
                         "value": "Küçük Yazıcı",
                         "order": "121.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            }
+        ]
+    },
+    "127": {
+        "id": 127,
+        "order": "122.00000000000000000000",
+        "name": "Arakiyeci Elhac Cafer",
+        "grocerist_id": "neighbourhood__127",
+        "district_eighteenth_century": [],
+        "geonames_id": "",
+        "lat": null,
+        "long": null,
+        "documents": [
+            {
+                "id": 159,
+                "value": "İSTM.ŞSC.06.d.597 / 54b-1",
+                "order": "130.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            }
+        ],
+        "district_nineteenth_century": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 159,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "persons": [
+            {
+                "id": 137,
+                "order": "134.00000000000000000000",
+                "name": "Bakkal İsmail beşe b. Yakub bey",
+                "grocerist_id": "person__137",
+                "religion": [
+                    {
+                        "id": 6681,
+                        "value": "Muslim",
+                        "color": "green"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 159,
+                        "value": "İSTM.ŞSC.06.d.597 / 54b-1",
+                        "order": "130.00000000000000000000",
+                        "lat": "41.01432",
+                        "long": "29.02180",
+                        "iso_date": "",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "NaN",
+                "district": [
+                    {
+                        "id": 16,
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 127,
+                        "value": "Arakiyeci Elhac Cafer",
+                        "order": "122.00000000000000000000"
+                    }
+                ],
+                "karye": [],
+                "nahiye": [],
+                "quarter": [],
+                "address": []
+            }
+        ]
+    },
+    "128": {
+        "id": 128,
+        "order": "123.00000000000000000000",
+        "name": "Kantarcılar",
+        "grocerist_id": "neighbourhood__128",
+        "district_eighteenth_century": [],
+        "geonames_id": "",
+        "lat": null,
+        "long": null,
+        "documents": [
+            {
+                "id": 197,
+                "value": "İSTM.ŞSC.02.d.268 / 41",
+                "order": "164.00000000000000000000",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
+            }
+        ],
+        "district_nineteenth_century": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 197,
+                    "database_table_1492": 26
+                },
+                "value": "İstanbul"
+            }
+        ],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "persons": []
+    },
+    "129": {
+        "id": 129,
+        "order": "124.00000000000000000000",
+        "name": "Süleyman ağa",
+        "grocerist_id": "neighbourhood__129",
+        "district_eighteenth_century": [],
+        "geonames_id": "",
+        "lat": null,
+        "long": null,
+        "documents": [
+            {
+                "id": 143,
+                "value": "İSTM.ŞSC.06.d.559 / 13a",
+                "order": "110.00000000000000000000",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            }
+        ],
+        "district_nineteenth_century": [],
+        "upper_admin1": [
+            {
+                "ids": {
+                    "database_table_1488": 143,
+                    "database_table_1492": 16
+                },
+                "value": "Üsküdar"
+            }
+        ],
+        "upper_admin2": [],
+        "upper_admin3": [],
+        "persons": [
+            {
+                "id": 123,
+                "order": "120.00000000000000000000",
+                "name": "Salih beşe b. Abdullah",
+                "grocerist_id": "person__123",
+                "religion": [
+                    {
+                        "id": 6681,
+                        "value": "Muslim",
+                        "color": "green"
+                    }
+                ],
+                "documents": [
+                    {
+                        "id": 143,
+                        "value": "İSTM.ŞSC.06.d.559 / 13a",
+                        "order": "110.00000000000000000000",
+                        "lat": null,
+                        "long": null,
+                        "iso_date": "1803-10-21",
+                        "century": {
+                            "id": 18269,
+                            "value": "19",
+                            "color": "dark-purple"
+                        }
+                    }
+                ],
+                "occupation": [],
+                "century": "19",
+                "district": [
+                    {
+                        "id": 16,
+                        "value": "Üsküdar",
+                        "order": "15.00000000000000000000"
+                    }
+                ],
+                "neighbourhood": [
+                    {
+                        "id": 129,
+                        "value": "Süleyman ağa",
+                        "order": "124.00000000000000000000"
                     }
                 ],
                 "karye": [],
