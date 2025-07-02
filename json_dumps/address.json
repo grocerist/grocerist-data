@@ -118,6 +118,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 4,
@@ -243,6 +244,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -416,6 +418,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 4,
@@ -501,6 +504,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 4,
@@ -661,6 +665,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 16,
@@ -725,7 +730,8 @@
                     }
                 ],
                 "occupation": [],
-                "century": "NaN",
+                "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 16,
@@ -825,6 +831,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 16,
@@ -937,6 +944,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 16,
@@ -1047,6 +1055,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 16,
@@ -1152,6 +1161,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 16,
@@ -1272,6 +1282,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 16,
@@ -1363,6 +1374,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 16,
@@ -1462,6 +1474,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -1569,6 +1582,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -1621,6 +1635,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -1720,6 +1735,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -1835,6 +1851,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -1894,6 +1911,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -1999,6 +2017,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 16,
@@ -2104,6 +2123,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 25,
@@ -2208,7 +2228,8 @@
                     }
                 ],
                 "occupation": [],
-                "century": "NaN",
+                "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 19,
@@ -2301,6 +2322,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 25,
@@ -2391,7 +2413,8 @@
                     }
                 ],
                 "occupation": [],
-                "century": "NaN",
+                "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 19,
@@ -2483,6 +2506,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 25,
@@ -2581,7 +2605,8 @@
                     }
                 ],
                 "occupation": [],
-                "century": "NaN",
+                "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 19,
@@ -2679,6 +2704,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 25,
@@ -2770,6 +2796,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 26,
@@ -2868,7 +2895,8 @@
                     }
                 ],
                 "occupation": [],
-                "century": "NaN",
+                "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 19,
@@ -2961,6 +2989,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 26,
@@ -3144,6 +3173,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 26,
@@ -3284,6 +3314,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 26,
@@ -3374,7 +3405,8 @@
                     }
                 ],
                 "occupation": [],
-                "century": "19",
+                "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 26,
@@ -3466,6 +3498,7 @@
                 ],
                 "occupation": [],
                 "century": "18",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 25,
@@ -3557,6 +3590,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -3684,6 +3718,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 4,
@@ -3747,6 +3782,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -3827,6 +3863,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -3907,6 +3944,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -4006,6 +4044,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -4131,6 +4170,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -4184,6 +4224,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -4243,6 +4284,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -4334,6 +4376,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -4425,6 +4468,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -4524,6 +4568,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -4673,6 +4718,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 4,
@@ -4748,6 +4794,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -4855,6 +4902,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -4908,6 +4956,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -5017,6 +5066,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 4,
@@ -5136,6 +5186,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 4,
@@ -5245,6 +5296,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -5370,6 +5422,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -5429,6 +5482,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -5493,6 +5547,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -5592,6 +5647,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -5697,6 +5753,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -5832,6 +5889,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -5891,6 +5949,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -5944,6 +6003,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -5997,6 +6057,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -6102,6 +6163,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -6238,6 +6300,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 4,
@@ -6404,6 +6467,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 4,
@@ -6523,6 +6587,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -6622,6 +6687,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -6740,6 +6806,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 4,
@@ -6860,6 +6927,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": true,
                 "district": [
                     {
                         "id": 4,
@@ -6975,6 +7043,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -7090,6 +7159,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -7143,6 +7213,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -7248,6 +7319,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -7353,6 +7425,7 @@
                 ],
                 "occupation": [],
                 "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 4,
@@ -7449,7 +7522,8 @@
                     }
                 ],
                 "occupation": [],
-                "century": "NaN",
+                "century": "19",
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 16,

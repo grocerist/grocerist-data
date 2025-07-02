@@ -2,13 +2,2213 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "term": "",
-    "grocerist_id": "term__1"
+    "term": "Ab-ı limon",
+    "grocerist_id": "term__1",
+    "long_text": "Lemon juice"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
+    "term": "Adi süpürge",
+    "grocerist_id": "term__2",
+    "long_text": "Regular broom"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "term": "Ahtapot ... balık",
+    "grocerist_id": "term__3",
+    "long_text": ""
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "term": "Ak tuz",
+    "grocerist_id": "term__4",
+    "long_text": "White salt"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "term": "Akdeniz balı",
+    "grocerist_id": "term__5",
+    "long_text": "Mediterranean honey"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "term": "Alaca bakla",
+    "grocerist_id": "term__6",
+    "long_text": "Multi colored broad bean"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "term": "Anadolu pirinci",
+    "grocerist_id": "term__7",
+    "long_text": "Anatolian rice"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "term": "Anason",
+    "grocerist_id": "term__8",
+    "long_text": "Aniseed"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "term": "Arak",
+    "grocerist_id": "term__9",
+    "long_text": "Arak"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "term": "Arpa şariye",
+    "grocerist_id": "term__10",
+    "long_text": "Orzo"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "term": "Arpacık soğanı",
+    "grocerist_id": "term__11",
+    "long_text": "Pearl onion"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "term": "Asma yaprağı",
+    "grocerist_id": "term__12",
+    "long_text": "Vine leave"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "term": "Atik peyniri",
+    "grocerist_id": "term__13",
+    "long_text": "Aged cheese"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "term": "Badem",
+    "grocerist_id": "term__14",
+    "long_text": "Almond"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "term": "Baharat",
+    "grocerist_id": "term__15",
+    "long_text": "Spice"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "term": "Bakla",
+    "grocerist_id": "term__16",
+    "long_text": "Broad bean"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "term": "Bal / Asel",
+    "grocerist_id": "term__17",
+    "long_text": "Honey"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "term": "Balık",
+    "grocerist_id": "term__18",
+    "long_text": "Fish"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "term": "Balık salamurası",
+    "grocerist_id": "term__19",
+    "long_text": "Fish brine"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "term": "Balık turşusu",
+    "grocerist_id": "term__20",
+    "long_text": "Pickled fish"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "term": "Balkan peyniri",
+    "grocerist_id": "term__21",
+    "long_text": "Balkan cheese"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "term": "Balmumu",
+    "grocerist_id": "term__22",
+    "long_text": "Beeswax"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "term": "Bamya",
+    "grocerist_id": "term__23",
+    "long_text": "Okra"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "term": "Bardak",
+    "grocerist_id": "term__24",
+    "long_text": "Cup"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "term": "Basdırma",
+    "grocerist_id": "term__25",
+    "long_text": "Pastrami"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "term": "Beyaz fasulye",
+    "grocerist_id": "term__26",
+    "long_text": "White bean"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "term": "Beylerce üzümü",
+    "grocerist_id": "term__27",
+    "long_text": "Beylerce raisin"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "term": "Bezelye",
+    "grocerist_id": "term__28",
+    "long_text": "Pea"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "term": "Bezelye kutu",
+    "grocerist_id": "term__29",
+    "long_text": "Canned pea"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "term": "Böğrülce",
+    "grocerist_id": "term__30",
+    "long_text": "Cowpea"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "term": "Boyabad pirinç",
+    "grocerist_id": "term__31",
+    "long_text": "Boyabad rice"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "term": "Büber",
+    "grocerist_id": "term__32",
+    "long_text": "Pepper"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "term": "Büber turşusu",
+    "grocerist_id": "term__33",
+    "long_text": "Pickled peppers"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "term": "Buğday",
+    "grocerist_id": "term__34",
+    "long_text": "Wheat"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "term": "Bulgur",
+    "grocerist_id": "term__35",
+    "long_text": "Bulgur"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "term": "Çakmak",
+    "grocerist_id": "term__36",
+    "long_text": "Lighter"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "term": "Çakmak tozu",
+    "grocerist_id": "term__37",
+    "long_text": "Flint powder"
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "term": "Çalgı revgan-ı sade",
+    "grocerist_id": "term__38",
+    "long_text": ""
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "term": "Çalı süpürgesi",
+    "grocerist_id": "term__39",
+    "long_text": "Brushwood broom"
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "term": "Çarçube kağıdı",
+    "grocerist_id": "term__40",
+    "long_text": "Framing paper"
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "term": "Çay kutu",
+    "grocerist_id": "term__41",
+    "long_text": "Box of tea"
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "term": "Ceviz",
+    "grocerist_id": "term__42",
+    "long_text": "Walnut"
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "term": "Çingane süpürgesi",
+    "grocerist_id": "term__43",
+    "long_text": ""
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "term": "Çiroz balığı",
+    "grocerist_id": "term__44",
+    "long_text": "Sun-dried mackerel"
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "term": "Çıra",
+    "grocerist_id": "term__45",
+    "long_text": "Kindling wood"
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "term": "Çorbalık arpa",
+    "grocerist_id": "term__46",
+    "long_text": "Soup barley"
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "term": "Çorbalık buğday",
+    "grocerist_id": "term__47",
+    "long_text": "Soup wheat"
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "term": "Çörek otu",
+    "grocerist_id": "term__48",
+    "long_text": "Black sesame"
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "term": "Çorlu kaşkavalı",
+    "grocerist_id": "term__49",
+    "long_text": "Kashkaval of Çorlu"
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "term": "Çorlu pekmezi",
+    "grocerist_id": "term__50",
+    "long_text": "Çorlu molasses"
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "term": "Çorlu peyniri",
+    "grocerist_id": "term__51",
+    "long_text": "Çorlu cheese"
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "term": "Çürük mum",
+    "grocerist_id": "term__52",
+    "long_text": "Spoilt candle"
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "term": "Çürük zeytun",
+    "grocerist_id": "term__53",
+    "long_text": "Spoilt olives"
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "term": "Çütre balığı",
+    "grocerist_id": "term__54",
+    "long_text": "Grey triggerfish"
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "term": "Dakik",
+    "grocerist_id": "term__55",
+    "long_text": "Flour"
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "term": "Dakik-i has",
+    "grocerist_id": "term__56",
+    "long_text": "Finer flour"
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "term": "Dakik-i vasat",
+    "grocerist_id": "term__57",
+    "long_text": "Flour (average quality)"
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "term": "Daru",
+    "grocerist_id": "term__58",
+    "long_text": "Millet"
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "term": "Daru sirkesi",
+    "grocerist_id": "term__59",
+    "long_text": "Millet vinegar"
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "term": "Demet odunu",
+    "grocerist_id": "term__60",
+    "long_text": ""
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "term": "Deniz tuzu",
+    "grocerist_id": "term__61",
+    "long_text": "Sea salt"
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "term": "Dil peyniri",
+    "grocerist_id": "term__62",
+    "long_text": "String cheese"
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "term": "Dimyat Pirinci",
+    "grocerist_id": "term__63",
+    "long_text": "Dimyat rice"
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "term": "Döğülmüş arpa",
+    "grocerist_id": "term__64",
+    "long_text": "Beaten barley"
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "term": "Döğülmüş biber",
+    "grocerist_id": "term__65",
+    "long_text": "Beaten pepper"
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "term": "Döğülmüş buğday",
+    "grocerist_id": "term__66",
+    "long_text": "Beaten wheat"
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "term": "Döğülmüş Leh tuzu",
+    "grocerist_id": "term__67",
+    "long_text": "Beaten Polish salt"
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "term": "Döğülmüş Şariyye",
+    "grocerist_id": "term__68",
+    "long_text": "beaten vermicelli"
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "term": "Döğülmüş tuz",
+    "grocerist_id": "term__69",
+    "long_text": "Smashed salt"
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "term": "Dolama Yağı",
+    "grocerist_id": "term__70",
+    "long_text": "Rendered fat"
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "term": "Dolmalık yaprak",
+    "grocerist_id": "term__71",
+    "long_text": "Leaves for stuffing (used for making dolma)"
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "term": "Duhan",
+    "grocerist_id": "term__72",
+    "long_text": "Tobacco"
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "term": "Edirne ince şariyye",
+    "grocerist_id": "term__73",
+    "long_text": "Thin vermicelli of Edirne"
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "term": "Edirne kaşarı",
+    "grocerist_id": "term__74",
+    "long_text": "Edirne kashar cheese (a type of aged yellow cheese from Edirne)"
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "term": "Edremit siyahı üzüm",
+    "grocerist_id": "term__75",
+    "long_text": "Black raisins of Edirne"
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "term": "Eflak balı",
+    "grocerist_id": "term__76",
+    "long_text": "Wallachian honey"
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "term": "Eflak peyniri",
+    "grocerist_id": "term__77",
+    "long_text": "Wallachian cheese"
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "term": "Eflak tuzu",
+    "grocerist_id": "term__78",
+    "long_text": "Wallachian salt"
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "term": "Elma",
+    "grocerist_id": "term__79",
+    "long_text": "Apple"
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "term": "Emrud kakı",
+    "grocerist_id": "term__80",
+    "long_text": "Dried pears"
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "term": "Emrud kurusu",
+    "grocerist_id": "term__81",
+    "long_text": "Dried pears"
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "term": "Enfiye",
+    "grocerist_id": "term__82",
+    "long_text": "Snuff"
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "term": "Erik",
+    "grocerist_id": "term__83",
+    "long_text": "Prune"
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "term": "Fasulye",
+    "grocerist_id": "term__84",
+    "long_text": "Bean"
+  },
+  "85": {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "term": "Fenar",
+    "grocerist_id": "term__85",
+    "long_text": "Lantern"
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "term": "Fındık",
+    "grocerist_id": "term__86",
+    "long_text": "Hazelnut"
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "term": "Fındık içi",
+    "grocerist_id": "term__87",
+    "long_text": "Nutmeat"
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "term": "Fırça",
+    "grocerist_id": "term__88",
+    "long_text": "Brush"
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "term": "Fıstık",
+    "grocerist_id": "term__89",
+    "long_text": "Pistachio"
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "term": "Flemenk Peyniri",
+    "grocerist_id": "term__90",
+    "long_text": "Dutch cheese"
+  },
+  "91": {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "term": "Fülfül",
+    "grocerist_id": "term__91",
+    "long_text": "Black pepper"
+  },
+  "92": {
+    "id": 92,
+    "order": "92.00000000000000000000",
+    "term": "Gaz şişesi",
+    "grocerist_id": "term__92",
+    "long_text": "Gas bottle"
+  },
+  "93": {
+    "id": 93,
+    "order": "93.00000000000000000000",
+    "term": "Gaz teneke",
+    "grocerist_id": "term__93",
+    "long_text": "Gas tin"
+  },
+  "94": {
+    "id": 94,
+    "order": "94.00000000000000000000",
+    "term": "Gaz yağı",
+    "grocerist_id": "term__94",
+    "long_text": "Gas oil"
+  },
+  "95": {
+    "id": 95,
+    "order": "95.00000000000000000000",
+    "term": "Gemlik tuzu",
+    "grocerist_id": "term__95",
+    "long_text": "Gemlik salt"
+  },
+  "96": {
+    "id": 96,
+    "order": "96.00000000000000000000",
+    "term": "Gemlik zeytunu",
+    "grocerist_id": "term__96",
+    "long_text": "Gemlik olives"
+  },
+  "97": {
+    "id": 97,
+    "order": "97.00000000000000000000",
+    "term": "Girit pekmezi",
+    "grocerist_id": "term__97",
+    "long_text": "Creatan molasses"
+  },
+  "98": {
+    "id": 98,
+    "order": "98.00000000000000000000",
+    "term": "Girit peyniri",
+    "grocerist_id": "term__98",
+    "long_text": "Creatan cheese"
+  },
+  "99": {
+    "id": 99,
+    "order": "99.00000000000000000000",
+    "term": "Girit sabunu",
+    "grocerist_id": "term__99",
+    "long_text": "Creatan soap"
+  },
+  "100": {
+    "id": 100,
+    "order": "100.00000000000000000000",
+    "term": "Girit zeytunu",
+    "grocerist_id": "term__100",
+    "long_text": "Cretan olives"
+  },
+  "101": {
+    "id": 101,
+    "order": "101.00000000000000000000",
+    "term": "Gömeç balı",
+    "grocerist_id": "term__101",
+    "long_text": "Gömeç honey"
+  },
+  "102": {
+    "id": 102,
+    "order": "102.00000000000000000000",
+    "term": "Gömlek",
+    "grocerist_id": "term__102",
+    "long_text": "Shirt"
+  },
+  "103": {
+    "id": 103,
+    "order": "103.00000000000000000000",
+    "term": "Gön",
+    "grocerist_id": "term__103",
+    "long_text": "Leather"
+  },
+  "104": {
+    "id": 104,
+    "order": "104.00000000000000000000",
+    "term": "Ham sirke",
+    "grocerist_id": "term__104",
+    "long_text": "Wine"
+  },
+  "105": {
+    "id": 105,
+    "order": "105.00000000000000000000",
+    "term": "Hardal",
+    "grocerist_id": "term__105",
+    "long_text": "Mustard"
+  },
+  "106": {
+    "id": 106,
+    "order": "106.00000000000000000000",
+    "term": "Hasır Süpürgesi",
+    "grocerist_id": "term__106",
+    "long_text": "Straw broom"
+  },
+  "107": {
+    "id": 107,
+    "order": "107.00000000000000000000",
+    "term": "Hatab",
+    "grocerist_id": "term__107",
+    "long_text": "Firewood"
+  },
+  "108": {
+    "id": 108,
+    "order": "108.00000000000000000000",
+    "term": "Havyar",
+    "grocerist_id": "term__108",
+    "long_text": "Caviar"
+  },
+  "109": {
+    "id": 109,
+    "order": "109.00000000000000000000",
+    "term": "Horoz",
+    "grocerist_id": "term__109",
+    "long_text": "Rooster"
+  },
+  "110": {
+    "id": 110,
+    "order": "110.00000000000000000000",
+    "term": "Hoşablık üzüm",
+    "grocerist_id": "term__110",
+    "long_text": "Raisins for compote"
+  },
+  "111": {
+    "id": 111,
+    "order": "111.00000000000000000000",
+    "term": "Hunnap",
+    "grocerist_id": "term__111",
+    "long_text": "Jujube"
+  },
+  "112": {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "term": "Hurda tuz",
+    "grocerist_id": "term__112",
+    "long_text": "Scrap salt"
+  },
+  "113": {
+    "id": 113,
+    "order": "113.00000000000000000000",
+    "term": "Hurma",
+    "grocerist_id": "term__113",
+    "long_text": "Date"
+  },
+  "114": {
+    "id": 114,
+    "order": "114.00000000000000000000",
+    "term": "İğde",
+    "grocerist_id": "term__114",
+    "long_text": "Oleaster"
+  },
+  "115": {
+    "id": 115,
+    "order": "115.00000000000000000000",
+    "term": "Ihlamur",
+    "grocerist_id": "term__115",
+    "long_text": "Linden"
+  },
+  "116": {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "term": "İnce tuz",
+    "grocerist_id": "term__116",
+    "long_text": "Fine salt"
+  },
+  "117": {
+    "id": 117,
+    "order": "117.00000000000000000000",
+    "term": "İncir",
+    "grocerist_id": "term__117",
+    "long_text": "Fig"
+  },
+  "118": {
+    "id": 118,
+    "order": "118.00000000000000000000",
+    "term": "İngiliz pirinci",
+    "grocerist_id": "term__118",
+    "long_text": "English rice"
+  },
+  "119": {
+    "id": 119,
+    "order": "119.00000000000000000000",
+    "term": "İplik",
+    "grocerist_id": "term__119",
+    "long_text": "Yarn"
+  },
+  "120": {
+    "id": 120,
+    "order": "120.00000000000000000000",
+    "term": "İrmik",
+    "grocerist_id": "term__120",
+    "long_text": "Semolina"
+  },
+  "121": {
+    "id": 121,
+    "order": "121.00000000000000000000",
+    "term": "İspermeçet mumu",
+    "grocerist_id": "term__121",
+    "long_text": "Sparmeceti candle"
+  },
+  "122": {
+    "id": 122,
+    "order": "122.00000000000000000000",
+    "term": "Istakoz kutu",
+    "grocerist_id": "term__122",
+    "long_text": "Canned lobster"
+  },
+  "123": {
+    "id": 123,
+    "order": "123.00000000000000000000",
+    "term": "İstavrit balığı",
+    "grocerist_id": "term__123",
+    "long_text": "Horse mackarel"
+  },
+  "124": {
+    "id": 124,
+    "order": "124.00000000000000000000",
+    "term": "İzmir böğrülcesi",
+    "grocerist_id": "term__124",
+    "long_text": "İzmir cowpea"
+  },
+  "125": {
+    "id": 125,
+    "order": "125.00000000000000000000",
+    "term": "İzmir sabunu",
+    "grocerist_id": "term__125",
+    "long_text": "İzmir soap"
+  },
+  "126": {
+    "id": 126,
+    "order": "126.00000000000000000000",
+    "term": "İzmir siyahı üzüm",
+    "grocerist_id": "term__126",
+    "long_text": "Black raisins of İzmir"
+  },
+  "127": {
+    "id": 127,
+    "order": "127.00000000000000000000",
+    "term": "İzmir üzümü",
+    "grocerist_id": "term__127",
+    "long_text": "Raisins of İzmir"
+  },
+  "128": {
+    "id": 128,
+    "order": "128.00000000000000000000",
+    "term": "Kaba soğan",
+    "grocerist_id": "term__128",
+    "long_text": "Onion"
+  },
+  "129": {
+    "id": 129,
+    "order": "129.00000000000000000000",
+    "term": "Kaba tuz",
+    "grocerist_id": "term__129",
+    "long_text": "Coarse salt"
+  },
+  "130": {
+    "id": 130,
+    "order": "130.00000000000000000000",
+    "term": "Kabuklu acıbadem",
+    "grocerist_id": "term__130",
+    "long_text": "Shelled bitter almonds"
+  },
+  "131": {
+    "id": 131,
+    "order": "131.00000000000000000000",
+    "term": "Kabuklu badem",
+    "grocerist_id": "term__131",
+    "long_text": "Shelled almonds"
+  },
+  "132": {
+    "id": 132,
+    "order": "132.00000000000000000000",
+    "term": "Kağıd",
+    "grocerist_id": "term__132",
+    "long_text": "Paper"
+  },
+  "133": {
+    "id": 133,
+    "order": "133.00000000000000000000",
+    "term": "Kahve",
+    "grocerist_id": "term__133",
+    "long_text": "Coffee"
+  },
+  "134": {
+    "id": 134,
+    "order": "134.00000000000000000000",
+    "term": "Kahve şekeri",
+    "grocerist_id": "term__134",
+    "long_text": "Coffee sugar"
+  },
+  "135": {
+    "id": 135,
+    "order": "135.00000000000000000000",
+    "term": "Kakırdak",
+    "grocerist_id": "term__135",
+    "long_text": "Tallow"
+  },
+  "136": {
+    "id": 136,
+    "order": "136.00000000000000000000",
+    "term": "Kalın tuz",
+    "grocerist_id": "term__136",
+    "long_text": "Coarse salt"
+  },
+  "137": {
+    "id": 137,
+    "order": "137.00000000000000000000",
+    "term": "Kara bakla",
+    "grocerist_id": "term__137",
+    "long_text": "Black broad bean"
+  },
+  "138": {
+    "id": 138,
+    "order": "138.00000000000000000000",
+    "term": "Karadeniz aseli",
+    "grocerist_id": "term__138",
+    "long_text": "Black sea honey"
+  },
+  "139": {
+    "id": 139,
+    "order": "139.00000000000000000000",
+    "term": "Karadeniz mısırı",
+    "grocerist_id": "term__139",
+    "long_text": ""
+  },
+  "140": {
+    "id": 140,
+    "order": "140.00000000000000000000",
+    "term": "Karagümrük tulum peyniri",
+    "grocerist_id": "term__140",
+    "long_text": "Karagümrük tulum cheese"
+  },
+  "141": {
+    "id": 141,
+    "order": "141.00000000000000000000",
+    "term": "Karamürsel zeytunu",
+    "grocerist_id": "term__141",
+    "long_text": "Karamürsel olives"
+  },
+  "142": {
+    "id": 142,
+    "order": "142.00000000000000000000",
+    "term": "Karpuz",
+    "grocerist_id": "term__142",
+    "long_text": "Watermelon"
+  },
+  "143": {
+    "id": 143,
+    "order": "143.00000000000000000000",
+    "term": "Kaşar peyniri",
+    "grocerist_id": "term__143",
+    "long_text": "A type of aged yellow cheese"
+  },
+  "144": {
+    "id": 144,
+    "order": "144.00000000000000000000",
+    "term": "Kaşar peyniri",
+    "grocerist_id": "term__144",
+    "long_text": "a type of aged yellow cheese (spoilt)"
+  },
+  "145": {
+    "id": 145,
+    "order": "145.00000000000000000000",
+    "term": "Kaşkaval",
+    "grocerist_id": "term__145",
+    "long_text": "Kashkaval"
+  },
+  "146": {
+    "id": 146,
+    "order": "146.00000000000000000000",
+    "term": "Katran",
+    "grocerist_id": "term__146",
+    "long_text": "Tar"
+  },
+  "147": {
+    "id": 147,
+    "order": "147.00000000000000000000",
+    "term": "Kav",
+    "grocerist_id": "term__147",
+    "long_text": "Tinder"
+  },
+  "148": {
+    "id": 148,
+    "order": "148.00000000000000000000",
+    "term": "Kavanoz",
+    "grocerist_id": "term__148",
+    "long_text": "Jar"
+  },
+  "149": {
+    "id": 149,
+    "order": "149.00000000000000000000",
+    "term": "Kavata",
+    "grocerist_id": "term__149",
+    "long_text": "Underripe tomato"
+  },
+  "150": {
+    "id": 150,
+    "order": "150.00000000000000000000",
+    "term": "Kaya tuzu",
+    "grocerist_id": "term__150",
+    "long_text": "Rock salt"
+  },
+  "151": {
+    "id": 151,
+    "order": "151.00000000000000000000",
+    "term": "Kaymak Trabzon",
+    "grocerist_id": "term__151",
+    "long_text": "Kaymak from Trabzon (a traditional creamy dairy product)"
+  },
+  "152": {
+    "id": 152,
+    "order": "152.00000000000000000000",
+    "term": "Kayseriye basdırması",
+    "grocerist_id": "term__152",
+    "long_text": "Pastrami of Kayseri"
+  },
+  "153": {
+    "id": 153,
+    "order": "153.00000000000000000000",
+    "term": "Kebir tuz",
+    "grocerist_id": "term__153",
+    "long_text": "Coarse grained salt"
+  },
+  "154": {
+    "id": 154,
+    "order": "154.00000000000000000000",
+    "term": "Keçi peyniri",
+    "grocerist_id": "term__154",
+    "long_text": "Goat cheese"
+  },
+  "155": {
+    "id": 155,
+    "order": "155.00000000000000000000",
+    "term": "Keçiboynuzu / Harnup",
+    "grocerist_id": "term__155",
+    "long_text": "Carob"
+  },
+  "156": {
+    "id": 156,
+    "order": "156.00000000000000000000",
+    "term": "Kefe tuzu",
+    "grocerist_id": "term__156",
+    "long_text": "Kefe salt"
+  },
+  "157": {
+    "id": 157,
+    "order": "157.00000000000000000000",
+    "term": "Kenevir tohumu",
+    "grocerist_id": "term__157",
+    "long_text": "Hemp seed"
+  },
+  "158": {
+    "id": 158,
+    "order": "158.00000000000000000000",
+    "term": "Kereste",
+    "grocerist_id": "term__158",
+    "long_text": "Timber"
+  },
+  "159": {
+    "id": 159,
+    "order": "159.00000000000000000000",
+    "term": "Kestane",
+    "grocerist_id": "term__159",
+    "long_text": "Chestnut"
+  },
+  "160": {
+    "id": 160,
+    "order": "160.00000000000000000000",
+    "term": "Kil",
+    "grocerist_id": "term__160",
+    "long_text": "Clay"
+  },
+  "161": {
+    "id": 161,
+    "order": "161.00000000000000000000",
+    "term": "Kili basdırması",
+    "grocerist_id": "term__161",
+    "long_text": "Pastrami of Kili"
+  },
+  "162": {
+    "id": 162,
+    "order": "162.00000000000000000000",
+    "term": "Kimyon",
+    "grocerist_id": "term__162",
+    "long_text": "Cumin"
+  },
+  "163": {
+    "id": 163,
+    "order": "163.00000000000000000000",
+    "term": "Kiraz kurusu",
+    "grocerist_id": "term__163",
+    "long_text": "Dried cherries"
+  },
+  "164": {
+    "id": 164,
+    "order": "164.00000000000000000000",
+    "term": "Kişniş",
+    "grocerist_id": "term__164",
+    "long_text": "Coriander"
+  },
+  "165": {
+    "id": 165,
+    "order": "165.00000000000000000000",
+    "term": "Kırmızı büber",
+    "grocerist_id": "term__165",
+    "long_text": "Red pepper"
+  },
+  "166": {
+    "id": 166,
+    "order": "166.00000000000000000000",
+    "term": "Kırmızı mercimek",
+    "grocerist_id": "term__166",
+    "long_text": "Red lentil"
+  },
+  "167": {
+    "id": 167,
+    "order": "167.00000000000000000000",
+    "term": "Kırmızı sele zeytunu",
+    "grocerist_id": "term__167",
+    "long_text": ""
+  },
+  "168": {
+    "id": 168,
+    "order": "168.00000000000000000000",
+    "term": "Kırmızı üzüm",
+    "grocerist_id": "term__168",
+    "long_text": "Red raisins"
+  },
+  "169": {
+    "id": 169,
+    "order": "169.00000000000000000000",
+    "term": "Kızak yağı",
+    "grocerist_id": "term__169",
+    "long_text": "Sled grease"
+  },
+  "170": {
+    "id": 170,
+    "order": "170.00000000000000000000",
+    "term": "Kızıl Şariyye",
+    "grocerist_id": "term__170",
+    "long_text": "Red vermicelli"
+  },
+  "171": {
+    "id": 171,
+    "order": "171.00000000000000000000",
+    "term": "Kızıl üzüm",
+    "grocerist_id": "term__171",
+    "long_text": "Red raisins"
+  },
+  "172": {
+    "id": 172,
+    "order": "172.00000000000000000000",
+    "term": "Kızılcık kurusu",
+    "grocerist_id": "term__172",
+    "long_text": "Dried cornelian cherry"
+  },
+  "173": {
+    "id": 173,
+    "order": "173.00000000000000000000",
+    "term": "Koca siyah üzüm",
+    "grocerist_id": "term__173",
+    "long_text": ""
+  },
+  "174": {
+    "id": 174,
+    "order": "174.00000000000000000000",
+    "term": "Koca üzümü",
+    "grocerist_id": "term__174",
+    "long_text": ""
+  },
+  "175": {
+    "id": 175,
+    "order": "175.00000000000000000000",
+    "term": "Köfter",
+    "grocerist_id": "term__175",
+    "long_text": "A sweet made of starch and boiled-down grape juice i."
+  },
+  "176": {
+    "id": 176,
+    "order": "176.00000000000000000000",
+    "term": "Koğa yoğurdu",
+    "grocerist_id": "term__176",
+    "long_text": "Bucket yogurt"
+  },
+  "177": {
+    "id": 177,
+    "order": "177.00000000000000000000",
+    "term": "Kolyarudya balığı",
+    "grocerist_id": "term__177",
+    "long_text": "Young horse mackarel"
+  },
+  "178": {
+    "id": 178,
+    "order": "178.00000000000000000000",
+    "term": "Kolyoz balığı",
+    "grocerist_id": "term__178",
+    "long_text": "Chub mackarel"
+  },
+  "179": {
+    "id": 179,
+    "order": "179.00000000000000000000",
+    "term": "Kömür",
+    "grocerist_id": "term__179",
+    "long_text": "Coal"
+  },
+  "180": {
+    "id": 180,
+    "order": "180.00000000000000000000",
+    "term": "Konyak",
+    "grocerist_id": "term__180",
+    "long_text": "Cognac"
+  },
+  "181": {
+    "id": 181,
+    "order": "181.00000000000000000000",
+    "term": "Köy tuzu",
+    "grocerist_id": "term__181",
+    "long_text": "Farmer salt"
+  },
+  "182": {
+    "id": 182,
+    "order": "182.00000000000000000000",
+    "term": "Küflenmiş zeytun",
+    "grocerist_id": "term__182",
+    "long_text": "Moldy olives"
+  },
+  "183": {
+    "id": 183,
+    "order": "183.00000000000000000000",
+    "term": "Kürek unu",
+    "grocerist_id": "term__183",
+    "long_text": "A type of coarse flour"
+  },
+  "184": {
+    "id": 184,
+    "order": "184.00000000000000000000",
+    "term": "Kuru üzüm",
+    "grocerist_id": "term__184",
+    "long_text": "Raisins"
+  },
+  "185": {
+    "id": 185,
+    "order": "185.00000000000000000000",
+    "term": "Kurumuş şariyye",
+    "grocerist_id": "term__185",
+    "long_text": "Dried vermicelli"
+  },
+  "186": {
+    "id": 186,
+    "order": "186.00000000000000000000",
+    "term": "Kuş üzümü",
+    "grocerist_id": "term__186",
+    "long_text": "Currant"
+  },
+  "187": {
+    "id": 187,
+    "order": "187.00000000000000000000",
+    "term": "Kuş yemi bulgur",
+    "grocerist_id": "term__187",
+    "long_text": "Bulgur grain that is specifically prepared or sold as bird feed"
+  },
+  "188": {
+    "id": 188,
+    "order": "188.00000000000000000000",
+    "term": "Kuşadası  balı",
+    "grocerist_id": "term__188",
+    "long_text": "Honey of Kuşadası"
+  },
+  "190": {
+    "id": 190,
+    "order": "190.00000000000000000000",
+    "term": "Kutu balı",
+    "grocerist_id": "term__190",
+    "long_text": "Boxed honey"
+  },
+  "191": {
+    "id": 191,
+    "order": "191.00000000000000000000",
+    "term": "Kuyruk yağı",
+    "grocerist_id": "term__191",
+    "long_text": "Fat rendered from the tail of a sheep or tail-fat"
+  },
+  "192": {
+    "id": 192,
+    "order": "192.00000000000000000000",
+    "term": "Lahana turşusu",
+    "grocerist_id": "term__192",
+    "long_text": "Pickled cabbage"
+  },
+  "193": {
+    "id": 193,
+    "order": "193.00000000000000000000",
+    "term": "Lakerda balığı",
+    "grocerist_id": "term__193",
+    "long_text": "Lakerda fish (typically refers to bonito or mackerel prepared as lakerda, a traditional salted fish, similar to pickled or brined bonito)"
+  },
+  "194": {
+    "id": 194,
+    "order": "194.00000000000000000000",
+    "term": "Leblebi",
+    "grocerist_id": "term__194",
+    "long_text": "Roasted chickpea"
+  },
+  "195": {
+    "id": 195,
+    "order": "195.00000000000000000000",
+    "term": "Leh kaşkavalı",
+    "grocerist_id": "term__195",
+    "long_text": "Polish kashkaval"
+  },
+  "196": {
+    "id": 196,
+    "order": "196.00000000000000000000",
+    "term": "Leh tuzu",
+    "grocerist_id": "term__196",
+    "long_text": "Polish salt"
+  },
+  "197": {
+    "id": 197,
+    "order": "197.00000000000000000000",
+    "term": "Limon",
+    "grocerist_id": "term__197",
+    "long_text": "Lemon"
+  },
+  "198": {
+    "id": 198,
+    "order": "198.00000000000000000000",
+    "term": "Lob inciri",
+    "grocerist_id": "term__198",
+    "long_text": "Lob figs"
+  },
+  "199": {
+    "id": 199,
+    "order": "199.00000000000000000000",
+    "term": "Lüle",
+    "grocerist_id": "term__199",
+    "long_text": "Pipe"
+  },
+  "200": {
+    "id": 200,
+    "order": "200.00000000000000000000",
+    "term": "Makarna",
+    "grocerist_id": "term__200",
+    "long_text": "Pasta"
+  },
+  "201": {
+    "id": 201,
+    "order": "201.00000000000000000000",
+    "term": "Mercimek",
+    "grocerist_id": "term__201",
+    "long_text": "Lentil"
+  },
+  "202": {
+    "id": 202,
+    "order": "202.00000000000000000000",
+    "term": "Mersin balığı",
+    "grocerist_id": "term__202",
+    "long_text": "Sturgeon"
+  },
+  "203": {
+    "id": 203,
+    "order": "203.00000000000000000000",
+    "term": "Meydan süpürgesi",
+    "grocerist_id": "term__203",
+    "long_text": "It refers to a large, sturdy broom traditionally used to sweep open public areas like courtyards"
+  },
+  "204": {
+    "id": 204,
+    "order": "204.00000000000000000000",
+    "term": "Mısır ipliği",
+    "grocerist_id": "term__204",
+    "long_text": ""
+  },
+  "205": {
+    "id": 205,
+    "order": "205.00000000000000000000",
+    "term": "Mısır pirinci",
+    "grocerist_id": "term__205",
+    "long_text": "Rice of Egypt"
+  },
+  "206": {
+    "id": 206,
+    "order": "206.00000000000000000000",
+    "term": "Morina balığı",
+    "grocerist_id": "term__206",
+    "long_text": "Codfish"
+  },
+  "207": {
+    "id": 207,
+    "order": "207.00000000000000000000",
+    "term": "Mudurnu peyniri",
+    "grocerist_id": "term__207",
+    "long_text": "Mudurnu cheese"
+  },
+  "208": {
+    "id": 208,
+    "order": "208.00000000000000000000",
+    "term": "Mum",
+    "grocerist_id": "term__208",
+    "long_text": "Candle"
+  },
+  "209": {
+    "id": 209,
+    "order": "209.00000000000000000000",
+    "term": "Mum yağı",
+    "grocerist_id": "term__209",
+    "long_text": "Candle oil"
+  },
+  "210": {
+    "id": 210,
+    "order": "210.00000000000000000000",
+    "term": "Nan-ı aziz",
+    "grocerist_id": "term__210",
+    "long_text": "Bread"
+  },
+  "211": {
+    "id": 211,
+    "order": "211.00000000000000000000",
+    "term": "Nar",
+    "grocerist_id": "term__211",
+    "long_text": "Pomegranate"
+  },
+  "212": {
+    "id": 212,
+    "order": "212.00000000000000000000",
+    "term": "Nardenk",
+    "grocerist_id": "term__212",
+    "long_text": "Treacle made from the juice of pomegranates or of damsons"
+  },
+  "213": {
+    "id": 213,
+    "order": "213.00000000000000000000",
+    "term": "Nişasta",
+    "grocerist_id": "term__213",
+    "long_text": "Starch"
+  },
+  "214": {
+    "id": 214,
+    "order": "214.00000000000000000000",
+    "term": "Nohud",
+    "grocerist_id": "term__214",
+    "long_text": "Chickpea"
+  },
+  "215": {
+    "id": 215,
+    "order": "215.00000000000000000000",
+    "term": "Odun asel",
+    "grocerist_id": "term__215",
+    "long_text": "Wood smoked honey"
+  },
+  "216": {
+    "id": 216,
+    "order": "216.00000000000000000000",
+    "term": "Odun pekmezi",
+    "grocerist_id": "term__216",
+    "long_text": "Wood smoked molasses"
+  },
+  "217": {
+    "id": 217,
+    "order": "217.00000000000000000000",
+    "term": "Palamud balığı",
+    "grocerist_id": "term__217",
+    "long_text": "Bonito"
+  },
+  "218": {
+    "id": 218,
+    "order": "218.00000000000000000000",
+    "term": "Pekmez",
+    "grocerist_id": "term__218",
+    "long_text": "Molasses"
+  },
+  "219": {
+    "id": 219,
+    "order": "219.00000000000000000000",
+    "term": "Peksimet",
+    "grocerist_id": "term__219",
+    "long_text": "Hardtack"
+  },
+  "220": {
+    "id": 220,
+    "order": "220.00000000000000000000",
+    "term": "Pestil",
+    "grocerist_id": "term__220",
+    "long_text": "Fruit leather"
+  },
+  "221": {
+    "id": 221,
+    "order": "221.00000000000000000000",
+    "term": "Peynir",
+    "grocerist_id": "term__221",
+    "long_text": "Cheese"
+  },
+  "222": {
+    "id": 222,
+    "order": "222.00000000000000000000",
+    "term": "Peynir yağı",
+    "grocerist_id": "term__222",
+    "long_text": "Cheese oil"
+  },
+  "223": {
+    "id": 223,
+    "order": "223.00000000000000000000",
+    "term": "Pirinc",
+    "grocerist_id": "term__223",
+    "long_text": "Rice"
+  },
+  "224": {
+    "id": 224,
+    "order": "224.00000000000000000000",
+    "term": "Razaki üzüm",
+    "grocerist_id": "term__224",
+    "long_text": "Razaki raisin"
+  },
+  "225": {
+    "id": 225,
+    "order": "225.00000000000000000000",
+    "term": "Revak asel",
+    "grocerist_id": "term__225",
+    "long_text": "Extracted honey"
+  },
+  "226": {
+    "id": 226,
+    "order": "226.00000000000000000000",
+    "term": "Revgan-ı bezir",
+    "grocerist_id": "term__226",
+    "long_text": "Linseed oil"
+  },
+  "227": {
+    "id": 227,
+    "order": "227.00000000000000000000",
+    "term": "Revgan-ı çerviş",
+    "grocerist_id": "term__227",
+    "long_text": "Fat obtained from the tail of sheep"
+  },
+  "228": {
+    "id": 228,
+    "order": "228.00000000000000000000",
+    "term": "Revgan-ı don",
+    "grocerist_id": "term__228",
+    "long_text": "Tallow"
+  },
+  "229": {
+    "id": 229,
+    "order": "229.00000000000000000000",
+    "term": "Revgan-ı Leh",
+    "grocerist_id": "term__229",
+    "long_text": "Polish oil"
+  },
+  "230": {
+    "id": 230,
+    "order": "230.00000000000000000000",
+    "term": "Revgan-ı mahlut",
+    "grocerist_id": "term__230",
+    "long_text": "Mixed oil"
+  },
+  "231": {
+    "id": 231,
+    "order": "231.00000000000000000000",
+    "term": "Revgan-ı sade",
+    "grocerist_id": "term__231",
+    "long_text": "Ghee, Clarified Butter"
+  },
+  "232": {
+    "id": 232,
+    "order": "232.00000000000000000000",
+    "term": "Revgan-ı sade",
+    "grocerist_id": "term__232",
+    "long_text": "Spoilt clarified butter"
+  },
+  "233": {
+    "id": 233,
+    "order": "233.00000000000000000000",
+    "term": "Revgan-ı şem",
+    "grocerist_id": "term__233",
+    "long_text": "Tallow candle"
+  },
+  "234": {
+    "id": 234,
+    "order": "234.00000000000000000000",
+    "term": "Revgan-ı şir",
+    "grocerist_id": "term__234",
+    "long_text": "Sesame oil"
+  },
+  "235": {
+    "id": 235,
+    "order": "235.00000000000000000000",
+    "term": "Revgan-ı yedek",
+    "grocerist_id": "term__235",
+    "long_text": ""
+  },
+  "236": {
+    "id": 236,
+    "order": "236.00000000000000000000",
+    "term": "Revgan-ı zeyt",
+    "grocerist_id": "term__236",
+    "long_text": "Olive oil"
+  },
+  "237": {
+    "id": 237,
+    "order": "237.00000000000000000000",
+    "term": "Revgan-ı zeyt (çamurlu)",
+    "grocerist_id": "term__237",
+    "long_text": "Olive oil (muddy)"
+  },
+  "238": {
+    "id": 238,
+    "order": "238.00000000000000000000",
+    "term": "Rumeli sucuğu basdırma",
+    "grocerist_id": "term__238",
+    "long_text": ""
+  },
+  "239": {
+    "id": 239,
+    "order": "239.00000000000000000000",
+    "term": "Sabun",
+    "grocerist_id": "term__239",
+    "long_text": "Soap"
+  },
+  "240": {
+    "id": 240,
+    "order": "240.00000000000000000000",
+    "term": "Sabun  tozu",
+    "grocerist_id": "term__240",
+    "long_text": "Soap powder"
+  },
+  "241": {
+    "id": 241,
+    "order": "241.00000000000000000000",
+    "term": "Sade balık",
+    "grocerist_id": "term__241",
+    "long_text": "Plain fish"
+  },
+  "242": {
+    "id": 242,
+    "order": "242.00000000000000000000",
+    "term": "Şair",
+    "grocerist_id": "term__242",
+    "long_text": "Barley"
+  },
+  "243": {
+    "id": 243,
+    "order": "243.00000000000000000000",
+    "term": "Salamura kolyoz balığı",
+    "grocerist_id": "term__243",
+    "long_text": "Brined chub mackerel"
+  },
+  "244": {
+    "id": 244,
+    "order": "244.00000000000000000000",
+    "term": "Salamura peynir",
+    "grocerist_id": "term__244",
+    "long_text": "Brined cheese"
+  },
+  "245": {
+    "id": 245,
+    "order": "245.00000000000000000000",
+    "term": "Saman",
+    "grocerist_id": "term__245",
+    "long_text": "Hay"
+  },
+  "246": {
+    "id": 246,
+    "order": "246.00000000000000000000",
+    "term": "Şamandıra",
+    "grocerist_id": "term__246",
+    "long_text": "A floating cork piece that ensures the candle wicks stay in the correct position and is attached to the body with wire."
+  },
+  "247": {
+    "id": 247,
+    "order": "247.00000000000000000000",
+    "term": "Saplı sarımsak",
+    "grocerist_id": "term__247",
+    "long_text": "Garlic with stems"
+  },
+  "248": {
+    "id": 248,
+    "order": "248.00000000000000000000",
+    "term": "Sardalya balığı",
+    "grocerist_id": "term__248",
+    "long_text": "Sardines"
+  },
+  "249": {
+    "id": 249,
+    "order": "249.00000000000000000000",
+    "term": "Şariye",
+    "grocerist_id": "term__249",
+    "long_text": "Vermicelli"
+  },
+  "250": {
+    "id": 250,
+    "order": "250.00000000000000000000",
+    "term": "Şariyye makarna",
+    "grocerist_id": "term__250",
+    "long_text": "A kind of pasta"
+  },
+  "251": {
+    "id": 251,
+    "order": "251.00000000000000000000",
+    "term": "Sarı şariyye",
+    "grocerist_id": "term__251",
+    "long_text": "Yellow vermicelli"
+  },
+  "252": {
+    "id": 252,
+    "order": "252.00000000000000000000",
+    "term": "Sarıca inciri",
+    "grocerist_id": "term__252",
+    "long_text": "Sarıca fig"
+  },
+  "253": {
+    "id": 253,
+    "order": "253.00000000000000000000",
+    "term": "Sarımsak",
+    "grocerist_id": "term__253",
+    "long_text": "Garlic"
+  },
+  "254": {
+    "id": 254,
+    "order": "254.00000000000000000000",
+    "term": "Şeker",
+    "grocerist_id": "term__254",
+    "long_text": "Sugar"
+  },
+  "255": {
+    "id": 255,
+    "order": "255.00000000000000000000",
+    "term": "Sicim",
+    "grocerist_id": "term__255",
+    "long_text": "String"
+  },
+  "256": {
+    "id": 256,
+    "order": "256.00000000000000000000",
+    "term": "Sirke",
+    "grocerist_id": "term__256",
+    "long_text": "Vinegar"
+  },
+  "257": {
+    "id": 257,
+    "order": "257.00000000000000000000",
+    "term": "Şişe mum",
+    "grocerist_id": "term__257",
+    "long_text": "Bottled candle"
+  },
+  "258": {
+    "id": 258,
+    "order": "258.00000000000000000000",
+    "term": "Siyah havyar",
+    "grocerist_id": "term__258",
+    "long_text": "Black caviar"
+  },
+  "259": {
+    "id": 259,
+    "order": "259.00000000000000000000",
+    "term": "Siyah üzüm",
+    "grocerist_id": "term__259",
+    "long_text": "Black raisins"
+  },
+  "260": {
+    "id": 260,
+    "order": "260.00000000000000000000",
+    "term": "Sığır dili",
+    "grocerist_id": "term__260",
+    "long_text": "Borage"
+  },
+  "261": {
+    "id": 261,
+    "order": "261.00000000000000000000",
+    "term": "Soğan",
+    "grocerist_id": "term__261",
+    "long_text": "Onion"
+  },
+  "262": {
+    "id": 262,
+    "order": "262.00000000000000000000",
+    "term": "Şorbalık şariye",
+    "grocerist_id": "term__262",
+    "long_text": "Soup vermicelli"
+  },
+  "263": {
+    "id": 263,
+    "order": "263.00000000000000000000",
+    "term": "Sucuk",
+    "grocerist_id": "term__263",
+    "long_text": "Traditional dry, spicy sausage commonly found in Turkish, Balkan, and Middle Eastern cuisines."
+  },
+  "264": {
+    "id": 264,
+    "order": "264.00000000000000000000",
+    "term": "Sumak",
+    "grocerist_id": "term__264",
+    "long_text": "Sumac"
+  },
+  "265": {
+    "id": 265,
+    "order": "265.00000000000000000000",
+    "term": "Sünbül",
+    "grocerist_id": "term__265",
+    "long_text": "It is typically made from ground beef"
+  },
+  "266": {
+    "id": 266,
+    "order": "266.00000000000000000000",
+    "term": "Süpürge",
+    "grocerist_id": "term__266",
+    "long_text": "Broom"
+  },
+  "267": {
+    "id": 267,
+    "order": "267.00000000000000000000",
+    "term": "Taban inciri",
+    "grocerist_id": "term__267",
+    "long_text": "It is a type of dried fig that has been flattened during the drying process"
+  },
+  "268": {
+    "id": 268,
+    "order": "268.00000000000000000000",
+    "term": "Tahin",
+    "grocerist_id": "term__268",
+    "long_text": "Tahini"
+  },
+  "269": {
+    "id": 269,
+    "order": "269.00000000000000000000",
+    "term": "Tahin helvası",
+    "grocerist_id": "term__269",
+    "long_text": "Tahini halva"
+  },
+  "270": {
+    "id": 270,
+    "order": "270.00000000000000000000",
+    "term": "Tane büber",
+    "grocerist_id": "term__270",
+    "long_text": "Peppercorn"
+  },
+  "271": {
+    "id": 271,
+    "order": "271.00000000000000000000",
+    "term": "Tarçın",
+    "grocerist_id": "term__271",
+    "long_text": "Cinnamon"
+  },
+  "272": {
+    "id": 272,
+    "order": "272.00000000000000000000",
+    "term": "Tarhana",
+    "grocerist_id": "term__272",
+    "long_text": "Fermented soup base made from a mixture of yogurt, flour and vegetables"
+  },
+  "273": {
+    "id": 273,
+    "order": "273.00000000000000000000",
+    "term": "Tavuk",
+    "grocerist_id": "term__273",
+    "long_text": "Chicken"
+  },
+  "274": {
+    "id": 274,
+    "order": "274.00000000000000000000",
+    "term": "Taze peynir",
+    "grocerist_id": "term__274",
+    "long_text": "Unaged cheese"
+  },
+  "275": {
+    "id": 275,
+    "order": "275.00000000000000000000",
+    "term": "Tekfurdağı fasulyesi",
+    "grocerist_id": "term__275",
+    "long_text": "Beans of Tekirdağ"
+  },
+  "276": {
+    "id": 276,
+    "order": "276.00000000000000000000",
+    "term": "Tekfurdağı şariyyesi",
+    "grocerist_id": "term__276",
+    "long_text": "Vermicelli of Tekirdağ"
+  },
+  "277": {
+    "id": 277,
+    "order": "277.00000000000000000000",
+    "term": "Temür hurdası",
+    "grocerist_id": "term__277",
+    "long_text": "Scrap iron"
+  },
+  "278": {
+    "id": 278,
+    "order": "278.00000000000000000000",
+    "term": "Terkoz balığı",
+    "grocerist_id": "term__278",
+    "long_text": "Terkos fish"
+  },
+  "279": {
+    "id": 279,
+    "order": "279.00000000000000000000",
+    "term": "Tob peynir",
+    "grocerist_id": "term__279",
+    "long_text": "It is a type of pressed and salted white cheese, often made from sheep’s or cow’s milk."
+  },
+  "280": {
+    "id": 280,
+    "order": "280.00000000000000000000",
+    "term": "Torba yoğurt",
+    "grocerist_id": "term__280",
+    "long_text": "Drained yogurt"
+  },
+  "281": {
+    "id": 281,
+    "order": "281.00000000000000000000",
+    "term": "Tosya pirinci",
+    "grocerist_id": "term__281",
+    "long_text": "Tosya rice"
+  },
+  "282": {
+    "id": 282,
+    "order": "282.00000000000000000000",
+    "term": "Toz şeker",
+    "grocerist_id": "term__282",
+    "long_text": "Granulated sugar"
+  },
+  "283": {
+    "id": 283,
+    "order": "283.00000000000000000000",
+    "term": "Tozya böğrülcesi",
+    "grocerist_id": "term__283",
+    "long_text": "Tosya cowpea"
+  },
+  "284": {
+    "id": 284,
+    "order": "284.00000000000000000000",
+    "term": "Trablus sabunu",
+    "grocerist_id": "term__284",
+    "long_text": "Tripoli soap"
+  },
+  "285": {
+    "id": 285,
+    "order": "285.00000000000000000000",
+    "term": "Tirilye zeytunu",
+    "grocerist_id": "term__285",
+    "long_text": "Tirilye olives"
+  },
+  "286": {
+    "id": 286,
+    "order": "286.00000000000000000000",
+    "term": "Tuğla tozu",
+    "grocerist_id": "term__286",
+    "long_text": "Brick dust"
+  },
+  "287": {
+    "id": 287,
+    "order": "287.00000000000000000000",
+    "term": "Tulum ezmesi peynir",
+    "grocerist_id": "term__287",
+    "long_text": "Crumbled tulum cheese"
+  },
+  "288": {
+    "id": 288,
+    "order": "288.00000000000000000000",
+    "term": "Tulum peyniri",
+    "grocerist_id": "term__288",
+    "long_text": "Tulum cheese"
+  },
+  "289": {
+    "id": 289,
+    "order": "289.00000000000000000000",
+    "term": "Turp",
+    "grocerist_id": "term__289",
+    "long_text": "Radish"
+  },
+  "290": {
+    "id": 290,
+    "order": "290.00000000000000000000",
+    "term": "Turşu",
+    "grocerist_id": "term__290",
+    "long_text": "Pickle"
+  },
+  "291": {
+    "id": 291,
+    "order": "291.00000000000000000000",
+    "term": "Turşu balığı",
+    "grocerist_id": "term__291",
+    "long_text": "Pickled fish"
+  },
+  "292": {
+    "id": 292,
+    "order": "292.00000000000000000000",
+    "term": "Turşu yaprağı",
+    "grocerist_id": "term__292",
+    "long_text": "Pickling leaf"
+  },
+  "293": {
+    "id": 293,
+    "order": "293.00000000000000000000",
+    "term": "Turşu yaprağı",
+    "grocerist_id": "term__293",
+    "long_text": "It refers to leaves used in pickling, either as an ingredient for fermentation or as edible wrapping."
+  },
+  "294": {
+    "id": 294,
+    "order": "294.00000000000000000000",
+    "term": "Tuz",
+    "grocerist_id": "term__294",
+    "long_text": "Salt"
+  },
+  "295": {
+    "id": 295,
+    "order": "295.00000000000000000000",
+    "term": "Tuzlu balık",
+    "grocerist_id": "term__295",
+    "long_text": "Salted fish"
+  },
+  "296": {
+    "id": 296,
+    "order": "296.00000000000000000000",
+    "term": "Tuzlu hamsi balığı",
+    "grocerist_id": "term__296",
+    "long_text": "Sated anchovy"
+  },
+  "297": {
+    "id": 297,
+    "order": "297.00000000000000000000",
+    "term": "Tuzlu sardalya balığı",
+    "grocerist_id": "term__297",
+    "long_text": "Salted sardines"
+  },
+  "298": {
+    "id": 298,
+    "order": "298.00000000000000000000",
+    "term": "Uskumru balığı",
+    "grocerist_id": "term__298",
+    "long_text": "Mackerel"
+  },
+  "299": {
+    "id": 299,
+    "order": "299.00000000000000000000",
+    "term": "Uskumru balığı tuzlaması",
+    "grocerist_id": "term__299",
+    "long_text": "Salted mackerel"
+  },
+  "300": {
+    "id": 300,
+    "order": "300.00000000000000000000",
+    "term": "Uskumru balığu turşusu",
+    "grocerist_id": "term__300",
+    "long_text": "Pickled mackerel"
+  },
+  "301": {
+    "id": 301,
+    "order": "301.00000000000000000000",
+    "term": "Üzüm",
+    "grocerist_id": "term__301",
+    "long_text": "Raisins"
+  },
+  "302": {
+    "id": 302,
+    "order": "302.00000000000000000000",
+    "term": "Yapağı yün",
+    "grocerist_id": "term__302",
+    "long_text": "Unprocessed wool"
+  },
+  "303": {
+    "id": 303,
+    "order": "303.00000000000000000000",
+    "term": "Yaprak",
+    "grocerist_id": "term__303",
+    "long_text": "Leaf"
+  },
+  "304": {
+    "id": 304,
+    "order": "304.00000000000000000000",
+    "term": "Yaprak tuzu",
+    "grocerist_id": "term__304",
+    "long_text": "Flake salt"
+  },
+  "305": {
+    "id": 305,
+    "order": "305.00000000000000000000",
+    "term": "Yazı kağıdı",
+    "grocerist_id": "term__305",
+    "long_text": "Writing paper"
+  },
+  "306": {
+    "id": 306,
+    "order": "306.00000000000000000000",
+    "term": "Yenibahar",
+    "grocerist_id": "term__306",
+    "long_text": "Allspice"
+  },
+  "307": {
+    "id": 307,
+    "order": "307.00000000000000000000",
+    "term": "Yerli kaşkaval",
+    "grocerist_id": "term__307",
+    "long_text": "Locally produced kashkaval"
+  },
+  "308": {
+    "id": 308,
+    "order": "308.00000000000000000000",
+    "term": "Yeşil zeytun",
+    "grocerist_id": "term__308",
+    "long_text": "Green olives"
+  },
+  "309": {
+    "id": 309,
+    "order": "309.00000000000000000000",
+    "term": "Yufka şariyye",
+    "grocerist_id": "term__309",
+    "long_text": "Very thin, flat vermicelli"
+  },
+  "310": {
+    "id": 310,
+    "order": "310.00000000000000000000",
+    "term": "Yumurta",
+    "grocerist_id": "term__310",
+    "long_text": "Egg"
+  },
+  "311": {
+    "id": 311,
+    "order": "311.00000000000000000000",
+    "term": "Zerdali kurusu",
+    "grocerist_id": "term__311",
+    "long_text": "Dried apricots"
+  },
+  "312": {
+    "id": 312,
+    "order": "312.00000000000000000000",
+    "term": "Zift",
+    "grocerist_id": "term__312",
+    "long_text": "Tar"
+  },
+  "313": {
+    "id": 313,
+    "order": "313.00000000000000000000",
+    "term": "Dried apricots",
+    "grocerist_id": "term__313",
+    "long_text": "Olive"
+  },
+  "314": {
+    "id": 314,
+    "order": "314.00000000000000000000",
+    "term": "Keyl",
+    "grocerist_id": "term__314",
+    "long_text": "It refers to a unit or container used traditionally to measure quantities of grains such as wheat, barley, etc."
+  },
+  "315": {
+    "id": 315,
+    "order": "315.00000000000000000000",
+    "term": "Kıyye",
+    "grocerist_id": "term__315",
+    "long_text": "Okka, a weight measurement equivalent to 400 dirhams, equal to approximately 1.282 kilograms"
+  },
+  "316": {
+    "id": 316,
+    "order": "316.00000000000000000000",
+    "term": "Şinik",
+    "grocerist_id": "term__316",
+    "long_text": "A grain measure whose weight varies depending on where it is used."
+  },
+  "317": {
+    "id": 317,
+    "order": "317.00000000000000000000",
     "term": "",
-    "grocerist_id": "term__2"
+    "grocerist_id": "term__317",
+    "long_text": ""
   }
 }
