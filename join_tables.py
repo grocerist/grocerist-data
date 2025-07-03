@@ -90,7 +90,7 @@ def join_documents_and_categories(docs_data, cat_data):
     cat_dict = {}
     for key, value in docs_data.items():
         good_cat_set = set()
-        doc_item = {k: value[k] for k in ["id", "shelfmark", "grocerist_id","century"]}
+        doc_item = {k: value[k] for k in ["id", "shelfmark", "grocerist_id", "lat", "long", "century"]}
         new_value = value
         value["good_cat"] = []
 
