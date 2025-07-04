@@ -3,8 +3,8 @@
         "id": 1,
         "order": "1.00000000000000000000",
         "name": "Taba",
-        "Notes": "Frying Pan",
-        "Active": false,
+        "notes": "Frying Pan",
+        "active": false,
         "documents": [
             {
                 "id": 2,
@@ -39,8 +39,8 @@
         "id": 2,
         "order": "2.00000000000000000000",
         "name": "Zenbil",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 2,
@@ -348,8 +348,8 @@
         "id": 3,
         "order": "4.00000000000000000000",
         "name": "Çuval",
-        "Notes": "Sack",
-        "Active": false,
+        "notes": "Sack",
+        "active": false,
         "documents": [
             {
                 "id": 2,
@@ -540,8 +540,8 @@
         "id": 4,
         "order": "5.00000000000000000000",
         "name": "Kantar",
-        "Notes": "Steelyard",
-        "Active": false,
+        "notes": "Steelyard",
+        "active": false,
         "documents": [
             {
                 "id": 2,
@@ -901,8 +901,8 @@
         "id": 5,
         "order": "6.00000000000000000000",
         "name": "Desti",
-        "Notes": "Jug",
-        "Active": false,
+        "notes": "Jug",
+        "active": false,
         "documents": [
             {
                 "id": 2,
@@ -1197,8 +1197,8 @@
         "id": 6,
         "order": "7.00000000000000000000",
         "name": "Bardak",
-        "Notes": "Mug",
-        "Active": false,
+        "notes": "Mug",
+        "active": false,
         "documents": [
             {
                 "id": 2,
@@ -1532,8 +1532,8 @@
         "id": 7,
         "order": "8.00000000000000000000",
         "name": "Hadde",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 4,
@@ -1555,8 +1555,8 @@
         "id": 8,
         "order": "9.00000000000000000000",
         "name": "Terazi",
-        "Notes": "Scales",
-        "Active": false,
+        "notes": "Scales",
+        "active": false,
         "documents": [
             {
                 "id": 4,
@@ -1812,8 +1812,8 @@
         "id": 9,
         "order": "10.00000000000000000000",
         "name": "Dirhem",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 4,
@@ -2082,8 +2082,8 @@
         "id": 10,
         "order": "11.00000000000000000000",
         "name": "Fuçı",
-        "Notes": "Barrel",
-        "Active": false,
+        "notes": "Barrel",
+        "active": false,
         "documents": [
             {
                 "id": 2,
@@ -2482,8 +2482,8 @@
         "id": 11,
         "order": "12.00000000000000000000",
         "name": "Tabla",
-        "Notes": "Flat tray",
-        "Active": false,
+        "notes": "Flat tray",
+        "active": false,
         "documents": [
             {
                 "id": 4,
@@ -2687,8 +2687,8 @@
         "id": 12,
         "order": "13.00000000000000000000",
         "name": "Çömlek",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 4,
@@ -2879,8 +2879,8 @@
         "id": 13,
         "order": "14.00000000000000000000",
         "name": "Kavanoz",
-        "Notes": "Jar",
-        "Active": false,
+        "notes": "Jar",
+        "active": false,
         "documents": [
             {
                 "id": 6,
@@ -3162,8 +3162,8 @@
         "id": 14,
         "order": "15.00000000000000000000",
         "name": "Mizan",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 8,
@@ -3237,8 +3237,8 @@
         "id": 15,
         "order": "16.00000000000000000000",
         "name": "Tekne",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 8,
@@ -3299,8 +3299,8 @@
         "id": 16,
         "order": "17.00000000000000000000",
         "name": "Kova",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 2,
@@ -3387,8 +3387,8 @@
         "id": 17,
         "order": "18.00000000000000000000",
         "name": "Küp",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 8,
@@ -3527,8 +3527,8 @@
         "id": 18,
         "order": "19.00000000000000000000",
         "name": "Potna",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 8,
@@ -3641,8 +3641,8 @@
         "id": 19,
         "order": "20.00000000000000000000",
         "name": "Sac ayağı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 8,
@@ -3677,8 +3677,8 @@
         "id": 20,
         "order": "21.00000000000000000000",
         "name": "Sepet",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 10,
@@ -3713,8 +3713,8 @@
         "id": 21,
         "order": "22.00000000000000000000",
         "name": "Bıçak",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 11,
@@ -3827,8 +3827,8 @@
         "id": 22,
         "order": "23.00000000000000000000",
         "name": "Kutu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 11,
@@ -3902,8 +3902,8 @@
         "id": 26,
         "order": "24.00000000000000000000",
         "name": "Seklem",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 16,
@@ -3925,8 +3925,8 @@
         "id": 25,
         "order": "26.00000000000000000000",
         "name": "Piştahta",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 16,
@@ -3987,8 +3987,8 @@
         "id": 27,
         "order": "27.00000000000000000000",
         "name": "Akçe kesesi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 16,
@@ -4010,8 +4010,8 @@
         "id": 28,
         "order": "28.00000000000000000000",
         "name": "Havan",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 47,
@@ -4046,8 +4046,8 @@
         "id": 29,
         "order": "29.00000000000000000000",
         "name": "Yağ tulumu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 12,
@@ -4069,8 +4069,8 @@
         "id": 30,
         "order": "30.00000000000000000000",
         "name": "Zeytin yağı tulumu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 91,
@@ -4092,8 +4092,8 @@
         "id": 31,
         "order": "31.00000000000000000000",
         "name": "Yağ ölçeği",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 71,
@@ -4128,8 +4128,8 @@
         "id": 32,
         "order": "32.00000000000000000000",
         "name": "Destgah",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 67,
@@ -4177,8 +4177,8 @@
         "id": 33,
         "order": "33.00000000000000000000",
         "name": "Zeyt yağı bardağı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 64,
@@ -4226,8 +4226,8 @@
         "id": 34,
         "order": "34.00000000000000000000",
         "name": "Zeyt yağı küpü",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 76,
@@ -4262,8 +4262,8 @@
         "id": 35,
         "order": "35.00000000000000000000",
         "name": "Turşu fıçısı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 76,
@@ -4285,8 +4285,8 @@
         "id": 36,
         "order": "36.00000000000000000000",
         "name": "Nardenk destisi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 85,
@@ -4347,8 +4347,8 @@
         "id": 37,
         "order": "37.00000000000000000000",
         "name": "Urgan",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 95,
@@ -4383,8 +4383,8 @@
         "id": 38,
         "order": "38.00000000000000000000",
         "name": "Torba",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 95,
@@ -4419,8 +4419,8 @@
         "id": 39,
         "order": "39.00000000000000000000",
         "name": "Yağ badyesi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 95,
@@ -4442,8 +4442,8 @@
         "id": 40,
         "order": "40.00000000000000000000",
         "name": "Şinik",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 95,
@@ -4465,8 +4465,8 @@
         "id": 41,
         "order": "41.00000000000000000000",
         "name": "Güğüm",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 97,
@@ -4488,8 +4488,8 @@
         "id": 42,
         "order": "42.00000000000000000000",
         "name": "Keyl",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 97,
@@ -4524,8 +4524,8 @@
         "id": 43,
         "order": "43.00000000000000000000",
         "name": "Kahve kutusu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 97,
@@ -4547,8 +4547,8 @@
         "id": 44,
         "order": "44.00000000000000000000",
         "name": "Dikel",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 100,
@@ -4570,8 +4570,8 @@
         "id": 45,
         "order": "45.00000000000000000000",
         "name": "Tabak",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 102,
@@ -4619,8 +4619,8 @@
         "id": 46,
         "order": "46.00000000000000000000",
         "name": "Kaşık",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -4668,8 +4668,8 @@
         "id": 47,
         "order": "47.00000000000000000000",
         "name": "Çanak",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 47,
@@ -4769,8 +4769,8 @@
         "id": 48,
         "order": "48.00000000000000000000",
         "name": "Kahve terazisi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 106,
@@ -4792,8 +4792,8 @@
         "id": 49,
         "order": "49.00000000000000000000",
         "name": "Duhan kavanozu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 106,
@@ -4828,8 +4828,8 @@
         "id": 50,
         "order": "50.00000000000000000000",
         "name": "Sandık",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -4903,8 +4903,8 @@
         "id": 51,
         "order": "51.00000000000000000000",
         "name": "Yatağan bıçağı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 107,
@@ -4926,8 +4926,8 @@
         "id": 52,
         "order": "52.00000000000000000000",
         "name": "Pekmez destisi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 109,
@@ -4988,8 +4988,8 @@
         "id": 53,
         "order": "53.00000000000000000000",
         "name": "Yoğurt çanağı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 109,
@@ -5011,8 +5011,8 @@
         "id": 54,
         "order": "54.00000000000000000000",
         "name": "Kömür terazisi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5034,8 +5034,8 @@
         "id": 55,
         "order": "55.00000000000000000000",
         "name": "Yağ destisi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5083,8 +5083,8 @@
         "id": 56,
         "order": "56.00000000000000000000",
         "name": "Zeytun fuçısı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5119,8 +5119,8 @@
         "id": 57,
         "order": "57.00000000000000000000",
         "name": "Zeyt yağı kovası",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5142,8 +5142,8 @@
         "id": 58,
         "order": "58.00000000000000000000",
         "name": "Kalbur",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5191,8 +5191,8 @@
         "id": 59,
         "order": "59.00000000000000000000",
         "name": "Böğrülce anbarı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5214,8 +5214,8 @@
         "id": 60,
         "order": "60.00000000000000000000",
         "name": "Sofra",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5250,8 +5250,8 @@
         "id": 61,
         "order": "61.00000000000000000000",
         "name": "Nişasta fuçısı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5299,8 +5299,8 @@
         "id": 62,
         "order": "62.00000000000000000000",
         "name": "Balık tabası",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5322,8 +5322,8 @@
         "id": 63,
         "order": "63.00000000000000000000",
         "name": "Tencere",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 71,
@@ -5384,8 +5384,8 @@
         "id": 64,
         "order": "64.00000000000000000000",
         "name": "Kazgan",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 72,
@@ -5446,8 +5446,8 @@
         "id": 65,
         "order": "65.00000000000000000000",
         "name": "Huni",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5495,8 +5495,8 @@
         "id": 66,
         "order": "66.00000000000000000000",
         "name": "Yumurta sepeti",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5518,8 +5518,8 @@
         "id": 67,
         "order": "67.00000000000000000000",
         "name": "Tahin çömleği",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5541,8 +5541,8 @@
         "id": 68,
         "order": "68.00000000000000000000",
         "name": "Peynir kutusu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5564,8 +5564,8 @@
         "id": 69,
         "order": "69.00000000000000000000",
         "name": "Misafir sofrası",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5587,8 +5587,8 @@
         "id": 70,
         "order": "70.00000000000000000000",
         "name": "Pirinç hunisi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5610,8 +5610,8 @@
         "id": 71,
         "order": "71.00000000000000000000",
         "name": "Tas",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5633,8 +5633,8 @@
         "id": 72,
         "order": "72.00000000000000000000",
         "name": "İbrik",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5773,8 +5773,8 @@
         "id": 73,
         "order": "73.00000000000000000000",
         "name": "Vezne",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5796,8 +5796,8 @@
         "id": 74,
         "order": "74.00000000000000000000",
         "name": "Çekmece",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5819,8 +5819,8 @@
         "id": 75,
         "order": "75.00000000000000000000",
         "name": "Biblo kutusu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5842,8 +5842,8 @@
         "id": 76,
         "order": "76.00000000000000000000",
         "name": "Destere",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5878,8 +5878,8 @@
         "id": 77,
         "order": "77.00000000000000000000",
         "name": "Keser",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -5927,8 +5927,8 @@
         "id": 78,
         "order": "78.00000000000000000000",
         "name": "Şamdan",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 47,
@@ -6015,8 +6015,8 @@
         "id": 79,
         "order": "79.00000000000000000000",
         "name": "Havan",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6090,8 +6090,8 @@
         "id": 80,
         "order": "80.00000000000000000000",
         "name": "Kandil",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6139,8 +6139,8 @@
         "id": 81,
         "order": "81.00000000000000000000",
         "name": "Badya",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6162,8 +6162,8 @@
         "id": 82,
         "order": "82.00000000000000000000",
         "name": "Süzek",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6185,8 +6185,8 @@
         "id": 83,
         "order": "83.00000000000000000000",
         "name": "Fenar",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6208,8 +6208,8 @@
         "id": 84,
         "order": "84.00000000000000000000",
         "name": "Dara",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6231,8 +6231,8 @@
         "id": 85,
         "order": "85.00000000000000000000",
         "name": "İskemle",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6254,8 +6254,8 @@
         "id": 86,
         "order": "86.00000000000000000000",
         "name": "Pirinç kilesi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6277,8 +6277,8 @@
         "id": 87,
         "order": "87.00000000000000000000",
         "name": "Akçe tahtası",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 71,
@@ -6365,8 +6365,8 @@
         "id": 88,
         "order": "88.00000000000000000000",
         "name": "Rende",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6401,8 +6401,8 @@
         "id": 89,
         "order": "89.00000000000000000000",
         "name": "Devad",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6424,8 +6424,8 @@
         "id": 90,
         "order": "90.00000000000000000000",
         "name": "Hokka",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6447,8 +6447,8 @@
         "id": 91,
         "order": "91.00000000000000000000",
         "name": "Çatal-ı Haliç",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6470,8 +6470,8 @@
         "id": 92,
         "order": "92.00000000000000000000",
         "name": "Sirke hunisi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6493,8 +6493,8 @@
         "id": 93,
         "order": "93.00000000000000000000",
         "name": "Mum kutusu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6516,8 +6516,8 @@
         "id": 94,
         "order": "94.00000000000000000000",
         "name": "Yağ malası",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6552,8 +6552,8 @@
         "id": 95,
         "order": "95.00000000000000000000",
         "name": "Manula",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6575,8 +6575,8 @@
         "id": 96,
         "order": "96.00000000000000000000",
         "name": "Saban",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6598,8 +6598,8 @@
         "id": 97,
         "order": "97.00000000000000000000",
         "name": "Dükkan perdesi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6621,8 +6621,8 @@
         "id": 98,
         "order": "98.00000000000000000000",
         "name": "Çengel",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6644,8 +6644,8 @@
         "id": 99,
         "order": "99.00000000000000000000",
         "name": "Turşu fuçısı",
-        "Notes": "Barrel for pickles",
-        "Active": false,
+        "notes": "Barrel for pickles",
+        "active": false,
         "documents": [
             {
                 "id": 76,
@@ -6667,8 +6667,8 @@
         "id": 100,
         "order": "100.00000000000000000000",
         "name": "Zeytun fuçısı",
-        "Notes": "Barrel for olives",
-        "Active": false,
+        "notes": "Barrel for olives",
+        "active": false,
         "documents": [
             {
                 "id": 73,
@@ -6690,8 +6690,8 @@
         "id": 101,
         "order": "101.00000000000000000000",
         "name": "Sahan",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 71,
@@ -6713,8 +6713,8 @@
         "id": 102,
         "order": "102.00000000000000000000",
         "name": "Zeytun yağı kapları",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 52,
@@ -6736,8 +6736,8 @@
         "id": 103,
         "order": "103.00000000000000000000",
         "name": "Arşın",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 106,
@@ -6759,8 +6759,8 @@
         "id": 104,
         "order": "104.00000000000000000000",
         "name": "Nardeng koğası",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 141,
@@ -6795,8 +6795,8 @@
         "id": 105,
         "order": "105.00000000000000000000",
         "name": "Asel tulumu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 141,
@@ -6818,8 +6818,8 @@
         "id": 106,
         "order": "106.00000000000000000000",
         "name": "Küfe",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 170,
@@ -6841,8 +6841,8 @@
         "id": 107,
         "order": "107.00000000000000000000",
         "name": "Nardeng fuçısı",
-        "Notes": "Barrel for nardeng",
-        "Active": false,
+        "notes": "Barrel for nardeng",
+        "active": false,
         "documents": [
             {
                 "id": 171,
@@ -6890,8 +6890,8 @@
         "id": 108,
         "order": "108.00000000000000000000",
         "name": "Sirke badesi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 171,
@@ -6913,8 +6913,8 @@
         "id": 109,
         "order": "109.00000000000000000000",
         "name": "Zeyt yağı hunisi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 171,
@@ -6936,8 +6936,8 @@
         "id": 110,
         "order": "110.00000000000000000000",
         "name": "Teneke takım",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 171,
@@ -6959,8 +6959,8 @@
         "id": 111,
         "order": "111.00000000000000000000",
         "name": "Mala",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 171,
@@ -6982,8 +6982,8 @@
         "id": 112,
         "order": "112.00000000000000000000",
         "name": "Sirke fuçısı",
-        "Notes": "Barrel for vinegar",
-        "Active": false,
+        "notes": "Barrel for vinegar",
+        "active": false,
         "documents": [
             {
                 "id": 165,
@@ -7018,8 +7018,8 @@
         "id": 113,
         "order": "113.00000000000000000000",
         "name": "Asel potnası",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 171,
@@ -7041,8 +7041,8 @@
         "id": 114,
         "order": "114.00000000000000000000",
         "name": "Üzüm kalburu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 171,
@@ -7064,8 +7064,8 @@
         "id": 115,
         "order": "115.00000000000000000000",
         "name": "Tuz fuçısı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 171,
@@ -7087,8 +7087,8 @@
         "id": 116,
         "order": "116.00000000000000000000",
         "name": "Palamud Fuçısı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 171,
@@ -7110,8 +7110,8 @@
         "id": 117,
         "order": "117.00000000000000000000",
         "name": "Tahta anbar",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 171,
@@ -7133,8 +7133,8 @@
         "id": 118,
         "order": "118.00000000000000000000",
         "name": "Pazara giden zenbili",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 171,
@@ -7156,8 +7156,8 @@
         "id": 119,
         "order": "119.00000000000000000000",
         "name": "Kuşadası destisi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 165,
@@ -7205,8 +7205,8 @@
         "id": 120,
         "order": "120.00000000000000000000",
         "name": "Çekmece",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 171,
@@ -7228,8 +7228,8 @@
         "id": 121,
         "order": "121.00000000000000000000",
         "name": "Faraş",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 166,
@@ -7251,8 +7251,8 @@
         "id": 122,
         "order": "122.00000000000000000000",
         "name": "Peynir tablası",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 166,
@@ -7274,8 +7274,8 @@
         "id": 123,
         "order": "123.00000000000000000000",
         "name": "Zeytun teknesi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 165,
@@ -7310,8 +7310,8 @@
         "id": 124,
         "order": "124.00000000000000000000",
         "name": "Sini",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 166,
@@ -7333,8 +7333,8 @@
         "id": 125,
         "order": "125.00000000000000000000",
         "name": "Bal fuçısı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 166,
@@ -7369,8 +7369,8 @@
         "id": 126,
         "order": "126.00000000000000000000",
         "name": "Süzgü",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 166,
@@ -7392,8 +7392,8 @@
         "id": 127,
         "order": "127.00000000000000000000",
         "name": "Kanata",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 178,
@@ -7415,8 +7415,8 @@
         "id": 129,
         "order": "129.00000000000000000000",
         "name": "Bal destisi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 166,
@@ -7438,8 +7438,8 @@
         "id": 130,
         "order": "130.00000000000000000000",
         "name": "Attar fuçısı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 166,
@@ -7461,8 +7461,8 @@
         "id": 131,
         "order": "131.00000000000000000000",
         "name": "Pirinç kalburu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 166,
@@ -7484,8 +7484,8 @@
         "id": 132,
         "order": "132.00000000000000000000",
         "name": "Balta",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 165,
@@ -7520,8 +7520,8 @@
         "id": 133,
         "order": "133.00000000000000000000",
         "name": "Saman kantarı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 179,
@@ -7569,8 +7569,8 @@
         "id": 134,
         "order": "134.00000000000000000000",
         "name": "Yağ bardağı",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 165,
@@ -7592,8 +7592,8 @@
         "id": 135,
         "order": "135.00000000000000000000",
         "name": "Varil",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 165,
@@ -7615,8 +7615,8 @@
         "id": 136,
         "order": "136.00000000000000000000",
         "name": "Kıyma tahtası",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 180,
@@ -7638,8 +7638,8 @@
         "id": 137,
         "order": "137.00000000000000000000",
         "name": "Satır",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 165,
@@ -7661,8 +7661,8 @@
         "id": 138,
         "order": "138.00000000000000000000",
         "name": "Koğa",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 165,
@@ -7697,8 +7697,8 @@
         "id": 141,
         "order": "140.00000000000000000000",
         "name": "Tulum",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 186,
@@ -7733,8 +7733,8 @@
         "id": 142,
         "order": "141.00000000000000000000",
         "name": "Kırım destisi",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 186,
@@ -7756,8 +7756,8 @@
         "id": 143,
         "order": "142.00000000000000000000",
         "name": "Yağ küpü",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 190,
@@ -7792,8 +7792,8 @@
         "id": 144,
         "order": "143.00000000000000000000",
         "name": "Kapu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 192,
@@ -7815,8 +7815,8 @@
         "id": 145,
         "order": "144.00000000000000000000",
         "name": "Sicim",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 192,
@@ -7851,8 +7851,8 @@
         "id": 146,
         "order": "145.00000000000000000000",
         "name": "Pirinç zenbili",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 193,
@@ -7874,8 +7874,8 @@
         "id": 147,
         "order": "146.00000000000000000000",
         "name": "Arak zenbili",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 193,
@@ -7897,8 +7897,8 @@
         "id": 148,
         "order": "147.00000000000000000000",
         "name": "Akçelik desti",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 195,
@@ -7920,8 +7920,8 @@
         "id": 149,
         "order": "148.00000000000000000000",
         "name": "Sırlı sekizlik şişe",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 188,
@@ -7943,8 +7943,8 @@
         "id": 150,
         "order": "149.00000000000000000000",
         "name": "Saka",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 188,
@@ -7966,8 +7966,8 @@
         "id": 151,
         "order": "150.00000000000000000000",
         "name": "Kürek",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 208,
@@ -7989,8 +7989,8 @@
         "id": 152,
         "order": "151.00000000000000000000",
         "name": "Sardalya fuçısı",
-        "Notes": "Barrel for sardines",
-        "Active": false,
+        "notes": "Barrel for sardines",
+        "active": false,
         "documents": [
             {
                 "id": 208,
@@ -8012,8 +8012,8 @@
         "id": 153,
         "order": "152.00000000000000000000",
         "name": "Teneke kutu",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 329,
@@ -8035,8 +8035,8 @@
         "id": 154,
         "order": "153.00000000000000000000",
         "name": "Şişe",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 329,
@@ -8071,8 +8071,8 @@
         "id": 155,
         "order": "154.00000000000000000000",
         "name": "nerdüban",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 329,
@@ -8094,8 +8094,8 @@
         "id": 156,
         "order": "155.00000000000000000000",
         "name": "Lamba",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 330,
@@ -8117,8 +8117,8 @@
         "id": 157,
         "order": "156.00000000000000000000",
         "name": "Sandalye",
-        "Notes": "",
-        "Active": false,
+        "notes": "",
+        "active": false,
         "documents": [
             {
                 "id": 330,
