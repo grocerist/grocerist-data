@@ -3513,29 +3513,6 @@
             }
         ]
     },
-    "78": {
-        "id": 78,
-        "order": "79.00000000000000000000",
-        "name": "Esseyid Mustafa b. Ahmed",
-        "grocerist_id": "person__78",
-        "religion": [
-            {
-                "id": 6681,
-                "value": "Muslim",
-                "color": "green"
-            }
-        ],
-        "documents": [],
-        "occupation": [],
-        "century": "0",
-        "multiple_shops": false,
-        "district": [],
-        "neighbourhood": [],
-        "karye": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": []
-    },
     "79": {
         "id": 79,
         "order": "80.00000000000000000000",
@@ -4021,34 +3998,16 @@
                     "value": "19",
                     "color": "dark-purple"
                 }
-            },
-            {
-                "id": 172,
-                "value": "İSTM.ŞSC.02.d.178 / 23a-2",
-                "order": "140.00000000000000000000",
-                "lat": "41.02628",
-                "long": "28.95646",
-                "iso_date": "1742-03-28",
-                "century": {
-                    "id": 18268,
-                    "value": "18",
-                    "color": "darker-green"
-                }
             }
         ],
         "occupation": [],
         "century": "19",
-        "multiple_shops": true,
+        "multiple_shops": false,
         "district": [
             {
                 "id": 16,
                 "value": "Üsküdar",
                 "order": "15.00000000000000000000"
-            },
-            {
-                "id": 25,
-                "value": "İstanbul Bab",
-                "order": "19.00000000000000000000"
             }
         ],
         "neighbourhood": [
@@ -4056,11 +4015,6 @@
                 "id": 52,
                 "value": "Yenimahalle",
                 "order": "50.00000000000000000000"
-            },
-            {
-                "id": 103,
-                "value": "Küçük Mustafa Paşa",
-                "order": "98.00000000000000000000"
             }
         ],
         "karye": [],
@@ -4144,8 +4098,8 @@
                 "id": 65,
                 "value": "İSTM.ŞSC.06.d.339 / 26a-1 (a)",
                 "order": "59.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.02540",
+                "long": "29.03200",
                 "iso_date": "1709-01-30",
                 "century": {
                     "id": 18268,
@@ -5499,8 +5453,8 @@
                 "id": 143,
                 "value": "İSTM.ŞSC.06.d.559 / 13a",
                 "order": "110.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.03038",
+                "long": "29.04139",
                 "iso_date": "1803-10-21",
                 "century": {
                     "id": 18269,
@@ -5818,8 +5772,8 @@
                 "id": 149,
                 "value": "İSTM.ŞSC.06.d.578 / 68a",
                 "order": "116.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.03025",
+                "long": "29.03510",
                 "iso_date": "1813-12-24",
                 "century": {
                     "id": 18269,
@@ -6543,34 +6497,6 @@
             }
         ]
     },
-    "146": {
-        "id": 146,
-        "order": "142.00000000000000000000",
-        "name": "Yani v. Yorgi",
-        "grocerist_id": "person__146",
-        "religion": [
-            {
-                "id": 6682,
-                "value": "Non muslim",
-                "color": "gray"
-            },
-            {
-                "id": 6705,
-                "value": "Orthodox",
-                "color": "dark-blue"
-            }
-        ],
-        "documents": [],
-        "occupation": [],
-        "century": "0",
-        "multiple_shops": false,
-        "district": [],
-        "neighbourhood": [],
-        "karye": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": []
-    },
     "147": {
         "id": 147,
         "order": "143.00000000000000000000",
@@ -6696,8 +6622,8 @@
                 "id": 176,
                 "value": "İSTM.ŞSC.15d.361 / 92a",
                 "order": "143.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.06660",
+                "long": "28.93097",
                 "iso_date": "",
                 "century": {
                     "id": 18269,
@@ -7226,46 +7152,17 @@
             }
         ]
     },
-    "159": {
-        "id": 159,
-        "order": "155.00000000000000000000",
-        "name": "",
-        "grocerist_id": "person__159",
-        "religion": [],
-        "documents": [],
-        "occupation": [],
-        "century": "0",
-        "multiple_shops": false,
-        "district": [],
-        "neighbourhood": [],
-        "karye": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": []
-    },
-    "160": {
-        "id": 160,
-        "order": "156.00000000000000000000",
-        "name": "",
-        "grocerist_id": "person__160",
-        "religion": [],
-        "documents": [],
-        "occupation": [],
-        "century": "0",
-        "multiple_shops": false,
-        "district": [],
-        "neighbourhood": [],
-        "karye": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": []
-    },
     "161": {
         "id": 161,
         "order": "157.00000000000000000000",
         "name": "Yako v. Meşyon",
         "grocerist_id": "person__161",
         "religion": [
+            {
+                "id": 6682,
+                "value": "Non muslim",
+                "color": "gray"
+            },
             {
                 "id": 6704,
                 "value": "Jewish",
@@ -7527,23 +7424,6 @@
             }
         ]
     },
-    "166": {
-        "id": 166,
-        "order": "162.00000000000000000000",
-        "name": "",
-        "grocerist_id": "person__166",
-        "religion": [],
-        "documents": [],
-        "occupation": [],
-        "century": "0",
-        "multiple_shops": false,
-        "district": [],
-        "neighbourhood": [],
-        "karye": [],
-        "nahiye": [],
-        "quarter": [],
-        "address": []
-    },
     "167": {
         "id": 167,
         "order": "163.00000000000000000000",
@@ -7803,7 +7683,7 @@
                 "order": "169.00000000000000000000",
                 "lat": "41.02183",
                 "long": "28.97650",
-                "iso_date": "1815-12-05",
+                "iso_date": "1816-11-23",
                 "century": {
                     "id": 18269,
                     "value": "19",
@@ -7838,7 +7718,18 @@
         "order": "168.00000000000000000000",
         "name": "Anastaş v. Kablan",
         "grocerist_id": "person__172",
-        "religion": [],
+        "religion": [
+            {
+                "id": 6682,
+                "value": "Non muslim",
+                "color": "gray"
+            },
+            {
+                "id": 6705,
+                "value": "Orthodox",
+                "color": "dark-blue"
+            }
+        ],
         "documents": [
             {
                 "id": 206,
@@ -7881,7 +7772,18 @@
         "order": "169.00000000000000000000",
         "name": "Estavori v. Sırat",
         "grocerist_id": "person__173",
-        "religion": [],
+        "religion": [
+            {
+                "id": 6682,
+                "value": "Non muslim",
+                "color": "gray"
+            },
+            {
+                "id": 6705,
+                "value": "Orthodox",
+                "color": "dark-blue"
+            }
+        ],
         "documents": [
             {
                 "id": 208,
@@ -8913,8 +8815,8 @@
                 "id": 228,
                 "value": "İSTM.ŞSC.14d.604/ 45ab",
                 "order": "191.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.11888",
+                "long": "29.05312",
                 "iso_date": "1813-06-23",
                 "century": {
                     "id": 18269,
@@ -9585,8 +9487,8 @@
                 "id": 244,
                 "value": "İSTM.ŞSC.14d.616/ 4b-2",
                 "order": "207.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.02678",
+                "long": "28.97258",
                 "iso_date": "1816-08-05",
                 "century": {
                     "id": 18269,
@@ -9951,8 +9853,8 @@
                 "id": 252,
                 "value": "İSTM.ŞSC.14d.621/ 58b-2",
                 "order": "215.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.04661",
+                "long": "29.00428",
                 "iso_date": "1817-12-01",
                 "century": {
                     "id": 18269,
@@ -10365,8 +10267,8 @@
                 "id": 257,
                 "value": "İSTM.ŞSC.14d.630/ 49a",
                 "order": "220.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.02678",
+                "long": "28.97260",
                 "iso_date": "1817-05-29",
                 "century": {
                     "id": 18269,
@@ -11624,8 +11526,8 @@
                 "id": 283,
                 "value": "İSTM.ŞSC.14.d.664/ 13b-2",
                 "order": "243.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.04402",
+                "long": "29.00836",
                 "iso_date": "1828-07-14",
                 "century": {
                     "id": 18269,
@@ -11757,8 +11659,8 @@
                 "id": 286,
                 "value": "İSTM.ŞSC.14.d.671/ 6a-3",
                 "order": "246.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.02546",
+                "long": "28.97339",
                 "iso_date": "1830-04-11",
                 "century": {
                     "id": 18269,
@@ -11881,8 +11783,8 @@
                 "id": 288,
                 "value": "İSTM.ŞSC.14.d.671/ 40a-2",
                 "order": "248.00000000000000000000",
-                "lat": null,
-                "long": null,
+                "lat": "41.04256",
+                "long": "29.00247",
                 "iso_date": "1830-08-03",
                 "century": {
                     "id": 18269,
@@ -14086,6 +13988,60 @@
                 "order": "24.00000000000000000000"
             }
         ],
+        "address": []
+    },
+    "280": {
+        "id": 280,
+        "order": "275.00000000000000000000",
+        "name": "Yani v. Yorgi",
+        "grocerist_id": "person__280",
+        "religion": [
+            {
+                "id": 6682,
+                "value": "Non muslim",
+                "color": "gray"
+            },
+            {
+                "id": 6705,
+                "value": "Orthodox",
+                "color": "dark-blue"
+            }
+        ],
+        "documents": [
+            {
+                "id": 172,
+                "value": "İSTM.ŞSC.02.d.178 / 23a-2",
+                "order": "140.00000000000000000000",
+                "lat": "41.02628",
+                "long": "28.95646",
+                "iso_date": "1742-03-28",
+                "century": {
+                    "id": 18268,
+                    "value": "18",
+                    "color": "darker-green"
+                }
+            }
+        ],
+        "occupation": [],
+        "century": "18",
+        "multiple_shops": false,
+        "district": [
+            {
+                "id": 25,
+                "value": "İstanbul Bab",
+                "order": "19.00000000000000000000"
+            }
+        ],
+        "neighbourhood": [
+            {
+                "id": 103,
+                "value": "Küçük Mustafa Paşa",
+                "order": "98.00000000000000000000"
+            }
+        ],
+        "karye": [],
+        "nahiye": [],
+        "quarter": [],
         "address": []
     }
 }

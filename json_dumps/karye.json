@@ -1112,8 +1112,8 @@
                     "value": "18",
                     "color": "darker-green"
                 },
-                "lat": null,
-                "long": null
+                "lat": "41.02540",
+                "long": "29.03200"
             }
         ],
         "grocerist_id": "karye__9",
@@ -1154,8 +1154,8 @@
                         "id": 65,
                         "value": "İSTM.ŞSC.06.d.339 / 26a-1 (a)",
                         "order": "59.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.02540",
+                        "long": "29.03200",
                         "iso_date": "1709-01-30",
                         "century": {
                             "id": 18268,
@@ -2428,8 +2428,8 @@
                     "value": "19",
                     "color": "dark-purple"
                 },
-                "lat": null,
-                "long": null
+                "lat": "41.03025",
+                "long": "29.03510"
             }
         ],
         "grocerist_id": "karye__20",
@@ -2470,8 +2470,8 @@
                         "id": 149,
                         "value": "İSTM.ŞSC.06.d.578 / 68a",
                         "order": "116.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.03025",
+                        "long": "29.03510",
                         "iso_date": "1813-12-24",
                         "century": {
                             "id": 18269,
@@ -3255,6 +3255,11 @@
                 "grocerist_id": "person__161",
                 "religion": [
                     {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
                         "id": 6704,
                         "value": "Jewish",
                         "color": "dark-orange"
@@ -3977,8 +3982,8 @@
                     "value": "19",
                     "color": "dark-purple"
                 },
-                "lat": null,
-                "long": null
+                "lat": "41.11888",
+                "long": "29.05312"
             }
         ],
         "grocerist_id": "karye__33",
@@ -4027,8 +4032,8 @@
                         "id": 228,
                         "value": "İSTM.ŞSC.14d.604/ 45ab",
                         "order": "191.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.11888",
+                        "long": "29.05312",
                         "iso_date": "1813-06-23",
                         "century": {
                             "id": 18269,

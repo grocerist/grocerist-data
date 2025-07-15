@@ -26932,7 +26932,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "489.0",
     "total_value": "12714.0",
     "price_formula": "26.00",
@@ -27282,7 +27286,11 @@
       "value": "keyl",
       "color": "dark-green"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "7.0",
     "total_value": "490.0",
     "price_formula": "70.00",
@@ -27597,7 +27605,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "52.0",
     "total_value": "3120.0",
     "price_formula": "60.00",
@@ -28433,7 +28445,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "18.0",
     "total_value": "396.0",
     "price_formula": "22.00",
@@ -28627,7 +28643,11 @@
       "value": "keyl",
       "color": "dark-green"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "1.5",
     "total_value": "75.0",
     "price_formula": "50.00",
@@ -35916,7 +35936,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "5.0",
     "total_value": "300.0",
     "price_formula": "60.00",
@@ -35951,7 +35975,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "5.0",
     "total_value": "150.0",
     "price_formula": "30.00",
@@ -36414,7 +36442,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "301.0",
     "total_value": "3311.0",
     "price_formula": "11.00",
@@ -36449,7 +36481,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "54.0",
     "total_value": "540.0",
     "price_formula": "10.00",
@@ -36764,7 +36800,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "83.0",
     "total_value": "2158.0",
     "price_formula": "26.00",
@@ -37215,7 +37255,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "13.0",
     "total_value": "130.0",
     "price_formula": "10.00",
@@ -37786,7 +37830,11 @@
       "value": "keyl",
       "color": "dark-green"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "2.0",
     "total_value": "140.0",
     "price_formula": "70.00",
@@ -37891,7 +37939,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "85.0",
     "total_value": "127.0",
     "price_formula": "1.49",
@@ -37926,7 +37978,11 @@
       "value": "şinik",
       "color": "dark-yellow"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "100.0",
     "total_value": "315.0",
     "price_formula": "3.15",
@@ -38307,7 +38363,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "27.0",
     "total_value": "324.0",
     "price_formula": "12.00",
@@ -38412,7 +38472,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "44.0",
     "total_value": "1144.0",
     "price_formula": "26.00",
@@ -38793,7 +38857,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "65.0",
     "total_value": "715.0",
     "price_formula": "11.00",
@@ -38828,7 +38896,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "330.0",
     "total_value": "3630.0",
     "price_formula": "11.00",
@@ -38898,7 +38970,11 @@
       "value": "keyl",
       "color": "dark-green"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "41.5",
     "total_value": "2490.0",
     "price_formula": "60.00",
@@ -39213,7 +39289,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "24.0",
     "total_value": "288.0",
     "price_formula": "12.00",
@@ -39458,7 +39538,11 @@
       "value": "keyl",
       "color": "dark-green"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "4.0",
     "total_value": "240.0",
     "price_formula": "60.00",
@@ -40014,7 +40098,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "1.0",
     "total_value": "60.0",
     "price_formula": "60.00",
@@ -40080,7 +40168,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "10.0",
     "total_value": "30.0",
     "price_formula": "3.00",
@@ -40586,7 +40678,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "520.0",
     "total_value": "3900.0",
     "price_formula": "7.50",
@@ -40656,7 +40752,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "88.0",
     "total_value": "440.0",
     "price_formula": "5.00",
@@ -41208,7 +41308,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "43.0",
     "total_value": "43.0",
     "price_formula": "1.00",
@@ -41243,7 +41347,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "108.0",
     "total_value": "324.0",
     "price_formula": "3.00",
@@ -41278,7 +41386,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "47.5",
     "total_value": "2037.0",
     "price_formula": "42.88",
@@ -41348,7 +41460,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "66.0",
     "total_value": "2640.0",
     "price_formula": "40.00",
@@ -41383,7 +41499,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "308.0",
     "total_value": "4928.0",
     "price_formula": "16.00",
@@ -41554,7 +41674,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "77.0",
     "total_value": "539.0",
     "price_formula": "7.00",
@@ -41966,7 +42090,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "6.0",
     "total_value": "12.0",
     "price_formula": "2.00",
@@ -42525,7 +42653,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "63.0",
     "total_value": "1575.0",
     "price_formula": "25.00",
@@ -42560,7 +42692,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "26.0",
     "total_value": "1404.0",
     "price_formula": "54.00",
@@ -42937,7 +43073,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "50.0",
     "total_value": "200.0",
     "price_formula": "4.00",
@@ -43209,7 +43349,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "148.0",
     "total_value": "1750.0",
     "price_formula": "11.82",
@@ -43662,7 +43806,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "10.0",
     "total_value": "120.0",
     "price_formula": "12.00",
@@ -43974,7 +44122,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "5.0",
     "total_value": "125.0",
     "price_formula": "25.00",
@@ -44009,7 +44161,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "5.0",
     "total_value": "125.0",
     "price_formula": "25.00",
@@ -44285,7 +44441,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "100.0",
     "total_value": "4000.0",
     "price_formula": "40.00",
@@ -44320,7 +44480,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "20.0",
     "total_value": "480.0",
     "price_formula": "24.00",
@@ -44355,7 +44519,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "5.0",
     "total_value": "120.0",
     "price_formula": "24.00",
@@ -44775,7 +44943,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "92.0",
     "total_value": "2300.0",
     "price_formula": "25.00",
@@ -44810,7 +44982,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "20.0",
     "total_value": "1000.0",
     "price_formula": "50.00",
@@ -44845,7 +45021,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "543.0",
     "total_value": "8145.0",
     "price_formula": "15.00",
@@ -44880,7 +45060,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "45.5",
     "total_value": "2639.0",
     "price_formula": "58.00",
@@ -45090,7 +45274,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "8.0",
     "total_value": "72.0",
     "price_formula": "9.00",
@@ -45878,7 +46066,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "3.0",
     "total_value": "63.0",
     "price_formula": "21.00",
@@ -46019,7 +46211,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "14.0",
     "total_value": "168.0",
     "price_formula": "12.00",
@@ -46155,7 +46351,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "1.0",
     "total_value": "45.0",
     "price_formula": "45.00",
@@ -46330,7 +46530,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "9.5",
     "total_value": "114.0",
     "price_formula": "12.00",
@@ -46365,7 +46569,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "26.0",
     "total_value": "546.0",
     "price_formula": "21.00",
@@ -46820,7 +47028,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "32.0",
     "total_value": "768.0",
     "price_formula": "24.00",
@@ -46890,7 +47102,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "61.0",
     "total_value": "5124.0",
     "price_formula": "84.00",
@@ -46925,7 +47141,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "24.0",
     "total_value": "336.0",
     "price_formula": "14.00",
@@ -47162,7 +47382,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "19.0",
     "total_value": "428.0",
     "price_formula": "22.53",
@@ -47197,7 +47421,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "7.0",
     "total_value": "70.0",
     "price_formula": "10.00",
@@ -47337,7 +47565,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "12.0",
     "total_value": "48.0",
     "price_formula": "4.00",
@@ -48107,7 +48339,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "35.0",
     "total_value": "1575.0",
     "price_formula": "45.00",
@@ -48212,7 +48448,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "80.0",
     "total_value": "1680.0",
     "price_formula": "21.00",
@@ -48247,7 +48487,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "25.0",
     "total_value": "1050.0",
     "price_formula": "42.00",
@@ -48545,7 +48789,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "1.0",
     "total_value": "16.0",
     "price_formula": "16.00",
@@ -48841,7 +49089,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "140.0",
     "total_value": "10500.0",
     "price_formula": "75.00",
@@ -48981,7 +49233,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "118.0",
     "total_value": "3442.0",
     "price_formula": "29.17",
@@ -49051,7 +49307,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "57.0",
     "total_value": "570.0",
     "price_formula": "10.00",
@@ -49191,7 +49451,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "33.0",
     "total_value": "264.0",
     "price_formula": "8.00",
@@ -49296,7 +49560,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "59.0",
     "total_value": "4799.0",
     "price_formula": "81.34",
@@ -49463,7 +49731,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "5.0",
     "total_value": "6.0",
     "price_formula": "1.20",
@@ -49727,7 +49999,11 @@
       "value": "keyl",
       "color": "dark-green"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "15.0",
     "total_value": "30.0",
     "price_formula": "2.00",
@@ -49938,7 +50214,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "2.0",
     "total_value": "24.0",
     "price_formula": "12.00",
@@ -50179,7 +50459,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "2.0",
     "total_value": "6.0",
     "price_formula": "3.00",
@@ -50633,7 +50917,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "22.0",
     "total_value": "44.0",
     "price_formula": "2.00",
@@ -50668,7 +50956,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "5.0",
     "total_value": "75.0",
     "price_formula": "15.00",
@@ -51045,7 +51337,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "15.0",
     "total_value": "90.0",
     "price_formula": "6.00",
@@ -51737,7 +52033,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "40.0",
     "total_value": "300.0",
     "price_formula": "7.50",
@@ -51947,7 +52247,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "8.0",
     "total_value": "168.0",
     "price_formula": "21.00",
@@ -51982,7 +52286,11 @@
       "value": "keyl",
       "color": "dark-green"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "7.0",
     "total_value": "2520.0",
     "price_formula": "360.00",
@@ -52386,7 +52694,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "6.6",
     "total_value": "380.0",
     "price_formula": "57.58",
@@ -52770,7 +53082,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "13.0",
     "total_value": "156.0",
     "price_formula": "12.00",
@@ -52805,7 +53121,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "7.5",
     "total_value": "7037.0",
     "price_formula": "938.27",
@@ -52875,7 +53195,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "123.5",
     "total_value": "6152.0",
     "price_formula": "49.81",
@@ -53225,7 +53549,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "1.0",
     "total_value": "27.0",
     "price_formula": "27.00",
@@ -53365,7 +53693,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "54.0",
     "total_value": "2400.0",
     "price_formula": "44.44",
@@ -54442,7 +54774,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "7.0",
     "total_value": "175.0",
     "price_formula": "25.00",
@@ -54644,7 +54980,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "653.0",
     "total_value": "30027.0",
     "price_formula": "45.98",
@@ -54889,7 +55229,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "152.5",
     "total_value": "10998.0",
     "price_formula": "72.12",
@@ -54924,7 +55268,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "36.5",
     "total_value": "3285.0",
     "price_formula": "90.00",
@@ -55139,7 +55487,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "22.5",
     "total_value": "247.0",
     "price_formula": "10.98",
@@ -55504,7 +55856,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "70.0",
     "total_value": "4200.0",
     "price_formula": "60.00",
@@ -55644,7 +56000,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "13.0",
     "total_value": "312.0",
     "price_formula": "24.00",
@@ -56235,7 +56595,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "13.0",
     "total_value": "236.0",
     "price_formula": "18.15",
@@ -56760,7 +57124,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "2.5",
     "total_value": "277.0",
     "price_formula": "110.80",
@@ -56830,7 +57198,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "42.0",
     "total_value": "252.0",
     "price_formula": "6.00",
@@ -56900,7 +57272,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "1077.0",
     "total_value": "40926.0",
     "price_formula": "38.00",
@@ -56970,7 +57346,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "57.0",
     "total_value": "1440.0",
     "price_formula": "25.26",
@@ -57005,7 +57385,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "895.0",
     "total_value": "34010.0",
     "price_formula": "38.00",
@@ -57386,7 +57770,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "366.0",
     "total_value": "13927.0",
     "price_formula": "38.05",
@@ -57631,7 +58019,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "5.0",
     "total_value": "80.0",
     "price_formula": "16.00",
@@ -58043,7 +58435,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "168.0",
     "total_value": "7077.0",
     "price_formula": "42.13",
@@ -58218,7 +58614,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "103.0",
     "total_value": "1854.0",
     "price_formula": "18.00",
@@ -59024,7 +59424,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "25.0",
     "total_value": "250.0",
     "price_formula": "10.00",
@@ -59234,7 +59638,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "49.5",
     "total_value": "544.0",
     "price_formula": "10.99",
@@ -59405,7 +59813,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "873.0",
     "total_value": "35713.0",
     "price_formula": "40.91",
@@ -59887,7 +60299,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "17.0",
     "total_value": "367.0",
     "price_formula": "21.59",
@@ -60369,7 +60785,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "145.0",
     "total_value": "4350.0",
     "price_formula": "30.00",
@@ -60404,7 +60824,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "49.5",
     "total_value": "591.0",
     "price_formula": "11.94",
@@ -60579,7 +61003,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "50.0",
     "total_value": "2300.0",
     "price_formula": "46.00",
@@ -61205,7 +61633,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "98.0",
     "total_value": "6467.0",
     "price_formula": "65.99",
@@ -61998,7 +62430,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "51.0",
     "total_value": "204.0",
     "price_formula": "4.00",
@@ -62033,7 +62469,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "7.0",
     "total_value": "280.0",
     "price_formula": "40.00",
@@ -62103,7 +62543,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "196.0",
     "total_value": "3146.0",
     "price_formula": "16.05",
@@ -62138,7 +62582,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "24.0",
     "total_value": "48.0",
     "price_formula": "2.00",
@@ -62507,7 +62955,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "52.0",
     "total_value": "156.0",
     "price_formula": "3.00",
@@ -63046,7 +63498,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "26.0",
     "total_value": "1040.0",
     "price_formula": "40.00",
@@ -63108,7 +63564,11 @@
     ],
     "price": "16.00",
     "unit": null,
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "16.0",
     "total_value": "256.0",
     "price_formula": "16.00",
@@ -63201,7 +63661,11 @@
     ],
     "price": "4.00",
     "unit": null,
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "17.0",
     "total_value": "68.0",
     "price_formula": "4.00",
@@ -64220,7 +64684,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "62.0",
     "total_value": "3348.0",
     "price_formula": "54.00",
@@ -64255,7 +64723,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "80.5",
     "total_value": "1288.0",
     "price_formula": "16.00",
@@ -64395,7 +64867,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "7.0",
     "total_value": "108.0",
     "price_formula": "15.43",
@@ -64500,7 +64976,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "15.0",
     "total_value": "45.0",
     "price_formula": "3.00",
@@ -64772,7 +65252,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "2.0",
     "total_value": "40.0",
     "price_formula": "20.00",
@@ -64807,7 +65291,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "46.5",
     "total_value": "2024.0",
     "price_formula": "43.53",
@@ -64877,7 +65365,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "60.0",
     "total_value": "880.0",
     "price_formula": "14.67",
@@ -65017,7 +65509,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "7.0",
     "total_value": "308.0",
     "price_formula": "44.00",
@@ -65153,7 +65649,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "41.0",
     "total_value": "2050.0",
     "price_formula": "50.00",
@@ -65223,7 +65723,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "23.0",
     "total_value": "276.0",
     "price_formula": "12.00",
@@ -65569,7 +66073,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "15.0",
     "total_value": "60.0",
     "price_formula": "4.00",
@@ -65868,7 +66376,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "25.0",
     "total_value": "250.0",
     "price_formula": "10.00",
@@ -66028,7 +66540,11 @@
     ],
     "price": "39.00",
     "unit": null,
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "253.0",
     "total_value": "9867.0",
     "price_formula": "39.00",
@@ -66063,7 +66579,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "294.0",
     "total_value": "6468.0",
     "price_formula": "22.00",
@@ -66203,7 +66723,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "51.5",
     "total_value": "515.0",
     "price_formula": "10.00",
@@ -66378,7 +66902,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "829.5",
     "total_value": "53077.0",
     "price_formula": "63.99",
@@ -66934,7 +67462,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "206.5",
     "total_value": "4646.3",
     "price_formula": "22.50",
@@ -67394,7 +67926,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "17.0",
     "total_value": "34.0",
     "price_formula": "2.00",
@@ -67429,7 +67965,11 @@
       "value": "kıyye",
       "color": "dark-brown"
     },
-    "currency": null,
+    "currency": {
+      "id": 18609,
+      "value": "akçe",
+      "color": "brown"
+    },
     "amount_of_units": "1.0",
     "total_value": "42.0",
     "price_formula": "42.00",

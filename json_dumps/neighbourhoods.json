@@ -4552,34 +4552,16 @@
                             "value": "19",
                             "color": "dark-purple"
                         }
-                    },
-                    {
-                        "id": 172,
-                        "value": "İSTM.ŞSC.02.d.178 / 23a-2",
-                        "order": "140.00000000000000000000",
-                        "lat": "41.02628",
-                        "long": "28.95646",
-                        "iso_date": "1742-03-28",
-                        "century": {
-                            "id": 18268,
-                            "value": "18",
-                            "color": "darker-green"
-                        }
                     }
                 ],
                 "occupation": [],
                 "century": "19",
-                "multiple_shops": true,
+                "multiple_shops": false,
                 "district": [
                     {
                         "id": 16,
                         "value": "Üsküdar",
                         "order": "15.00000000000000000000"
-                    },
-                    {
-                        "id": 25,
-                        "value": "İstanbul Bab",
-                        "order": "19.00000000000000000000"
                     }
                 ],
                 "neighbourhood": [
@@ -4587,11 +4569,6 @@
                         "id": 52,
                         "value": "Yenimahalle",
                         "order": "50.00000000000000000000"
-                    },
-                    {
-                        "id": 103,
-                        "value": "Küçük Mustafa Paşa",
-                        "order": "98.00000000000000000000"
                     }
                 ],
                 "karye": [],
@@ -7917,10 +7894,10 @@
         "upper_admin3": [],
         "persons": [
             {
-                "id": 94,
-                "order": "92.00000000000000000000",
+                "id": 280,
+                "order": "275.00000000000000000000",
                 "name": "Yani v. Yorgi",
-                "grocerist_id": "person__94",
+                "grocerist_id": "person__280",
                 "religion": [
                     {
                         "id": 6682,
@@ -7934,19 +7911,6 @@
                     }
                 ],
                 "documents": [
-                    {
-                        "id": 111,
-                        "value": "İSTM.ŞSC.06.d.577 / 43b-1",
-                        "order": "104.00000000000000000000",
-                        "lat": "41.02346",
-                        "long": "29.03194",
-                        "iso_date": "1812-11-30",
-                        "century": {
-                            "id": 18269,
-                            "value": "19",
-                            "color": "dark-purple"
-                        }
-                    },
                     {
                         "id": 172,
                         "value": "İSTM.ŞSC.02.d.178 / 23a-2",
@@ -7962,14 +7926,9 @@
                     }
                 ],
                 "occupation": [],
-                "century": "19",
-                "multiple_shops": true,
+                "century": "18",
+                "multiple_shops": false,
                 "district": [
-                    {
-                        "id": 16,
-                        "value": "Üsküdar",
-                        "order": "15.00000000000000000000"
-                    },
                     {
                         "id": 25,
                         "value": "İstanbul Bab",
@@ -7977,11 +7936,6 @@
                     }
                 ],
                 "neighbourhood": [
-                    {
-                        "id": 52,
-                        "value": "Yenimahalle",
-                        "order": "50.00000000000000000000"
-                    },
                     {
                         "id": 103,
                         "value": "Küçük Mustafa Paşa",
@@ -8313,6 +8267,11 @@
                 "name": "Yako v. Meşyon",
                 "grocerist_id": "person__161",
                 "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
                     {
                         "id": 6704,
                         "value": "Jewish",
@@ -10605,8 +10564,8 @@
                     "value": "19",
                     "color": "dark-purple"
                 },
-                "lat": null,
-                "long": null
+                "lat": "41.03038",
+                "long": "29.04139"
             }
         ],
         "district_nineteenth_century": [],
@@ -10639,8 +10598,8 @@
                         "id": 143,
                         "value": "İSTM.ŞSC.06.d.559 / 13a",
                         "order": "110.00000000000000000000",
-                        "lat": null,
-                        "long": null,
+                        "lat": "41.03038",
+                        "long": "29.04139",
                         "iso_date": "1803-10-21",
                         "century": {
                             "id": 18269,
