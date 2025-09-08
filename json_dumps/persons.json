@@ -14043,5 +14043,121 @@
         "nahiye": [],
         "quarter": [],
         "address": []
+    },
+    "281": {
+        "id": 281,
+        "order": "276.00000000000000000000",
+        "name": "... v. Andarya",
+        "grocerist_id": "person__281",
+        "religion": [
+            {
+                "id": 6682,
+                "value": "Non muslim",
+                "color": "gray"
+            },
+            {
+                "id": 6705,
+                "value": "Orthodox",
+                "color": "dark-blue"
+            }
+        ],
+        "documents": [
+            {
+                "id": 334,
+                "value": "İSTM.ŞSC.15.d.539 / 46a",
+                "order": "290.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": "",
+                "century": null
+            }
+        ],
+        "occupation": [],
+        "century": "NaN",
+        "multiple_shops": false,
+        "district": [
+            {
+                "id": 19,
+                "value": "Eyüp",
+                "order": "18.00000000000000000000"
+            }
+        ],
+        "neighbourhood": [],
+        "karye": [
+            {
+                "id": 38,
+                "value": "Anbarlı",
+                "order": "38.00000000000000000000"
+            }
+        ],
+        "nahiye": [
+            {
+                "id": 4,
+                "value": "Çekmece-i sagir",
+                "order": "4.00000000000000000000"
+            }
+        ],
+        "quarter": [],
+        "address": []
+    },
+    "282": {
+        "id": 282,
+        "order": "277.00000000000000000000",
+        "name": "Bakkal Tanaş",
+        "grocerist_id": "person__282",
+        "religion": [
+            {
+                "id": 6682,
+                "value": "Non muslim",
+                "color": "gray"
+            },
+            {
+                "id": 6705,
+                "value": "Orthodox",
+                "color": "dark-blue"
+            }
+        ],
+        "documents": [
+            {
+                "id": 335,
+                "value": "İSTM.ŞSC.15.d.545/ 71b-1",
+                "order": "291.00000000000000000000",
+                "lat": null,
+                "long": null,
+                "iso_date": "",
+                "century": {
+                    "id": 18269,
+                    "value": "19",
+                    "color": "dark-purple"
+                }
+            }
+        ],
+        "occupation": [],
+        "century": "19",
+        "multiple_shops": false,
+        "district": [
+            {
+                "id": 19,
+                "value": "Eyüp",
+                "order": "18.00000000000000000000"
+            }
+        ],
+        "neighbourhood": [],
+        "karye": [
+            {
+                "id": 1,
+                "value": "Zekeriya",
+                "order": "1.00000000000000000000"
+            }
+        ],
+        "nahiye": [
+            {
+                "id": 4,
+                "value": "Çekmece-i sagir",
+                "order": "4.00000000000000000000"
+            }
+        ],
+        "quarter": [],
+        "address": []
     }
 }
