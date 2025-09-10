@@ -73486,12 +73486,20 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
-    "currency": null,
-    "amount_of_units": null,
+    "price": "29.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "29.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73518,12 +73526,20 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
-    "currency": null,
-    "amount_of_units": null,
+    "price": "35.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "17.5",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73550,12 +73566,20 @@
         "order": "340.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
-    "currency": null,
-    "amount_of_units": null,
+    "price": "12.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "32.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73582,12 +73606,20 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
-    "currency": null,
-    "amount_of_units": null,
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "4.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73614,12 +73646,20 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
-    "currency": null,
-    "amount_of_units": null,
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "10.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73646,12 +73686,20 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
-    "currency": null,
-    "amount_of_units": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "13.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73678,12 +73726,20 @@
         "order": "101.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
-    "currency": null,
-    "amount_of_units": null,
+    "price": "15.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "47.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73710,12 +73766,20 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
-    "currency": null,
-    "amount_of_units": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "4.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73742,12 +73806,16 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "4.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73774,12 +73842,16 @@
         "order": "154.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "6.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73806,12 +73878,16 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "30.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "0.5",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73838,12 +73914,16 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "10.00",
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "300.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73870,12 +73950,16 @@
         "order": "362.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "62.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "9.5",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73902,12 +73986,16 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "32.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "5.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73934,12 +74022,16 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "30.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "22.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73966,12 +74058,16 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "30.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -73998,12 +74094,16 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "23.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "120.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -74030,12 +74130,16 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "27.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "103.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -74062,12 +74166,16 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "85.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "149.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -74094,12 +74202,16 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "76.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "151.5",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -74126,12 +74238,16 @@
         "order": "63.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "76.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "4.5",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -74158,12 +74274,16 @@
         "order": "112.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "59.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "10.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -74191,11 +74311,15 @@
       }
     ],
     "price": null,
-    "unit": null,
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "40.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -74222,12 +74346,16 @@
         "order": "201.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "15.00",
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "18.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -74255,11 +74383,15 @@
       }
     ],
     "price": null,
-    "unit": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
-    "amount_of_units": null,
+    "amount_of_units": "12.0",
     "total_value": null,
-    "price_formula": "NaN",
+    "price_formula": "0.00",
     "doc_year": [
       {
         "id": 177,
@@ -74286,15 +74418,3059 @@
         "order": "337.00000000000000000000"
       }
     ],
-    "price": null,
-    "unit": null,
+    "price": "48.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "10.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 177,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2099": {
+    "id": 2099,
+    "order": "2059.00000000000000000000",
+    "grocerist_id": "price__2099",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 15,
+        "value": "Pirinc",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "price": "26.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
     "currency": null,
+    "amount_of_units": "57.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2100": {
+    "id": 2100,
+    "order": "2060.00000000000000000000",
+    "grocerist_id": "price__2100",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 345,
+        "value": "Kaşar peyniri",
+        "order": "337.00000000000000000000"
+      }
+    ],
+    "price": "64.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "64.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2101": {
+    "id": 2101,
+    "order": "2061.00000000000000000000",
+    "grocerist_id": "price__2101",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 88,
+        "value": "Arpacık soğanı",
+        "order": "88.00000000000000000000"
+      }
+    ],
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "109.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2102": {
+    "id": 2102,
+    "order": "2062.00000000000000000000",
+    "grocerist_id": "price__2102",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 87,
+        "value": "Kaba soğan",
+        "order": "87.00000000000000000000"
+      }
+    ],
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "75.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2103": {
+    "id": 2103,
+    "order": "2063.00000000000000000000",
+    "grocerist_id": "price__2103",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 55,
+        "value": "Revgan-ı bezir",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "price": "92.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "13.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2104": {
+    "id": 2104,
+    "order": "2064.00000000000000000000",
+    "grocerist_id": "price__2104",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 31,
+        "value": "Sarımsak",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "price": "12.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "3.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2105": {
+    "id": 2105,
+    "order": "2065.00000000000000000000",
+    "grocerist_id": "price__2105",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 57,
+        "value": "Basdırma",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "price": "35.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "1.5",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2106": {
+    "id": 2106,
+    "order": "2066.00000000000000000000",
+    "grocerist_id": "price__2106",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 38,
+        "value": "Havyar",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "price": "54.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "1.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2107": {
+    "id": 2107,
+    "order": "2067.00000000000000000000",
+    "grocerist_id": "price__2107",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 101,
+        "value": "Fasulye",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "16.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2108": {
+    "id": 2108,
+    "order": "2068.00000000000000000000",
+    "grocerist_id": "price__2108",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 12,
+        "value": "Böğrülce",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "price": "25.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "2.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2109": {
+    "id": 2109,
+    "order": "2069.00000000000000000000",
+    "grocerist_id": "price__2109",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 391,
+        "value": "Şariyye makarna",
+        "order": "381.00000000000000000000"
+      }
+    ],
+    "price": "32.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "2.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2110": {
+    "id": 2110,
+    "order": "2070.00000000000000000000",
+    "grocerist_id": "price__2110",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 5,
+        "value": "Revgan-ı zeyt",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "price": "46.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "55.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2111": {
+    "id": 2111,
+    "order": "2071.00000000000000000000",
+    "grocerist_id": "price__2111",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 53,
+        "value": "Dakik",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "price": "18.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "14.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2112": {
+    "id": 2112,
+    "order": "2072.00000000000000000000",
+    "grocerist_id": "price__2112",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 46,
+        "value": "Şair",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "price": "110.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
+    "currency": null,
+    "amount_of_units": "6.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2113": {
+    "id": 2113,
+    "order": "2073.00000000000000000000",
+    "grocerist_id": "price__2113",
+    "document": [
+      {
+        "id": 178,
+        "value": "İSTM.ŞSC.15d.393 / 54b-55a",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 34,
+        "value": "Zeytun",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
     "amount_of_units": null,
     "total_value": null,
     "price_formula": "NaN",
     "doc_year": [
       {
-        "id": 177,
+        "id": 178,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2114": {
+    "id": 2114,
+    "order": "2074.00000000000000000000",
+    "grocerist_id": "price__2114",
+    "document": [
+      {
+        "id": 179,
+        "value": "İSTM.ŞSC.15d.393 / 70ab",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 227,
+        "value": "Ham sirke",
+        "order": "221.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "total_value": "620.0",
+    "price_formula": "NaN",
+    "doc_year": [
+      {
+        "id": 179,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2115": {
+    "id": 2115,
+    "order": "2075.00000000000000000000",
+    "grocerist_id": "price__2115",
+    "document": [
+      {
+        "id": 179,
+        "value": "İSTM.ŞSC.15d.393 / 70ab",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 226,
+        "value": "Arak",
+        "order": "220.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": null,
+    "currency": null,
+    "amount_of_units": null,
+    "total_value": "310.0",
+    "price_formula": "NaN",
+    "doc_year": [
+      {
+        "id": 179,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2116": {
+    "id": 2116,
+    "order": "2076.00000000000000000000",
+    "grocerist_id": "price__2116",
+    "document": [
+      {
+        "id": 179,
+        "value": "İSTM.ŞSC.15d.393 / 70ab",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 5,
+        "value": "Revgan-ı zeyt",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "30.0",
+    "total_value": "60.0",
+    "price_formula": "2.00",
+    "doc_year": [
+      {
+        "id": 179,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2117": {
+    "id": 2117,
+    "order": "2077.00000000000000000000",
+    "grocerist_id": "price__2117",
+    "document": [
+      {
+        "id": 179,
+        "value": "İSTM.ŞSC.15d.393 / 70ab",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 6,
+        "value": "Revgan-ı sade",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "price": "2.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "8.0",
+    "total_value": "20.0",
+    "price_formula": "2.50",
+    "doc_year": [
+      {
+        "id": 179,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2118": {
+    "id": 2118,
+    "order": "2078.00000000000000000000",
+    "grocerist_id": "price__2118",
+    "document": [
+      {
+        "id": 179,
+        "value": "İSTM.ŞSC.15d.393 / 70ab",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 15,
+        "value": "Pirinc",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "price": "0.73",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "15.0",
+    "total_value": "11.0",
+    "price_formula": "0.73",
+    "doc_year": [
+      {
+        "id": 179,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2119": {
+    "id": 2119,
+    "order": "2079.00000000000000000000",
+    "grocerist_id": "price__2119",
+    "document": [
+      {
+        "id": 179,
+        "value": "İSTM.ŞSC.15d.393 / 70ab",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 1,
+        "value": "Fındık",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "price": "0.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "22.0",
+    "total_value": "11.0",
+    "price_formula": "0.50",
+    "doc_year": [
+      {
+        "id": 179,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2120": {
+    "id": 2120,
+    "order": "2080.00000000000000000000",
+    "grocerist_id": "price__2120",
+    "document": [
+      {
+        "id": 179,
+        "value": "İSTM.ŞSC.15d.393 / 70ab",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 108,
+        "value": "Sabun",
+        "order": "108.00000000000000000000"
+      }
+    ],
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "12.0",
+    "total_value": "24.0",
+    "price_formula": "2.00",
+    "doc_year": [
+      {
+        "id": 179,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2121": {
+    "id": 2121,
+    "order": "2081.00000000000000000000",
+    "grocerist_id": "price__2121",
+    "document": [
+      {
+        "id": 179,
+        "value": "İSTM.ŞSC.15d.393 / 70ab",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 46,
+        "value": "Şair",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "price": "3.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
+    "currency": null,
+    "amount_of_units": "30.0",
+    "total_value": "90.0",
+    "price_formula": "3.00",
+    "doc_year": [
+      {
+        "id": 179,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2122": {
+    "id": 2122,
+    "order": "2082.00000000000000000000",
+    "grocerist_id": "price__2122",
+    "document": [
+      {
+        "id": 179,
+        "value": "İSTM.ŞSC.15d.393 / 70ab",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 112,
+        "value": "Mum",
+        "order": "112.00000000000000000000"
+      }
+    ],
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "5.0",
+    "total_value": "10.0",
+    "price_formula": "2.00",
+    "doc_year": [
+      {
+        "id": 179,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2123": {
+    "id": 2123,
+    "order": "2083.00000000000000000000",
+    "grocerist_id": "price__2123",
+    "document": [
+      {
+        "id": 180,
+        "value": "İSTM.ŞSC.15d.402 / 41ab",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 15,
+        "value": "Pirinc",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "price": "30.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "19.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 180,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2124": {
+    "id": 2124,
+    "order": "2084.00000000000000000000",
+    "grocerist_id": "price__2124",
+    "document": [
+      {
+        "id": 180,
+        "value": "İSTM.ŞSC.15d.402 / 41ab",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 35,
+        "value": "Duhan",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "price": "1.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "10.0",
+    "total_value": "15.0",
+    "price_formula": "1.50",
+    "doc_year": [
+      {
+        "id": 180,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2125": {
+    "id": 2125,
+    "order": "2085.00000000000000000000",
+    "grocerist_id": "price__2125",
+    "document": [
+      {
+        "id": 180,
+        "value": "İSTM.ŞSC.15d.402 / 41ab",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 231,
+        "value": "Revgan-ı çerviş",
+        "order": "225.00000000000000000000"
+      }
+    ],
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "15.0",
+    "total_value": "30.0",
+    "price_formula": "2.00",
+    "doc_year": [
+      {
+        "id": 180,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2126": {
+    "id": 2126,
+    "order": "2086.00000000000000000000",
+    "grocerist_id": "price__2126",
+    "document": [
+      {
+        "id": 180,
+        "value": "İSTM.ŞSC.15d.402 / 41ab",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 252,
+        "value": "Mum yağı",
+        "order": "245.00000000000000000000"
+      }
+    ],
+    "price": "40.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "35.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 180,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2127": {
+    "id": 2127,
+    "order": "2087.00000000000000000000",
+    "grocerist_id": "price__2127",
+    "document": [
+      {
+        "id": 180,
+        "value": "İSTM.ŞSC.15d.402 / 41ab",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 247,
+        "value": "Balık",
+        "order": "240.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
+    "currency": null,
+    "amount_of_units": "600.0",
+    "total_value": "30.0",
+    "price_formula": "0.05",
+    "doc_year": [
+      {
+        "id": 180,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2128": {
+    "id": 2128,
+    "order": "2088.00000000000000000000",
+    "grocerist_id": "price__2128",
+    "document": [
+      {
+        "id": 180,
+        "value": "İSTM.ŞSC.15d.402 / 41ab",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 226,
+        "value": "Arak",
+        "order": "220.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "138.0",
+    "total_value": "117.1",
+    "price_formula": "0.85",
+    "doc_year": [
+      {
+        "id": 180,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2129": {
+    "id": 2129,
+    "order": "2089.00000000000000000000",
+    "grocerist_id": "price__2129",
+    "document": [
+      {
+        "id": 180,
+        "value": "İSTM.ŞSC.15d.402 / 41ab",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 53,
+        "value": "Dakik",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "price": "5.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
+    "currency": null,
+    "amount_of_units": "15.0",
+    "total_value": "75.0",
+    "price_formula": "5.00",
+    "doc_year": [
+      {
+        "id": 180,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2130": {
+    "id": 2130,
+    "order": "2090.00000000000000000000",
+    "grocerist_id": "price__2130",
+    "document": [
+      {
+        "id": 180,
+        "value": "İSTM.ŞSC.15d.402 / 41ab",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 166,
+        "value": "Peynir",
+        "order": "163.00000000000000000000"
+      }
+    ],
+    "price": "40.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "92.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 180,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2131": {
+    "id": 2131,
+    "order": "2091.00000000000000000000",
+    "grocerist_id": "price__2131",
+    "document": [
+      {
+        "id": 180,
+        "value": "İSTM.ŞSC.15d.402 / 41ab",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 46,
+        "value": "Şair",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "price": "90.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "160.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 180,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2132": {
+    "id": 2132,
+    "order": "2092.00000000000000000000",
+    "grocerist_id": "price__2132",
+    "document": [
+      {
+        "id": 180,
+        "value": "İSTM.ŞSC.15d.402 / 41ab",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 29,
+        "value": "Soğan",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "price": "10.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "120.0",
+    "total_value": null,
+    "price_formula": "0.00",
+    "doc_year": [
+      {
+        "id": 180,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2133": {
+    "id": 2133,
+    "order": "2093.00000000000000000000",
+    "grocerist_id": "price__2133",
+    "document": [
+      {
+        "id": 181,
+        "value": "İSTM.ŞSC.15d.403 / 34b3",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 12,
+        "value": "Böğrülce",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "4.0",
+    "total_value": "32.0",
+    "price_formula": "8.00",
+    "doc_year": [
+      {
+        "id": 181,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2134": {
+    "id": 2134,
+    "order": "2094.00000000000000000000",
+    "grocerist_id": "price__2134",
+    "document": [
+      {
+        "id": 181,
+        "value": "İSTM.ŞSC.15d.403 / 34b3",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 101,
+        "value": "Fasulye",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "6.0",
+    "total_value": "24.0",
+    "price_formula": "4.00",
+    "doc_year": [
+      {
+        "id": 181,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2135": {
+    "id": 2135,
+    "order": "2095.00000000000000000000",
+    "grocerist_id": "price__2135",
+    "document": [
+      {
+        "id": 181,
+        "value": "İSTM.ŞSC.15d.403 / 34b3",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 46,
+        "value": "Şair",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "price": "72.00",
+    "unit": {
+      "id": 17218,
+      "value": "keyl",
+      "color": "dark-green"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "3.0",
+    "total_value": "216.0",
+    "price_formula": "72.00",
+    "doc_year": [
+      {
+        "id": 181,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2136": {
+    "id": 2136,
+    "order": "2096.00000000000000000000",
+    "grocerist_id": "price__2136",
+    "document": [
+      {
+        "id": 181,
+        "value": "İSTM.ŞSC.15d.403 / 34b3",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 379,
+        "value": "Deniz tuzu",
+        "order": "369.00000000000000000000"
+      }
+    ],
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "5.0",
+    "total_value": "25.0",
+    "price_formula": "5.00",
+    "doc_year": [
+      {
+        "id": 181,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2137": {
+    "id": 2137,
+    "order": "2097.00000000000000000000",
+    "grocerist_id": "price__2137",
+    "document": [
+      {
+        "id": 181,
+        "value": "İSTM.ŞSC.15d.403 / 34b3",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 14,
+        "value": "Mercimek",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "price": "3.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "20.0",
+    "total_value": "83.0",
+    "price_formula": "4.15",
+    "doc_year": [
+      {
+        "id": 181,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2138": {
+    "id": 2138,
+    "order": "2098.00000000000000000000",
+    "grocerist_id": "price__2138",
+    "document": [
+      {
+        "id": 181,
+        "value": "İSTM.ŞSC.15d.403 / 34b3",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 5,
+        "value": "Revgan-ı zeyt",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "price": "40.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "2.0",
+    "total_value": "80.0",
+    "price_formula": "40.00",
+    "doc_year": [
+      {
+        "id": 181,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2139": {
+    "id": 2139,
+    "order": "2099.00000000000000000000",
+    "grocerist_id": "price__2139",
+    "document": [
+      {
+        "id": 181,
+        "value": "İSTM.ŞSC.15d.403 / 34b3",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 24,
+        "value": "Nardenk",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": {
+      "id": 21729,
+      "value": "para",
+      "color": "deep-dark-orange"
+    },
+    "amount_of_units": "6.0",
+    "total_value": "48.0",
+    "price_formula": "8.00",
+    "doc_year": [
+      {
+        "id": 181,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2140": {
+    "id": 2140,
+    "order": "2100.00000000000000000000",
+    "grocerist_id": "price__2140",
+    "document": [
+      {
+        "id": 182,
+        "value": "İSTM.ŞSC.15d.436 / 36b",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 108,
+        "value": "Sabun",
+        "order": "108.00000000000000000000"
+      }
+    ],
+    "price": "2.75",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "40.0",
+    "total_value": "110.0",
+    "price_formula": "2.75",
+    "doc_year": [
+      {
+        "id": 182,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2141": {
+    "id": 2141,
+    "order": "2101.00000000000000000000",
+    "grocerist_id": "price__2141",
+    "document": [
+      {
+        "id": 182,
+        "value": "İSTM.ŞSC.15d.436 / 36b",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 101,
+        "value": "Fasulye",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "price": "0.75",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "10.0",
+    "total_value": "7.5",
+    "price_formula": "0.75",
+    "doc_year": [
+      {
+        "id": 182,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2142": {
+    "id": 2142,
+    "order": "2102.00000000000000000000",
+    "grocerist_id": "price__2142",
+    "document": [
+      {
+        "id": 182,
+        "value": "İSTM.ŞSC.15d.436 / 36b",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 15,
+        "value": "Pirinc",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "price": "1.80",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "10.0",
+    "total_value": "18.0",
+    "price_formula": "1.80",
+    "doc_year": [
+      {
+        "id": 182,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2143": {
+    "id": 2143,
+    "order": "2103.00000000000000000000",
+    "grocerist_id": "price__2143",
+    "document": [
+      {
+        "id": 182,
+        "value": "İSTM.ŞSC.15d.436 / 36b",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 36,
+        "value": "Şariye",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "price": "1.75",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "10.0",
+    "total_value": "17.5",
+    "price_formula": "1.75",
+    "doc_year": [
+      {
+        "id": 182,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2144": {
+    "id": 2144,
+    "order": "2104.00000000000000000000",
+    "grocerist_id": "price__2144",
+    "document": [
+      {
+        "id": 182,
+        "value": "İSTM.ŞSC.15d.436 / 36b",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 59,
+        "value": "Yumurta",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "price": "0.08",
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
+    "currency": null,
+    "amount_of_units": "150.0",
+    "total_value": "12.0",
+    "price_formula": "0.08",
+    "doc_year": [
+      {
+        "id": 182,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2145": {
+    "id": 2145,
+    "order": "2105.00000000000000000000",
+    "grocerist_id": "price__2145",
+    "document": [
+      {
+        "id": 182,
+        "value": "İSTM.ŞSC.15d.436 / 36b",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 31,
+        "value": "Sarımsak",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "price": "0.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "40.0",
+    "total_value": "20.0",
+    "price_formula": "0.50",
+    "doc_year": [
+      {
+        "id": 182,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2146": {
+    "id": 2146,
+    "order": "2106.00000000000000000000",
+    "grocerist_id": "price__2146",
+    "document": [
+      {
+        "id": 182,
+        "value": "İSTM.ŞSC.15d.436 / 36b",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 25,
+        "value": "Bal / Asel",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "30.0",
+    "total_value": "60.0",
+    "price_formula": "2.00",
+    "doc_year": [
+      {
+        "id": 182,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2147": {
+    "id": 2147,
+    "order": "2107.00000000000000000000",
+    "grocerist_id": "price__2147",
+    "document": [
+      {
+        "id": 182,
+        "value": "İSTM.ŞSC.15d.436 / 36b",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 53,
+        "value": "Dakik",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "price": "1.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "100.0",
+    "total_value": "100.0",
+    "price_formula": "1.00",
+    "doc_year": [
+      {
+        "id": 182,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2148": {
+    "id": 2148,
+    "order": "2108.00000000000000000000",
+    "grocerist_id": "price__2148",
+    "document": [
+      {
+        "id": 182,
+        "value": "İSTM.ŞSC.15d.436 / 36b",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 5,
+        "value": "Revgan-ı zeyt",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "price": "3.08",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "13.0",
+    "total_value": "40.0",
+    "price_formula": "3.08",
+    "doc_year": [
+      {
+        "id": 182,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2149": {
+    "id": 2149,
+    "order": "2109.00000000000000000000",
+    "grocerist_id": "price__2149",
+    "document": [
+      {
+        "id": 182,
+        "value": "İSTM.ŞSC.15d.436 / 36b",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 345,
+        "value": "Kaşar peyniri",
+        "order": "337.00000000000000000000"
+      }
+    ],
+    "price": "4.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "20.0",
+    "total_value": "90.0",
+    "price_formula": "4.50",
+    "doc_year": [
+      {
+        "id": 182,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2150": {
+    "id": 2150,
+    "order": "2110.00000000000000000000",
+    "grocerist_id": "price__2150",
+    "document": [
+      {
+        "id": 184,
+        "value": "İSTM.ŞSC.15d.440 / 7b",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 30,
+        "value": "Tuz",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "30.0",
+    "total_value": "6.0",
+    "price_formula": "0.20",
+    "doc_year": [
+      {
+        "id": 184,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2151": {
+    "id": 2151,
+    "order": "2111.00000000000000000000",
+    "grocerist_id": "price__2151",
+    "document": [
+      {
+        "id": 184,
+        "value": "İSTM.ŞSC.15d.440 / 7b",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 34,
+        "value": "Zeytun",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "4.0",
+    "total_value": "3.0",
+    "price_formula": "0.75",
+    "doc_year": [
+      {
+        "id": 184,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2152": {
+    "id": 2152,
+    "order": "2112.00000000000000000000",
+    "grocerist_id": "price__2152",
+    "document": [
+      {
+        "id": 184,
+        "value": "İSTM.ŞSC.15d.440 / 7b",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 155,
+        "value": "Bakla",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "10.0",
+    "total_value": "7.5",
+    "price_formula": "0.75",
+    "doc_year": [
+      {
+        "id": 184,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2153": {
+    "id": 2153,
+    "order": "2113.00000000000000000000",
+    "grocerist_id": "price__2153",
+    "document": [
+      {
+        "id": 184,
+        "value": "İSTM.ŞSC.15d.440 / 7b",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 22,
+        "value": "Keçiboynuzu / Harnup",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "2.0",
+    "total_value": "1.0",
+    "price_formula": "0.50",
+    "doc_year": [
+      {
+        "id": 184,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2154": {
+    "id": 2154,
+    "order": "2114.00000000000000000000",
+    "grocerist_id": "price__2154",
+    "document": [
+      {
+        "id": 184,
+        "value": "İSTM.ŞSC.15d.440 / 7b",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 14,
+        "value": "Mercimek",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "3.0",
+    "total_value": "2.0",
+    "price_formula": "0.67",
+    "doc_year": [
+      {
+        "id": 184,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2155": {
+    "id": 2155,
+    "order": "2115.00000000000000000000",
+    "grocerist_id": "price__2155",
+    "document": [
+      {
+        "id": 184,
+        "value": "İSTM.ŞSC.15d.440 / 7b",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 226,
+        "value": "Arak",
+        "order": "220.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "115.0",
+    "total_value": "230.0",
+    "price_formula": "2.00",
+    "doc_year": [
+      {
+        "id": 184,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2156": {
+    "id": 2156,
+    "order": "2116.00000000000000000000",
+    "grocerist_id": "price__2156",
+    "document": [
+      {
+        "id": 184,
+        "value": "İSTM.ŞSC.15d.440 / 7b",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 28,
+        "value": "Sirke",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "64.0",
+    "total_value": "32.0",
+    "price_formula": "0.50",
+    "doc_year": [
+      {
+        "id": 184,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2157": {
+    "id": 2157,
+    "order": "2117.00000000000000000000",
+    "grocerist_id": "price__2157",
+    "document": [
+      {
+        "id": 184,
+        "value": "İSTM.ŞSC.15d.440 / 7b",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 227,
+        "value": "Ham sirke",
+        "order": "221.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "480.0",
+    "total_value": "300.0",
+    "price_formula": "0.63",
+    "doc_year": [
+      {
+        "id": 184,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2158": {
+    "id": 2158,
+    "order": "2118.00000000000000000000",
+    "grocerist_id": "price__2158",
+    "document": [
+      {
+        "id": 184,
+        "value": "İSTM.ŞSC.15d.440 / 7b",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 408,
+        "value": "Tavuk",
+        "order": "398.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 18129,
+      "value": "adet",
+      "color": "dark-gray"
+    },
+    "currency": null,
+    "amount_of_units": "10.0",
+    "total_value": "40.0",
+    "price_formula": "4.00",
+    "doc_year": [
+      {
+        "id": 184,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2159": {
+    "id": 2159,
+    "order": "2119.00000000000000000000",
+    "grocerist_id": "price__2159",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 461,
+        "value": "Şeker",
+        "order": "449.00000000000000000000"
+      }
+    ],
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "14.0",
+    "total_value": "84.0",
+    "price_formula": "6.00",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2160": {
+    "id": 2160,
+    "order": "2120.00000000000000000000",
+    "grocerist_id": "price__2160",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 239,
+        "value": "Kahve",
+        "order": "232.00000000000000000000"
+      }
+    ],
+    "price": "8.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "9.0",
+    "total_value": "76.1",
+    "price_formula": "8.46",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2161": {
+    "id": 2161,
+    "order": "2121.00000000000000000000",
+    "grocerist_id": "price__2161",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 231,
+        "value": "Revgan-ı çerviş",
+        "order": "225.00000000000000000000"
+      }
+    ],
+    "price": "9.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "12.0",
+    "total_value": "108.0",
+    "price_formula": "9.00",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2162": {
+    "id": 2162,
+    "order": "2122.00000000000000000000",
+    "grocerist_id": "price__2162",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 486,
+        "value": "Gaz",
+        "order": "472.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "25.0",
+    "total_value": "120.0",
+    "price_formula": "4.80",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2163": {
+    "id": 2163,
+    "order": "2123.00000000000000000000",
+    "grocerist_id": "price__2163",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 166,
+        "value": "Peynir",
+        "order": "163.00000000000000000000"
+      }
+    ],
+    "price": "6.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "16.0",
+    "total_value": "97.5",
+    "price_formula": "6.09",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2164": {
+    "id": 2164,
+    "order": "2124.00000000000000000000",
+    "grocerist_id": "price__2164",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 28,
+        "value": "Sirke",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "4.0",
+    "total_value": "4.0",
+    "price_formula": "1.00",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2165": {
+    "id": 2165,
+    "order": "2125.00000000000000000000",
+    "grocerist_id": "price__2165",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 15,
+        "value": "Pirinc",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "32.0",
+    "total_value": "80.0",
+    "price_formula": "2.50",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2166": {
+    "id": 2166,
+    "order": "2126.00000000000000000000",
+    "grocerist_id": "price__2166",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 21,
+        "value": "İncir",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "price": "2.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "18.0",
+    "total_value": "36.0",
+    "price_formula": "2.00",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2167": {
+    "id": 2167,
+    "order": "2127.00000000000000000000",
+    "grocerist_id": "price__2167",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 30,
+        "value": "Tuz",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "40.0",
+    "total_value": "32.0",
+    "price_formula": "0.80",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2168": {
+    "id": 2168,
+    "order": "2128.00000000000000000000",
+    "grocerist_id": "price__2168",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 101,
+        "value": "Fasulye",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "34.0",
+    "total_value": "25.3",
+    "price_formula": "0.74",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2169": {
+    "id": 2169,
+    "order": "2129.00000000000000000000",
+    "grocerist_id": "price__2169",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 345,
+        "value": "Kaşar peyniri",
+        "order": "337.00000000000000000000"
+      }
+    ],
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "2.0",
+    "total_value": "10.0",
+    "price_formula": "5.00",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2170": {
+    "id": 2170,
+    "order": "2130.00000000000000000000",
+    "grocerist_id": "price__2170",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 112,
+        "value": "Mum",
+        "order": "112.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "15.0",
+    "total_value": "139.5",
+    "price_formula": "9.30",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2171": {
+    "id": 2171,
+    "order": "2131.00000000000000000000",
+    "grocerist_id": "price__2171",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 5,
+        "value": "Revgan-ı zeyt",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "3.5",
+    "total_value": "28.0",
+    "price_formula": "8.00",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2172": {
+    "id": 2172,
+    "order": "2132.00000000000000000000",
+    "grocerist_id": "price__2172",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 108,
+        "value": "Sabun",
+        "order": "108.00000000000000000000"
+      }
+    ],
+    "price": "3.50",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "4.0",
+    "total_value": "14.0",
+    "price_formula": "3.50",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2173": {
+    "id": 2173,
+    "order": "2133.00000000000000000000",
+    "grocerist_id": "price__2173",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 34,
+        "value": "Zeytun",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "7.0",
+    "total_value": "18.1",
+    "price_formula": "2.59",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2174": {
+    "id": 2174,
+    "order": "2134.00000000000000000000",
+    "grocerist_id": "price__2174",
+    "document": [
+      {
+        "id": 187,
+        "value": "İSTM.ŞSC.15d.525 / 55b2",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 53,
+        "value": "Dakik",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "price": null,
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "99.0",
+    "total_value": "155.0",
+    "price_formula": "1.57",
+    "doc_year": [
+      {
+        "id": 187,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2176": {
+    "id": 2176,
+    "order": "2135.00000000000000000000",
+    "grocerist_id": "price__2176",
+    "document": [
+      {
+        "id": 335,
+        "value": "İSTM.ŞSC.15.d.545/ 71b-1",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 44,
+        "value": "Buğday",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "price": "5.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "160.0",
+    "total_value": "800.0",
+    "price_formula": "5.00",
+    "doc_year": [
+      {
+        "id": 335,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2177": {
+    "id": 2177,
+    "order": "2136.00000000000000000000",
+    "grocerist_id": "price__2177",
+    "document": [
+      {
+        "id": 335,
+        "value": "İSTM.ŞSC.15.d.545/ 71b-1",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 58,
+        "value": "Kuş üzümü",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "3.0",
+    "total_value": "24.0",
+    "price_formula": "8.00",
+    "doc_year": [
+      {
+        "id": 335,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2178": {
+    "id": 2178,
+    "order": "2137.00000000000000000000",
+    "grocerist_id": "price__2178",
+    "document": [
+      {
+        "id": 335,
+        "value": "İSTM.ŞSC.15.d.545/ 71b-1",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 30,
+        "value": "Tuz",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "price": "20.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "4.0",
+    "total_value": "80.0",
+    "price_formula": "20.00",
+    "doc_year": [
+      {
+        "id": 335,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2179": {
+    "id": 2179,
+    "order": "2138.00000000000000000000",
+    "grocerist_id": "price__2179",
+    "document": [
+      {
+        "id": 335,
+        "value": "İSTM.ŞSC.15.d.545/ 71b-1",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 15,
+        "value": "Pirinc",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "price": "9.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "5.5",
+    "total_value": "50.0",
+    "price_formula": "9.09",
+    "doc_year": [
+      {
+        "id": 335,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2180": {
+    "id": 2180,
+    "order": "2139.00000000000000000000",
+    "grocerist_id": "price__2180",
+    "document": [
+      {
+        "id": 335,
+        "value": "İSTM.ŞSC.15.d.545/ 71b-1",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 23,
+        "value": "Pekmez",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "price": "8.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "3.0",
+    "total_value": "24.0",
+    "price_formula": "8.00",
+    "doc_year": [
+      {
+        "id": 335,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2181": {
+    "id": 2181,
+    "order": "2140.00000000000000000000",
+    "grocerist_id": "price__2181",
+    "document": [
+      {
+        "id": 335,
+        "value": "İSTM.ŞSC.15.d.545/ 71b-1",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 28,
+        "value": "Sirke",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "price": "4.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "3.0",
+    "total_value": "12.0",
+    "price_formula": "4.00",
+    "doc_year": [
+      {
+        "id": 335,
+        "value": ""
+      }
+    ],
+    "goods_count": "1"
+  },
+  "2182": {
+    "id": 2182,
+    "order": "2141.00000000000000000000",
+    "grocerist_id": "price__2182",
+    "document": [
+      {
+        "id": 335,
+        "value": "İSTM.ŞSC.15.d.545/ 71b-1",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "good": [
+      {
+        "id": 6,
+        "value": "Revgan-ı sade",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "price": "18.00",
+    "unit": {
+      "id": 16575,
+      "value": "kıyye",
+      "color": "dark-brown"
+    },
+    "currency": null,
+    "amount_of_units": "2.0",
+    "total_value": "36.0",
+    "price_formula": "18.00",
+    "doc_year": [
+      {
+        "id": 335,
         "value": ""
       }
     ],
