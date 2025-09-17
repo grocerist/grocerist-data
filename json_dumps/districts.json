@@ -11942,7 +11942,18 @@
                 "order": "261.00000000000000000000",
                 "name": "Pavli v. Eftim",
                 "grocerist_id": "person__266",
-                "religion": [],
+                "religion": [
+                    {
+                        "id": 6682,
+                        "value": "Non muslim",
+                        "color": "gray"
+                    },
+                    {
+                        "id": 6705,
+                        "value": "Orthodox",
+                        "color": "dark-blue"
+                    }
+                ],
                 "documents": [
                     {
                         "id": 314,
